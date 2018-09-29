@@ -1,0 +1,347 @@
+[{
+"label": "El Granjeno", "lat": 20.319857, "lng": -100.143229
+},{
+"label": "Mal Paso (La Laguna)", "lat": 20.231551, "lng": -100.124783
+},{
+"label": "Cerro de los Gallos", "lat": 20.17742, "lng": -100.151841
+},{
+"label": "Mesillas", "lat": 20.129325, "lng": -100.007181
+},{
+"label": "Mesa de San Martín", "lat": 20.226031, "lng": -100.196263
+},{
+"label": "Misión La Muralla [Hotel]", "lat": 20.204419, "lng": -100.00036
+},{
+"label": "El Jaral (Santiago Mexquititlán Barrio 6to.)", "lat": 20.059642, "lng": -100.111625
+},{
+"label": "La Piní", "lat": 20.107199, "lng": -99.987485
+},{
+"label": "Barrio del Coyote (San Bartolo)", "lat": 20.173384, "lng": -100.084477
+},{
+"label": "La Noria", "lat": 20.087088, "lng": -100.137111
+},{
+"label": "El Pino", "lat": 20.278316, "lng": -100.134508
+},{
+"label": "Familia Carapia", "lat": 20.096548, "lng": -100.090238
+},{
+"label": "La Estancia", "lat": 20.096402, "lng": -100.068152
+},{
+"label": "Bordos Cuates", "lat": 20.242616, "lng": -100.108905
+},{
+"label": "El Aserrín (Ojo de Agua del Hornito)", "lat": 20.303186, "lng": -100.219172
+},{
+"label": "Chitejé de la Cruz", "lat": 20.152728, "lng": -100.154313
+},{
+"label": "El Rayo", "lat": 20.290659, "lng": -100.159677
+},{
+"label": "San José de los Encinos (Las Cabañas) [Fraccionamiento]", "lat": 20.164555, "lng": -100.133559
+},{
+"label": "Chitejé de Garabato", "lat": 20.102593, "lng": -100.188626
+},{
+"label": "Barrio San Antonio (San Bartolo)", "lat": 20.208611, "lng": -100.091111
+},{
+"label": "Cuisillo (Barrio de San Ildefonso)", "lat": 20.138057, "lng": -99.943568
+},{
+"label": "Las Américas (La Haciendita)", "lat": 20.1775, "lng": -100.140278
+},{
+"label": "Ejido Emiliano Zapata", "lat": 20.180882, "lng": -100.109624
+},{
+"label": "Colonia México", "lat": 20.217778, "lng": -100.156111
+},{
+"label": "Llano Largo Maravillas", "lat": 20.215015, "lng": -100.155071
+},{
+"label": "La Manzana", "lat": 20.104922, "lng": -100.067813
+},{
+"label": "San José Ithó", "lat": 20.164587, "lng": -100.126145
+},{
+"label": "El Cacahuate (Santiago Mexquititlán Barrio 6to.)", "lat": 20.033724, "lng": -100.0911
+},{
+"label": "El Pueblito (San Miguel Tlaxcaltepec)", "lat": 20.126313, "lng": -100.130193
+},{
+"label": "Barrio de la Ladera (San Miguel Tlaxcaltepec)", "lat": 20.114033, "lng": -100.11805
+},{
+"label": "La Isla", "lat": 20.218384, "lng": -100.173311
+},{
+"label": "El Cerrito", "lat": 20.153689, "lng": -100.093013
+},{
+"label": "Loma del Chivo", "lat": 20.118297, "lng": -100.064364
+},{
+"label": "Ninguno", "lat": 20.17142, "lng": -100.156645
+},{
+"label": "Hacienda Blanca", "lat": 20.271083, "lng": -100.102605
+},{
+"label": "El Picacho", "lat": 20.111118, "lng": -100.111886
+},{
+"label": "Familia Anaya", "lat": 20.252293, "lng": -100.119204
+},{
+"label": "Vista Real", "lat": 20.174689, "lng": -100.139591
+},{
+"label": "Vera [Granja]", "lat": 20.191111, "lng": -100.141389
+},{
+"label": "San Miguel Tlaxcaltepec (Barrio Centro)", "lat": 20.113542, "lng": -100.124314
+},{
+"label": "Barrio de Santa Teresa (Santiago Mexquititlán Barrio 6to.)", "lat": 20.06595, "lng": -100.113677
+},{
+"label": "Familia Rojas Narváez (Rancho Miranda)", "lat": 20.179314, "lng": -100.144232
+},{
+"label": "Bosques del Renacimiento", "lat": 20.144466, "lng": -100.117276
+},{
+"label": "Barrio Ojo de Agua (San Miguel Tlaxcaltepec)", "lat": 20.122632, "lng": -100.115584
+},{
+"label": "Rancho el Durazno (San Bartolo)", "lat": 20.177169, "lng": -100.100902
+},{
+"label": "Las Lajas", "lat": 20.076667, "lng": -100.073889
+},{
+"label": "Barrio Presa del Tecolote (El Lindero)", "lat": 20.087564, "lng": -100.125813
+},{
+"label": "La Esperanza (Santiago Mexquititlán Barrio 6to.)", "lat": 20.067817, "lng": -100.098761
+},{
+"label": "Rancho el Siete (La Palizada)", "lat": 20.223468, "lng": -100.099091
+},{
+"label": "Santiago Mexquititlán Barrio 5to. (El Pastoreo)", "lat": 20.076558, "lng": -100.037106
+},{
+"label": "San Juan Dehedó", "lat": 20.184701, "lng": -100.167789
+},{
+"label": "San Nicolás de la Torre", "lat": 20.077394, "lng": -100.101223
+},{
+"label": "Los Arenales (San Juan Dehedó)", "lat": 20.137334, "lng": -100.200256
+},{
+"label": "Santa Clara", "lat": 20.14519, "lng": -100.03766
+},{
+"label": "Rancho los Tres Luises (Chitejé de la Cruz)", "lat": 20.165435, "lng": -100.153245
+},{
+"label": "Tierra Negra", "lat": 20.064167, "lng": -100.143889
+},{
+"label": "Loma Linda", "lat": 20.082009, "lng": -100.066639
+},{
+"label": "San Antonio la Labor", "lat": 20.31019, "lng": -100.098444
+},{
+"label": "Tesquedó (Puerto del Chivato)", "lat": 20.115493, "lng": -99.943638
+},{
+"label": "Barrio la Joya", "lat": 20.16497, "lng": -100.175817
+},{
+"label": "Barrio la Paloma (San Bartolo)", "lat": 20.169444, "lng": -100.068056
+},{
+"label": "Loma de los Julianes", "lat": 20.113777, "lng": -99.954292
+},{
+"label": "Las Salvas", "lat": 20.100374, "lng": -100.172856
+},{
+"label": "San Carlos", "lat": 20.096371, "lng": -100.052324
+},{
+"label": "Donicá", "lat": 20.042674, "lng": -100.07207
+},{
+"label": "Loma de las Víboras (Santiago Mexquititlán Barrio 6to.)", "lat": 20.061314, "lng": -100.096322
+},{
+"label": "Rancho el Sol (Chitejé de la Cruz)", "lat": 20.162633, "lng": -100.152422
+},{
+"label": "Los Arcos", "lat": 20.078411, "lng": -100.125943
+},{
+"label": "San Pedro Tenango", "lat": 20.137094, "lng": -100.0891
+},{
+"label": "La Atarjea", "lat": 20.108301, "lng": -100.05942
+},{
+"label": "San Antonio", "lat": 20.107215, "lng": -100.042425
+},{
+"label": "San Miguel Dehetí", "lat": 20.214625, "lng": -100.115707
+},{
+"label": "Loma de las Liebres (Los Árboles)", "lat": 20.046514, "lng": -100.128846
+},{
+"label": "Amealco de Bonfil", "lat": 20.186444, "lng": -100.144195
+},{
+"label": "Los Reyes", "lat": 20.27235, "lng": -100.093669
+},{
+"label": "La Loma del Rosario", "lat": 20.111169, "lng": -100.032822
+},{
+"label": "La Perita [Fraccionamiento]", "lat": 20.182867, "lng": -100.156994
+},{
+"label": "Cerro del Gallo", "lat": 20.119722, "lng": -100.175556
+},{
+"label": "La Cofradía", "lat": 20.226863, "lng": -100.136915
+},{
+"label": "La Concepción (La Concha)", "lat": 20.066149, "lng": -100.138117
+},{
+"label": "Galindillo", "lat": 20.281308, "lng": -100.110842
+},{
+"label": "La Perita el Sillar", "lat": 20.185699, "lng": -100.160439
+},{
+"label": "Rancho los Álvarez", "lat": 20.197341, "lng": -100.149141
+},{
+"label": "Jacal de la Piedad", "lat": 20.098162, "lng": -100.031256
+},{
+"label": "La Mesa", "lat": 20.314719, "lng": -100.126197
+},{
+"label": "Las Grullas", "lat": 20.064536, "lng": -100.147225
+},{
+"label": "El Río (Santiago Mexquititlán Barrio 6to.)", "lat": 20.031556, "lng": -100.10649
+},{
+"label": "Barrio de San José (San Bartolo)", "lat": 20.196899, "lng": -100.025484
+},{
+"label": "Xajay", "lat": 20.121269, "lng": -99.9579
+},{
+"label": "Nuevo Amanecer", "lat": 20.185891, "lng": -100.119412
+},{
+"label": "El Rincón", "lat": 20.26192, "lng": -100.206939
+},{
+"label": "Rancho sin Fortuna", "lat": 20.202756, "lng": -100.151734
+},{
+"label": "La Beata", "lat": 20.313415, "lng": -100.236429
+},{
+"label": "Tenasdá (Barrio de San Ildefonso)", "lat": 20.114191, "lng": -99.967582
+},{
+"label": "Rinconada de Bonfil [Fraccionamiento]", "lat": 20.175764, "lng": -100.137227
+},{
+"label": "El Lindero", "lat": 20.102382, "lng": -100.132847
+},{
+"label": "Rancho el Capiro", "lat": 20.112424, "lng": -100.139144
+},{
+"label": "Santiago Mexquititlán Barrio 4to.", "lat": 20.056186, "lng": -100.069485
+},{
+"label": "Desviación a la Manzana", "lat": 20.108583, "lng": -100.091445
+},{
+"label": "El Bothé", "lat": 20.163197, "lng": -100.003076
+},{
+"label": "El Varal", "lat": 20.112716, "lng": -100.187863
+},{
+"label": "El Juvilete", "lat": 20.239051, "lng": -100.072865
+},{
+"label": "Rancho Monte Mercedes", "lat": 20.203723, "lng": -100.165416
+},{
+"label": "El Salvador", "lat": 20.298806, "lng": -100.229909
+},{
+"label": "Barrio de la Cruz (San Miguel Tlaxcaltepec)", "lat": 20.106497, "lng": -100.122241
+},{
+"label": "Laguna de Servín", "lat": 20.271466, "lng": -100.269949
+},{
+"label": "Tierras Negras (Santiago Mexquititlán Barrio 6to.)", "lat": 20.055393, "lng": -100.108602
+},{
+"label": "El Apartadero", "lat": 20.155141, "lng": -100.068369
+},{
+"label": "La Alameda del Rincón", "lat": 20.287967, "lng": -100.216606
+},{
+"label": "Llano Largo", "lat": 20.222545, "lng": -100.157838
+},{
+"label": "La Loma del Apartadero", "lat": 20.144726, "lng": -100.066644
+},{
+"label": "Veinte de Noviembre", "lat": 20.154732, "lng": -100.014772
+},{
+"label": "Rancho la Guadalupana", "lat": 20.199249, "lng": -100.151015
+},{
+"label": "La Purísima", "lat": 20.038455, "lng": -100.090641
+},{
+"label": "El Carmen (Santiago Mexquititlán Barrio 6to.)", "lat": 20.054331, "lng": -100.099198
+},{
+"label": "San Felipe (Santiago Mexquititlán Barrio 6to.)", "lat": 20.041573, "lng": -100.100481
+},{
+"label": "San Mateo (Palos Altos)", "lat": 20.321893, "lng": -100.15676
+},{
+"label": "Santiago Mexquititlán Barrio 3ro.", "lat": 20.061653, "lng": -100.047149
+},{
+"label": "El Capulín", "lat": 20.160692, "lng": -100.178366
+},{
+"label": "San Ildefonso Tultepec (Centro)", "lat": 20.144393, "lng": -99.956933
+},{
+"label": "Loma de los Blases", "lat": 20.145807, "lng": -99.94754
+},{
+"label": "El Rincón de Agua Buena (San Miguel Tlaxcaltepec)", "lat": 20.134247, "lng": -100.124074
+},{
+"label": "Barrio de la Isla (Santiago Mexquititlán Barrio 6to.)", "lat": 20.049414, "lng": -100.111941
+},{
+"label": "La Venta (Santiago Mexquititlán Barrio 6to.)", "lat": 20.041266, "lng": -100.113543
+},{
+"label": "Rancho Casa Blanca", "lat": 20.261418, "lng": -100.157677
+},{
+"label": "Rancho General Manuel Soberanes", "lat": 20.219418, "lng": -100.101004
+},{
+"label": "La Cañada del Varal", "lat": 20.125878, "lng": -100.194126
+},{
+"label": "Santiago Mexquititlán Barrio 2do.", "lat": 20.040341, "lng": -100.050544
+},{
+"label": "Barrio del Barco (San Miguel Tlaxcaltepec)", "lat": 20.121934, "lng": -100.129783
+},{
+"label": "Buenos Aires (El Apartadero)", "lat": 20.1525, "lng": -100.053333
+},{
+"label": "La Muralla", "lat": 20.203056, "lng": -100.005
+},{
+"label": "Los Argueta", "lat": 20.170303, "lng": -100.138129
+},{
+"label": "El Tepozán (Barrio de San Ildefonso)", "lat": 20.186657, "lng": -99.995848
+},{
+"label": "Rancho los Altares", "lat": 20.196944, "lng": -100.16
+},{
+"label": "El Pinar", "lat": 20.180121, "lng": -100.160075
+},{
+"label": "San Pablo", "lat": 20.088056, "lng": -99.9775
+},{
+"label": "Rancho la Mora", "lat": 20.203249, "lng": -100.154925
+},{
+"label": "Callejón Bosdá", "lat": 20.186677, "lng": -100.13743
+},{
+"label": "Ejido el Rincón (La Botija)", "lat": 20.234167, "lng": -100.215278
+},{
+"label": "El Baño", "lat": 20.275746, "lng": -100.183031
+},{
+"label": "San Bartolomé del Pino (San Bartolo)", "lat": 20.182921, "lng": -100.072846
+},{
+"label": "San Martín", "lat": 20.245728, "lng": -100.178667
+},{
+"label": "La Ladera", "lat": 20.132538, "lng": -100.06571
+},{
+"label": "La Cruz (San Bartolo)", "lat": 20.201379, "lng": -100.078531
+},{
+"label": "Rincón de la Florida", "lat": 20.163056, "lng": -100.141111
+},{
+"label": "Amárcigo (San Luis)", "lat": 20.064489, "lng": -100.125514
+},{
+"label": "Rancho San Antonio", "lat": 20.187816, "lng": -100.156653
+},{
+"label": "Rinconada la Perita [Fraccionamiento]", "lat": 20.180925, "lng": -100.157631
+},{
+"label": "El Saucito", "lat": 20.201733, "lng": -99.99544
+},{
+"label": "El Plan (San José Ithó)", "lat": 20.182235, "lng": -100.127687
+},{
+"label": "Barrio la Esperanza (San Bartolo)", "lat": 20.194722, "lng": -100.061667
+},{
+"label": "Los Árboles", "lat": 20.052619, "lng": -100.126408
+},{
+"label": "Rancho el Fresno", "lat": 20.205641, "lng": -100.153982
+},{
+"label": "Rancho San Andrés", "lat": 20.163124, "lng": -100.148024
+},{
+"label": "Quiotillos", "lat": 20.300171, "lng": -100.148054
+},{
+"label": "El Saucito Sección la Muralla", "lat": 20.198355, "lng": -100.003827
+},{
+"label": "La Cruz del Apartadero (La Garita)", "lat": 20.157564, "lng": -100.046373
+},{
+"label": "CDI Amealco", "lat": 20.183898, "lng": -100.133794
+},{
+"label": "Quinta la Paz", "lat": 20.164611, "lng": -100.154914
+},{
+"label": "El Rincón de San Ildefonso", "lat": 20.173112, "lng": -99.962969
+},{
+"label": "Yosphí", "lat": 20.170694, "lng": -99.952367
+},{
+"label": "El Colorín", "lat": 20.110278, "lng": -100.050278
+},{
+"label": "Arroyo Hondo", "lat": 20.202904, "lng": -100.171173
+},{
+"label": "Santiago Mexquititlán Barrio 1ro.", "lat": 20.050278, "lng": -100.065833
+},{
+"label": "El Coyote", "lat": 20.115055, "lng": -100.090274
+},{
+"label": "El Atorón", "lat": 20.183704, "lng": -100.03294
+},{
+"label": "El Batán", "lat": 20.30558, "lng": -100.18807
+},{
+"label": "La Soledad", "lat": 20.168994, "lng": -100.191087
+},{
+"label": "Palos Altos", "lat": 20.317814, "lng": -100.193453
+},{
+"label": "Guadalupe el Terrero", "lat": 20.119238, "lng": -100.147622
+},{
+"label": "Ejido de San Juan Dehedó", "lat": 20.15359, "lng": -100.208031
+},{
+"label": "Rancho el Durazno (San Miguel Dehetí)", "lat": 20.202624, "lng": -100.143035
+},{
+"label": "Agua Blanca", "lat": 20.19044, "lng": -100.108741
+}]

@@ -1,0 +1,185 @@
+[{
+"label": "Tres Cruces Ilamacingo", "lat": 18.032452, "lng": -98.18909
+},{
+"label": "La Pastora", "lat": 18.199646, "lng": -98.086879
+},{
+"label": "Amatitlán de Azueta", "lat": 18.174977, "lng": -98.077476
+},{
+"label": "San Gabriel Segunda Sección", "lat": 18.221037, "lng": -98.055852
+},{
+"label": "Acatlán de Osorio", "lat": 18.202301, "lng": -98.048606
+},{
+"label": "Amate Redondo", "lat": 17.927442, "lng": -98.210813
+},{
+"label": "Axuxtla", "lat": 18.002683, "lng": -98.237064
+},{
+"label": "Ilamacingo", "lat": 18.007427, "lng": -98.241434
+},{
+"label": "Los Naranjos", "lat": 18.223222, "lng": -98.154648
+},{
+"label": "El Epazote", "lat": 18.310278, "lng": -98.138333
+},{
+"label": "El Mirador", "lat": 18.166957, "lng": -98.036419
+},{
+"label": "La Huerta", "lat": 18.256808, "lng": -98.012646
+},{
+"label": "La Noria Vieja", "lat": 18.300833, "lng": -97.983611
+},{
+"label": "Mono Prieto", "lat": 17.911506, "lng": -98.20574
+},{
+"label": "San Miguel San Bernardo", "lat": 18.179937, "lng": -98.155666
+},{
+"label": "La Cuesta de la Carroza", "lat": 18.306111, "lng": -98.096111
+},{
+"label": "San Miguel Amatitlanes", "lat": 17.950881, "lng": -98.203415
+},{
+"label": "El Apartadero", "lat": 18.309722, "lng": -98.115833
+},{
+"label": "San Isidro", "lat": 18.25223, "lng": -98.054771
+},{
+"label": "Hermenegildo Galeana", "lat": 18.256381, "lng": -98.101021
+},{
+"label": "Cerro Gordo", "lat": 18.303611, "lng": -98.134722
+},{
+"label": "San Cristóbal", "lat": 18.201432, "lng": -98.028769
+},{
+"label": "Barrio Santiago Ilamacingo", "lat": 18.016705, "lng": -98.24159
+},{
+"label": "El Tehuixtle", "lat": 18.24708, "lng": -98.064449
+},{
+"label": "Cañada Palo Amarrado", "lat": 18.215522, "lng": -98.088739
+},{
+"label": "Sección Cañada Sandía", "lat": 18.13569, "lng": -98.002963
+},{
+"label": "La Normal", "lat": 18.218606, "lng": -98.044731
+},{
+"label": "Los Parajes", "lat": 17.892097, "lng": -98.212474
+},{
+"label": "Tianguistengo", "lat": 18.254554, "lng": -98.016393
+},{
+"label": "Tempexquixtle Amarillo", "lat": 18.315255, "lng": -98.103486
+},{
+"label": "Pozos Cuates", "lat": 17.935273, "lng": -98.216924
+},{
+"label": "La Sandía", "lat": 18.206394, "lng": -98.149071
+},{
+"label": "San Vicente Boquerón", "lat": 18.27958, "lng": -98.055826
+},{
+"label": "Tecomate", "lat": 18.150189, "lng": -98.040921
+},{
+"label": "El Cantor", "lat": 18.150031, "lng": -98.022951
+},{
+"label": "La Trinidad (Los Hobos)", "lat": 18.220526, "lng": -98.025371
+},{
+"label": "El Guayabal", "lat": 18.310879, "lng": -98.058184
+},{
+"label": "Independencia", "lat": 18.214358, "lng": -98.054969
+},{
+"label": "La Libertad", "lat": 18.174827, "lng": -98.037618
+},{
+"label": "San Bernardo", "lat": 18.213945, "lng": -98.103483
+},{
+"label": "El Zopilote", "lat": 18.279419, "lng": -98.093973
+},{
+"label": "Agua Escondida", "lat": 18.322778, "lng": -98.025556
+},{
+"label": "La Palma", "lat": 18.188807, "lng": -98.054444
+},{
+"label": "San Isidro Ilamacingo", "lat": 17.995904, "lng": -98.283334
+},{
+"label": "Peña Colorada", "lat": 18.028014, "lng": -98.292333
+},{
+"label": "La Noria Chica", "lat": 18.195611, "lng": -98.150435
+},{
+"label": "Piedra Blanca", "lat": 18.101644, "lng": -98.035104
+},{
+"label": "Santa Ana Tempexquixtle (Los Márquez)", "lat": 18.013952, "lng": -98.193049
+},{
+"label": "Piedra Parada", "lat": 17.880833, "lng": -98.2375
+},{
+"label": "Cañada Camino Blanco", "lat": 18.206445, "lng": -98.078342
+},{
+"label": "El Campo del Tecolote", "lat": 18.169651, "lng": -98.06692
+},{
+"label": "San Rafaelito", "lat": 18.163321, "lng": -98.080663
+},{
+"label": "Los Cuartos", "lat": 18.226561, "lng": -98.134629
+},{
+"label": "La Axuchilera", "lat": 18.163695, "lng": -98.031512
+},{
+"label": "Puente la Axuchilera", "lat": 18.1828, "lng": -98.03885
+},{
+"label": "Cruz de Horqueta", "lat": 18.296667, "lng": -98.098889
+},{
+"label": "Monte Negro", "lat": 18.278056, "lng": -98.153611
+},{
+"label": "Las Salinas", "lat": 17.940084, "lng": -98.221386
+},{
+"label": "Pozo el Huizache", "lat": 18.211271, "lng": -98.136488
+},{
+"label": "Nuevos Horizontes", "lat": 18.230968, "lng": -98.139096
+},{
+"label": "Barrio de Guadalupe", "lat": 18.17317, "lng": -98.083162
+},{
+"label": "El Chaparro", "lat": 18.13069, "lng": -98.029035
+},{
+"label": "San Francisco Rancho Nuevo", "lat": 18.2596, "lng": -98.062142
+},{
+"label": "Colonia Allende", "lat": 18.121195, "lng": -98.00974
+},{
+"label": "Palo Blanco", "lat": 17.902778, "lng": -98.250278
+},{
+"label": "Zimatlán Buena Vista", "lat": 17.937945, "lng": -98.213693
+},{
+"label": "El Cuajilote", "lat": 18.09212, "lng": -98.036584
+},{
+"label": "Copalito", "lat": 18.182474, "lng": -98.036464
+},{
+"label": "Tetelcingo", "lat": 18.239729, "lng": -98.026758
+},{
+"label": "Tres Cruces", "lat": 18.222637, "lng": -98.038435
+},{
+"label": "Cuajilotito", "lat": 18.161888, "lng": -98.073651
+},{
+"label": "San Antonio", "lat": 18.167406, "lng": -98.076105
+},{
+"label": "San Gabriel", "lat": 18.313056, "lng": -97.959167
+},{
+"label": "El Platanar", "lat": 17.98096, "lng": -98.285093
+},{
+"label": "Tapatotola", "lat": 18.32, "lng": -98.090833
+},{
+"label": "El Garambuyo", "lat": 18.313863, "lng": -98.11439
+},{
+"label": "Las Nieves", "lat": 18.186373, "lng": -98.047431
+},{
+"label": "La Loma Chiltepec", "lat": 18.006393, "lng": -98.209488
+},{
+"label": "Los Ávila", "lat": 18.225099, "lng": -98.087627
+},{
+"label": "El Maguey", "lat": 18.24278, "lng": -98.102473
+},{
+"label": "3 de Mayo", "lat": 18.224462, "lng": -98.125614
+},{
+"label": "Garzones (Santa Gertrudis)", "lat": 18.274816, "lng": -98.029933
+},{
+"label": "De Lima (La Matanza)", "lat": 18.18448, "lng": -98.130521
+},{
+"label": "El Guayabito", "lat": 18.225896, "lng": -98.137339
+},{
+"label": "Juan R. Rojas (Los Cocos)", "lat": 17.982513, "lng": -98.276912
+},{
+"label": "El Agua Escondida", "lat": 18.258695, "lng": -98.153781
+},{
+"label": "La Mesa de la Víbora", "lat": 18.271667, "lng": -98.123611
+},{
+"label": "Las Tinajas Ilamacingo", "lat": 18.008891, "lng": -98.187242
+},{
+"label": "Las Adelfas", "lat": 18.174528, "lng": -98.06422
+},{
+"label": "Rancho Nuevo", "lat": 17.943685, "lng": -98.230548
+},{
+"label": "Santa Anita", "lat": 18.231418, "lng": -98.037937
+},{
+"label": "Los Chochos (Tepetlapanca)", "lat": 17.914687, "lng": -98.228815
+}]

@@ -1,0 +1,135 @@
+[{
+"label": "Galeana", "lat": 30.131957073529406, "lng": -107.63292941176468,"info": "total: 68","children": "data/mexico/chihuahua/galeana.json"
+},{
+"label": "López", "lat": 26.98556249586777, "lng": -105.04672651239667,"info": "total: 121","children": "data/mexico/chihuahua/lopez.json"
+},{
+"label": "Santa Bárbara", "lat": 26.82327646590909, "lng": -105.77588771590908,"info": "total: 88","children": "data/mexico/chihuahua/santa-barbara.json"
+},{
+"label": "Temósachic", "lat": 28.687377167910444, "lng": -108.1278942798507,"info": "total: 268","children": "data/mexico/chihuahua/temosachic.json"
+},{
+"label": "Ignacio Zaragoza", "lat": 29.67373126506025, "lng": -107.73427733734937,"info": "total: 83","children": "data/mexico/chihuahua/ignacio-zaragoza.json"
+},{
+"label": "Meoqui", "lat": 28.339203269537474, "lng": -105.52335014832532,"info": "total: 627","children": "data/mexico/chihuahua/meoqui.json"
+},{
+"label": "Matamoros", "lat": 26.75722941666667, "lng": -105.57808508333333,"info": "total: 108","children": "data/mexico/chihuahua/matamoros.json"
+},{
+"label": "Allende", "lat": 27.05716766459627, "lng": -105.29891506832297,"info": "total: 161","children": "data/mexico/chihuahua/allende.json"
+},{
+"label": "Gran Morelos", "lat": 28.30810772549019, "lng": -106.57625435294118,"info": "total: 51","children": "data/mexico/chihuahua/gran-morelos.json"
+},{
+"label": "Juárez", "lat": 31.48841833644861, "lng": -106.51766211682242,"info": "total: 214","children": "data/mexico/chihuahua/juarez.json"
+},{
+"label": "Ahumada", "lat": 30.481822596452346, "lng": -106.48312704656323,"info": "total: 451","children": "data/mexico/chihuahua/ahumada.json"
+},{
+"label": "Aquiles Serdán", "lat": 28.58504010204081, "lng": -105.8814997755102,"info": "total: 49","children": "data/mexico/chihuahua/aquiles-serdan.json"
+},{
+"label": "Delicias", "lat": 28.167929965517278, "lng": -105.44960054158209,"info": "total: 493","children": "data/mexico/chihuahua/delicias.json"
+},{
+"label": "Aldama", "lat": 28.93999135792353, "lng": -105.72343675956282,"info": "total: 366","children": "data/mexico/chihuahua/aldama.json"
+},{
+"label": "Cusihuiriachi", "lat": 28.233878341935487, "lng": -106.93328277419353,"info": "total: 155","children": "data/mexico/chihuahua/cusihuiriachi.json"
+},{
+"label": "Huejotitán", "lat": 27.02752245098039, "lng": -106.10523498039215,"info": "total: 51","children": "data/mexico/chihuahua/huejotitan.json"
+},{
+"label": "San Francisco de Conchos", "lat": 27.578230193877545, "lng": -105.37731301020406,"info": "total: 98","children": "data/mexico/chihuahua/san-francisco-de-conchos.json"
+},{
+"label": "Cuauhtémoc", "lat": 28.573134226753673, "lng": -106.90178685481247,"info": "total: 613","children": "data/mexico/chihuahua/cuauhtemoc.json"
+},{
+"label": "Batopilas de Manuel Gómez Morín", "lat": 26.95366116406249, "lng": -107.71721847460938,"info": "total: 512","children": "data/mexico/chihuahua/batopilas-de-manuel-gomez-morin.json"
+},{
+"label": "San Francisco de Borja", "lat": 27.895266708860763, "lng": -106.72529915189877,"info": "total: 79","children": "data/mexico/chihuahua/san-francisco-de-borja.json"
+},{
+"label": "Morelos", "lat": 26.59794195767193, "lng": -107.71477237566144,"info": "total: 378","children": "data/mexico/chihuahua/morelos.json"
+},{
+"label": "Gómez Farías", "lat": 29.345050513513513, "lng": -107.70971751351355,"info": "total: 37","children": "data/mexico/chihuahua/gomez-farias.json"
+},{
+"label": "Buenaventura", "lat": 30.03207036559141, "lng": -107.17540486021512,"info": "total: 186","children": "data/mexico/chihuahua/buenaventura.json"
+},{
+"label": "Jiménez", "lat": 27.134604730478564, "lng": -104.73658861712843,"info": "total: 397","children": "data/mexico/chihuahua/jimenez.json"
+},{
+"label": "Valle de Zaragoza", "lat": 27.49102244295301, "lng": -105.84525598657721,"info": "total: 149","children": "data/mexico/chihuahua/valle-de-zaragoza.json"
+},{
+"label": "Matachí", "lat": 28.822001734374993, "lng": -107.72059109374997,"info": "total: 64","children": "data/mexico/chihuahua/matachi.json"
+},{
+"label": "Praxedis G. Guerrero", "lat": 31.30543048979592, "lng": -105.9564133877551,"info": "total: 49","children": "data/mexico/chihuahua/praxedis-g-guerrero.json"
+},{
+"label": "Bachíniva", "lat": 28.846246673684206, "lng": -107.28217475789474,"info": "total: 95","children": "data/mexico/chihuahua/bachiniva.json"
+},{
+"label": "Maguarichi", "lat": 27.815821300000007, "lng": -107.96606231999999,"info": "total: 150","children": "data/mexico/chihuahua/maguarichi.json"
+},{
+"label": "Manuel Benavides", "lat": 28.948481579881683, "lng": -103.92789346153846,"info": "total: 169","children": "data/mexico/chihuahua/manuel-benavides.json"
+},{
+"label": "Guadalupe", "lat": 31.066288339743586, "lng": -105.80227292307688,"info": "total: 156","children": "data/mexico/chihuahua/guadalupe.json"
+},{
+"label": "Dr. Belisario Domínguez", "lat": 27.984856525000005, "lng": -106.45278237500001,"info": "total: 40","children": "data/mexico/chihuahua/dr-belisario-dominguez.json"
+},{
+"label": "Ascensión", "lat": 31.274825946524054, "lng": -107.73329917112301,"info": "total: 374","children": "data/mexico/chihuahua/ascension.json"
+},{
+"label": "Balleza", "lat": 26.728335204040395, "lng": -106.5305535656565,"info": "total: 495","children": "data/mexico/chihuahua/balleza.json"
+},{
+"label": "San Francisco del Oro", "lat": 26.89718841111111, "lng": -105.90289146666667,"info": "total: 90","children": "data/mexico/chihuahua/san-francisco-del-oro.json"
+},{
+"label": "Madera", "lat": 29.264095251521265, "lng": -108.36644947464484,"info": "total: 493","children": "data/mexico/chihuahua/madera.json"
+},{
+"label": "Guadalupe y Calvo", "lat": 26.1697334573863, "lng": -107.03980641193193,"info": "total: 1056","children": "data/mexico/chihuahua/guadalupe-y-calvo.json"
+},{
+"label": "El Tule", "lat": 27.074078638888892, "lng": -106.31788586111111,"info": "total: 36","children": "data/mexico/chihuahua/el-tule.json"
+},{
+"label": "Guazapares", "lat": 27.43721014683545, "lng": -108.23349507848107,"info": "total: 395","children": "data/mexico/chihuahua/guazapares.json"
+},{
+"label": "Casas Grandes", "lat": 30.31314557964604, "lng": -108.08508591592926,"info": "total: 226","children": "data/mexico/chihuahua/casas-grandes.json"
+},{
+"label": "Santa Isabel", "lat": 28.344871549019608, "lng": -106.3421831372549,"info": "total: 51","children": "data/mexico/chihuahua/santa-isabel.json"
+},{
+"label": "Janos", "lat": 30.80253418656718, "lng": -108.42390952611944,"info": "total: 268","children": "data/mexico/chihuahua/janos.json"
+},{
+"label": "Coronado", "lat": 26.68374951724137, "lng": -105.126838183908,"info": "total: 87","children": "data/mexico/chihuahua/coronado.json"
+},{
+"label": "La Cruz", "lat": 27.88321404545454, "lng": -105.1364998939394,"info": "total: 66","children": "data/mexico/chihuahua/la-cruz.json"
+},{
+"label": "Chínipas", "lat": 27.468012351931346, "lng": -108.49922402145921,"info": "total: 233","children": "data/mexico/chihuahua/chinipas.json"
+},{
+"label": "Bocoyna", "lat": 27.788949509652518, "lng": -107.61244533783787,"info": "total: 518","children": "data/mexico/chihuahua/bocoyna.json"
+},{
+"label": "Riva Palacio", "lat": 28.817075409395965, "lng": -106.64869424161073,"info": "total: 149","children": "data/mexico/chihuahua/riva-palacio.json"
+},{
+"label": "Uruachi", "lat": 27.849702838068197, "lng": -108.36488849715924,"info": "total: 352","children": "data/mexico/chihuahua/uruachi.json"
+},{
+"label": "Julimes", "lat": 28.490515826446284, "lng": -105.22980366115704,"info": "total: 121","children": "data/mexico/chihuahua/julimes.json"
+},{
+"label": "Rosales", "lat": 28.291066087378617, "lng": -105.58213591504851,"info": "total: 412","children": "data/mexico/chihuahua/rosales.json"
+},{
+"label": "Coyame del Sotol", "lat": 29.70328372857142, "lng": -105.13636110476199,"info": "total: 210","children": "data/mexico/chihuahua/coyame-del-sotol.json"
+},{
+"label": "Hidalgo del Parral", "lat": 27.07337319021739, "lng": -105.70457201086958,"info": "total: 184","children": "data/mexico/chihuahua/hidalgo-del-parral.json"
+},{
+"label": "Rosario", "lat": 27.25576429032258, "lng": -106.29854904838706,"info": "total: 62","children": "data/mexico/chihuahua/rosario.json"
+},{
+"label": "Namiquipa", "lat": 29.17742213602942, "lng": -107.28684205882352,"info": "total: 272","children": "data/mexico/chihuahua/namiquipa.json"
+},{
+"label": "Guerrero", "lat": 28.43184830527816, "lng": -107.49369827674751,"info": "total: 701","children": "data/mexico/chihuahua/guerrero.json"
+},{
+"label": "Moris", "lat": 28.131065251497002, "lng": -108.71981383832336,"info": "total: 167","children": "data/mexico/chihuahua/moris.json"
+},{
+"label": "Saucillo", "lat": 28.062944312499987, "lng": -105.31066997554352,"info": "total: 368","children": "data/mexico/chihuahua/saucillo.json"
+},{
+"label": "Carichí", "lat": 27.75367954577465, "lng": -107.07805665845076,"info": "total: 284","children": "data/mexico/chihuahua/carichi.json"
+},{
+"label": "Chihuahua", "lat": 28.83077810517527, "lng": -106.20838267946567,"info": "total: 599","children": "data/mexico/chihuahua/chihuahua.json"
+},{
+"label": "Ocampo", "lat": 28.155572331606223, "lng": -108.21406172020728,"info": "total: 193","children": "data/mexico/chihuahua/ocampo.json"
+},{
+"label": "Ojinaga", "lat": 29.302314333333324, "lng": -104.44809638461537,"info": "total: 273","children": "data/mexico/chihuahua/ojinaga.json"
+},{
+"label": "Guachochi", "lat": 27.160630771480804, "lng": -107.28934817458861,"info": "total: 1094","children": "data/mexico/chihuahua/guachochi.json"
+},{
+"label": "Satevó", "lat": 27.788164573394504, "lng": -106.2015133119266,"info": "total: 218","children": "data/mexico/chihuahua/satevo.json"
+},{
+"label": "Nuevo Casas Grandes", "lat": 30.492481890510938, "lng": -107.84628218248179,"info": "total: 137","children": "data/mexico/chihuahua/nuevo-casas-grandes.json"
+},{
+"label": "Urique", "lat": 27.27520282308524, "lng": -107.94945525566341,"info": "total: 927","children": "data/mexico/chihuahua/urique.json"
+},{
+"label": "Nonoava", "lat": 27.4404263986928, "lng": -106.73151536601303,"info": "total: 153","children": "data/mexico/chihuahua/nonoava.json"
+},{
+"label": "Camargo", "lat": 27.828790751953147, "lng": -104.78539641601554,"info": "total: 512","children": "data/mexico/chihuahua/camargo.json"
+}]

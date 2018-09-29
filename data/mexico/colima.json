@@ -1,0 +1,21 @@
+[{
+"label": "Armería", "lat": 18.96359521134021, "lng": -103.98166056185565,"info": "total: 194","children": "data/mexico/colima/armeria.json"
+},{
+"label": "Tecomán", "lat": 18.8958145470914, "lng": -103.87588184487531,"info": "total: 722","children": "data/mexico/colima/tecoman.json"
+},{
+"label": "Comala", "lat": 19.382642142450138, "lng": -103.74193570655274,"info": "total: 351","children": "data/mexico/colima/comala.json"
+},{
+"label": "Manzanillo", "lat": 19.11289217303371, "lng": -104.32403238202241,"info": "total: 445","children": "data/mexico/colima/manzanillo.json"
+},{
+"label": "Villa de Álvarez", "lat": 19.31187917131473, "lng": -103.78747086055778,"info": "total: 251","children": "data/mexico/colima/villa-de-alvarez.json"
+},{
+"label": "Cuauhtémoc", "lat": 19.32967400479617, "lng": -103.61082903836918,"info": "total: 417","children": "data/mexico/colima/cuauhtemoc.json"
+},{
+"label": "Colima", "lat": 19.176926308026022, "lng": -103.68034626681126,"info": "total: 461","children": "data/mexico/colima/colima.json"
+},{
+"label": "Ixtlahuacán", "lat": 18.97391709876544, "lng": -103.69351432098766,"info": "total: 81","children": "data/mexico/colima/ixtlahuacan.json"
+},{
+"label": "Coquimatlán", "lat": 19.198475448905107, "lng": -103.8448809270073,"info": "total: 274","children": "data/mexico/colima/coquimatlan.json"
+},{
+"label": "Minatitlán", "lat": 19.374179746376807, "lng": -104.05600828985501,"info": "total: 138","children": "data/mexico/colima/minatitlan.json"
+}]

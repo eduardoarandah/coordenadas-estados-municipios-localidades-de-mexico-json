@@ -1,0 +1,37 @@
+[{
+"label": "Concordia", "lat": 23.375776023569028, "lng": -105.99535957575755,"info": "total: 297","children": "data/mexico/sinaloa/concordia.json"
+},{
+"label": "Ahome", "lat": 25.900464652495362, "lng": -109.06799226987059,"info": "total: 541","children": "data/mexico/sinaloa/ahome.json"
+},{
+"label": "Rosario", "lat": 23.02010049373433, "lng": -105.85940938095243,"info": "total: 399","children": "data/mexico/sinaloa/rosario.json"
+},{
+"label": "Cosalá", "lat": 24.472413575163383, "lng": -106.77540482352943,"info": "total: 153","children": "data/mexico/sinaloa/cosala.json"
+},{
+"label": "Escuinapa", "lat": 22.72893823076923, "lng": -105.72925731983808,"info": "total: 247","children": "data/mexico/sinaloa/escuinapa.json"
+},{
+"label": "Elota", "lat": 24.034007337078652, "lng": -106.84624399438209,"info": "total: 178","children": "data/mexico/sinaloa/elota.json"
+},{
+"label": "El Fuerte", "lat": 26.206594585106416, "lng": -108.73611956170217,"info": "total: 470","children": "data/mexico/sinaloa/el-fuerte.json"
+},{
+"label": "Mocorito", "lat": 25.332209258575205, "lng": -107.77614464379947,"info": "total: 379","children": "data/mexico/sinaloa/mocorito.json"
+},{
+"label": "Mazatlán", "lat": 23.377544182274203, "lng": -106.34917257190628,"info": "total: 598","children": "data/mexico/sinaloa/mazatlan.json"
+},{
+"label": "Badiraguato", "lat": 25.639743622641472, "lng": -107.39878647798733,"info": "total: 477","children": "data/mexico/sinaloa/badiraguato.json"
+},{
+"label": "San Ignacio", "lat": 23.954433077562328, "lng": -106.41089450692516,"info": "total: 361","children": "data/mexico/sinaloa/san-ignacio.json"
+},{
+"label": "Angostura", "lat": 25.294880074257414, "lng": -108.12676875742567,"info": "total: 202","children": "data/mexico/sinaloa/angostura.json"
+},{
+"label": "Culiacán", "lat": 24.693588665416353, "lng": -107.3523470645161,"info": "total: 1333","children": "data/mexico/sinaloa/culiacan.json"
+},{
+"label": "Choix", "lat": 26.641297844783697, "lng": -108.2303396844784,"info": "total: 393","children": "data/mexico/sinaloa/choix.json"
+},{
+"label": "Sinaloa", "lat": 25.93500904704098, "lng": -108.09953810166921,"info": "total: 659","children": "data/mexico/sinaloa/sinaloa.json"
+},{
+"label": "Salvador Alvarado", "lat": 25.426002318749987, "lng": -108.07396423750004,"info": "total: 160","children": "data/mexico/sinaloa/salvador-alvarado.json"
+},{
+"label": "Guasave", "lat": 25.574633662121204, "lng": -108.509266019697,"info": "total: 660","children": "data/mexico/sinaloa/guasave.json"
+},{
+"label": "Navolato", "lat": 24.734270069767437, "lng": -107.69116128118385,"info": "total: 473","children": "data/mexico/sinaloa/navolato.json"
+}]

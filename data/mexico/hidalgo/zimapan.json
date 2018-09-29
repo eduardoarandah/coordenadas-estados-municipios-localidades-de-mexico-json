@@ -1,0 +1,331 @@
+[{
+"label": "La Ruda", "lat": 20.780345, "lng": -99.258467
+},{
+"label": "Xindhó Primero", "lat": 20.73265, "lng": -99.345371
+},{
+"label": "Jagüey Colorado", "lat": 20.881653, "lng": -99.276555
+},{
+"label": "La Barranca del Muhí", "lat": 20.746893, "lng": -99.361904
+},{
+"label": "Tenguedhó", "lat": 20.711271, "lng": -99.310768
+},{
+"label": "El Sauz", "lat": 20.705556, "lng": -99.497222
+},{
+"label": "Maguey Blanco", "lat": 20.7389, "lng": -99.297473
+},{
+"label": "Xindhó San Pedro", "lat": 20.746928, "lng": -99.341764
+},{
+"label": "La Cebada", "lat": 20.64061, "lng": -99.388946
+},{
+"label": "Buenavista", "lat": 20.629108, "lng": -99.367443
+},{
+"label": "Pueblo Nuevo", "lat": 20.778532, "lng": -99.302913
+},{
+"label": "San Isidro", "lat": 20.647031, "lng": -99.319899
+},{
+"label": "El Salitre", "lat": 20.714478, "lng": -99.333908
+},{
+"label": "Puerto del Efe", "lat": 20.717776, "lng": -99.421772
+},{
+"label": "Cobrecito", "lat": 20.879056, "lng": -99.238219
+},{
+"label": "Las Vegas", "lat": 20.912558, "lng": -99.410284
+},{
+"label": "San Cristóbal", "lat": 20.852222, "lng": -99.436667
+},{
+"label": "Bothiña", "lat": 20.728598, "lng": -99.475204
+},{
+"label": "La Tinaja Durango", "lat": 20.914251, "lng": -99.223819
+},{
+"label": "Llanitos", "lat": 20.807784, "lng": -99.316983
+},{
+"label": "La Milpota", "lat": 20.698829, "lng": -99.292092
+},{
+"label": "San Juan [Rancho]", "lat": 20.763602, "lng": -99.344112
+},{
+"label": "Mina San Guillermo (Lomo de Toro)", "lat": 20.788056, "lng": -99.441389
+},{
+"label": "La Manzana", "lat": 20.868407, "lng": -99.225424
+},{
+"label": "La Cruz (Ejido de la Cruz)", "lat": 20.589579, "lng": -99.354106
+},{
+"label": "Cazay", "lat": 20.721738, "lng": -99.392762
+},{
+"label": "El Saucillo", "lat": 20.642088, "lng": -99.455192
+},{
+"label": "La Mesa de Camposanto del Oro", "lat": 20.842424, "lng": -99.236709
+},{
+"label": "Mina el Espíritu", "lat": 20.846389, "lng": -99.445
+},{
+"label": "Toxhi", "lat": 20.7602, "lng": -99.28876
+},{
+"label": "Codornices", "lat": 20.847156, "lng": -99.32074
+},{
+"label": "Xhitá Segundo (San Isidro)", "lat": 20.640671, "lng": -99.325209
+},{
+"label": "Ex-Hacienda la Estancia", "lat": 20.770977, "lng": -99.324639
+},{
+"label": "Botha", "lat": 20.655484, "lng": -99.462549
+},{
+"label": "La Escondida", "lat": 20.831389, "lng": -99.260833
+},{
+"label": "Cajay", "lat": 20.792423, "lng": -99.336075
+},{
+"label": "El Palmar", "lat": 20.684444, "lng": -99.326519
+},{
+"label": "Las Adjuntas", "lat": 20.866884, "lng": -99.442944
+},{
+"label": "Los Duraznos", "lat": 20.868261, "lng": -99.236029
+},{
+"label": "Villa Nueva", "lat": 20.808484, "lng": -99.25767
+},{
+"label": "El Álamo", "lat": 20.743722, "lng": -99.409019
+},{
+"label": "Sóstenes Vega (Xithá Segundo Cedho)", "lat": 20.638807, "lng": -99.309183
+},{
+"label": "La Ventolera", "lat": 20.787623, "lng": -99.392358
+},{
+"label": "El Muhí", "lat": 20.739041, "lng": -99.35985
+},{
+"label": "El Dedhó", "lat": 20.775409, "lng": -99.423469
+},{
+"label": "Zimapán", "lat": 20.738069, "lng": -99.383113
+},{
+"label": "Yerbabuena", "lat": 20.833779, "lng": -99.347356
+},{
+"label": "Mina Carrizal (Peñoles)", "lat": 20.795015, "lng": -99.44872
+},{
+"label": "Santa Rita", "lat": 20.648554, "lng": -99.302377
+},{
+"label": "El Cuarto", "lat": 20.688093, "lng": -99.361735
+},{
+"label": "Mina Balcones", "lat": 20.792728, "lng": -99.444567
+},{
+"label": "Xodhé", "lat": 20.807973, "lng": -99.345894
+},{
+"label": "Maguey Verde", "lat": 20.840361, "lng": -99.258558
+},{
+"label": "Morelos (Trancas)", "lat": 20.79604, "lng": -99.268321
+},{
+"label": "Potreritos", "lat": 20.821043, "lng": -99.310403
+},{
+"label": "Francisco Villa (Llano Segundo)", "lat": 20.68306, "lng": -99.31584
+},{
+"label": "Puerto Xodhe", "lat": 20.798274, "lng": -99.335723
+},{
+"label": "Los Mármoles", "lat": 20.850602, "lng": -99.229144
+},{
+"label": "Boñhú", "lat": 20.670278, "lng": -99.395833
+},{
+"label": "Verdosas", "lat": 20.825566, "lng": -99.409818
+},{
+"label": "Doxthi la Sabina (La Sabina)", "lat": 20.682711, "lng": -99.380368
+},{
+"label": "El Sabino", "lat": 20.702781, "lng": -99.319436
+},{
+"label": "Cruz Pinta", "lat": 20.716262, "lng": -99.367822
+},{
+"label": "Taxthó", "lat": 20.622164, "lng": -99.381895
+},{
+"label": "El Aguacatito", "lat": 20.666165, "lng": -99.341278
+},{
+"label": "Durango", "lat": 20.895066, "lng": -99.230038
+},{
+"label": "El Rancho", "lat": 20.756667, "lng": -99.296111
+},{
+"label": "San Andrés (Toxthi)", "lat": 20.762036, "lng": -99.443596
+},{
+"label": "La Mesa", "lat": 20.674677, "lng": -99.303386
+},{
+"label": "La Casota", "lat": 20.865852, "lng": -99.210461
+},{
+"label": "Lázaro Cárdenas (Remedios)", "lat": 20.702781, "lng": -99.342749
+},{
+"label": "Llano Segundo", "lat": 20.640003, "lng": -99.43725
+},{
+"label": "Puerto la Palma (Cerrito Enmedio)", "lat": 20.7925, "lng": -99.308611
+},{
+"label": "Álvaro Obregón (Temuthe)", "lat": 20.709113, "lng": -99.375026
+},{
+"label": "Yethay", "lat": 20.686501, "lng": -99.491229
+},{
+"label": "Los Pilares", "lat": 20.734404, "lng": -99.399831
+},{
+"label": "San Francisco Texquedho", "lat": 20.579909, "lng": -99.347706
+},{
+"label": "Puerto de la Estancia", "lat": 20.777778, "lng": -99.310556
+},{
+"label": "Tzitzi", "lat": 20.670341, "lng": -99.48183
+},{
+"label": "El Rincón", "lat": 20.771559, "lng": -99.394381
+},{
+"label": "Las Pilas", "lat": 20.636111, "lng": -99.396389
+},{
+"label": "San Miguel Tetillas", "lat": 20.611213, "lng": -99.309014
+},{
+"label": "Agua Vaya", "lat": 20.807158, "lng": -99.236145
+},{
+"label": "Cuesta Blanca", "lat": 20.713408, "lng": -99.468322
+},{
+"label": "El Tathí", "lat": 20.686882, "lng": -99.406871
+},{
+"label": "La Estanzuela", "lat": 20.702489, "lng": -99.445318
+},{
+"label": "San Felipe", "lat": 20.795199, "lng": -99.436336
+},{
+"label": "Benito Juárez (Detzani)", "lat": 20.752988, "lng": -99.397335
+},{
+"label": "Tinthé", "lat": 20.671364, "lng": -99.355323
+},{
+"label": "Puerto Yerbabuena", "lat": 20.798747, "lng": -99.329802
+},{
+"label": "San Miguel", "lat": 20.72967, "lng": -99.402244
+},{
+"label": "Iglesia Vieja", "lat": 20.866849, "lng": -99.381832
+},{
+"label": "La Tinaja", "lat": 20.676944, "lng": -99.388333
+},{
+"label": "Puerto del Ángel", "lat": 20.791794, "lng": -99.408593
+},{
+"label": "Puerto Juárez", "lat": 20.646556, "lng": -99.285468
+},{
+"label": "La Calera", "lat": 20.862337, "lng": -99.24096
+},{
+"label": "Tolimán", "lat": 20.741171, "lng": -99.43627
+},{
+"label": "Tlalpan", "lat": 20.721703, "lng": -99.363306
+},{
+"label": "Xindhó Guadalupe", "lat": 20.732346, "lng": -99.328961
+},{
+"label": "Puerto Colorado", "lat": 20.790966, "lng": -99.389586
+},{
+"label": "Los Carrizos", "lat": 20.753593, "lng": -99.350723
+},{
+"label": "Puerto Zapote (La Nopalera)", "lat": 20.751879, "lng": -99.422341
+},{
+"label": "El Cerrote", "lat": 20.657509, "lng": -99.284
+},{
+"label": "Encarnación", "lat": 20.87658, "lng": -99.209093
+},{
+"label": "El Zapote", "lat": 20.679824, "lng": -99.30359
+},{
+"label": "La Venta de Coaxithi", "lat": 20.6675, "lng": -99.335556
+},{
+"label": "Cerro Colorado", "lat": 20.860881, "lng": -99.265506
+},{
+"label": "Pared Blanca", "lat": 20.786944, "lng": -99.429722
+},{
+"label": "Puertecito del Megüi", "lat": 20.613088, "lng": -99.297295
+},{
+"label": "Tzijay (Emiliano Zapata)", "lat": 20.652055, "lng": -99.394049
+},{
+"label": "Las Piletas", "lat": 20.658292, "lng": -99.433373
+},{
+"label": "Garabatos (Garabatos la Estancia)", "lat": 20.784925, "lng": -99.320358
+},{
+"label": "Megüi", "lat": 20.623631, "lng": -99.275285
+},{
+"label": "El Aguacatal", "lat": 20.688294, "lng": -99.311777
+},{
+"label": "Aguas Blancas", "lat": 20.658703, "lng": -99.414771
+},{
+"label": "Santa María", "lat": 20.739374, "lng": -99.398765
+},{
+"label": "Coaxithi", "lat": 20.678427, "lng": -99.325676
+},{
+"label": "Ejido Vicente Guerrero (Los Potreros)", "lat": 20.658966, "lng": -99.380605
+},{
+"label": "El Organal", "lat": 20.71042, "lng": -99.459776
+},{
+"label": "Xajhá", "lat": 20.715506, "lng": -99.492839
+},{
+"label": "Peña Colorada", "lat": 20.770543, "lng": -99.30942
+},{
+"label": "San Vicente", "lat": 20.734705, "lng": -99.512281
+},{
+"label": "Puetzey", "lat": 20.669011, "lng": -99.380287
+},{
+"label": "Mina el Monte", "lat": 20.816037, "lng": -99.398202
+},{
+"label": "San Antonio (Cuauhtémoc)", "lat": 20.721843, "lng": -99.431459
+},{
+"label": "Los Nogales", "lat": 20.905997, "lng": -99.224401
+},{
+"label": "Puerto Jagüey (Puerto de Guaymas)", "lat": 20.830635, "lng": -99.38804
+},{
+"label": "La Ortiga", "lat": 20.802141, "lng": -99.46094
+},{
+"label": "Xhitá Primero", "lat": 20.625115, "lng": -99.31273
+},{
+"label": "Changui", "lat": 20.675884, "lng": -99.484669
+},{
+"label": "El Carrizal", "lat": 20.721295, "lng": -99.515166
+},{
+"label": "El Dedho", "lat": 20.742828, "lng": -99.283678
+},{
+"label": "La Majada", "lat": 20.818902, "lng": -99.259158
+},{
+"label": "La Rinconada", "lat": 20.718578, "lng": -99.299772
+},{
+"label": "Venustiano Carranza (San Pedro)", "lat": 20.75293, "lng": -99.333512
+},{
+"label": "Pelillos", "lat": 20.852086, "lng": -99.250142
+},{
+"label": "El Mezquite Segundo", "lat": 20.754879, "lng": -99.458032
+},{
+"label": "Pontihú", "lat": 20.624553, "lng": -99.406319
+},{
+"label": "Barrón", "lat": 20.766019, "lng": -99.410219
+},{
+"label": "El Tule", "lat": 20.736096, "lng": -99.358312
+},{
+"label": "El Rodeo", "lat": 20.624994, "lng": -99.333223
+},{
+"label": "Ejido de la Cruz", "lat": 20.588905, "lng": -99.359944
+},{
+"label": "Puerto Montero", "lat": 20.822473, "lng": -99.368589
+},{
+"label": "La Loma", "lat": 20.659275, "lng": -99.426778
+},{
+"label": "Camposanto del Oro", "lat": 20.838201, "lng": -99.225662
+},{
+"label": "Mezquite Primero", "lat": 20.895173, "lng": -99.390888
+},{
+"label": "El Tepozán", "lat": 20.682134, "lng": -99.337843
+},{
+"label": "Pozo Hondo", "lat": 20.7216, "lng": -99.456958
+},{
+"label": "San José del Oro (San Vicente)", "lat": 20.855588, "lng": -99.23028
+},{
+"label": "Puerto de Vigas", "lat": 20.842803, "lng": -99.220778
+},{
+"label": "Xindhó Segundo (Xindhó Saucillo)", "lat": 20.671136, "lng": -99.459451
+},{
+"label": "San Francisco", "lat": 20.818926, "lng": -99.380732
+},{
+"label": "Plutarco Elías Calles (Santiago)", "lat": 20.727565, "lng": -99.37598
+},{
+"label": "Doxthí", "lat": 20.642071, "lng": -99.343545
+},{
+"label": "Cuesta Texquedhó", "lat": 20.614838, "lng": -99.332926
+},{
+"label": "Apezco", "lat": 20.814744, "lng": -99.29405
+},{
+"label": "Francisco I. Madero (Guadalupe)", "lat": 20.729285, "lng": -99.315926
+},{
+"label": "Tadhé", "lat": 20.834941, "lng": -99.405075
+},{
+"label": "Vicente Guerrero (El Tablón)", "lat": 20.613647, "lng": -99.364593
+},{
+"label": "Tierras Amarillas", "lat": 20.784981, "lng": -99.29371
+},{
+"label": "Llano Norte", "lat": 20.752029, "lng": -99.374668
+},{
+"label": "Llano Blanco", "lat": 20.711667, "lng": -99.3525
+},{
+"label": "Puerto Ingeniero Isidro Díaz", "lat": 20.807766, "lng": -99.260165
+},{
+"label": "La Majada Grande", "lat": 20.773971, "lng": -99.464999
+},{
+"label": "Mina Concordia", "lat": 20.818611, "lng": -99.402397
+}]

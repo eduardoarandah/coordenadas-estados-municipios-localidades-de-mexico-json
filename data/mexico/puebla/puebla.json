@@ -1,0 +1,285 @@
+[{
+"label": "San Antonio del Puente", "lat": 18.927227, "lng": -98.190835
+},{
+"label": "Insurgentes", "lat": 19.086149, "lng": -98.089688
+},{
+"label": "Jardines de la Montaña", "lat": 18.997819, "lng": -98.162248
+},{
+"label": "La Palmilla", "lat": 18.909905, "lng": -98.23591
+},{
+"label": "El Arco", "lat": 19.174167, "lng": -98.080278
+},{
+"label": "Santa María Tzocuilac la Cantera", "lat": 18.848965, "lng": -98.203933
+},{
+"label": "La Noria", "lat": 18.897292, "lng": -98.265539
+},{
+"label": "Toluquilla", "lat": 18.918871, "lng": -98.15078
+},{
+"label": "Santa Clara la Venta", "lat": 18.962773, "lng": -98.200548
+},{
+"label": "San Diego", "lat": 19.108665, "lng": -98.054341
+},{
+"label": "San Juan Soto", "lat": 18.926012, "lng": -98.170754
+},{
+"label": "Tepozán", "lat": 18.9276, "lng": -98.251269
+},{
+"label": "La Asunción", "lat": 18.960491, "lng": -98.177466
+},{
+"label": "Sección Décima de San Miguel Canoa", "lat": 19.161295, "lng": -98.095488
+},{
+"label": "El Capulo (La Quebradora)", "lat": 18.948323, "lng": -98.268642
+},{
+"label": "Cocoyonotly", "lat": 19.152894, "lng": -98.0864
+},{
+"label": "Cuauhtémoc", "lat": 18.930809, "lng": -98.251298
+},{
+"label": "Tezoquiapan", "lat": 19.131009, "lng": -98.053791
+},{
+"label": "Ampliación la Resurrección", "lat": 19.104862, "lng": -98.118214
+},{
+"label": "Santa Lucía", "lat": 18.949366, "lng": -98.264048
+},{
+"label": "Cerro Gordo", "lat": 18.921145, "lng": -98.244764
+},{
+"label": "Buena Vista", "lat": 18.901466, "lng": -98.240616
+},{
+"label": "Tototzinac", "lat": 19.143056, "lng": -98.039722
+},{
+"label": "Galaxia la Calera", "lat": 18.998066, "lng": -98.152309
+},{
+"label": "Las Playas", "lat": 18.926701, "lng": -98.14114
+},{
+"label": "La Ladera del Tecorral", "lat": 18.894347, "lng": -98.147466
+},{
+"label": "Santa Catarina", "lat": 18.977085, "lng": -98.162038
+},{
+"label": "Ex-Hacienda de Santa Ana", "lat": 18.988624, "lng": -98.158642
+},{
+"label": "Xaxaltepetzi (Tecuanac)", "lat": 19.127222, "lng": -98.062778
+},{
+"label": "El Oasis Valsequillo", "lat": 18.922719, "lng": -98.137148
+},{
+"label": "Lomas de Santa Catarina", "lat": 18.981405, "lng": -98.16933
+},{
+"label": "Xaxalpa (La Trinidad)", "lat": 19.179236, "lng": -98.069665
+},{
+"label": "Nueva Colonia Fuentes de Canoa", "lat": 19.146714, "lng": -98.088521
+},{
+"label": "Temazcalá", "lat": 19.11773, "lng": -98.059454
+},{
+"label": "Huexotzitzín", "lat": 19.140556, "lng": -98.0425
+},{
+"label": "Cuachila", "lat": 18.908584, "lng": -98.207499
+},{
+"label": "Quinta María Isabel", "lat": 18.919489, "lng": -98.159871
+},{
+"label": "Xacxamayo", "lat": 18.930833, "lng": -98.246172
+},{
+"label": "Los Ángeles Tetela", "lat": 18.891241, "lng": -98.168414
+},{
+"label": "San Antonio Arenillas", "lat": 18.950366, "lng": -98.177685
+},{
+"label": "Guadalupe", "lat": 18.956962, "lng": -98.15472
+},{
+"label": "La Libertad Tecola", "lat": 18.883286, "lng": -98.184511
+},{
+"label": "La Paz Tlaxcolpan", "lat": 18.901963, "lng": -98.222323
+},{
+"label": "Tecolotzi", "lat": 19.128078, "lng": -98.1243
+},{
+"label": "El Arenal", "lat": 18.988996, "lng": -98.164892
+},{
+"label": "San Miguel Canoa", "lat": 19.149923, "lng": -98.104322
+},{
+"label": "Sacramonte", "lat": 19.132188, "lng": -98.205654
+},{
+"label": "Ojocotla", "lat": 19.149212, "lng": -98.093271
+},{
+"label": "Calderón (Crucero el Oasis)", "lat": 18.948534, "lng": -98.138619
+},{
+"label": "Santa Cruz la Ixtla", "lat": 18.940401, "lng": -98.231826
+},{
+"label": "Jorge Obispo", "lat": 19.112991, "lng": -98.135711
+},{
+"label": "Tierra Colorada", "lat": 18.915728, "lng": -98.246531
+},{
+"label": "18 de Marzo", "lat": 18.969766, "lng": -98.161149
+},{
+"label": "San Baltazar Tetela", "lat": 18.907501, "lng": -98.177297
+},{
+"label": "Cañada el Zapote", "lat": 18.908678, "lng": -98.272486
+},{
+"label": "Buenos Aires", "lat": 18.912291, "lng": -98.249214
+},{
+"label": "Cañada Sabino", "lat": 18.960141, "lng": -98.144373
+},{
+"label": "Santa Cruz la Ixtla Sur", "lat": 18.932869, "lng": -98.241863
+},{
+"label": "Primero de Mayo", "lat": 19.08044, "lng": -98.097368
+},{
+"label": "Guadalupe Victoria Valsequillo", "lat": 18.922214, "lng": -98.11098
+},{
+"label": "San José Zetina", "lat": 18.919776, "lng": -98.271645
+},{
+"label": "Cuazontetla", "lat": 19.107918, "lng": -98.119609
+},{
+"label": "Apantenco", "lat": 19.13323, "lng": -98.119138
+},{
+"label": "San Juan Tlaltenco", "lat": 19.137343, "lng": -98.033531
+},{
+"label": "La Caraqueña", "lat": 18.907374, "lng": -98.267025
+},{
+"label": "Santa Catarina (Tercera Sección)", "lat": 18.974513, "lng": -98.178513
+},{
+"label": "Buenavista Tetela", "lat": 18.918996, "lng": -98.174077
+},{
+"label": "Agua Santa", "lat": 18.942646, "lng": -98.122589
+},{
+"label": "Tlapacoyan", "lat": 19.13918, "lng": -98.103376
+},{
+"label": "San Juan Tepepa", "lat": 18.973392, "lng": -98.154847
+},{
+"label": "Nanalcopa", "lat": 19.145395, "lng": -98.099556
+},{
+"label": "Santo Tomás Chautla", "lat": 18.963089, "lng": -98.154807
+},{
+"label": "Villa Santiago de los Leones", "lat": 19.117222, "lng": -98.139167
+},{
+"label": "La Resurrección", "lat": 19.102788, "lng": -98.128553
+},{
+"label": "Pochote de Tetela", "lat": 18.890034, "lng": -98.206831
+},{
+"label": "Ampliación Rivera de Aparicio Segunda Sección", "lat": 19.111706, "lng": -98.147923
+},{
+"label": "Excursionista", "lat": 19.013114, "lng": -98.136642
+},{
+"label": "San José Xacxamayo", "lat": 18.863014, "lng": -98.163381
+},{
+"label": "Las Brisas Valsequillo", "lat": 18.914471, "lng": -98.114449
+},{
+"label": "Tecuamatla", "lat": 18.917942, "lng": -98.163969
+},{
+"label": "San Isidro Tlalcostépetl", "lat": 19.133858, "lng": -98.060157
+},{
+"label": "Conjunto Campestre Haras", "lat": 19.01554, "lng": -98.126275
+},{
+"label": "San Miguel", "lat": 18.918738, "lng": -98.252168
+},{
+"label": "Jardines de Santa Clara", "lat": 18.943901, "lng": -98.272279
+},{
+"label": "Emiliano Zapata", "lat": 18.905267, "lng": -98.276392
+},{
+"label": "San Isidro Buen Suceso", "lat": 19.164521, "lng": -98.096169
+},{
+"label": "Fundadores del Ejido Colonia Chapultepec", "lat": 19.01137, "lng": -98.139918
+},{
+"label": "San José el Aguacate", "lat": 18.853959, "lng": -98.188459
+},{
+"label": "Tepitzin", "lat": 19.116086, "lng": -98.062646
+},{
+"label": "San Nicolás Coatepec", "lat": 18.88878, "lng": -98.262208
+},{
+"label": "El Tehuixtle", "lat": 18.928946, "lng": -98.258439
+},{
+"label": "Huiloac", "lat": 19.134344, "lng": -98.078305
+},{
+"label": "La Providencia", "lat": 19.106638, "lng": -98.147105
+},{
+"label": "San José Buenavista", "lat": 19.168224, "lng": -98.090108
+},{
+"label": "Heroica Puebla de Zaragoza", "lat": 19.04399, "lng": -98.197495
+},{
+"label": "Santa Lucía Altamirano", "lat": 18.960072, "lng": -98.223619
+},{
+"label": "Resurgimiento Atotonilco", "lat": 18.951799, "lng": -98.205577
+},{
+"label": "6 de Junio", "lat": 19.108611, "lng": -98.145637
+},{
+"label": "Guadalupe Tlatelpa", "lat": 18.970101, "lng": -98.175036
+},{
+"label": "Artículo Primero Constitucional", "lat": 18.974102, "lng": -98.159396
+},{
+"label": "Sección Sexta de San Miguel Canoa (Apantenco)", "lat": 19.135756, "lng": -98.115448
+},{
+"label": "Tzompancóh", "lat": 19.138548, "lng": -98.039799
+},{
+"label": "Los Cerritos", "lat": 19.094431, "lng": -98.156253
+},{
+"label": "Ampliación 2 de Marzo", "lat": 19.084282, "lng": -98.119162
+},{
+"label": "La Zorra", "lat": 18.904722, "lng": -98.1575
+},{
+"label": "San José el Rincón", "lat": 18.886019, "lng": -98.20165
+},{
+"label": "Áfricam Safari", "lat": 18.936916, "lng": -98.136097
+},{
+"label": "Villla Batabia", "lat": 18.990763, "lng": -98.169039
+},{
+"label": "Pipilatzin", "lat": 19.169443, "lng": -98.087681
+},{
+"label": "Santa María Xonacatepec", "lat": 19.087323, "lng": -98.104032
+},{
+"label": "Santa Elena", "lat": 19.08233, "lng": -98.091059
+},{
+"label": "Tepetlayoc", "lat": 19.113126, "lng": -98.060831
+},{
+"label": "San Sebastián de Aparicio", "lat": 19.101326, "lng": -98.160214
+},{
+"label": "Lorotlán", "lat": 19.158699, "lng": -98.089619
+},{
+"label": "Tlacaelel", "lat": 18.933716, "lng": -98.268931
+},{
+"label": "San Miguel Espejo", "lat": 19.09485, "lng": -98.067278
+},{
+"label": "Santa María Guadalupe Tecola", "lat": 18.905584, "lng": -98.191887
+},{
+"label": "Xaxahuen", "lat": 19.122583, "lng": -98.130558
+},{
+"label": "Canoaxtitlan", "lat": 19.16469, "lng": -98.065895
+},{
+"label": "San Marcos", "lat": 18.981233, "lng": -98.154557
+},{
+"label": "San José Aparicio", "lat": 19.105444, "lng": -98.149081
+},{
+"label": "Santo Tomás Chautla (Ixcobenta)", "lat": 18.959016, "lng": -98.152894
+},{
+"label": "Cuesta Ramos", "lat": 18.872374, "lng": -98.282952
+},{
+"label": "Encinos", "lat": 19.090918, "lng": -98.119969
+},{
+"label": "La Loma", "lat": 18.933918, "lng": -98.165383
+},{
+"label": "Tecoxocochichil (Magdalena)", "lat": 19.133056, "lng": -98.066667
+},{
+"label": "El Rosario la Huerta", "lat": 18.853839, "lng": -98.266443
+},{
+"label": "San Miguelito", "lat": 19.153087, "lng": -98.094854
+},{
+"label": "Chapultepec", "lat": 19.000204, "lng": -98.146116
+},{
+"label": "Llano Grande", "lat": 18.918621, "lng": -98.261591
+},{
+"label": "Cuitláhuac", "lat": 18.933039, "lng": -98.257867
+},{
+"label": "Riveras de Aparicio", "lat": 19.108172, "lng": -98.150088
+},{
+"label": "San Andrés Azumiatla", "lat": 18.903257, "lng": -98.252363
+},{
+"label": "San Miguel la Venta", "lat": 18.958036, "lng": -98.209661
+},{
+"label": "Hueytlaixco", "lat": 19.141238, "lng": -98.057104
+},{
+"label": "Toluquilla (Los Cantiles)", "lat": 18.917553, "lng": -98.139596
+},{
+"label": "La Josefina", "lat": 19.110606, "lng": -98.15545
+},{
+"label": "Santiago de los Leones", "lat": 19.115276, "lng": -98.142896
+},{
+"label": "San Pedro Zacachimalpa", "lat": 18.941943, "lng": -98.156917
+},{
+"label": "Tecaxtétl", "lat": 19.114125, "lng": -98.119621
+},{
+"label": "Tepecaltech (Tlancuaya)", "lat": 18.916793, "lng": -98.259393
+},{
+"label": "Unidad Habitacional BUAP", "lat": 18.947428, "lng": -98.217811
+}]

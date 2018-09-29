@@ -1,0 +1,709 @@
+[{
+"label": "Rosas (Ojai)", "lat": 26.996037, "lng": -109.665445
+},{
+"label": "San Martín (Ramón Martínez Rosas)", "lat": 26.87011, "lng": -109.584147
+},{
+"label": "Predio Bainorillo", "lat": 26.849722, "lng": -109.602778
+},{
+"label": "Aquichopo", "lat": 27.076151, "lng": -109.560183
+},{
+"label": "Cuatro Hermanos", "lat": 27.070205, "lng": -109.567021
+},{
+"label": "Basconcobe", "lat": 26.953579, "lng": -109.667937
+},{
+"label": "Aurora", "lat": 27.139117, "lng": -109.686868
+},{
+"label": "Barrio Pacheco", "lat": 27.045736, "lng": -109.623705
+},{
+"label": "Roberto Padilla (Predio Tóbari) [Rancho]", "lat": 26.954758, "lng": -109.841409
+},{
+"label": "Don Cirilo", "lat": 27.098656, "lng": -109.720192
+},{
+"label": "Huehuetlaya", "lat": 27.226113, "lng": -109.76955
+},{
+"label": "Ninguno [Yépiz]", "lat": 26.983424, "lng": -109.6265
+},{
+"label": "Mochipaco Nuevo", "lat": 26.932216, "lng": -109.613278
+},{
+"label": "Roberto Ibarra", "lat": 26.886751, "lng": -109.683105
+},{
+"label": "Campo Gallegos", "lat": 27.034225, "lng": -109.850521
+},{
+"label": "Joconabampo", "lat": 26.925311, "lng": -109.503169
+},{
+"label": "Desert's Farm [Empaque]", "lat": 27.061106, "lng": -109.631071
+},{
+"label": "Cuadrilatero Diez", "lat": 26.977848, "lng": -109.665203
+},{
+"label": "El Guayparín", "lat": 26.888333, "lng": -109.684444
+},{
+"label": "Sebampo (Roberto Rosas)", "lat": 26.873312, "lng": -109.547706
+},{
+"label": "Campo de Rafael Ceballos", "lat": 27.010278, "lng": -109.706944
+},{
+"label": "Ninguno [Los Gómez]", "lat": 26.926435, "lng": -109.581022
+},{
+"label": "El Caurara [Agropecuaria]", "lat": 26.904167, "lng": -109.588509
+},{
+"label": "El Sufrido", "lat": 26.99725, "lng": -109.68809
+},{
+"label": "Predio el Tobari", "lat": 26.992222, "lng": -109.831667
+},{
+"label": "José Molina Barraza", "lat": 27.087359, "lng": -109.686776
+},{
+"label": "Ninguno [Rufina Verdugo]", "lat": 26.939394, "lng": -109.565258
+},{
+"label": "Bayajorit", "lat": 27.087301, "lng": -109.668931
+},{
+"label": "Bacame Viejo", "lat": 27.033293, "lng": -109.625261
+},{
+"label": "Bacame [Crianza]", "lat": 27.123785, "lng": -109.6056
+},{
+"label": "Héctor Urrea", "lat": 26.904473, "lng": -109.611942
+},{
+"label": "Ninguno [José Meza González]", "lat": 27.208188, "lng": -109.719825
+},{
+"label": "Dos Arbolitos", "lat": 26.998539, "lng": -109.644257
+},{
+"label": "Santa Fe", "lat": 27.170914, "lng": -109.665878
+},{
+"label": "María Dolores Espinoza", "lat": 27.104328, "lng": -109.678463
+},{
+"label": "Cochorit (Santiago Cruz)", "lat": 27.097778, "lng": -109.730556
+},{
+"label": "Ninguno", "lat": 27.043236, "lng": -109.55114
+},{
+"label": "Ninguno [Establo Lechero]", "lat": 27.016446, "lng": -109.652001
+},{
+"label": "Aquichivo", "lat": 27.063576, "lng": -109.649825
+},{
+"label": "Campo León", "lat": 27.003941, "lng": -109.583534
+},{
+"label": "Pedro Valdez", "lat": 27.062344, "lng": -109.664903
+},{
+"label": "Campo de Francisco Mendívil", "lat": 27.015556, "lng": -109.746667
+},{
+"label": "Gregorio Armenta Alamea", "lat": 27.061552, "lng": -109.667633
+},{
+"label": "El Tapón", "lat": 26.9958, "lng": -109.643599
+},{
+"label": "Antonio Zárate", "lat": 26.988567, "lng": -109.723319
+},{
+"label": "La Palma", "lat": 27.02, "lng": -109.675278
+},{
+"label": "Campo Catorce", "lat": 26.984748, "lng": -109.631657
+},{
+"label": "El Pinalito", "lat": 26.961066, "lng": -109.676348
+},{
+"label": "Campo Número 13", "lat": 26.99877, "lng": -109.629168
+},{
+"label": "Campo de Martínez", "lat": 26.883416, "lng": -109.633082
+},{
+"label": "Bataca", "lat": 26.97469, "lng": -109.559029
+},{
+"label": "Bernabé Ayala Rodríguez", "lat": 26.917811, "lng": -109.581835
+},{
+"label": "El Carrizal (El Bacar)", "lat": 26.891738, "lng": -109.675963
+},{
+"label": "Granja de Humberto Gutiérrez", "lat": 26.967475, "lng": -109.57519
+},{
+"label": "Casa Blanca", "lat": 27.003329, "lng": -109.569877
+},{
+"label": "Las Praderas", "lat": 27.051864, "lng": -109.594358
+},{
+"label": "Jesús María Valenzuela Zayas", "lat": 27.001098, "lng": -109.601181
+},{
+"label": "Colonia Soto (Caurará)", "lat": 26.905838, "lng": -109.602158
+},{
+"label": "Campo de José Luis Ramírez", "lat": 27.051389, "lng": -109.750556
+},{
+"label": "Ninguno [Familia Ruiz Tapia]", "lat": 27.20822, "lng": -109.708481
+},{
+"label": "Campanichaca", "lat": 26.926237, "lng": -109.64402
+},{
+"label": "Colonia Nacozari", "lat": 27.033359, "lng": -109.616532
+},{
+"label": "El Retiro", "lat": 27.03658, "lng": -109.671111
+},{
+"label": "Macochín", "lat": 27.036287, "lng": -109.562489
+},{
+"label": "Campo Número 18", "lat": 27.007008, "lng": -109.623764
+},{
+"label": "Santa María la Reina", "lat": 27.079986, "lng": -109.605634
+},{
+"label": "Campo de Chico Ávila", "lat": 27.017222, "lng": -109.835
+},{
+"label": "Tiriscohuasa", "lat": 26.949421, "lng": -109.64292
+},{
+"label": "Campo Rochín", "lat": 27.033824, "lng": -109.692292
+},{
+"label": "Terminel", "lat": 26.927582, "lng": -109.681993
+},{
+"label": "El Tanque (El Tanque Colorado)", "lat": 26.893472, "lng": -109.63233
+},{
+"label": "Gildardo Morales Soto", "lat": 27.061126, "lng": -109.623746
+},{
+"label": "Crianza Ruiza", "lat": 26.946944, "lng": -109.665556
+},{
+"label": "Arturo Neyoy", "lat": 27.09422, "lng": -109.680401
+},{
+"label": "Campo de los Fuertes", "lat": 27.170895, "lng": -109.686807
+},{
+"label": "Las Cucas", "lat": 26.949431, "lng": -109.765513
+},{
+"label": "El Huitchaca", "lat": 26.880607, "lng": -109.692154
+},{
+"label": "El Baburo", "lat": 27.051009, "lng": -109.564318
+},{
+"label": "Sibolibampo", "lat": 27.200639, "lng": -109.704992
+},{
+"label": "Ninguno [Gervacio Verdugo Valenzuela]", "lat": 26.997678, "lng": -109.602011
+},{
+"label": "Mocorúa", "lat": 26.957801, "lng": -109.730808
+},{
+"label": "Silverio", "lat": 26.850661, "lng": -109.605596
+},{
+"label": "San Rafael (La Quinta Chilla)", "lat": 27.152663, "lng": -109.708014
+},{
+"label": "Ninguno [Familia Bacobachi Anguamea]", "lat": 26.947197, "lng": -109.600378
+},{
+"label": "Abraham Gelacio Aboitia", "lat": 26.981228, "lng": -109.769525
+},{
+"label": "Aquisahuali", "lat": 27.073009, "lng": -109.56482
+},{
+"label": "Etchojoa", "lat": 26.910833, "lng": -109.625278
+},{
+"label": "Bachoco el Alto", "lat": 27.096422, "lng": -109.629429
+},{
+"label": "Cuadrilátero Nueve", "lat": 26.982294, "lng": -109.63184
+},{
+"label": "Graciano Valenzuela Ozuna", "lat": 26.997231, "lng": -109.702989
+},{
+"label": "El Campito (Campo Número Tres)", "lat": 26.98869, "lng": -109.680104
+},{
+"label": "Las Playitas", "lat": 26.984279, "lng": -109.615314
+},{
+"label": "Licenciado Urbina", "lat": 26.905749, "lng": -109.564805
+},{
+"label": "El Quinto Viejo (El Culebrón)", "lat": 27.02552, "lng": -109.578559
+},{
+"label": "Cañedo", "lat": 26.88057, "lng": -109.542796
+},{
+"label": "Cristóbal Campos", "lat": 26.92345, "lng": -109.681208
+},{
+"label": "Campo Toño Leyva", "lat": 27.0175, "lng": -109.788333
+},{
+"label": "Silvio Duarte (El Sabino)", "lat": 26.87315, "lng": -109.682039
+},{
+"label": "Fausto Gutiérrez", "lat": 27.060562, "lng": -109.552136
+},{
+"label": "Jitonhueca", "lat": 27.061284, "lng": -109.605102
+},{
+"label": "Francisco Bórquez", "lat": 27.054223, "lng": -109.628573
+},{
+"label": "Mayocahui", "lat": 27.039389, "lng": -109.737273
+},{
+"label": "San Pedro Nuevo", "lat": 27.020627, "lng": -109.631509
+},{
+"label": "Campo Marcos Aguilera", "lat": 27.01758, "lng": -109.695768
+},{
+"label": "Santo Tomás", "lat": 27.170979, "lng": -109.718456
+},{
+"label": "Trinidad", "lat": 27.152627, "lng": -109.666243
+},{
+"label": "Loma de la Pulga (La Pulga Tepulcahui)", "lat": 27.072222, "lng": -109.758333
+},{
+"label": "Ninguno [Abelino Fernández]", "lat": 27.134493, "lng": -109.686806
+},{
+"label": "Felipe Salido", "lat": 27.053611, "lng": -109.657778
+},{
+"label": "Campo de Mario Urrea", "lat": 26.943342, "lng": -109.7378
+},{
+"label": "Adela Ochoa Campas", "lat": 27.004465, "lng": -109.658563
+},{
+"label": "Juana Rábago", "lat": 27.0129, "lng": -109.667842
+},{
+"label": "Reynaldo Ibarra Campoy", "lat": 26.936876, "lng": -109.51623
+},{
+"label": "Providencia Uno", "lat": 27.145724, "lng": -109.686794
+},{
+"label": "Fátima", "lat": 27.162038, "lng": -109.707978
+},{
+"label": "Huiroachaca", "lat": 27.025593, "lng": -109.64867
+},{
+"label": "Calle Veintiocho", "lat": 27.006762, "lng": -109.749864
+},{
+"label": "Jorge López Valdez", "lat": 26.948055, "lng": -109.664624
+},{
+"label": "Campo Joaquín Méndez", "lat": 26.909329, "lng": -109.582419
+},{
+"label": "Los Viejos", "lat": 26.883056, "lng": -109.654841
+},{
+"label": "Buaysiacobe", "lat": 27.062292, "lng": -109.686798
+},{
+"label": "Marcela", "lat": 27.003889, "lng": -109.549444
+},{
+"label": "Tóbari", "lat": 26.953333, "lng": -109.83
+},{
+"label": "Silvia Badilla López", "lat": 27.082504, "lng": -109.596309
+},{
+"label": "Campo de Abelino Fernández", "lat": 26.977298, "lng": -109.569129
+},{
+"label": "Agustín Melgar", "lat": 27.209207, "lng": -109.681756
+},{
+"label": "Guaytana", "lat": 27.093951, "lng": -109.656143
+},{
+"label": "La Poderosa", "lat": 27.079758, "lng": -109.803881
+},{
+"label": "Familia Zarate", "lat": 27.006571, "lng": -109.686891
+},{
+"label": "Campo de Wenceslao Humildad", "lat": 27.003333, "lng": -109.869444
+},{
+"label": "Algodonera UCA de Huatabampo", "lat": 26.870374, "lng": -109.637505
+},{
+"label": "San Jorge", "lat": 27.152663, "lng": -109.687012
+},{
+"label": "El Centenario", "lat": 27.065029, "lng": -109.559201
+},{
+"label": "Nacapul", "lat": 26.998196, "lng": -109.559481
+},{
+"label": "Campo de Jorge Campoy", "lat": 27.024917, "lng": -109.81035
+},{
+"label": "Las Guayabas", "lat": 26.897428, "lng": -109.689259
+},{
+"label": "Campo Rubén Reyes", "lat": 27.024847, "lng": -109.830634
+},{
+"label": "Mayojusálit", "lat": 27.208279, "lng": -109.738807
+},{
+"label": "San Rafael [Rancho]", "lat": 27.098009, "lng": -109.699669
+},{
+"label": "Burabampo", "lat": 27.002297, "lng": -109.639834
+},{
+"label": "El Chapote", "lat": 27.044534, "lng": -109.583362
+},{
+"label": "Campo de Alfonso Almada", "lat": 26.96209, "lng": -109.552834
+},{
+"label": "La Veintisiete K", "lat": 27.025706, "lng": -109.790125
+},{
+"label": "La Veintisiete J", "lat": 27.025737, "lng": -109.809497
+},{
+"label": "Peraza Alvarado", "lat": 26.990112, "lng": -109.695126
+},{
+"label": "Guayabitas (La Sábila)", "lat": 26.930118, "lng": -109.632574
+},{
+"label": "El Chori (El Choya)", "lat": 26.867332, "lng": -109.625705
+},{
+"label": "Daniel Neyoy", "lat": 27.101808, "lng": -109.678877
+},{
+"label": "Marcial Alamea Meza", "lat": 27.033472, "lng": -109.645094
+},{
+"label": "Campo de Jesús González", "lat": 27.028138, "lng": -109.82077
+},{
+"label": "Campo de José Luis Félix Morales", "lat": 27.060886, "lng": -109.64202
+},{
+"label": "El Carmen (Los Toledo)", "lat": 26.876658, "lng": -109.664353
+},{
+"label": "Porcícola Pilarica", "lat": 26.893323, "lng": -109.614481
+},{
+"label": "Campo de Ovidio Pereyra", "lat": 27.021667, "lng": -109.789722
+},{
+"label": "Secundino Padilla", "lat": 27.036111, "lng": -109.677778
+},{
+"label": "José Almada", "lat": 26.974267, "lng": -109.756614
+},{
+"label": "Rosa de Capetamaya", "lat": 26.945871, "lng": -109.573821
+},{
+"label": "San Pedro Viejo", "lat": 27.019658, "lng": -109.621284
+},{
+"label": "Ninguno [Alfredo Leyva Moroyoqui]", "lat": 26.944783, "lng": -109.591713
+},{
+"label": "Morales Murrieta", "lat": 27.035738, "lng": -109.634261
+},{
+"label": "Establo Coraín", "lat": 26.932268, "lng": -109.665039
+},{
+"label": "El Pilfo", "lat": 26.969581, "lng": -109.684275
+},{
+"label": "El Chichivo", "lat": 27.008419, "lng": -109.733643
+},{
+"label": "Caurajaqui", "lat": 26.890361, "lng": -109.590278
+},{
+"label": "Los González", "lat": 26.961861, "lng": -109.52431
+},{
+"label": "Ponciano Valencia", "lat": 27.034133, "lng": -109.636981
+},{
+"label": "Mabejaqui", "lat": 26.874382, "lng": -109.605965
+},{
+"label": "San Francisco", "lat": 26.946985, "lng": -109.666138
+},{
+"label": "Ruiz", "lat": 26.990314, "lng": -109.728338
+},{
+"label": "La Vasconia (Del Apellido Vasco)", "lat": 26.934913, "lng": -109.614139
+},{
+"label": "San Manuel", "lat": 27.061318, "lng": -109.636454
+},{
+"label": "Rosas Rochín", "lat": 26.878275, "lng": -109.559356
+},{
+"label": "Yayo Zazueta", "lat": 27.05812, "lng": -109.680396
+},{
+"label": "Campo Canario (Ingeniero José Almada)", "lat": 26.872423, "lng": -109.574988
+},{
+"label": "El Nuevo Retiro", "lat": 27.021796, "lng": -109.65443
+},{
+"label": "Juan Mumulmea", "lat": 27.086194, "lng": -109.686733
+},{
+"label": "Predio de los Huéparis", "lat": 26.939092, "lng": -109.578026
+},{
+"label": "Caral", "lat": 27.043226, "lng": -109.627938
+},{
+"label": "Campo Liborio Moroyoqui", "lat": 27.028611, "lng": -109.829722
+},{
+"label": "Casa del Sanjero", "lat": 27.097778, "lng": -109.680556
+},{
+"label": "La Escuadra (Campo Valencia)", "lat": 26.943077, "lng": -109.739238
+},{
+"label": "España (Campo Número Uno)", "lat": 26.990009, "lng": -109.708385
+},{
+"label": "La Casa Verde", "lat": 26.971302, "lng": -109.539288
+},{
+"label": "La Cochera", "lat": 26.98067, "lng": -109.731848
+},{
+"label": "Kilómetro Diecisiete (Sicome Norte)", "lat": 26.974372, "lng": -109.559487
+},{
+"label": "Siete Leguas", "lat": 27.114363, "lng": -109.626449
+},{
+"label": "Carlos Escalante", "lat": 26.886686, "lng": -109.674991
+},{
+"label": "La Victoria", "lat": 26.978412, "lng": -109.718829
+},{
+"label": "Mochipaco", "lat": 26.938086, "lng": -109.656784
+},{
+"label": "Campo Álvaro Montoya", "lat": 26.941944, "lng": -109.83
+},{
+"label": "El Quinto", "lat": 27.025548, "lng": -109.569419
+},{
+"label": "El Vivero", "lat": 26.99809, "lng": -109.656379
+},{
+"label": "El Pozo", "lat": 26.998339, "lng": -109.581265
+},{
+"label": "Mil Hectáreas", "lat": 26.946758, "lng": -109.706666
+},{
+"label": "El Rancho 3 Herraduras", "lat": 26.976509, "lng": -109.597838
+},{
+"label": "Víctor Chacón (SAIASA)", "lat": 26.921408, "lng": -109.665404
+},{
+"label": "Gloria Elena", "lat": 27.000474, "lng": -109.549257
+},{
+"label": "Bachoco", "lat": 27.090697, "lng": -109.745365
+},{
+"label": "Ninguno [Elsa Figueroa]", "lat": 27.010292, "lng": -109.638988
+},{
+"label": "La Línea (La Línea de Basconcobe)", "lat": 26.955951, "lng": -109.657941
+},{
+"label": "Campo Germán Pablo Armenta", "lat": 26.988889, "lng": -109.836944
+},{
+"label": "Sicoma Norte", "lat": 27.017396, "lng": -109.560358
+},{
+"label": "Santa María las Palmas", "lat": 27.019544, "lng": -109.585077
+},{
+"label": "Caseta Kilómetro Noventa y Uno", "lat": 27.222091, "lng": -109.748023
+},{
+"label": "Alejandro García [Campo]", "lat": 27.049722, "lng": -109.663333
+},{
+"label": "Ninguno [Familia Acosta Ruiz]", "lat": 27.228408, "lng": -109.729409
+},{
+"label": "San Isidro", "lat": 26.986869, "lng": -109.674713
+},{
+"label": "Campo Huitzi (El Jr)", "lat": 26.985496, "lng": -109.598617
+},{
+"label": "Ninguno [Liberato Armenta]", "lat": 26.940139, "lng": -109.573441
+},{
+"label": "Luque (Cajeme Tres de Abril)", "lat": 27.207504, "lng": -109.719988
+},{
+"label": "Las Cachimbas", "lat": 26.950036, "lng": -109.701464
+},{
+"label": "Ninguno [Ricardo Muñoz]", "lat": 27.162134, "lng": -109.686521
+},{
+"label": "Campo Astiazarán", "lat": 27.090278, "lng": -109.61
+},{
+"label": "Fidel Calderón", "lat": 27.07965, "lng": -109.632375
+},{
+"label": "Ninguno [Juan Acosta]", "lat": 26.94375, "lng": -109.623625
+},{
+"label": "Bomba la Paz (El Canal de la Paz)", "lat": 26.936915, "lng": -109.677056
+},{
+"label": "El Muertito", "lat": 27.024167, "lng": -109.735
+},{
+"label": "Esperancita 14", "lat": 27.119166, "lng": -109.596759
+},{
+"label": "Agropecuaria Bainorillo", "lat": 26.866536, "lng": -109.547956
+},{
+"label": "Rosario Ibarra", "lat": 27.063889, "lng": -109.729444
+},{
+"label": "La Veintisiete", "lat": 27.024167, "lng": -109.748056
+},{
+"label": "La Escondida", "lat": 26.879608, "lng": -109.666467
+},{
+"label": "Mujeres Indigenas de Buaysiacobe", "lat": 27.111691, "lng": -109.727801
+},{
+"label": "San Fernando", "lat": 27.008947, "lng": -109.549302
+},{
+"label": "Empresas Jova", "lat": 26.869908, "lng": -109.635759
+},{
+"label": "La Bocana", "lat": 26.886657, "lng": -109.668944
+},{
+"label": "El Comparto [Caballeriza]", "lat": 26.992965, "lng": -109.665544
+},{
+"label": "Campo de Filiberto Gracia Ruiz", "lat": 27.02574, "lng": -109.768632
+},{
+"label": "Ilivaca", "lat": 27.049738, "lng": -109.579709
+},{
+"label": "Ninguno [Saturnino Valenzuela]", "lat": 26.997982, "lng": -109.614604
+},{
+"label": "Marcela Dos [Granja]", "lat": 27.007616, "lng": -109.559169
+},{
+"label": "Cruz Verde", "lat": 26.932859, "lng": -109.705768
+},{
+"label": "Mariano Zárate", "lat": 26.997908, "lng": -109.688022
+},{
+"label": "Campo de Catarino Espinoza", "lat": 27.043131, "lng": -109.850826
+},{
+"label": "Kilómetro Veinte (El Uno)", "lat": 26.962788, "lng": -109.58155
+},{
+"label": "Solovino", "lat": 27.006656, "lng": -109.805579
+},{
+"label": "Campo Agricola MB", "lat": 27.044995, "lng": -109.750281
+},{
+"label": "Caseta Kilómetro Ciento Cinco", "lat": 27.178589, "lng": -109.651099
+},{
+"label": "Campo Salido", "lat": 27.0425, "lng": -109.671389
+},{
+"label": "El Ranchito", "lat": 26.943611, "lng": -109.750278
+},{
+"label": "Tejabanes Viejos", "lat": 26.998817, "lng": -109.592536
+},{
+"label": "El Mezquital de Burabampo", "lat": 27.011219, "lng": -109.629746
+},{
+"label": "Eduardo Parra", "lat": 26.866618, "lng": -109.552381
+},{
+"label": "Mocochopo (Yemovari)", "lat": 27.066702, "lng": -109.584651
+},{
+"label": "Tacirocome", "lat": 27.031759, "lng": -109.644864
+},{
+"label": "Campo Hermanos Galaz", "lat": 26.983903, "lng": -109.641234
+},{
+"label": "Ramón Túcuri", "lat": 27.034238, "lng": -109.642382
+},{
+"label": "Campo Rubio", "lat": 27.208316, "lng": -109.78986
+},{
+"label": "Campo Recreativo Tres Marías", "lat": 26.910225, "lng": -109.599541
+},{
+"label": "La Trinidad", "lat": 26.87777, "lng": -109.561098
+},{
+"label": "Fernando Salas", "lat": 27.010786, "lng": -109.637654
+},{
+"label": "El Caracol (Ejido de las Guayabas)", "lat": 26.929399, "lng": -109.694292
+},{
+"label": "Campo de Santini", "lat": 26.999057, "lng": -109.559535
+},{
+"label": "El Porvenir", "lat": 27.048346, "lng": -109.680448
+},{
+"label": "El Yemobari [Comunidad Indígena]", "lat": 27.081742, "lng": -109.581965
+},{
+"label": "El Capusarit", "lat": 26.900871, "lng": -109.648256
+},{
+"label": "Juan Antonio Montes", "lat": 27.006667, "lng": -109.845
+},{
+"label": "Joyateve", "lat": 27.032363, "lng": -109.789769
+},{
+"label": "Yovani Murillo Rodríguez", "lat": 27.021056, "lng": -109.582678
+},{
+"label": "Santa Bárbara", "lat": 27.053915, "lng": -109.548232
+},{
+"label": "Talamante (Colonia Talamante)", "lat": 26.983239, "lng": -109.592385
+},{
+"label": "Puente Roto (La Treinta y Dos)", "lat": 27.070334, "lng": -109.597003
+},{
+"label": "Campo Raúl Ramírez", "lat": 26.990549, "lng": -109.831054
+},{
+"label": "La Lupita", "lat": 27.016331, "lng": -109.728742
+},{
+"label": "Salvador Valenzuela Yocupicio", "lat": 26.946003, "lng": -109.711694
+},{
+"label": "Pilarica", "lat": 26.893376, "lng": -109.607878
+},{
+"label": "Manuel Encinas", "lat": 27.087704, "lng": -109.687901
+},{
+"label": "El Corral de Ramón Jesús", "lat": 27.043439, "lng": -109.689836
+},{
+"label": "Martha Isabel Baca Estrada", "lat": 26.999101, "lng": -109.830789
+},{
+"label": "Ernesto Vargas", "lat": 27.042222, "lng": -109.751944
+},{
+"label": "Guayparín", "lat": 26.967417, "lng": -109.648237
+},{
+"label": "Ninguno [Daniel Camacho]", "lat": 26.984337, "lng": -109.620401
+},{
+"label": "Campo de Rosario Millanes", "lat": 27.027821, "lng": -109.799824
+},{
+"label": "Salitral", "lat": 26.908242, "lng": -109.673583
+},{
+"label": "Los Álamos", "lat": 27.016962, "lng": -109.567873
+},{
+"label": "Bacame Nuevo", "lat": 27.16019, "lng": -109.589425
+},{
+"label": "Las Boras [Predio]", "lat": 27.111814, "lng": -109.602348
+},{
+"label": "Ninguno [Enrique Cambustón Litera]", "lat": 27.216318, "lng": -109.717552
+},{
+"label": "Bahuisa", "lat": 27.01613, "lng": -109.658488
+},{
+"label": "Industrias Agrícolas del Sur de Sonora", "lat": 26.868148, "lng": -109.636058
+},{
+"label": "Bretaña", "lat": 27.170778, "lng": -109.644628
+},{
+"label": "Las Cuerdas", "lat": 26.924874, "lng": -109.697903
+},{
+"label": "Bacobampo", "lat": 26.982424, "lng": -109.653903
+},{
+"label": "Campo Victoriano Rodríguez", "lat": 26.955556, "lng": -109.825
+},{
+"label": "Ramón Salido", "lat": 27.069126, "lng": -109.636294
+},{
+"label": "La Herradura", "lat": 27.037776, "lng": -109.553398
+},{
+"label": "Pancho Ruiz", "lat": 26.871111, "lng": -109.595
+},{
+"label": "El Caimanero", "lat": 26.951034, "lng": -109.706607
+},{
+"label": "Homero Meli", "lat": 27.035589, "lng": -109.625042
+},{
+"label": "Las Piedritas", "lat": 26.999908, "lng": -109.725475
+},{
+"label": "Agrícola Millanes", "lat": 26.99091, "lng": -109.588606
+},{
+"label": "Francisco Chacón", "lat": 26.918262, "lng": -109.662446
+},{
+"label": "Campo Eliseo", "lat": 26.922258, "lng": -109.664458
+},{
+"label": "Ninguno [Pedro Ruiz]", "lat": 27.163161, "lng": -109.64834
+},{
+"label": "Ninguno [Rosauro Armenta]", "lat": 26.938204, "lng": -109.610208
+},{
+"label": "Las Cien Hectáreas", "lat": 26.935947, "lng": -109.685939
+},{
+"label": "Campo Guillermo Osuna", "lat": 26.976539, "lng": -109.646186
+},{
+"label": "Campo de Marcos Barredez Esquer", "lat": 26.994951, "lng": -109.748613
+},{
+"label": "El Juchica", "lat": 27.083192, "lng": -109.646601
+},{
+"label": "Bacajaquía", "lat": 27.074937, "lng": -109.650057
+},{
+"label": "Junelancahui", "lat": 27.209607, "lng": -109.766119
+},{
+"label": "25 de Junio", "lat": 27.117121, "lng": -109.582583
+},{
+"label": "Lázaro Cárdenas", "lat": 27.134689, "lng": -109.688482
+},{
+"label": "Amarillas", "lat": 27.011674, "lng": -109.677215
+},{
+"label": "Genovevo de la O", "lat": 27.198746, "lng": -109.708141
+},{
+"label": "Judas Tadeo", "lat": 27.026011, "lng": -109.749144
+},{
+"label": "Sahuaral", "lat": 26.926799, "lng": -109.664618
+},{
+"label": "Campo de Don Beto", "lat": 27.060278, "lng": -109.726944
+},{
+"label": "Casa del Sanjero (La Línea)", "lat": 26.866686, "lng": -109.636531
+},{
+"label": "Las Pericas", "lat": 27.139517, "lng": -109.667299
+},{
+"label": "El Potrero", "lat": 26.997, "lng": -109.683417
+},{
+"label": "José Amavizca Zazueta", "lat": 27.010721, "lng": -109.769884
+},{
+"label": "Sebampo", "lat": 26.87887, "lng": -109.571544
+},{
+"label": "Campo de Abraham Castañeda", "lat": 27.015278, "lng": -109.85
+},{
+"label": "Los Rodríguez", "lat": 27.208251, "lng": -109.707524
+},{
+"label": "Unión de Sociedades Cooperativas la Esperanza", "lat": 26.899847, "lng": -109.593994
+},{
+"label": "Hacienda Vieja", "lat": 27.051379, "lng": -109.614734
+},{
+"label": "Familia Caballero", "lat": 27.116988, "lng": -109.707894
+},{
+"label": "Chucarit", "lat": 27.031433, "lng": -109.584868
+},{
+"label": "Los Laureles", "lat": 27.189141, "lng": -109.68749
+},{
+"label": "Jorge Larraguivel", "lat": 26.978917, "lng": -109.559839
+},{
+"label": "Ejido Plan Oriente", "lat": 26.853761, "lng": -109.613696
+},{
+"label": "Ninguno [Ana Luisa Luders]", "lat": 27.170844, "lng": -109.666989
+},{
+"label": "El Castillo", "lat": 26.988328, "lng": -109.748773
+},{
+"label": "La Ponderosa [Agropecuaria]", "lat": 27.125461, "lng": -109.708537
+},{
+"label": "Los Dátiles", "lat": 27.004722, "lng": -109.664194
+},{
+"label": "Enrique Padilla", "lat": 27.033949, "lng": -109.676161
+},{
+"label": "Ejido Etchojoa Número Uno", "lat": 26.949841, "lng": -109.49908
+},{
+"label": "Ninguno [Juan Campoy]", "lat": 26.971174, "lng": -109.581841
+},{
+"label": "El Rodeo", "lat": 27.015875, "lng": -109.641138
+},{
+"label": "Campo Emilio Cota", "lat": 26.902222, "lng": -109.628889
+},{
+"label": "Lázaro Cárdenas (Mayojusálit)", "lat": 27.209349, "lng": -109.730311
+},{
+"label": "Sicome", "lat": 26.997654, "lng": -109.56885
+},{
+"label": "Campo de Leopoldo Félix", "lat": 26.985831, "lng": -109.639063
+},{
+"label": "Antonia Neyoy", "lat": 27.102799, "lng": -109.6793
+},{
+"label": "El Retiro Viejo", "lat": 27.019219, "lng": -109.656101
+},{
+"label": "Campo Bárcenas Barrial", "lat": 26.961321, "lng": -109.556776
+},{
+"label": "Baynorillo", "lat": 26.865014, "lng": -109.616705
+},{
+"label": "Toribampo", "lat": 26.926667, "lng": -109.731389
+},{
+"label": "Gumercindo Vázquez Campoy", "lat": 27.025833, "lng": -109.829722
+},{
+"label": "Ninguno [Familia Ontiveros Mazón]", "lat": 26.988094, "lng": -109.590394
+},{
+"label": "Yemobari", "lat": 27.058576, "lng": -109.581467
+},{
+"label": "Ninguno [Joel Navarro Montoya]", "lat": 27.207658, "lng": -109.72427
+},{
+"label": "Guadalupe Castro", "lat": 27.028972, "lng": -109.558714
+},{
+"label": "Campo Salido (Sicoma Sur)", "lat": 26.970833, "lng": -109.523056
+},{
+"label": "Fertilizantes Tepeyac", "lat": 26.871885, "lng": -109.635529
+},{
+"label": "Villa Tres Cruces", "lat": 26.907641, "lng": -109.670146
+},{
+"label": "Rafael Rascón", "lat": 27.011188, "lng": -109.582005
+},{
+"label": "Las Boras", "lat": 27.107951, "lng": -109.592367
+},{
+"label": "Joaquinillo Muñoz", "lat": 27.006351, "lng": -109.851114
+},{
+"label": "El Salitral", "lat": 27.020691, "lng": -109.650535
+},{
+"label": "Benjamín Enrique Ruiz", "lat": 27.024728, "lng": -109.769787
+},{
+"label": "Las Mayas (Colonia Agrícola Basconcobe)", "lat": 26.985148, "lng": -109.818357
+},{
+"label": "Navolato", "lat": 27.033449, "lng": -109.567664
+}]

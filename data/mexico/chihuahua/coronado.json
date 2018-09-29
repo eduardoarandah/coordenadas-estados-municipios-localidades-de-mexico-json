@@ -1,0 +1,175 @@
+[{
+"label": "Santa Cecilia", "lat": 26.692678, "lng": -105.142485
+},{
+"label": "San José", "lat": 26.698191, "lng": -105.154611
+},{
+"label": "La Finca", "lat": 26.616599, "lng": -105.181995
+},{
+"label": "Ex-Hacienda Buenavista", "lat": 26.762854, "lng": -105.136103
+},{
+"label": "España (Barrio España)", "lat": 26.733339, "lng": -105.14637
+},{
+"label": "La Granjita", "lat": 26.727759, "lng": -105.142767
+},{
+"label": "Las Babisas", "lat": 26.727172, "lng": -105.148548
+},{
+"label": "Huerta San Carmen", "lat": 26.739333, "lng": -105.138517
+},{
+"label": "San Andrés", "lat": 26.57604, "lng": -105.244451
+},{
+"label": "Salsipuedes", "lat": 26.702108, "lng": -105.136519
+},{
+"label": "Cuatro Hermanos", "lat": 26.788778, "lng": -105.133869
+},{
+"label": "El Papalote (San Francisco)", "lat": 26.739795, "lng": -105.055444
+},{
+"label": "La Aurora", "lat": 26.802758, "lng": -105.141247
+},{
+"label": "Zacazonapan", "lat": 26.694209, "lng": -105.146308
+},{
+"label": "La Fe", "lat": 26.731404, "lng": -105.141824
+},{
+"label": "San Miguel", "lat": 26.777103, "lng": -105.29065
+},{
+"label": "La Cieneguilla (El Pozo)", "lat": 26.631752, "lng": -104.996224
+},{
+"label": "Emiliano Zapata", "lat": 26.874876, "lng": -105.130915
+},{
+"label": "Guadalupe de Bagues", "lat": 26.617658, "lng": -105.178488
+},{
+"label": "Conquista Agraria", "lat": 26.633333, "lng": -105.160556
+},{
+"label": "Los Valles (La Evilla)", "lat": 26.619797, "lng": -105.154362
+},{
+"label": "Pomas (La Zarca)", "lat": 26.490593, "lng": -105.005233
+},{
+"label": "Rancho Don Trankis (Rancho Nuevo)", "lat": 26.557358, "lng": -105.299377
+},{
+"label": "Palo Chino (El Vergel)", "lat": 26.621836, "lng": -105.127629
+},{
+"label": "San Isidro", "lat": 26.657029, "lng": -105.152083
+},{
+"label": "José Esteban Coronado", "lat": 26.737615, "lng": -105.158312
+},{
+"label": "Colonia Benito Juárez (La Loma de la Cruz)", "lat": 26.733831, "lng": -105.138755
+},{
+"label": "La Boquilla de Caro", "lat": 26.544833, "lng": -105.325102
+},{
+"label": "Las Gardenias", "lat": 26.596249, "lng": -104.897154
+},{
+"label": "Los Acebuches", "lat": 26.703806, "lng": -104.926204
+},{
+"label": "Dos Hermanos", "lat": 26.67536, "lng": -105.154331
+},{
+"label": "El Culantrillo", "lat": 26.699724, "lng": -105.091389
+},{
+"label": "El Mimbre", "lat": 26.701275, "lng": -105.154674
+},{
+"label": "Agua Prieta (Bloques)", "lat": 26.516648, "lng": -105.01344
+},{
+"label": "Ojo Blanco", "lat": 26.550829, "lng": -105.128388
+},{
+"label": "La Bodega", "lat": 26.587411, "lng": -105.211361
+},{
+"label": "El Rosario (El Papalote)", "lat": 26.879045, "lng": -105.161225
+},{
+"label": "San Luis", "lat": 26.836986, "lng": -105.175082
+},{
+"label": "San Pedro", "lat": 26.591561, "lng": -105.299434
+},{
+"label": "El Martiledo (Martileño)", "lat": 26.716729, "lng": -105.144243
+},{
+"label": "Rancho Alegre (Ejido la Concepción)", "lat": 26.816621, "lng": -105.198003
+},{
+"label": "La Ciénega de Torres", "lat": 26.507933, "lng": -105.330075
+},{
+"label": "Ninguno", "lat": 26.675951, "lng": -105.154549
+},{
+"label": "La Bonita (Barranco Blanco)", "lat": 26.466246, "lng": -105.054362
+},{
+"label": "Las Joyas", "lat": 26.792809, "lng": -105.145316
+},{
+"label": "San Antonio del Potrero", "lat": 26.688292, "lng": -105.144009
+},{
+"label": "Río Primero", "lat": 26.884819, "lng": -105.140207
+},{
+"label": "El Águila", "lat": 26.863914, "lng": -105.128708
+},{
+"label": "San José [Huerta]", "lat": 26.875614, "lng": -105.132736
+},{
+"label": "La Noria (Tracy)", "lat": 26.560008, "lng": -105.065928
+},{
+"label": "Las Adjuntas", "lat": 26.848627, "lng": -105.142505
+},{
+"label": "El Huizache", "lat": 26.557648, "lng": -105.070973
+},{
+"label": "Valle Verde", "lat": 26.824764, "lng": -105.198167
+},{
+"label": "El Álamo", "lat": 26.651562, "lng": -105.164833
+},{
+"label": "Guadalupe", "lat": 26.579449, "lng": -104.873708
+},{
+"label": "El Corcel", "lat": 26.883465, "lng": -105.129421
+},{
+"label": "Rancho Viejo", "lat": 26.54858, "lng": -104.899011
+},{
+"label": "Laguna la Estacada", "lat": 26.556904, "lng": -104.808617
+},{
+"label": "Rancho la Mora", "lat": 26.706074, "lng": -105.150067
+},{
+"label": "El Ancón", "lat": 26.613027, "lng": -105.205236
+},{
+"label": "San Martín", "lat": 26.653019, "lng": -105.215686
+},{
+"label": "El Alto de las Jarillas", "lat": 26.67448, "lng": -105.148647
+},{
+"label": "El Durazno", "lat": 26.672613, "lng": -105.148893
+},{
+"label": "El Reparo", "lat": 26.551119, "lng": -105.317811
+},{
+"label": "Santa Matilde (Rancho Nuevo)", "lat": 26.51197, "lng": -105.082973
+},{
+"label": "Iturralde (El Oriente)", "lat": 26.801686, "lng": -105.134956
+},{
+"label": "Ex-Hacienda Emiliano Zapata", "lat": 26.878342, "lng": -105.125549
+},{
+"label": "Rancho la Barrita", "lat": 26.700935, "lng": -105.147309
+},{
+"label": "La Noria de Juárez", "lat": 26.7564, "lng": -105.226991
+},{
+"label": "Las Colchitas (Las Ligas)", "lat": 26.494004, "lng": -104.954726
+},{
+"label": "San Juan", "lat": 26.692533, "lng": -104.812403
+},{
+"label": "Agua Hedionda", "lat": 26.686358, "lng": -105.220419
+},{
+"label": "La Gallareta", "lat": 26.662561, "lng": -104.932968
+},{
+"label": "San Antonio", "lat": 26.733959, "lng": -105.134643
+},{
+"label": "Punta de Agua", "lat": 26.556046, "lng": -105.070703
+},{
+"label": "El Barro", "lat": 26.743976, "lng": -105.146929
+},{
+"label": "San Rafael", "lat": 26.734572, "lng": -105.139996
+},{
+"label": "Siete Hermanos", "lat": 26.781068, "lng": -105.132638
+},{
+"label": "El Refugio", "lat": 26.709077, "lng": -105.146921
+},{
+"label": "El Dieciséis", "lat": 26.683911, "lng": -105.144444
+},{
+"label": "Las Pilas (Ejido Tataca y San Andrés)", "lat": 26.591478, "lng": -105.227672
+},{
+"label": "La Chiripa", "lat": 26.73575, "lng": -105.137211
+},{
+"label": "Rancho Tracy", "lat": 26.543303, "lng": -104.877344
+},{
+"label": "Palos Altos", "lat": 26.714641, "lng": -104.836612
+},{
+"label": "Tataca", "lat": 26.585474, "lng": -105.223959
+},{
+"label": "Guajolotes", "lat": 26.566279, "lng": -105.394331
+},{
+"label": "Tres Hermanos", "lat": 26.882093, "lng": -105.150088
+}]

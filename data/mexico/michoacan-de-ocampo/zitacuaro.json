@@ -1,0 +1,343 @@
+[{
+"label": "El Granjeno", "lat": 19.466801, "lng": -100.363195
+},{
+"label": "La Barranca (Quinta Manzana Crescencio Morales)", "lat": 19.457778, "lng": -100.264167
+},{
+"label": "Agua de la Rosa", "lat": 19.446166, "lng": -100.26331
+},{
+"label": "El Puerto de Valle Verde", "lat": 19.470733, "lng": -100.359754
+},{
+"label": "San Felipe los Alzati (Colonia Nueva)", "lat": 19.489773, "lng": -100.374007
+},{
+"label": "Silva de Abajo", "lat": 19.38891, "lng": -100.344218
+},{
+"label": "Ocurio", "lat": 19.484225, "lng": -100.418489
+},{
+"label": "La Ziranda", "lat": 19.468178, "lng": -100.357294
+},{
+"label": "San Francisco Curungueo", "lat": 19.465441, "lng": -100.344528
+},{
+"label": "Los Reyes (Quinta Manzana)", "lat": 19.358208, "lng": -100.446707
+},{
+"label": "El Pedregal", "lat": 19.365498, "lng": -100.329576
+},{
+"label": "El Bordo", "lat": 19.478524, "lng": -100.420238
+},{
+"label": "La Mesa Chiquita (La Mesita Chiquita)", "lat": 19.330621, "lng": -100.361785
+},{
+"label": "El Capulín (Tercera Manzana de Crescencio Morales)", "lat": 19.47811, "lng": -100.247676
+},{
+"label": "La Loma (Quinta Manzana Crescencio Morales)", "lat": 19.453104, "lng": -100.27199
+},{
+"label": "Toma de Agua", "lat": 19.431018, "lng": -100.291714
+},{
+"label": "El Sombrerete (Tercera Manzana de Curungueo)", "lat": 19.478379, "lng": -100.335585
+},{
+"label": "Ojo de Agua de San Felipe (Primera Manzana)", "lat": 19.4925, "lng": -100.378056
+},{
+"label": "Rincón de Nicolás Romero (Cedros Tercera Manzana)", "lat": 19.414953, "lng": -100.306677
+},{
+"label": "Puerto del Aire", "lat": 19.422146, "lng": -100.388743
+},{
+"label": "San Alejandro", "lat": 19.491622, "lng": -100.380419
+},{
+"label": "El Lindero (Segunda Manzana de Crescencio Morales)", "lat": 19.464488, "lng": -100.217484
+},{
+"label": "Seis Palos (Quinta Manzana de San Miguel)", "lat": 19.386243, "lng": -100.361401
+},{
+"label": "Linda Vista (El Bosque)", "lat": 19.381311, "lng": -100.396548
+},{
+"label": "Los Ailes", "lat": 19.416623, "lng": -100.348684
+},{
+"label": "Ojo de Agua (Tercera Manzana de Zirahuato)", "lat": 19.505447, "lng": -100.395775
+},{
+"label": "Las Rosas", "lat": 19.41244, "lng": -100.344337
+},{
+"label": "Colonia Adolfo López Mateos", "lat": 19.455188, "lng": -100.293596
+},{
+"label": "Agua Bendita (El Pocito)", "lat": 19.527075, "lng": -100.371169
+},{
+"label": "Aputzio de Juárez (Santa María)", "lat": 19.342373, "lng": -100.348426
+},{
+"label": "Curvas del Gato", "lat": 19.480241, "lng": -100.359145
+},{
+"label": "Las Pilitas", "lat": 19.422414, "lng": -100.448835
+},{
+"label": "Los Mejía", "lat": 19.388223, "lng": -100.437281
+},{
+"label": "Puentezuelas (Tercera Manzana de Curungueo)", "lat": 19.485463, "lng": -100.316784
+},{
+"label": "El Callejón", "lat": 19.491902, "lng": -100.385377
+},{
+"label": "Mesas de Enandio (Cuarta Manzana)", "lat": 19.363492, "lng": -100.458794
+},{
+"label": "Fraccionamiento la Venta", "lat": 19.450833, "lng": -100.278611
+},{
+"label": "La Guitarrita (La Guitarra)", "lat": 19.352554, "lng": -100.371053
+},{
+"label": "El Banco", "lat": 19.388851, "lng": -100.398825
+},{
+"label": "Zitácuaro [Parque Industrial]", "lat": 19.449944, "lng": -100.289341
+},{
+"label": "Valle Verde", "lat": 19.472685, "lng": -100.355568
+},{
+"label": "La Soledad (Cuarta Manzana de Francisco Serrato)", "lat": 19.466925, "lng": -100.286298
+},{
+"label": "El Álamo", "lat": 19.325452, "lng": -100.374549
+},{
+"label": "Llano Grande (El Vergel)", "lat": 19.339031, "lng": -100.458468
+},{
+"label": "La Palma", "lat": 19.398128, "lng": -100.379508
+},{
+"label": "La Angostura (La Vuelta)", "lat": 19.416117, "lng": -100.357429
+},{
+"label": "Agua Nueva", "lat": 19.523217, "lng": -100.399169
+},{
+"label": "Casa Blanca", "lat": 19.438266, "lng": -100.391052
+},{
+"label": "Lechuguillas", "lat": 19.36837, "lng": -100.355285
+},{
+"label": "La Capilla (Tercera Manzana de Francisco Serrato)", "lat": 19.481361, "lng": -100.272838
+},{
+"label": "Heróica Zitácuaro", "lat": 19.43718, "lng": -100.357486
+},{
+"label": "El Ojo de Agua", "lat": 19.378745, "lng": -100.364088
+},{
+"label": "Los Lampazos (Tercera Manzana)", "lat": 19.375673, "lng": -100.477428
+},{
+"label": "La Mesa de Abajo", "lat": 19.358061, "lng": -100.463613
+},{
+"label": "La Magdalena", "lat": 19.478899, "lng": -100.428076
+},{
+"label": "El Asoleadero", "lat": 19.409574, "lng": -100.440755
+},{
+"label": "La Loma (Tercera Manzana de San Miguel)", "lat": 19.412985, "lng": -100.364321
+},{
+"label": "La Mojonera", "lat": 19.436057, "lng": -100.323151
+},{
+"label": "El Rincón de San Felipe (Tercera Manzana San Felipe)", "lat": 19.507754, "lng": -100.372778
+},{
+"label": "El Llano de Curungueo", "lat": 19.471041, "lng": -100.378212
+},{
+"label": "Manzanillos (Primera Manzana)", "lat": 19.437664, "lng": -100.287249
+},{
+"label": "La Comunidad", "lat": 19.336098, "lng": -100.372406
+},{
+"label": "Carpinteros", "lat": 19.489886, "lng": -100.31608
+},{
+"label": "Puerto Azul (Quinta Manzana de San Felipe)", "lat": 19.479536, "lng": -100.397598
+},{
+"label": "El Tigre (Segunda Manzana de Crescencio Morales)", "lat": 19.476051, "lng": -100.236581
+},{
+"label": "La Guásima (Séptima Manzana de San Miguel)", "lat": 19.414068, "lng": -100.388784
+},{
+"label": "La Fundición (Quinta Manzana)", "lat": 19.457996, "lng": -100.299808
+},{
+"label": "Ignacio López Rayón (Coyota Primera Manzana)", "lat": 19.382406, "lng": -100.43453
+},{
+"label": "Las Lomas de Aputzio (Las Lomas)", "lat": 19.361896, "lng": -100.378484
+},{
+"label": "Macho de Agua (Quinta Manzana de Crescencio Morales)", "lat": 19.441563, "lng": -100.241188
+},{
+"label": "El Maguey", "lat": 19.455547, "lng": -100.344498
+},{
+"label": "La Dieta (Segunda Manzana de Crescencio Morales)", "lat": 19.447241, "lng": -100.20244
+},{
+"label": "El Rincón de Vechi", "lat": 19.514526, "lng": -100.324966
+},{
+"label": "Loma de Aparicio", "lat": 19.493017, "lng": -100.187936
+},{
+"label": "La Garita de Coatepec", "lat": 19.425, "lng": -100.389722
+},{
+"label": "Zirahuato de los Bernal", "lat": 19.521051, "lng": -100.407057
+},{
+"label": "El Derrumbadero", "lat": 19.525909, "lng": -100.373036
+},{
+"label": "Cerrito de los Magueyes", "lat": 19.466495, "lng": -100.364264
+},{
+"label": "Armadillos (Tercera Manzana de Timbineo)", "lat": 19.425703, "lng": -100.453525
+},{
+"label": "Francisco Serrato (San Bartolo)", "lat": 19.491998, "lng": -100.256438
+},{
+"label": "La Mesa", "lat": 19.526107, "lng": -100.401928
+},{
+"label": "Piedra Ahumada", "lat": 19.517455, "lng": -100.335933
+},{
+"label": "Fraccionamiento Primero de Mayo", "lat": 19.440594, "lng": -100.325361
+},{
+"label": "Las Majadas (Rancho de Guadalupe)", "lat": 19.38058, "lng": -100.469389
+},{
+"label": "La Encarnación", "lat": 19.411447, "lng": -100.393154
+},{
+"label": "La Presa (Segunda Manzana Barrio de Santa Cruz)", "lat": 19.528624, "lng": -100.407625
+},{
+"label": "La Carne Hedionda", "lat": 19.489965, "lng": -100.387548
+},{
+"label": "La Lomita", "lat": 19.407813, "lng": -100.303594
+},{
+"label": "Las Pilas", "lat": 19.355764, "lng": -100.356611
+},{
+"label": "Mesa de Loma Larga (Loma Bonita)", "lat": 19.445398, "lng": -100.377537
+},{
+"label": "Crescencio Morales (San Mateo)", "lat": 19.491225, "lng": -100.242814
+},{
+"label": "La Miel (Primera Manzana de San Felipe)", "lat": 19.499508, "lng": -100.378184
+},{
+"label": "Las Peras", "lat": 19.372561, "lng": -100.360999
+},{
+"label": "Las Tilias (La Haciendita)", "lat": 19.326334, "lng": -100.345479
+},{
+"label": "Lomas de Oriente", "lat": 19.439104, "lng": -100.333719
+},{
+"label": "Santa Rita (Segunda Manzana de Curungueo)", "lat": 19.474746, "lng": -100.347384
+},{
+"label": "San Miguel Chichimequillas", "lat": 19.420223, "lng": -100.363014
+},{
+"label": "Donaciano Ojeda (Primera y Segunda Manzana San Francisco)", "lat": 19.491259, "lng": -100.284251
+},{
+"label": "El Mirador", "lat": 19.387203, "lng": -100.433838
+},{
+"label": "El Túnel", "lat": 19.392222, "lng": -100.430833
+},{
+"label": "La Calera", "lat": 19.372222, "lng": -100.346389
+},{
+"label": "La Gironda (Hacienda la Gironda)", "lat": 19.453701, "lng": -100.349886
+},{
+"label": "El Gigante", "lat": 19.392352, "lng": -100.394491
+},{
+"label": "Los Encinos", "lat": 19.445058, "lng": -100.252316
+},{
+"label": "Los Romerillos (Tercera Manzana)", "lat": 19.378587, "lng": -100.46541
+},{
+"label": "San Cayetano", "lat": 19.43413, "lng": -100.382933
+},{
+"label": "Loma Larga", "lat": 19.454968, "lng": -100.364339
+},{
+"label": "Los Polvillos (El Crucero)", "lat": 19.484904, "lng": -100.39739
+},{
+"label": "La Ziranda (El Fresno)", "lat": 19.506249, "lng": -100.378249
+},{
+"label": "La Y Griega", "lat": 19.367778, "lng": -100.394722
+},{
+"label": "El Naranjo", "lat": 19.406043, "lng": -100.351271
+},{
+"label": "La Cumbre (Quinta Manzana de Crescencio Morales)", "lat": 19.43887, "lng": -100.253163
+},{
+"label": "El Kilómetro (Llano de San Felipe)", "lat": 19.487624, "lng": -100.381378
+},{
+"label": "Puerto de San Felipe (El Trébol)", "lat": 19.483545, "lng": -100.361943
+},{
+"label": "El Sauz (Tercera Manzana)", "lat": 19.382106, "lng": -100.462579
+},{
+"label": "El Capulín", "lat": 19.45201, "lng": -100.279386
+},{
+"label": "La Colonia de Aputzio", "lat": 19.352683, "lng": -100.333479
+},{
+"label": "Las Escobas (La Recicladora)", "lat": 19.407991, "lng": -100.434789
+},{
+"label": "Chimusdá (Cuarta Manzana de Donaciano Ojeda)", "lat": 19.473273, "lng": -100.295735
+},{
+"label": "El Troje", "lat": 19.328911, "lng": -100.353189
+},{
+"label": "La Mesa (La Mesa de Cedano)", "lat": 19.448831, "lng": -100.326568
+},{
+"label": "El Tiradero", "lat": 19.476111, "lng": -100.360278
+},{
+"label": "Rincón de Curungueo (Segunada Manzana de Curungueo)", "lat": 19.486791, "lng": -100.349534
+},{
+"label": "El Polvorín", "lat": 19.452591, "lng": -100.298874
+},{
+"label": "La Aguacatera del Monte", "lat": 19.401708, "lng": -100.35844
+},{
+"label": "Dos Ríos (Barbechos)", "lat": 19.346111, "lng": -100.384167
+},{
+"label": "Tercera Manzana de Manzanillos (El Rancho)", "lat": 19.442929, "lng": -100.274544
+},{
+"label": "Camémbaro", "lat": 19.428295, "lng": -100.392822
+},{
+"label": "Rosa Santa", "lat": 19.396167, "lng": -100.341469
+},{
+"label": "El Palmar (Piedra de Cal)", "lat": 19.398784, "lng": -100.467599
+},{
+"label": "La Viguita (Cuarta Manzana de Crescencio Morales)", "lat": 19.466291, "lng": -100.256766
+},{
+"label": "El Espinal (Los Espinales)", "lat": 19.451255, "lng": -100.244671
+},{
+"label": "La Cortina", "lat": 19.391481, "lng": -100.424822
+},{
+"label": "Mesa de los Alzati (Mesa de San Felipe)", "lat": 19.499506, "lng": -100.38978
+},{
+"label": "Silva de Arriba (El Chorrito)", "lat": 19.381166, "lng": -100.342535
+},{
+"label": "Río de Guadalupe (Cuarta Manzana de Crescencio Morales)", "lat": 19.468724, "lng": -100.247062
+},{
+"label": "El Escobal (Tercera Manzana de San Miguel)", "lat": 19.402163, "lng": -100.363174
+},{
+"label": "Puerto de los Espinos", "lat": 19.422754, "lng": -100.434658
+},{
+"label": "Segunda Manzana de San Felipe (La Resistol)", "lat": 19.485278, "lng": -100.389722
+},{
+"label": "Boca de la Cañada (Quarta Manzana de Crescencio Morales)", "lat": 19.456526, "lng": -100.235005
+},{
+"label": "Los Escobales (Quinta Manzana de Crescencio Morales)", "lat": 19.461941, "lng": -100.257103
+},{
+"label": "Rosas de Zícata", "lat": 19.322053, "lng": -100.375779
+},{
+"label": "El Hortelano (Puerto de Santa María)", "lat": 19.478659, "lng": -100.368838
+},{
+"label": "Casa Colorada", "lat": 19.4042, "lng": -100.439844
+},{
+"label": "Lomas del Sol", "lat": 19.423187, "lng": -100.382468
+},{
+"label": "Timbineo los Contreras", "lat": 19.411598, "lng": -100.452223
+},{
+"label": "Macutzio", "lat": 19.500193, "lng": -100.354544
+},{
+"label": "Puentecillas (Tercera Manzana de Donaciano Ojeda)", "lat": 19.480689, "lng": -100.305364
+},{
+"label": "Rincón del Ahorcado", "lat": 19.365838, "lng": -100.310332
+},{
+"label": "La Cantina", "lat": 19.449866, "lng": -100.380621
+},{
+"label": "El Puerto (Tercera Manzana)", "lat": 19.384781, "lng": -100.468149
+},{
+"label": "Puentecillas (Tercera Manzana de Zirahuato)", "lat": 19.508236, "lng": -100.405657
+},{
+"label": "Kilómetro Once", "lat": 19.362619, "lng": -100.339297
+},{
+"label": "Mesa de Dos Ríos (La Mesa Octava Manzana)", "lat": 19.341391, "lng": -100.379595
+},{
+"label": "El Tizate", "lat": 19.370881, "lng": -100.43588
+},{
+"label": "Colonia Emiliano Zapata (San Juan Zitácuaro)", "lat": 19.448028, "lng": -100.307054
+},{
+"label": "La Pera (La Mora el Aguacate)", "lat": 19.332644, "lng": -100.346055
+},{
+"label": "La Joya de Manzanillo (Segunda Manzana)", "lat": 19.442226, "lng": -100.302688
+},{
+"label": "La Pinzanera (Cémoro)", "lat": 19.331287, "lng": -100.460591
+},{
+"label": "El Aguacate", "lat": 19.416944, "lng": -100.339444
+},{
+"label": "El Abuelo", "lat": 19.404967, "lng": -100.42018
+},{
+"label": "Agua Blanca (La Palma)", "lat": 19.501085, "lng": -100.377216
+},{
+"label": "Albergue Shalom", "lat": 19.44017, "lng": -100.268931
+},{
+"label": "La Mesa del Rincón de Curungueo", "lat": 19.499591, "lng": -100.33752
+},{
+"label": "Los Zapotes (Puerto los Zapotes)", "lat": 19.363086, "lng": -100.413063
+},{
+"label": "Las Casas Blancas", "lat": 19.386203, "lng": -100.421026
+},{
+"label": "El Capire", "lat": 19.407122, "lng": -100.476664
+},{
+"label": "El Tigrito (Segunda Manzana de Crescencio Morales)", "lat": 19.464341, "lng": -100.233458
+},{
+"label": "El Campamento (Sexta Manzana de Nicolás Romero)", "lat": 19.413571, "lng": -100.2811
+},{
+"label": "Cerro Ancho (Segunda Manzana de Nicolás Romero)", "lat": 19.409444, "lng": -100.321111
+},{
+"label": "El Santísimo (Quinta Manzana de Crescencio Morales)", "lat": 19.466944, "lng": -100.275833
+}]

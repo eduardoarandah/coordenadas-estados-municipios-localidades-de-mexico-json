@@ -1,0 +1,143 @@
+[{
+"label": "La Ventana", "lat": 18.425235, "lng": -100.037337
+},{
+"label": "El Barrancón", "lat": 18.429656, "lng": -100.126664
+},{
+"label": "Los Peña", "lat": 18.477991, "lng": -100.069384
+},{
+"label": "Tiquimil", "lat": 18.409271, "lng": -100.077213
+},{
+"label": "El Salto", "lat": 18.437137, "lng": -100.035926
+},{
+"label": "Villa Hermosa", "lat": 18.438856, "lng": -100.056834
+},{
+"label": "El Cruztel", "lat": 18.385043, "lng": -100.147446
+},{
+"label": "El Cantón", "lat": 18.406356, "lng": -100.047329
+},{
+"label": "Los Cuahulotes (Los Cuajilotes)", "lat": 18.467106, "lng": -100.006342
+},{
+"label": "Agua Fría", "lat": 18.430203, "lng": -100.050881
+},{
+"label": "El Mirador", "lat": 18.466999, "lng": -100.014076
+},{
+"label": "Teteyo el Bajo (Teteyo)", "lat": 18.461747, "lng": -100.115843
+},{
+"label": "Calentulario", "lat": 18.423816, "lng": -100.169495
+},{
+"label": "Puerto del Aire", "lat": 18.402921, "lng": -100.019896
+},{
+"label": "Los Encinos", "lat": 18.420403, "lng": -100.142752
+},{
+"label": "Toribio Alejandro", "lat": 18.418274, "lng": -100.079807
+},{
+"label": "Arroyo Seco", "lat": 18.372149, "lng": -100.117093
+},{
+"label": "Ixtepec de San Simón", "lat": 18.476631, "lng": -100.094472
+},{
+"label": "Los Hornos", "lat": 18.48099, "lng": -100.159039
+},{
+"label": "Lídice", "lat": 18.466425, "lng": -100.021646
+},{
+"label": "Vuelta Grande", "lat": 18.469923, "lng": -100.04227
+},{
+"label": "Acapetlahuaya", "lat": 18.418485, "lng": -100.072052
+},{
+"label": "Zapotitlán", "lat": 18.440377, "lng": -100.0587
+},{
+"label": "Santa Catarina", "lat": 18.515776, "lng": -100.090092
+},{
+"label": "El Zapote", "lat": 18.396651, "lng": -100.168225
+},{
+"label": "Cerro de San Miguel", "lat": 18.407072, "lng": -100.113124
+},{
+"label": "La Providencia", "lat": 18.40374, "lng": -100.143869
+},{
+"label": "Cuahuxilopa (Cuaxilopa)", "lat": 18.432062, "lng": -100.216203
+},{
+"label": "Teteyo el Alto", "lat": 18.460408, "lng": -100.108776
+},{
+"label": "Coapango", "lat": 18.442079, "lng": -100.086812
+},{
+"label": "Río Chiquito", "lat": 18.499203, "lng": -100.057852
+},{
+"label": "Amates Grandes", "lat": 18.394613, "lng": -100.117441
+},{
+"label": "Coyula", "lat": 18.425482, "lng": -100.046159
+},{
+"label": "El Texcal", "lat": 18.392896, "lng": -100.093363
+},{
+"label": "El Cascalote", "lat": 18.391127, "lng": -100.151718
+},{
+"label": "Mina de la Concepción", "lat": 18.434289, "lng": -100.187346
+},{
+"label": "Los Cuajilotes el Bajo", "lat": 18.460167, "lng": -100.010356
+},{
+"label": "Hueyatenco", "lat": 18.432537, "lng": -100.106225
+},{
+"label": "Rancho Viejo", "lat": 18.477978, "lng": -100.082826
+},{
+"label": "Nahuicalli (Cuadrilla Nueva)", "lat": 18.432294, "lng": -100.067047
+},{
+"label": "Pata de Venado", "lat": 18.436505, "lng": -100.132295
+},{
+"label": "El Ocotito", "lat": 18.466279, "lng": -100.077206
+},{
+"label": "El Crucero de Acapetlahuaya", "lat": 18.400657, "lng": -100.063844
+},{
+"label": "El Almacén", "lat": 18.391318, "lng": -100.125883
+},{
+"label": "Huey-Cal (Filo Hueycalli)", "lat": 18.450758, "lng": -100.17005
+},{
+"label": "Hueycalli", "lat": 18.450133, "lng": -100.150666
+},{
+"label": "Los Mangos", "lat": 18.432701, "lng": -100.027411
+},{
+"label": "Tierra Colorada", "lat": 18.420228, "lng": -100.084634
+},{
+"label": "Colonia Simón Tovar (Puente de Arroyo Seco)", "lat": 18.378901, "lng": -100.154989
+},{
+"label": "Pozo Blanco", "lat": 18.367431, "lng": -100.09255
+},{
+"label": "Cuadrilla Nueva", "lat": 18.412621, "lng": -100.160839
+},{
+"label": "Ocotepec", "lat": 18.420023, "lng": -100.109861
+},{
+"label": "Parota San Simón", "lat": 18.479226, "lng": -100.013791
+},{
+"label": "Los Pinzanes", "lat": 18.397411, "lng": -100.149787
+},{
+"label": "Encino Solo", "lat": 18.402794, "lng": -100.13346
+},{
+"label": "La Esmeralda", "lat": 18.344228, "lng": -100.081415
+},{
+"label": "Tianquizolco", "lat": 18.403005, "lng": -100.162504
+},{
+"label": "Cerro el Limón", "lat": 18.436315, "lng": -100.147828
+},{
+"label": "Las Ceibitas", "lat": 18.40175, "lng": -100.081349
+},{
+"label": "Puerto de la Gloria", "lat": 18.470756, "lng": -100.107827
+},{
+"label": "Sabino Alto", "lat": 18.403614, "lng": -100.118314
+},{
+"label": "Peña el Órgano Sur", "lat": 18.450224, "lng": -100.199669
+},{
+"label": "Puente de Tierra", "lat": 18.391217, "lng": -100.063488
+},{
+"label": "Las Cañitas", "lat": 18.410723, "lng": -100.025463
+},{
+"label": "El Revelado", "lat": 18.377213, "lng": -100.151929
+},{
+"label": "Chipilatlán (La Memela)", "lat": 18.456532, "lng": -100.163711
+},{
+"label": "Cueva del Tigre", "lat": 18.46559, "lng": -100.131319
+},{
+"label": "Los Ciruelos", "lat": 18.477145, "lng": -100.126994
+},{
+"label": "Los Amatitos", "lat": 18.428266, "lng": -100.088816
+},{
+"label": "Callehualtitla", "lat": 18.454309, "lng": -100.091208
+},{
+"label": "San Simón Otzumba", "lat": 18.513253, "lng": -100.070325
+}]

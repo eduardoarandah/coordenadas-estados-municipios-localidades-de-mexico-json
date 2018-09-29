@@ -1,0 +1,247 @@
+[{
+"label": "La Concordia", "lat": 15.917240827651518, "lng": -92.85253200378787,"info": "total: 528","children": "data/mexico/chiapas/la-concordia.json"
+},{
+"label": "Tumbalá", "lat": 17.307621674796753, "lng": -92.27921539024389,"info": "total: 123","children": "data/mexico/chiapas/tumbala.json"
+},{
+"label": "Venustiano Carranza", "lat": 16.325536934604905, "lng": -92.55850425613082,"info": "total: 367","children": "data/mexico/chiapas/venustiano-carranza.json"
+},{
+"label": "Ixtacomitán", "lat": 17.428149887323944, "lng": -93.09379990140846,"info": "total: 71","children": "data/mexico/chiapas/ixtacomitan.json"
+},{
+"label": "Altamirano", "lat": 16.65360764285714, "lng": -91.85502077380953,"info": "total: 168","children": "data/mexico/chiapas/altamirano.json"
+},{
+"label": "San Andrés Duraznal", "lat": 17.157193538461538, "lng": -92.79640253846152,"info": "total: 13","children": "data/mexico/chiapas/san-andres-duraznal.json"
+},{
+"label": "Villaflores", "lat": 16.342265272824925, "lng": -93.33723668635875,"info": "total: 931","children": "data/mexico/chiapas/villaflores.json"
+},{
+"label": "La Grandeza", "lat": 15.509488888888889, "lng": -92.22246975555557,"info": "total: 45","children": "data/mexico/chiapas/la-grandeza.json"
+},{
+"label": "Tapachula", "lat": 14.950354487854243, "lng": -92.3008391578947,"info": "total: 494","children": "data/mexico/chiapas/tapachula.json"
+},{
+"label": "Juárez", "lat": 17.694047604166663, "lng": -93.18729072916666,"info": "total: 48","children": "data/mexico/chiapas/juarez.json"
+},{
+"label": "Larráinzar", "lat": 16.913470088607596, "lng": -92.76309829113926,"info": "total: 79","children": "data/mexico/chiapas/larrainzar.json"
+},{
+"label": "Tuxtla Chico", "lat": 14.926068847457623, "lng": -92.18850733898303,"info": "total: 59","children": "data/mexico/chiapas/tuxtla-chico.json"
+},{
+"label": "Cintalapa", "lat": 16.652793655332296, "lng": -93.84864547140656,"info": "total: 647","children": "data/mexico/chiapas/cintalapa.json"
+},{
+"label": "Huehuetán", "lat": 15.029859267857152, "lng": -92.40390035714283,"info": "total: 112","children": "data/mexico/chiapas/huehuetan.json"
+},{
+"label": "Yajalón", "lat": 17.185861519047613, "lng": -92.32835095238096,"info": "total: 210","children": "data/mexico/chiapas/yajalon.json"
+},{
+"label": "Las Rosas", "lat": 16.35768490476191, "lng": -92.3710333253968,"info": "total: 126","children": "data/mexico/chiapas/las-rosas.json"
+},{
+"label": "Villa Corzo", "lat": 16.106820460098557, "lng": -93.22494856551718,"info": "total: 1015","children": "data/mexico/chiapas/villa-corzo.json"
+},{
+"label": "Chanal", "lat": 16.62035135, "lng": -92.20212350000001,"info": "total: 20","children": "data/mexico/chiapas/chanal.json"
+},{
+"label": "Huixtla", "lat": 15.145184451923077, "lng": -92.5106806875,"info": "total: 208","children": "data/mexico/chiapas/huixtla.json"
+},{
+"label": "Ostuacán", "lat": 17.439241115384615, "lng": -93.41578270192312,"info": "total: 104","children": "data/mexico/chiapas/ostuacan.json"
+},{
+"label": "Sitalá", "lat": 17.039935885496185, "lng": -92.35216249618318,"info": "total: 131","children": "data/mexico/chiapas/sitala.json"
+},{
+"label": "Sunuapa", "lat": 17.48437992857143, "lng": -93.24720771428572,"info": "total: 14","children": "data/mexico/chiapas/sunuapa.json"
+},{
+"label": "Cacahoatán", "lat": 15.05605829906542, "lng": -92.16844302803736,"info": "total: 107","children": "data/mexico/chiapas/cacahoatan.json"
+},{
+"label": "San Fernando", "lat": 16.90270255487804, "lng": -93.22142694512195,"info": "total: 164","children": "data/mexico/chiapas/san-fernando.json"
+},{
+"label": "Tapilula", "lat": 17.25386263829787, "lng": -93.00934495744681,"info": "total: 47","children": "data/mexico/chiapas/tapilula.json"
+},{
+"label": "El Parral", "lat": 16.3210445, "lng": -92.99487392187498,"info": "total: 128","children": "data/mexico/chiapas/el-parral.json"
+},{
+"label": "La Libertad", "lat": 17.576403811764706, "lng": -91.75004155294117,"info": "total: 85","children": "data/mexico/chiapas/la-libertad.json"
+},{
+"label": "Acapetahua", "lat": 15.265048713615025, "lng": -92.75549820187791,"info": "total: 213","children": "data/mexico/chiapas/acapetahua.json"
+},{
+"label": "Ocozocoautla de Espinosa", "lat": 16.778011503486738, "lng": -93.43569635704328,"info": "total: 717","children": "data/mexico/chiapas/ocozocoautla-de-espinosa.json"
+},{
+"label": "Pantepec", "lat": 17.18947467924528, "lng": -93.05356186792454,"info": "total: 53","children": "data/mexico/chiapas/pantepec.json"
+},{
+"label": "Reforma", "lat": 17.869011485714285, "lng": -93.2250151142857,"info": "total: 35","children": "data/mexico/chiapas/reforma.json"
+},{
+"label": "La Trinitaria", "lat": 16.018193913140323, "lng": -91.93120103786195,"info": "total: 449","children": "data/mexico/chiapas/la-trinitaria.json"
+},{
+"label": "Pueblo Nuevo Solistahuacán", "lat": 17.211436623529405, "lng": -92.84813270588236,"info": "total: 85","children": "data/mexico/chiapas/pueblo-nuevo-solistahuacan.json"
+},{
+"label": "Teopisca", "lat": 16.559414487999994, "lng": -92.516290624,"info": "total: 125","children": "data/mexico/chiapas/teopisca.json"
+},{
+"label": "Zinacantán", "lat": 16.724472666666674, "lng": -92.77955776190475,"info": "total: 63","children": "data/mexico/chiapas/zinacantan.json"
+},{
+"label": "Chalchihuitán", "lat": 17.0075754137931, "lng": -92.59785855172413,"info": "total: 58","children": "data/mexico/chiapas/chalchihuitan.json"
+},{
+"label": "Siltepec", "lat": 15.550210414634135, "lng": -92.38970729878052,"info": "total: 164","children": "data/mexico/chiapas/siltepec.json"
+},{
+"label": "Chicoasén", "lat": 16.999198772727272, "lng": -93.11662277272727,"info": "total: 22","children": "data/mexico/chiapas/chicoasen.json"
+},{
+"label": "Sabanilla", "lat": 17.30520123943663, "lng": -92.58634271830985,"info": "total: 71","children": "data/mexico/chiapas/sabanilla.json"
+},{
+"label": "Santiago el Pinar", "lat": 16.946848199999998, "lng": -92.7202842,"info": "total: 15","children": "data/mexico/chiapas/santiago-el-pinar.json"
+},{
+"label": "Mezcalapa", "lat": 17.21949857142858, "lng": -93.60038148000001,"info": "total: 175","children": "data/mexico/chiapas/mezcalapa.json"
+},{
+"label": "San Lucas", "lat": 16.601512076923076, "lng": -92.698325,"info": "total: 13","children": "data/mexico/chiapas/san-lucas.json"
+},{
+"label": "Tenejapa", "lat": 16.842863208955226, "lng": -92.48158249253731,"info": "total: 67","children": "data/mexico/chiapas/tenejapa.json"
+},{
+"label": "Francisco León", "lat": 17.28302186, "lng": -93.2868029,"info": "total: 50","children": "data/mexico/chiapas/francisco-leon.json"
+},{
+"label": "Bejucal de Ocampo", "lat": 15.489568394736837, "lng": -92.15663421052632,"info": "total: 38","children": "data/mexico/chiapas/bejucal-de-ocampo.json"
+},{
+"label": "Ocotepec", "lat": 17.218033674999994, "lng": -93.17396065000003,"info": "total: 40","children": "data/mexico/chiapas/ocotepec.json"
+},{
+"label": "Suchiate", "lat": 14.643664745222937, "lng": -92.22031378343951,"info": "total: 157","children": "data/mexico/chiapas/suchiate.json"
+},{
+"label": "Pantelhó", "lat": 17.06336732520325, "lng": -92.45488077235774,"info": "total: 123","children": "data/mexico/chiapas/pantelho.json"
+},{
+"label": "Chapultenango", "lat": 17.331837542857144, "lng": -93.12755568571433,"info": "total: 35","children": "data/mexico/chiapas/chapultenango.json"
+},{
+"label": "Solosuchiapa", "lat": 17.394394378787872, "lng": -93.01296066666666,"info": "total: 66","children": "data/mexico/chiapas/solosuchiapa.json"
+},{
+"label": "Villa Comaltitlán", "lat": 15.189328139072845, "lng": -92.58812084105965,"info": "total: 151","children": "data/mexico/chiapas/villa-comaltitlan.json"
+},{
+"label": "Amatán", "lat": 17.386066782945743, "lng": -92.84937006201548,"info": "total: 129","children": "data/mexico/chiapas/amatan.json"
+},{
+"label": "Palenque", "lat": 17.493244427914107, "lng": -91.87922344325148,"info": "total: 652","children": "data/mexico/chiapas/palenque.json"
+},{
+"label": "El Porvenir", "lat": 15.432400962962966, "lng": -92.26425781481478,"info": "total: 54","children": "data/mexico/chiapas/el-porvenir.json"
+},{
+"label": "Chilón", "lat": 17.097469664634154, "lng": -92.12618412195111,"info": "total: 656","children": "data/mexico/chiapas/chilon.json"
+},{
+"label": "Mitontic", "lat": 16.876473722222222, "lng": -92.57137377777777,"info": "total: 18","children": "data/mexico/chiapas/mitontic.json"
+},{
+"label": "Soyaló", "lat": 16.91369166666667, "lng": -92.96568042857145,"info": "total: 21","children": "data/mexico/chiapas/soyalo.json"
+},{
+"label": "Tuxtla Gutiérrez", "lat": 16.70618085815603, "lng": -93.13682344680853,"info": "total: 141","children": "data/mexico/chiapas/tuxtla-gutierrez.json"
+},{
+"label": "Ixhuatán", "lat": 17.298554038461535, "lng": -93.00859013461539,"info": "total: 52","children": "data/mexico/chiapas/ixhuatan.json"
+},{
+"label": "Totolapa", "lat": 16.516904187500003, "lng": -92.68133946875,"info": "total: 32","children": "data/mexico/chiapas/totolapa.json"
+},{
+"label": "Ixtapa", "lat": 16.81207987654321, "lng": -92.91406099999998,"info": "total: 81","children": "data/mexico/chiapas/ixtapa.json"
+},{
+"label": "La Independencia", "lat": 16.213940718181824, "lng": -91.74399550909091,"info": "total: 110","children": "data/mexico/chiapas/la-independencia.json"
+},{
+"label": "Las Margaritas", "lat": 16.34010774820143, "lng": -91.75604492805759,"info": "total: 417","children": "data/mexico/chiapas/las-margaritas.json"
+},{
+"label": "Osumacinta", "lat": 16.8882512, "lng": -93.07042846666667,"info": "total: 15","children": "data/mexico/chiapas/osumacinta.json"
+},{
+"label": "Rincón Chamula San Pedro", "lat": 17.20831777777778, "lng": -92.93035666666667,"info": "total: 9","children": "data/mexico/chiapas/rincon-chamula-san-pedro.json"
+},{
+"label": "Emiliano Zapata", "lat": 16.51703823140497, "lng": -92.88178419008263,"info": "total: 121","children": "data/mexico/chiapas/emiliano-zapata.json"
+},{
+"label": "Aldama", "lat": 16.92091580952381, "lng": -92.69118652380952,"info": "total: 21","children": "data/mexico/chiapas/aldama.json"
+},{
+"label": "Tzimol", "lat": 16.121155637168137, "lng": -92.244739840708,"info": "total: 113","children": "data/mexico/chiapas/tzimol.json"
+},{
+"label": "Nicolás Ruíz", "lat": 16.448021, "lng": -92.603947,"info": "total: 3","children": "data/mexico/chiapas/nicolas-ruiz.json"
+},{
+"label": "Escuintla", "lat": 15.337058945544555, "lng": -92.57315225742573,"info": "total: 202","children": "data/mexico/chiapas/escuintla.json"
+},{
+"label": "Salto de Agua", "lat": 17.418377556603748, "lng": -92.20100028616355,"info": "total: 318","children": "data/mexico/chiapas/salto-de-agua.json"
+},{
+"label": "Tapalapa", "lat": 17.23087195238095, "lng": -93.11635557142856,"info": "total: 21","children": "data/mexico/chiapas/tapalapa.json"
+},{
+"label": "Catazajá", "lat": 17.746308823232322, "lng": -92.01695315656566,"info": "total: 198","children": "data/mexico/chiapas/catazaja.json"
+},{
+"label": "Oxchuc", "lat": 16.79702106493507, "lng": -92.2987653896104,"info": "total: 154","children": "data/mexico/chiapas/oxchuc.json"
+},{
+"label": "Tonalá", "lat": 15.986368905053576, "lng": -93.67879222052073,"info": "total: 653","children": "data/mexico/chiapas/tonala.json"
+},{
+"label": "Simojovel", "lat": 17.147167360655743, "lng": -92.67417128688523,"info": "total: 122","children": "data/mexico/chiapas/simojovel.json"
+},{
+"label": "Jitotol", "lat": 17.096718034482755, "lng": -92.83875115517242,"info": "total: 58","children": "data/mexico/chiapas/jitotol.json"
+},{
+"label": "Motozintla", "lat": 15.297850859237531, "lng": -92.34435971847499,"info": "total: 341","children": "data/mexico/chiapas/motozintla.json"
+},{
+"label": "Tuzantán", "lat": 15.136983503875962, "lng": -92.42174257364339,"info": "total: 129","children": "data/mexico/chiapas/tuzantan.json"
+},{
+"label": "Mazapa de Madero", "lat": 15.364278392156862, "lng": -92.18826739215686,"info": "total: 51","children": "data/mexico/chiapas/mazapa-de-madero.json"
+},{
+"label": "Copainalá", "lat": 17.104924045454545, "lng": -93.24270103896103,"info": "total: 154","children": "data/mexico/chiapas/copainala.json"
+},{
+"label": "Coapilla", "lat": 17.118280297872346, "lng": -93.12723014893614,"info": "total: 47","children": "data/mexico/chiapas/coapilla.json"
+},{
+"label": "Acacoyagua", "lat": 15.38803774637681, "lng": -92.69938805797099,"info": "total: 138","children": "data/mexico/chiapas/acacoyagua.json"
+},{
+"label": "Chiapilla", "lat": 16.553413052631576, "lng": -92.72869315789474,"info": "total: 19","children": "data/mexico/chiapas/chiapilla.json"
+},{
+"label": "Angel Albino Corzo", "lat": 15.748120269005849, "lng": -92.67318057894741,"info": "total: 171","children": "data/mexico/chiapas/angel-albino-corzo.json"
+},{
+"label": "Comitán de Domínguez", "lat": 16.25351293949044, "lng": -92.17768940764333,"info": "total: 314","children": "data/mexico/chiapas/comitan-de-dominguez.json"
+},{
+"label": "Chicomuselo", "lat": 15.762532000000016, "lng": -92.36584604489796,"info": "total: 245","children": "data/mexico/chiapas/chicomuselo.json"
+},{
+"label": "Amatenango de la Frontera", "lat": 15.556977504347822, "lng": -92.09513821739128,"info": "total: 115","children": "data/mexico/chiapas/amatenango-de-la-frontera.json"
+},{
+"label": "Montecristo de Guerrero", "lat": 15.677014724999996, "lng": -92.64345182500003,"info": "total: 80","children": "data/mexico/chiapas/montecristo-de-guerrero.json"
+},{
+"label": "Chiapa de Corzo", "lat": 16.60677761142857, "lng": -92.98730251428574,"info": "total: 350","children": "data/mexico/chiapas/chiapa-de-corzo.json"
+},{
+"label": "San Cristóbal de las Casas", "lat": 16.689581562499995, "lng": -92.6094687946429,"info": "total: 112","children": "data/mexico/chiapas/san-cristobal-de-las-casas.json"
+},{
+"label": "Arriaga", "lat": 16.219205327823694, "lng": -93.93681330303026,"info": "total: 363","children": "data/mexico/chiapas/arriaga.json"
+},{
+"label": "Frontera Comalapa", "lat": 15.740894436507938, "lng": -92.07712514682547,"info": "total: 252","children": "data/mexico/chiapas/frontera-comalapa.json"
+},{
+"label": "Pichucalco", "lat": 17.540883268292685, "lng": -93.16361599999999,"info": "total: 82","children": "data/mexico/chiapas/pichucalco.json"
+},{
+"label": "Jiquipilas", "lat": 16.567663985221678, "lng": -93.6415029162562,"info": "total: 406","children": "data/mexico/chiapas/jiquipilas.json"
+},{
+"label": "Mazatán", "lat": 14.878009993548389, "lng": -92.46852730967736,"info": "total: 155","children": "data/mexico/chiapas/mazatan.json"
+},{
+"label": "Ocosingo", "lat": 16.87497858616649, "lng": -91.81465600937858,"info": "total: 853","children": "data/mexico/chiapas/ocosingo.json"
+},{
+"label": "Socoltenango", "lat": 16.17549933913043, "lng": -92.36679882608694,"info": "total: 115","children": "data/mexico/chiapas/socoltenango.json"
+},{
+"label": "Rayón", "lat": 17.20085926829268, "lng": -92.99831026829268,"info": "total: 41","children": "data/mexico/chiapas/rayon.json"
+},{
+"label": "Acala", "lat": 16.518831046153846, "lng": -92.81935071538459,"info": "total: 130","children": "data/mexico/chiapas/acala.json"
+},{
+"label": "Amatenango del Valle", "lat": 16.507879034482762, "lng": -92.36224260344825,"info": "total: 58","children": "data/mexico/chiapas/amatenango-del-valle.json"
+},{
+"label": "San Juan Cancuc", "lat": 16.941515853658537, "lng": -92.3872784390244,"info": "total: 41","children": "data/mexico/chiapas/san-juan-cancuc.json"
+},{
+"label": "Marqués de Comillas", "lat": 16.2160615, "lng": -90.75933642857142,"info": "total: 28","children": "data/mexico/chiapas/marques-de-comillas.json"
+},{
+"label": "Chamula", "lat": 16.81975385620915, "lng": -92.67801171895425,"info": "total: 153","children": "data/mexico/chiapas/chamula.json"
+},{
+"label": "Ixtapangajoya", "lat": 17.47881320833333, "lng": -92.987326,"info": "total: 24","children": "data/mexico/chiapas/ixtapangajoya.json"
+},{
+"label": "Mapastepec", "lat": 15.422098634651594, "lng": -92.94413357062146,"info": "total: 531","children": "data/mexico/chiapas/mapastepec.json"
+},{
+"label": "Unión Juárez", "lat": 15.062294749999996, "lng": -92.09699692500001,"info": "total: 40","children": "data/mexico/chiapas/union-juarez.json"
+},{
+"label": "Huitiupán", "lat": 17.24104089887641, "lng": -92.70778700000001,"info": "total: 89","children": "data/mexico/chiapas/huitiupan.json"
+},{
+"label": "Tecpatán", "lat": 17.16243396370968, "lng": -93.3826678508064,"info": "total: 248","children": "data/mexico/chiapas/tecpatan.json"
+},{
+"label": "Bochil", "lat": 17.00728646753246, "lng": -92.92911883116882,"info": "total: 77","children": "data/mexico/chiapas/bochil.json"
+},{
+"label": "Huixtán", "lat": 16.706950904761907, "lng": -92.40212266666666,"info": "total: 63","children": "data/mexico/chiapas/huixtan.json"
+},{
+"label": "Suchiapa", "lat": 16.60845160902255, "lng": -93.1006881578947,"info": "total: 133","children": "data/mexico/chiapas/suchiapa.json"
+},{
+"label": "Benemérito de las Américas", "lat": 16.376008102941178, "lng": -90.5711583235294,"info": "total: 68","children": "data/mexico/chiapas/benemerito-de-las-americas.json"
+},{
+"label": "Chenalhó", "lat": 16.953259384, "lng": -92.58221858399993,"info": "total: 125","children": "data/mexico/chiapas/chenalho.json"
+},{
+"label": "Frontera Hidalgo", "lat": 14.752565857142857, "lng": -92.20903435714285,"info": "total: 14","children": "data/mexico/chiapas/frontera-hidalgo.json"
+},{
+"label": "Tila", "lat": 17.35325760897435, "lng": -92.48204205128208,"info": "total: 156","children": "data/mexico/chiapas/tila.json"
+},{
+"label": "Maravilla Tenejapa", "lat": 16.205752542857137, "lng": -91.26010277142855,"info": "total: 35","children": "data/mexico/chiapas/maravilla-tenejapa.json"
+},{
+"label": "Pijijiapan", "lat": 15.650673486624202, "lng": -93.2075897248407,"info": "total: 785","children": "data/mexico/chiapas/pijijiapan.json"
+},{
+"label": "Capitán Luis Ángel Vidal", "lat": 15.569333081081078, "lng": -92.59995767567567,"info": "total: 37","children": "data/mexico/chiapas/capitan-luis-angel-vidal.json"
+},{
+"label": "Bella Vista", "lat": 15.616179593023253, "lng": -92.23687018604652,"info": "total: 86","children": "data/mexico/chiapas/bella-vista.json"
+},{
+"label": "Berriozábal", "lat": 16.832744494594593, "lng": -93.3043381675676,"info": "total: 370","children": "data/mexico/chiapas/berriozabal.json"
+},{
+"label": "Metapa", "lat": 14.827521142857142, "lng": -92.19799842857142,"info": "total: 7","children": "data/mexico/chiapas/metapa.json"
+},{
+"label": "El Bosque", "lat": 17.017834525423726, "lng": -92.74483822033896,"info": "total: 59","children": "data/mexico/chiapas/el-bosque.json"
+}]

@@ -1,0 +1,143 @@
+[{
+"label": "San José Naranjal", "lat": 20.562133, "lng": -98.177681
+},{
+"label": "La Laja I", "lat": 20.551149, "lng": -98.214898
+},{
+"label": "El Súchil", "lat": 20.579294, "lng": -98.229967
+},{
+"label": "La Joya I", "lat": 20.549138, "lng": -98.220688
+},{
+"label": "Loma de Xiconténcatl", "lat": 20.557058, "lng": -98.194592
+},{
+"label": "Poza Seca", "lat": 20.552094, "lng": -98.177403
+},{
+"label": "Barrio Arriba de Tuzancalli", "lat": 20.674918, "lng": -98.146619
+},{
+"label": "Tonalixco (El Plan)", "lat": 20.512493, "lng": -98.262613
+},{
+"label": "Apetlaco", "lat": 20.696431, "lng": -98.179882
+},{
+"label": "Monterrey", "lat": 20.648529, "lng": -98.156659
+},{
+"label": "Los Pipianes", "lat": 20.694787, "lng": -98.195187
+},{
+"label": "La Jabonera", "lat": 20.723629, "lng": -98.142793
+},{
+"label": "San Miguel", "lat": 20.602328, "lng": -98.166349
+},{
+"label": "El Mirador", "lat": 20.630372, "lng": -98.195716
+},{
+"label": "La Primavera", "lat": 20.605875, "lng": -98.121989
+},{
+"label": "Cruz Chiquita", "lat": 20.543419, "lng": -98.196948
+},{
+"label": "Las Goteras", "lat": 20.661792, "lng": -98.13405
+},{
+"label": "Loma Larga (Astillero de la Llave)", "lat": 20.559404, "lng": -98.216688
+},{
+"label": "Tzilosúchitl", "lat": 20.712658, "lng": -98.160594
+},{
+"label": "Despensa Grande", "lat": 20.53111, "lng": -98.24139
+},{
+"label": "La Joya", "lat": 20.653309, "lng": -98.189617
+},{
+"label": "Landero y Coss", "lat": 20.595741, "lng": -98.198065
+},{
+"label": "El Coyol", "lat": 20.674756, "lng": -98.185241
+},{
+"label": "Gómez Farías", "lat": 20.505667, "lng": -98.269329
+},{
+"label": "Arroyo Chico", "lat": 20.657727, "lng": -98.167861
+},{
+"label": "El Zapote", "lat": 20.694416, "lng": -98.163469
+},{
+"label": "Nuevo Chintipan", "lat": 20.661661, "lng": -98.198685
+},{
+"label": "La Deca", "lat": 20.526619, "lng": -98.199987
+},{
+"label": "El Tigre", "lat": 20.493399, "lng": -98.266204
+},{
+"label": "La Guitarra", "lat": 20.619367, "lng": -98.158277
+},{
+"label": "Barrio Abajo de Tuzancalli", "lat": 20.682228, "lng": -98.133253
+},{
+"label": "Cerca de Piedra", "lat": 20.590748, "lng": -98.163596
+},{
+"label": "La Hacienda Tuzancalli", "lat": 20.681274, "lng": -98.126806
+},{
+"label": "El Mirral", "lat": 20.567323, "lng": -98.218206
+},{
+"label": "La Pahua", "lat": 20.720136, "lng": -98.18385
+},{
+"label": "El Zopilote", "lat": 20.669001, "lng": -98.12704
+},{
+"label": "Querétaro (Queretano)", "lat": 20.523736, "lng": -98.263846
+},{
+"label": "Despensa Chica", "lat": 20.52169, "lng": -98.241666
+},{
+"label": "El Álamo", "lat": 20.551978, "lng": -98.20885
+},{
+"label": "Chintipan", "lat": 20.659668, "lng": -98.184588
+},{
+"label": "El Encinal Segundo", "lat": 20.626116, "lng": -98.188756
+},{
+"label": "Otatitlán", "lat": 20.635626, "lng": -98.138739
+},{
+"label": "Las Ánimas", "lat": 20.602795, "lng": -98.155758
+},{
+"label": "El Mirador de la Llave", "lat": 20.541077, "lng": -98.22923
+},{
+"label": "España", "lat": 20.527072, "lng": -98.252638
+},{
+"label": "El Potrero", "lat": 20.617845, "lng": -98.204948
+},{
+"label": "Texcá Chiquito", "lat": 20.642918, "lng": -98.171344
+},{
+"label": "Nuevo Apostoles", "lat": 20.701736, "lng": -98.177471
+},{
+"label": "Lindero de Landero y Coss", "lat": 20.592194, "lng": -98.175275
+},{
+"label": "El Coyol Encinal", "lat": 20.540515, "lng": -98.172593
+},{
+"label": "Palo Bendito (Loma de las Yemas)", "lat": 20.502426, "lng": -98.277563
+},{
+"label": "El Astillero", "lat": 20.608963, "lng": -98.198738
+},{
+"label": "Tierra Colorada", "lat": 20.640833, "lng": -98.199266
+},{
+"label": "Arroyo Grande (El Arroyo)", "lat": 20.667742, "lng": -98.156737
+},{
+"label": "Los Apóstoles", "lat": 20.701668, "lng": -98.190066
+},{
+"label": "Campeadero", "lat": 20.598855, "lng": -98.14236
+},{
+"label": "La Mina", "lat": 20.637901, "lng": -98.183363
+},{
+"label": "Víctor Rosales", "lat": 20.602461, "lng": -98.221828
+},{
+"label": "Tuzancalli", "lat": 20.679532, "lng": -98.139722
+},{
+"label": "Xalame", "lat": 20.667011, "lng": -98.182595
+},{
+"label": "Xicoténcatl (Palos Altos)", "lat": 20.564339, "lng": -98.208354
+},{
+"label": "El Llano", "lat": 20.561651, "lng": -98.181801
+},{
+"label": "Cruz de Piedra", "lat": 20.610584, "lng": -98.155956
+},{
+"label": "El Encinal Primero", "lat": 20.610265, "lng": -98.204073
+},{
+"label": "La Soledad", "lat": 20.704026, "lng": -98.1547
+},{
+"label": "La Llave", "lat": 20.55167, "lng": -98.20972
+},{
+"label": "Nuevo Apetlaco", "lat": 20.707468, "lng": -98.174306
+},{
+"label": "El Naranjal", "lat": 20.729265, "lng": -98.164646
+},{
+"label": "Tlachichilco", "lat": 20.621569, "lng": -98.199049
+},{
+"label": "Peña Blanca (El Lindero)", "lat": 20.505773, "lng": -98.286291
+},{
+"label": "El Cuixe", "lat": 20.545767, "lng": -98.199474
+}]

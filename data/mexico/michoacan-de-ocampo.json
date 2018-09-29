@@ -1,0 +1,227 @@
+[{
+"label": "Cojumatlán de Régules", "lat": 20.11411525, "lng": -102.8705225625,"info": "total: 16","children": "data/mexico/michoacan-de-ocampo/cojumatlan-de-regules.json"
+},{
+"label": "Venustiano Carranza", "lat": 20.125772666666673, "lng": -102.66939120512818,"info": "total: 39","children": "data/mexico/michoacan-de-ocampo/venustiano-carranza.json"
+},{
+"label": "Tepalcatepec", "lat": 19.05699834285715, "lng": -102.84359900952386,"info": "total: 105","children": "data/mexico/michoacan-de-ocampo/tepalcatepec.json"
+},{
+"label": "Tangancícuaro", "lat": 19.88364766666666, "lng": -102.23094483333335,"info": "total: 84","children": "data/mexico/michoacan-de-ocampo/tangancicuaro.json"
+},{
+"label": "Tlalpujahua", "lat": 19.78033424242424, "lng": -100.19686646969696,"info": "total: 66","children": "data/mexico/michoacan-de-ocampo/tlalpujahua.json"
+},{
+"label": "Aquila", "lat": 18.376067160747652, "lng": -103.22506826728979,"info": "total: 535","children": "data/mexico/michoacan-de-ocampo/aquila.json"
+},{
+"label": "Zamora", "lat": 20.021590944827594, "lng": -102.2869160068965,"info": "total: 145","children": "data/mexico/michoacan-de-ocampo/zamora.json"
+},{
+"label": "Juárez", "lat": 19.304560057692317, "lng": -100.43335315384616,"info": "total: 52","children": "data/mexico/michoacan-de-ocampo/juarez.json"
+},{
+"label": "Villamar", "lat": 19.96069772222222, "lng": -102.59906911111113,"info": "total: 54","children": "data/mexico/michoacan-de-ocampo/villamar.json"
+},{
+"label": "La Huacana", "lat": 18.8853239122807, "lng": -101.87498008771928,"info": "total: 171","children": "data/mexico/michoacan-de-ocampo/la-huacana.json"
+},{
+"label": "Buenavista", "lat": 19.191100609022556, "lng": -102.58339163157898,"info": "total: 133","children": "data/mexico/michoacan-de-ocampo/buenavista.json"
+},{
+"label": "Nuevo Urecho", "lat": 19.154020434782616, "lng": -101.86094750000002,"info": "total: 46","children": "data/mexico/michoacan-de-ocampo/nuevo-urecho.json"
+},{
+"label": "Susupuato", "lat": 19.19584600000001, "lng": -100.40688950000003,"info": "total: 94","children": "data/mexico/michoacan-de-ocampo/susupuato.json"
+},{
+"label": "Cherán", "lat": 19.71250542857143, "lng": -102.002324,"info": "total: 7","children": "data/mexico/michoacan-de-ocampo/cheran.json"
+},{
+"label": "Nuevo Parangaricutiro", "lat": 19.392256815789477, "lng": -102.1818097894737,"info": "total: 76","children": "data/mexico/michoacan-de-ocampo/nuevo-parangaricutiro.json"
+},{
+"label": "Penjamillo", "lat": 20.13415355223881, "lng": -101.91275211940295,"info": "total: 67","children": "data/mexico/michoacan-de-ocampo/penjamillo.json"
+},{
+"label": "Ario", "lat": 19.16219992907801, "lng": -101.70664370921982,"info": "total: 141","children": "data/mexico/michoacan-de-ocampo/ario.json"
+},{
+"label": "Chinicuila", "lat": 18.722323726872247, "lng": -103.38940804405284,"info": "total: 227","children": "data/mexico/michoacan-de-ocampo/chinicuila.json"
+},{
+"label": "Jiménez", "lat": 19.924049241379315, "lng": -101.729557,"info": "total: 29","children": "data/mexico/michoacan-de-ocampo/jimenez.json"
+},{
+"label": "Irimbo", "lat": 19.708521431818188, "lng": -100.46432361363635,"info": "total: 44","children": "data/mexico/michoacan-de-ocampo/irimbo.json"
+},{
+"label": "Panindícuaro", "lat": 20.009342820512828, "lng": -101.76260861538461,"info": "total: 39","children": "data/mexico/michoacan-de-ocampo/panindicuaro.json"
+},{
+"label": "Jacona", "lat": 19.948691317460323, "lng": -102.31915992063496,"info": "total: 63","children": "data/mexico/michoacan-de-ocampo/jacona.json"
+},{
+"label": "Coeneo", "lat": 19.81218804761905, "lng": -101.61833292857145,"info": "total: 42","children": "data/mexico/michoacan-de-ocampo/coeneo.json"
+},{
+"label": "Puruándiro", "lat": 20.11340694366198, "lng": -101.52290264788734,"info": "total: 71","children": "data/mexico/michoacan-de-ocampo/puruandiro.json"
+},{
+"label": "Carácuaro", "lat": 18.987142230769237, "lng": -101.04189031221718,"info": "total: 221","children": "data/mexico/michoacan-de-ocampo/caracuaro.json"
+},{
+"label": "Pátzcuaro", "lat": 19.507687423076934, "lng": -101.58243426923075,"info": "total: 104","children": "data/mexico/michoacan-de-ocampo/patzcuaro.json"
+},{
+"label": "Paracho", "lat": 19.642862815789478, "lng": -102.06010702631578,"info": "total: 38","children": "data/mexico/michoacan-de-ocampo/paracho.json"
+},{
+"label": "Tarímbaro", "lat": 19.7914954015748, "lng": -101.15028870866142,"info": "total: 127","children": "data/mexico/michoacan-de-ocampo/tarimbaro.json"
+},{
+"label": "Tuxpan", "lat": 19.567833341176478, "lng": -100.48594348235294,"info": "total: 85","children": "data/mexico/michoacan-de-ocampo/tuxpan.json"
+},{
+"label": "Sahuayo", "lat": 20.057762395348842, "lng": -102.75189088372093,"info": "total: 43","children": "data/mexico/michoacan-de-ocampo/sahuayo.json"
+},{
+"label": "Tanhuato", "lat": 20.284989826086957, "lng": -102.33892165217392,"info": "total: 23","children": "data/mexico/michoacan-de-ocampo/tanhuato.json"
+},{
+"label": "Coahuayana", "lat": 18.72699768518519, "lng": -103.63844950925932,"info": "total: 108","children": "data/mexico/michoacan-de-ocampo/coahuayana.json"
+},{
+"label": "Erongarícuaro", "lat": 19.593180259259263, "lng": -101.71938025925927,"info": "total: 27","children": "data/mexico/michoacan-de-ocampo/erongaricuaro.json"
+},{
+"label": "Zináparo", "lat": 20.16982515, "lng": -101.9992444,"info": "total: 20","children": "data/mexico/michoacan-de-ocampo/zinaparo.json"
+},{
+"label": "Santa Ana Maya", "lat": 20.04015903846154, "lng": -101.04089373076924,"info": "total: 26","children": "data/mexico/michoacan-de-ocampo/santa-ana-maya.json"
+},{
+"label": "Acuitzio", "lat": 19.47093217777778, "lng": -101.32892668888891,"info": "total: 45","children": "data/mexico/michoacan-de-ocampo/acuitzio.json"
+},{
+"label": "Charo", "lat": 19.659484791208786, "lng": -101.0128815054945,"info": "total: 91","children": "data/mexico/michoacan-de-ocampo/charo.json"
+},{
+"label": "San Lucas", "lat": 18.536830761904767, "lng": -100.75004542857141,"info": "total: 105","children": "data/mexico/michoacan-de-ocampo/san-lucas.json"
+},{
+"label": "Marcos Castellanos", "lat": 20.03551095555556, "lng": -102.97242351111112,"info": "total: 45","children": "data/mexico/michoacan-de-ocampo/marcos-castellanos.json"
+},{
+"label": "Salvador Escalante", "lat": 19.373129754901964, "lng": -101.6954348039216,"info": "total: 102","children": "data/mexico/michoacan-de-ocampo/salvador-escalante.json"
+},{
+"label": "Cotija", "lat": 19.74519905434782, "lng": -102.71024910869562,"info": "total: 92","children": "data/mexico/michoacan-de-ocampo/cotija.json"
+},{
+"label": "Charapan", "lat": 19.658048214285714, "lng": -102.24499571428571,"info": "total: 14","children": "data/mexico/michoacan-de-ocampo/charapan.json"
+},{
+"label": "La Piedad", "lat": 20.317286381944438, "lng": -102.03382855555554,"info": "total: 144","children": "data/mexico/michoacan-de-ocampo/la-piedad.json"
+},{
+"label": "Chucándiro", "lat": 19.891482190476193, "lng": -101.34840814285714,"info": "total: 21","children": "data/mexico/michoacan-de-ocampo/chucandiro.json"
+},{
+"label": "Queréndaro", "lat": 19.694929951219514, "lng": -100.84202136585365,"info": "total: 41","children": "data/mexico/michoacan-de-ocampo/querendaro.json"
+},{
+"label": "Los Reyes", "lat": 19.6498849516129, "lng": -102.41267600000005,"info": "total: 62","children": "data/mexico/michoacan-de-ocampo/los-reyes.json"
+},{
+"label": "Turicato", "lat": 18.95831404907976, "lng": -101.42350557055218,"info": "total: 326","children": "data/mexico/michoacan-de-ocampo/turicato.json"
+},{
+"label": "Uruapan", "lat": 19.42650456, "lng": -102.0969500433333,"info": "total: 300","children": "data/mexico/michoacan-de-ocampo/uruapan.json"
+},{
+"label": "Zinapécuaro", "lat": 19.86907060185185, "lng": -100.74441825925929,"info": "total: 108","children": "data/mexico/michoacan-de-ocampo/zinapecuaro.json"
+},{
+"label": "Huandacareo", "lat": 19.978596291666666, "lng": -101.28477645833334,"info": "total: 24","children": "data/mexico/michoacan-de-ocampo/huandacareo.json"
+},{
+"label": "Ocampo", "lat": 19.584247547619043, "lng": -100.34248283333334,"info": "total: 42","children": "data/mexico/michoacan-de-ocampo/ocampo.json"
+},{
+"label": "Chavinda", "lat": 20.04745909090909, "lng": -102.43872786363637,"info": "total: 22","children": "data/mexico/michoacan-de-ocampo/chavinda.json"
+},{
+"label": "Apatzingán", "lat": 18.98301457525083, "lng": -102.42248141471566,"info": "total: 299","children": "data/mexico/michoacan-de-ocampo/apatzingan.json"
+},{
+"label": "Angangueo", "lat": 19.62203560869565, "lng": -100.30203565217391,"info": "total: 23","children": "data/mexico/michoacan-de-ocampo/angangueo.json"
+},{
+"label": "Tangamandapio", "lat": 19.91043165517241, "lng": -102.43826493103448,"info": "total: 29","children": "data/mexico/michoacan-de-ocampo/tangamandapio.json"
+},{
+"label": "Copándaro", "lat": 19.88981236842105, "lng": -101.23932742105264,"info": "total: 19","children": "data/mexico/michoacan-de-ocampo/copandaro.json"
+},{
+"label": "Quiroga", "lat": 19.672811052631584, "lng": -101.54593231578947,"info": "total: 19","children": "data/mexico/michoacan-de-ocampo/quiroga.json"
+},{
+"label": "Tiquicheo de Nicolás Romero", "lat": 19.079351744186052, "lng": -100.8221458039867,"info": "total: 301","children": "data/mexico/michoacan-de-ocampo/tiquicheo-de-nicolas-romero.json"
+},{
+"label": "Epitacio Huerta", "lat": 20.144759639534886, "lng": -100.28574253488374,"info": "total: 86","children": "data/mexico/michoacan-de-ocampo/epitacio-huerta.json"
+},{
+"label": "Huetamo", "lat": 18.66266745197739, "lng": -101.05847000564972,"info": "total: 354","children": "data/mexico/michoacan-de-ocampo/huetamo.json"
+},{
+"label": "Tocumbo", "lat": 19.61986135869565, "lng": -102.60197461956524,"info": "total: 92","children": "data/mexico/michoacan-de-ocampo/tocumbo.json"
+},{
+"label": "Ziracuaretiro", "lat": 19.415858116279068, "lng": -101.90677360465118,"info": "total: 43","children": "data/mexico/michoacan-de-ocampo/ziracuaretiro.json"
+},{
+"label": "Tuzantla", "lat": 19.244053232758635, "lng": -100.61857731465523,"info": "total: 232","children": "data/mexico/michoacan-de-ocampo/tuzantla.json"
+},{
+"label": "Ixtlán", "lat": 20.14254464864865, "lng": -102.41198381081082,"info": "total: 37","children": "data/mexico/michoacan-de-ocampo/ixtlan.json"
+},{
+"label": "Tzitzio", "lat": 19.446534725947526, "lng": -100.90925926530602,"info": "total: 343","children": "data/mexico/michoacan-de-ocampo/tzitzio.json"
+},{
+"label": "Nahuatzen", "lat": 19.627218411764705, "lng": -101.89737364705881,"info": "total: 17","children": "data/mexico/michoacan-de-ocampo/nahuatzen.json"
+},{
+"label": "Cuitzeo", "lat": 19.99827116666667, "lng": -101.14330979999998,"info": "total: 30","children": "data/mexico/michoacan-de-ocampo/cuitzeo.json"
+},{
+"label": "Jungapeo", "lat": 19.44918632954545, "lng": -100.51496242045451,"info": "total: 88","children": "data/mexico/michoacan-de-ocampo/jungapeo.json"
+},{
+"label": "Morelos", "lat": 19.992717151515148, "lng": -101.43633015151512,"info": "total: 33","children": "data/mexico/michoacan-de-ocampo/morelos.json"
+},{
+"label": "Taretan", "lat": 19.328142296296296, "lng": -101.91035659259258,"info": "total: 27","children": "data/mexico/michoacan-de-ocampo/taretan.json"
+},{
+"label": "Aguililla", "lat": 18.772016897435897, "lng": -102.7640239487179,"info": "total: 273","children": "data/mexico/michoacan-de-ocampo/aguililla.json"
+},{
+"label": "Maravatío", "lat": 19.890178074324325, "lng": -100.42410372297294,"info": "total: 148","children": "data/mexico/michoacan-de-ocampo/maravatio.json"
+},{
+"label": "Purépero", "lat": 19.90635575, "lng": -101.99713409375002,"info": "total: 32","children": "data/mexico/michoacan-de-ocampo/purepero.json"
+},{
+"label": "Hidalgo", "lat": 19.590336256198327, "lng": -100.66882315151518,"info": "total: 363","children": "data/mexico/michoacan-de-ocampo/hidalgo.json"
+},{
+"label": "Churumuco", "lat": 18.706570326530606, "lng": -101.61118481632658,"info": "total: 98","children": "data/mexico/michoacan-de-ocampo/churumuco.json"
+},{
+"label": "Huiramba", "lat": 19.5251331, "lng": -101.46195710000002,"info": "total: 20","children": "data/mexico/michoacan-de-ocampo/huiramba.json"
+},{
+"label": "Tacámbaro", "lat": 19.239655956730765, "lng": -101.4473472788462,"info": "total: 208","children": "data/mexico/michoacan-de-ocampo/tacambaro.json"
+},{
+"label": "Zacapu", "lat": 19.815035684931512, "lng": -101.80241889041095,"info": "total: 73","children": "data/mexico/michoacan-de-ocampo/zacapu.json"
+},{
+"label": "Nocupétaro", "lat": 19.1136761754386, "lng": -101.21408477777779,"info": "total: 171","children": "data/mexico/michoacan-de-ocampo/nocupetaro.json"
+},{
+"label": "Arteaga", "lat": 18.323882372916668, "lng": -102.3680899770834,"info": "total: 480","children": "data/mexico/michoacan-de-ocampo/arteaga.json"
+},{
+"label": "Gabriel Zamora", "lat": 19.177588098039216, "lng": -102.01539284313729,"info": "total: 51","children": "data/mexico/michoacan-de-ocampo/gabriel-zamora.json"
+},{
+"label": "Briseñas", "lat": 20.251776181818183, "lng": -102.57031827272726,"info": "total: 11","children": "data/mexico/michoacan-de-ocampo/brisenas.json"
+},{
+"label": "Vista Hermosa", "lat": 20.27761731818182, "lng": -102.45755377272727,"info": "total: 22","children": "data/mexico/michoacan-de-ocampo/vista-hermosa.json"
+},{
+"label": "Lázaro Cárdenas", "lat": 18.071968419117642, "lng": -102.3868579522058,"info": "total: 272","children": "data/mexico/michoacan-de-ocampo/lazaro-cardenas.json"
+},{
+"label": "Peribán", "lat": 19.502825240384613, "lng": -102.4286721730769,"info": "total: 104","children": "data/mexico/michoacan-de-ocampo/periban.json"
+},{
+"label": "Coalcomán de Vázquez Pallares", "lat": 18.674013639639632, "lng": -103.1107582288288,"info": "total: 555","children": "data/mexico/michoacan-de-ocampo/coalcoman-de-vazquez-pallares.json"
+},{
+"label": "Huaniqueo", "lat": 19.89444622580645, "lng": -101.51255632258065,"info": "total: 31","children": "data/mexico/michoacan-de-ocampo/huaniqueo.json"
+},{
+"label": "Lagunillas", "lat": 19.570896066666666, "lng": -101.4191814,"info": "total: 15","children": "data/mexico/michoacan-de-ocampo/lagunillas.json"
+},{
+"label": "Angamacutiro", "lat": 20.13494229032258, "lng": -101.7269407096774,"info": "total: 31","children": "data/mexico/michoacan-de-ocampo/angamacutiro.json"
+},{
+"label": "Contepec", "lat": 19.9551871875, "lng": -100.21331941249997,"info": "total: 80","children": "data/mexico/michoacan-de-ocampo/contepec.json"
+},{
+"label": "Ecuandureo", "lat": 20.154237882352945, "lng": -102.22608708823529,"info": "total: 34","children": "data/mexico/michoacan-de-ocampo/ecuandureo.json"
+},{
+"label": "Jiquilpan", "lat": 19.98407727777778, "lng": -102.75411253703707,"info": "total: 54","children": "data/mexico/michoacan-de-ocampo/jiquilpan.json"
+},{
+"label": "Churintzio", "lat": 20.13075164, "lng": -102.07595291999998,"info": "total: 25","children": "data/mexico/michoacan-de-ocampo/churintzio.json"
+},{
+"label": "Múgica", "lat": 18.98336430769231, "lng": -102.12298603076925,"info": "total: 65","children": "data/mexico/michoacan-de-ocampo/mugica.json"
+},{
+"label": "Madero", "lat": 19.335147266288956, "lng": -101.1535164532578,"info": "total: 353","children": "data/mexico/michoacan-de-ocampo/madero.json"
+},{
+"label": "Tingüindín", "lat": 19.780803037037035, "lng": -102.4987167777778,"info": "total: 27","children": "data/mexico/michoacan-de-ocampo/ting-indin.json"
+},{
+"label": "Yurécuaro", "lat": 20.31210437931034, "lng": -102.24752196551725,"info": "total: 29","children": "data/mexico/michoacan-de-ocampo/yurecuaro.json"
+},{
+"label": "Álvaro Obregón", "lat": 19.862649796610174, "lng": -101.01978472881362,"info": "total: 59","children": "data/mexico/michoacan-de-ocampo/alvaro-obregon.json"
+},{
+"label": "Tumbiscatío", "lat": 18.54372338387097, "lng": -102.52339602580648,"info": "total: 310","children": "data/mexico/michoacan-de-ocampo/tumbiscatio.json"
+},{
+"label": "Tzintzuntzan", "lat": 19.604962930232553, "lng": -101.5498184883721,"info": "total: 43","children": "data/mexico/michoacan-de-ocampo/tzintzuntzan.json"
+},{
+"label": "Zitácuaro", "lat": 19.43295525730993, "lng": -100.35648307602341,"info": "total: 171","children": "data/mexico/michoacan-de-ocampo/zitacuaro.json"
+},{
+"label": "Senguio", "lat": 19.752475467741935, "lng": -100.33957648387099,"info": "total: 62","children": "data/mexico/michoacan-de-ocampo/senguio.json"
+},{
+"label": "Chilchota", "lat": 19.83793432, "lng": -102.09078548,"info": "total: 25","children": "data/mexico/michoacan-de-ocampo/chilchota.json"
+},{
+"label": "Morelia", "lat": 19.65227897329378, "lng": -101.25455176557868,"info": "total: 337","children": "data/mexico/michoacan-de-ocampo/morelia.json"
+},{
+"label": "Pajacuarán", "lat": 20.13494666666667, "lng": -102.52613742857143,"info": "total: 21","children": "data/mexico/michoacan-de-ocampo/pajacuaran.json"
+},{
+"label": "Tancítaro", "lat": 19.310344863636377, "lng": -102.34972074999997,"info": "total: 132","children": "data/mexico/michoacan-de-ocampo/tancitaro.json"
+},{
+"label": "Aporo", "lat": 19.656269785714283, "lng": -100.39650385714285,"info": "total: 14","children": "data/mexico/michoacan-de-ocampo/aporo.json"
+},{
+"label": "Tingambato", "lat": 19.494846388888888, "lng": -101.86400261111112,"info": "total: 18","children": "data/mexico/michoacan-de-ocampo/tingambato.json"
+},{
+"label": "José Sixto Verduzco", "lat": 20.277275825, "lng": -101.56066275000002,"info": "total: 40","children": "data/mexico/michoacan-de-ocampo/jose-sixto-verduzco.json"
+},{
+"label": "Parácuaro", "lat": 19.047233747474746, "lng": -102.22447593939388,"info": "total: 99","children": "data/mexico/michoacan-de-ocampo/paracuaro.json"
+},{
+"label": "Numarán", "lat": 20.27221459375, "lng": -101.963564,"info": "total: 32","children": "data/mexico/michoacan-de-ocampo/numaran.json"
+},{
+"label": "Tlazazalca", "lat": 19.99971132142857, "lng": -102.07330835714284,"info": "total: 28","children": "data/mexico/michoacan-de-ocampo/tlazazalca.json"
+},{
+"label": "Indaparapeo", "lat": 19.766340739999997, "lng": -100.94934804,"info": "total: 50","children": "data/mexico/michoacan-de-ocampo/indaparapeo.json"
+}]

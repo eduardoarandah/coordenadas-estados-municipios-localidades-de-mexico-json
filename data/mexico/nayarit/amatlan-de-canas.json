@@ -1,0 +1,137 @@
+[{
+"label": "San José", "lat": 20.757273, "lng": -104.359428
+},{
+"label": "El Casco", "lat": 20.821956, "lng": -104.452258
+},{
+"label": "El Ombligo", "lat": 20.928108, "lng": -104.53058
+},{
+"label": "Los Bules", "lat": 20.807104, "lng": -104.456138
+},{
+"label": "San Valentín", "lat": 20.927287, "lng": -104.55873
+},{
+"label": "Nuevo México", "lat": 20.932032, "lng": -104.591988
+},{
+"label": "Jesús María", "lat": 20.678764, "lng": -104.283297
+},{
+"label": "El Jocuixtle (Santa Beatriz)", "lat": 20.915602, "lng": -104.515241
+},{
+"label": "Los Tecolotes", "lat": 20.839997, "lng": -104.459772
+},{
+"label": "El Salto", "lat": 20.899539, "lng": -104.491003
+},{
+"label": "Doña Ana [Rancho]", "lat": 20.766637, "lng": -104.327935
+},{
+"label": "El Dorado", "lat": 20.84774, "lng": -104.34585
+},{
+"label": "El Rosario", "lat": 20.891013, "lng": -104.468478
+},{
+"label": "San Blasito", "lat": 20.698684, "lng": -104.29315
+},{
+"label": "El Carrizo", "lat": 20.868448, "lng": -104.350903
+},{
+"label": "La Playita", "lat": 20.811624, "lng": -104.39709
+},{
+"label": "Las Canoas", "lat": 20.900119, "lng": -104.509577
+},{
+"label": "El Corral de Piedra", "lat": 20.68519, "lng": -104.281645
+},{
+"label": "La Joya", "lat": 20.723499, "lng": -104.277271
+},{
+"label": "Los Barritos", "lat": 20.750381, "lng": -104.360398
+},{
+"label": "Pie de la Cuesta", "lat": 20.767179, "lng": -104.366903
+},{
+"label": "La Travesía", "lat": 20.762042, "lng": -104.340153
+},{
+"label": "Las Jarillas", "lat": 20.982454, "lng": -104.470774
+},{
+"label": "Los Agrios", "lat": 20.899597, "lng": -104.515887
+},{
+"label": "El Copalillo", "lat": 20.737022, "lng": -104.351502
+},{
+"label": "El Naranjo", "lat": 20.714444, "lng": -104.318611
+},{
+"label": "Los Copales", "lat": 20.829889, "lng": -104.402876
+},{
+"label": "Puerta del Limón", "lat": 20.771928, "lng": -104.379498
+},{
+"label": "Las Hembrillas", "lat": 20.753717, "lng": -104.283284
+},{
+"label": "El Oro", "lat": 20.940666, "lng": -104.505768
+},{
+"label": "Potrerillos", "lat": 20.932668, "lng": -104.598694
+},{
+"label": "La Española", "lat": 20.952459, "lng": -104.35446
+},{
+"label": "Los Cerritos", "lat": 20.924514, "lng": -104.612684
+},{
+"label": "El Machote", "lat": 20.865388, "lng": -104.437403
+},{
+"label": "Jocuixtle", "lat": 20.769722, "lng": -104.387222
+},{
+"label": "La Haciendita", "lat": 20.903651, "lng": -104.527639
+},{
+"label": "El Barro Prieto", "lat": 20.763044, "lng": -104.332271
+},{
+"label": "El Zopilote", "lat": 20.846494, "lng": -104.336841
+},{
+"label": "El Manto", "lat": 20.892948, "lng": -104.481333
+},{
+"label": "La Labor", "lat": 20.78237, "lng": -104.397193
+},{
+"label": "Arroyo de los Bonetes", "lat": 20.909338, "lng": -104.455232
+},{
+"label": "La Aguililla", "lat": 20.95973, "lng": -104.348799
+},{
+"label": "La Cruz de Piedra", "lat": 20.930293, "lng": -104.565193
+},{
+"label": "Las Anonas", "lat": 20.931847, "lng": -104.528791
+},{
+"label": "La Escondida (Agua Escondida)", "lat": 20.768656, "lng": -104.319905
+},{
+"label": "La Lima", "lat": 20.682293, "lng": -104.275372
+},{
+"label": "El Ranchito", "lat": 20.754556, "lng": -104.357421
+},{
+"label": "El Tamarindo", "lat": 20.900396, "lng": -104.538072
+},{
+"label": "El Reventón", "lat": 20.822918, "lng": -104.402019
+},{
+"label": "Amatlán de Cañas", "lat": 20.807782, "lng": -104.405389
+},{
+"label": "El Molinete", "lat": 20.951905, "lng": -104.507124
+},{
+"label": "Mezquites", "lat": 20.914801, "lng": -104.543526
+},{
+"label": "El Platanar", "lat": 20.818111, "lng": -104.464623
+},{
+"label": "La Casa de la Antena", "lat": 20.993356, "lng": -104.468039
+},{
+"label": "El Terrero", "lat": 20.808061, "lng": -104.434434
+},{
+"label": "Estancia de los López", "lat": 20.857581, "lng": -104.432385
+},{
+"label": "Tepuzhuacán", "lat": 20.878213, "lng": -104.520321
+},{
+"label": "Las Guásimas", "lat": 20.723776, "lng": -104.297719
+},{
+"label": "El Pilón", "lat": 20.948153, "lng": -104.49806
+},{
+"label": "El Farito", "lat": 20.710746, "lng": -104.315154
+},{
+"label": "La Cofradía", "lat": 20.814872, "lng": -104.418336
+},{
+"label": "La Cañada", "lat": 20.837765, "lng": -104.468996
+},{
+"label": "Barranca del Oro", "lat": 20.924377, "lng": -104.480095
+},{
+"label": "La Yerbabuena", "lat": 20.769294, "lng": -104.29329
+},{
+"label": "Crucero de la Barranca", "lat": 20.931519, "lng": -104.483336
+},{
+"label": "La Puerta Pesada", "lat": 20.963208, "lng": -104.349676
+},{
+"label": "El Portezuelo", "lat": 20.898681, "lng": -104.525557
+},{
+"label": "La Máquina", "lat": 20.745495, "lng": -104.359545
+}]

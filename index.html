@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Map</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/solid.css" integrity="sha384-VGP9aw4WtGH/uPAOseYxZ+Vz/vaTb1ehm1bwx92Fm8dTrE+3boLfF1SpAtB1z7HW" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7" crossorigin="anonymous">
+    <style> 
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      /*vue*/
+      [v-cloak] {display: none}
+    </style>
+  </head>
+  <body>
+
+    <div class="container-fluid h-100" id="app">
+      <h1 v-show="loader" class="loader text-center py-5">Loading...</h1>
+      <div v-cloak class="h-100">
+
+        <!-- row -->
+        <div class="row h-100">
+          <div class="col-sm-3" style="overflow-y: scroll;">
+            <h1 class="text-center my-3" v-if="point">{{point.label}}</h1>
+
+            <button class="btn btn-primary btn-block my-3" 
+            v-if="point.parent"
+            @click="loadParent"
+            >
+            <i class="fas fa-chevron-left"></i>
+            {{point.parent.label}}
+            </button>
+
+            <div class="card my-3" v-if="point.info">
+              <div class="card-body">
+                {{point.info}}
+              </div>
+            </div>            
+
+            <div class="card my-3" v-if="selectedPoint">
+              <div class="card-body">
+                <h5 class="card-title">{{selectedPoint.label}}</h5>
+                <p v-if="selectedPoint.info" class="card-text">                  
+                  {{selectedPoint.info}}
+                </p>
+                <button v-if="selectedPoint.children" @click="loadPoint(selectedPoint)" class="btn btn-success btn-sm btn-block">
+                  Ir al mapa
+                </button>
+              </div>
+            </div>
+
+            <div>
+              <!-- <button @click="resetRegion">Regions</button> -->
+            </div>
+            <!-- <pre><small>{{$data}}</small></pre> -->
+          </div>
+          <div class="col-sm-9">
+              <div id="map" class="h-100"></div>          
+          </div>
+        </div> 
+        <!-- row -->
+
+      </div><!-- v-cloak -->
+
+    </div><!-- container -->
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBc-6AfDQvdU6W4NRIno2XNSeZLfnuFERs"> </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue"></script> -->
+
+    <!-- https://github.com/axios/axios -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.13.1/lodash.min.js"></script>
+
+    <script src="/js/main.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,163 @@
+[{
+"label": "Marquelia", "lat": 16.59859268292683, "lng": -98.76500346341464,"info": "total: 41","children": "data/mexico/guerrero/marquelia.json"
+},{
+"label": "Zapotitlán Tablas", "lat": 17.39510810638298, "lng": -98.79763765957446,"info": "total: 47","children": "data/mexico/guerrero/zapotitlan-tablas.json"
+},{
+"label": "Acapulco de Juárez", "lat": 16.928201196491226, "lng": -99.7442269157895,"info": "total: 285","children": "data/mexico/guerrero/acapulco-de-juarez.json"
+},{
+"label": "Juchitán", "lat": 16.583072170731707, "lng": -98.67163260975609,"info": "total: 41","children": "data/mexico/guerrero/juchitan.json"
+},{
+"label": "Pedro Ascencio Alquisiras", "lat": 18.546933999999997, "lng": -99.86347460674159,"info": "total: 89","children": "data/mexico/guerrero/pedro-ascencio-alquisiras.json"
+},{
+"label": "San Luis Acatlán", "lat": 16.901608669491527, "lng": -98.69655836440676,"info": "total: 118","children": "data/mexico/guerrero/san-luis-acatlan.json"
+},{
+"label": "Cochoapa el Grande", "lat": 17.11352681132076, "lng": -98.41429265408806,"info": "total: 159","children": "data/mexico/guerrero/cochoapa-el-grande.json"
+},{
+"label": "Iliatenco", "lat": 17.035657804347828, "lng": -98.67180252173912,"info": "total: 46","children": "data/mexico/guerrero/iliatenco.json"
+},{
+"label": "Cuajinicuilapa", "lat": 16.493213656565654, "lng": -98.50480854040406,"info": "total: 198","children": "data/mexico/guerrero/cuajinicuilapa.json"
+},{
+"label": "La Unión de Isidoro Montes de Oca", "lat": 18.000662779342726, "lng": -101.86454947417839,"info": "total: 213","children": "data/mexico/guerrero/la-union-de-isidoro-montes-de-oca.json"
+},{
+"label": "Tepecoacuilco de Trujano", "lat": 18.146196246753245, "lng": -99.47311462337659,"info": "total: 77","children": "data/mexico/guerrero/tepecoacuilco-de-trujano.json"
+},{
+"label": "Coyuca de Catalán", "lat": 18.070036026086957, "lng": -100.95180548043473,"info": "total: 460","children": "data/mexico/guerrero/coyuca-de-catalan.json"
+},{
+"label": "Huitzuco de los Figueroa", "lat": 18.29011079069767, "lng": -99.26025458139533,"info": "total: 86","children": "data/mexico/guerrero/huitzuco-de-los-figueroa.json"
+},{
+"label": "Xalpatláhuac", "lat": 17.44625720689655, "lng": -98.58153579310343,"info": "total: 29","children": "data/mexico/guerrero/xalpatlahuac.json"
+},{
+"label": "Arcelia", "lat": 18.265478881944443, "lng": -100.18653965972221,"info": "total: 144","children": "data/mexico/guerrero/arcelia.json"
+},{
+"label": "Copala", "lat": 16.606069500000004, "lng": -98.93653794230767,"info": "total: 52","children": "data/mexico/guerrero/copala.json"
+},{
+"label": "Azoyú", "lat": 16.65071374418604, "lng": -98.57861962790702,"info": "total: 86","children": "data/mexico/guerrero/azoyu.json"
+},{
+"label": "Copalillo", "lat": 17.970286953846152, "lng": -99.05472753846155,"info": "total: 65","children": "data/mexico/guerrero/copalillo.json"
+},{
+"label": "Coahuayutla de José María Izazaga", "lat": 18.27631232031249, "lng": -101.63244177343746,"info": "total: 256","children": "data/mexico/guerrero/coahuayutla-de-jose-maria-izazaga.json"
+},{
+"label": "Coyuca de Benítez", "lat": 17.070733638888882, "lng": -100.09088345555554,"info": "total: 180","children": "data/mexico/guerrero/coyuca-de-benitez.json"
+},{
+"label": "Zitlala", "lat": 17.720021027777776, "lng": -99.19708122222222,"info": "total: 36","children": "data/mexico/guerrero/zitlala.json"
+},{
+"label": "Eduardo Neri", "lat": 17.772144274193547, "lng": -99.60578883870963,"info": "total: 62","children": "data/mexico/guerrero/eduardo-neri.json"
+},{
+"label": "Leonardo Bravo", "lat": 17.621809196969696, "lng": -99.83059209090911,"info": "total: 66","children": "data/mexico/guerrero/leonardo-bravo.json"
+},{
+"label": "Olinalá", "lat": 17.86483969396551, "lng": -98.75020723706896,"info": "total: 232","children": "data/mexico/guerrero/olinala.json"
+},{
+"label": "Huamuxtitlán", "lat": 17.78912353846154, "lng": -98.555871,"info": "total: 26","children": "data/mexico/guerrero/huamuxtitlan.json"
+},{
+"label": "Atenango del Río", "lat": 18.17982654285714, "lng": -99.11045791428572,"info": "total: 35","children": "data/mexico/guerrero/atenango-del-rio.json"
+},{
+"label": "Tixtla de Guerrero", "lat": 17.58061218461539, "lng": -99.37914950769232,"info": "total: 65","children": "data/mexico/guerrero/tixtla-de-guerrero.json"
+},{
+"label": "Buenavista de Cuéllar", "lat": 18.469251507692306, "lng": -99.41296646153847,"info": "total: 65","children": "data/mexico/guerrero/buenavista-de-cuellar.json"
+},{
+"label": "Xochihuehuetlán", "lat": 17.905833136363636, "lng": -98.51742863636363,"info": "total: 22","children": "data/mexico/guerrero/xochihuehuetlan.json"
+},{
+"label": "Acatepec", "lat": 17.22314851515152, "lng": -98.91446484090905,"info": "total: 132","children": "data/mexico/guerrero/acatepec.json"
+},{
+"label": "Alpoyeca", "lat": 17.645801833333334, "lng": -98.51255041666666,"info": "total: 12","children": "data/mexico/guerrero/alpoyeca.json"
+},{
+"label": "Ayutla de los Libres", "lat": 16.951467903846158, "lng": -99.06552363461537,"info": "total: 156","children": "data/mexico/guerrero/ayutla-de-los-libres.json"
+},{
+"label": "Tlalchapa", "lat": 18.429651000000003, "lng": -100.453511625,"info": "total: 40","children": "data/mexico/guerrero/tlalchapa.json"
+},{
+"label": "Alcozauca de Guerrero", "lat": 17.372373894736842, "lng": -98.37018668421054,"info": "total: 38","children": "data/mexico/guerrero/alcozauca-de-guerrero.json"
+},{
+"label": "Cuautepec", "lat": 16.70509951351351, "lng": -98.98487791891891,"info": "total: 37","children": "data/mexico/guerrero/cuautepec.json"
+},{
+"label": "Cuetzala del Progreso", "lat": 18.119009653846152, "lng": -99.81436573076925,"info": "total: 26","children": "data/mexico/guerrero/cuetzala-del-progreso.json"
+},{
+"label": "Pungarabato", "lat": 18.349451571428574, "lng": -100.63947471428571,"info": "total: 28","children": "data/mexico/guerrero/pungarabato.json"
+},{
+"label": "Apaxtla", "lat": 18.076348830508476, "lng": -99.99560783050845,"info": "total: 59","children": "data/mexico/guerrero/apaxtla.json"
+},{
+"label": "General Canuto A. Neri", "lat": 18.431204140845065, "lng": -100.09956839436619,"info": "total: 71","children": "data/mexico/guerrero/general-canuto-a-neri.json"
+},{
+"label": "Ahuacuotzingo", "lat": 17.74260683766234, "lng": -98.91820862987012,"info": "total: 154","children": "data/mexico/guerrero/ahuacuotzingo.json"
+},{
+"label": "Tlalixtaquilla de Maldonado", "lat": 17.575079315789473, "lng": -98.39338905263158,"info": "total: 19","children": "data/mexico/guerrero/tlalixtaquilla-de-maldonado.json"
+},{
+"label": "Malinaltepec", "lat": 17.177892960937506, "lng": -98.70581759374997,"info": "total: 128","children": "data/mexico/guerrero/malinaltepec.json"
+},{
+"label": "Xochistlahuaca", "lat": 16.810041959677427, "lng": -98.19014166129031,"info": "total: 124","children": "data/mexico/guerrero/xochistlahuaca.json"
+},{
+"label": "Zirándaro", "lat": 18.3677613699732, "lng": -101.19011639142094,"info": "total: 373","children": "data/mexico/guerrero/zirandaro.json"
+},{
+"label": "Iguala de la Independencia", "lat": 18.301427515789474, "lng": -99.54941682105267,"info": "total: 95","children": "data/mexico/guerrero/iguala-de-la-independencia.json"
+},{
+"label": "Metlatónoc", "lat": 17.169287782608695, "lng": -98.41963255434783,"info": "total: 92","children": "data/mexico/guerrero/metlatonoc.json"
+},{
+"label": "Atlamajalcingo del Monte", "lat": 17.30188476190476, "lng": -98.57069304761906,"info": "total: 21","children": "data/mexico/guerrero/atlamajalcingo-del-monte.json"
+},{
+"label": "Taxco de Alarcón", "lat": 18.547642482014382, "lng": -99.63032047482014,"info": "total: 139","children": "data/mexico/guerrero/taxco-de-alarcon.json"
+},{
+"label": "Tlacoapa", "lat": 17.245274492063494, "lng": -98.76981877777779,"info": "total: 63","children": "data/mexico/guerrero/tlacoapa.json"
+},{
+"label": "José Joaquín de Herrera", "lat": 17.439058986486486, "lng": -99.00179816216216,"info": "total: 74","children": "data/mexico/guerrero/jose-joaquin-de-herrera.json"
+},{
+"label": "Florencio Villarreal", "lat": 16.69875844444445, "lng": -99.15430624074078,"info": "total: 54","children": "data/mexico/guerrero/florencio-villarreal.json"
+},{
+"label": "Juan R. Escudero", "lat": 17.133092355555558, "lng": -99.50837371111113,"info": "total: 45","children": "data/mexico/guerrero/juan-r-escudero.json"
+},{
+"label": "General Heliodoro Castillo", "lat": 17.74185056013746, "lng": -100.02912510996559,"info": "total: 291","children": "data/mexico/guerrero/general-heliodoro-castillo.json"
+},{
+"label": "Petatlán", "lat": 17.604963887096773, "lng": -101.17389069354837,"info": "total: 372","children": "data/mexico/guerrero/petatlan.json"
+},{
+"label": "Zihuatanejo de Azueta", "lat": 17.808758974264702, "lng": -101.4230525735293,"info": "total: 272","children": "data/mexico/guerrero/zihuatanejo-de-azueta.json"
+},{
+"label": "Ometepec", "lat": 16.68124443373494, "lng": -98.38076184939766,"info": "total: 166","children": "data/mexico/guerrero/ometepec.json"
+},{
+"label": "San Marcos", "lat": 16.772341192546573, "lng": -99.37276754658383,"info": "total: 161","children": "data/mexico/guerrero/san-marcos.json"
+},{
+"label": "Chilpancingo de los Bravo", "lat": 17.400609240223464, "lng": -99.60620860335194,"info": "total: 179","children": "data/mexico/guerrero/chilpancingo-de-los-bravo.json"
+},{
+"label": "Tecoanapa", "lat": 16.97404486764706, "lng": -99.26393702941178,"info": "total: 68","children": "data/mexico/guerrero/tecoanapa.json"
+},{
+"label": "San Miguel Totolapan", "lat": 17.852475990950232, "lng": -100.3035054705882,"info": "total: 221","children": "data/mexico/guerrero/san-miguel-totolapan.json"
+},{
+"label": "Ajuchitlán del Progreso", "lat": 17.954405884210537, "lng": -100.58618507368423,"info": "total: 190","children": "data/mexico/guerrero/ajuchitlan-del-progreso.json"
+},{
+"label": "Atlixtac", "lat": 17.482657367521377, "lng": -98.89461971794874,"info": "total: 117","children": "data/mexico/guerrero/atlixtac.json"
+},{
+"label": "Pilcaya", "lat": 18.711251363636368, "lng": -99.62674902272728,"info": "total: 44","children": "data/mexico/guerrero/pilcaya.json"
+},{
+"label": "Tlapehuala", "lat": 18.27245214285714, "lng": -100.4517069047619,"info": "total: 42","children": "data/mexico/guerrero/tlapehuala.json"
+},{
+"label": "Cutzamala de Pinzón", "lat": 18.65851849479166, "lng": -100.59931983333331,"info": "total: 192","children": "data/mexico/guerrero/cutzamala-de-pinzon.json"
+},{
+"label": "Mártir de Cuilapan", "lat": 17.81606956521739, "lng": -99.34823356521738,"info": "total: 23","children": "data/mexico/guerrero/martir-de-cuilapan.json"
+},{
+"label": "Tlacoachistlahuaca", "lat": 16.932800232558144, "lng": -98.25857320930231,"info": "total: 86","children": "data/mexico/guerrero/tlacoachistlahuaca.json"
+},{
+"label": "Cocula", "lat": 18.147502428571425, "lng": -99.70270176190476,"info": "total: 42","children": "data/mexico/guerrero/cocula.json"
+},{
+"label": "Cualác", "lat": 17.729062283783787, "lng": -98.67258787837841,"info": "total: 74","children": "data/mexico/guerrero/cualac.json"
+},{
+"label": "Quechultenango", "lat": 17.346103227272728, "lng": -99.17307880681815,"info": "total: 88","children": "data/mexico/guerrero/quechultenango.json"
+},{
+"label": "Copanatoyac", "lat": 17.429281090909093, "lng": -98.70015614545457,"info": "total: 55","children": "data/mexico/guerrero/copanatoyac.json"
+},{
+"label": "Tlapa de Comonfort", "lat": 17.53567587323944, "lng": -98.60506854225348,"info": "total: 142","children": "data/mexico/guerrero/tlapa-de-comonfort.json"
+},{
+"label": "Mochitlán", "lat": 17.38160164444444, "lng": -99.36737564444444,"info": "total: 45","children": "data/mexico/guerrero/mochitlan.json"
+},{
+"label": "Atoyac de Álvarez", "lat": 17.270752292576415, "lng": -100.3481660742358,"info": "total: 229","children": "data/mexico/guerrero/atoyac-de-alvarez.json"
+},{
+"label": "Teloloapan", "lat": 18.35817099156118, "lng": -99.93998398312235,"info": "total: 237","children": "data/mexico/guerrero/teloloapan.json"
+},{
+"label": "Tetipac", "lat": 18.652106092592593, "lng": -99.67790416666666,"info": "total: 54","children": "data/mexico/guerrero/tetipac.json"
+},{
+"label": "Benito Juárez", "lat": 17.10820644444444, "lng": -100.46745606944447,"info": "total: 72","children": "data/mexico/guerrero/benito-juarez.json"
+},{
+"label": "Igualapa", "lat": 16.755421444444448, "lng": -98.48377655555555,"info": "total: 18","children": "data/mexico/guerrero/igualapa.json"
+},{
+"label": "Técpan de Galeana", "lat": 17.37551350826448, "lng": -100.76427415702477,"info": "total: 484","children": "data/mexico/guerrero/tecpan-de-galeana.json"
+},{
+"label": "Ixcateopan de Cuauhtémoc", "lat": 18.474259085714284, "lng": -99.79032357142859,"info": "total: 35","children": "data/mexico/guerrero/ixcateopan-de-cuauhtemoc.json"
+},{
+"label": "Chilapa de Álvarez", "lat": 17.515185430622015, "lng": -99.11636452631578,"info": "total: 209","children": "data/mexico/guerrero/chilapa-de-alvarez.json"
+}]

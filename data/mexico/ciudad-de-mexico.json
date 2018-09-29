@@ -1,0 +1,33 @@
+[{
+"label": "Venustiano Carranza", "lat": 19.419262, "lng": -99.113701,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/venustiano-carranza.json"
+},{
+"label": "Álvaro Obregón", "lat": 19.31235911111111, "lng": -99.27084222222223,"info": "total: 9","children": "data/mexico/ciudad-de-mexico/alvaro-obregon.json"
+},{
+"label": "Azcapotzalco", "lat": 19.484103, "lng": -99.184361,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/azcapotzalco.json"
+},{
+"label": "Xochimilco", "lat": 19.22984293877551, "lng": -99.09860969387755,"info": "total: 98","children": "data/mexico/ciudad-de-mexico/xochimilco.json"
+},{
+"label": "Miguel Hidalgo", "lat": 19.407269, "lng": -99.190754,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/miguel-hidalgo.json"
+},{
+"label": "Iztapalapa", "lat": 19.359004, "lng": -99.092623,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/iztapalapa.json"
+},{
+"label": "Gustavo A. Madero", "lat": 19.482945, "lng": -99.113471,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/gustavo-a-madero.json"
+},{
+"label": "Iztacalco", "lat": 19.395901, "lng": -99.097613,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/iztacalco.json"
+},{
+"label": "Tláhuac", "lat": 19.2705912, "lng": -98.99288806000003,"info": "total: 50","children": "data/mexico/ciudad-de-mexico/tlahuac.json"
+},{
+"label": "Benito Juárez", "lat": 19.371992, "lng": -99.157853,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/benito-juarez.json"
+},{
+"label": "Coyoacán", "lat": 19.350214, "lng": -99.162146,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/coyoacan.json"
+},{
+"label": "Tlalpan", "lat": 19.200107455445547, "lng": -99.2021848069307,"info": "total: 202","children": "data/mexico/ciudad-de-mexico/tlalpan.json"
+},{
+"label": "Cuauhtémoc", "lat": 19.441647, "lng": -99.151884,"info": "total: 1","children": "data/mexico/ciudad-de-mexico/cuauhtemoc.json"
+},{
+"label": "Cuajimalpa de Morelos", "lat": 19.335841043478258, "lng": -99.3180034347826,"info": "total: 23","children": "data/mexico/ciudad-de-mexico/cuajimalpa-de-morelos.json"
+},{
+"label": "La Magdalena Contreras", "lat": 19.26955747058824, "lng": -99.26275623529412,"info": "total: 34","children": "data/mexico/ciudad-de-mexico/la-magdalena-contreras.json"
+},{
+"label": "Milpa Alta", "lat": 19.190794493562237, "lng": -99.04233539484983,"info": "total: 233","children": "data/mexico/ciudad-de-mexico/milpa-alta.json"
+}]

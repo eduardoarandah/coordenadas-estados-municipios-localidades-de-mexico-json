@@ -1,0 +1,369 @@
+[{
+"label": "San Miguel Ixtapan", "lat": 18.807137, "lng": -100.150894
+},{
+"label": "Rincón de San Gabriel", "lat": 18.888287, "lng": -100.025788
+},{
+"label": "Los Colorines", "lat": 18.890812, "lng": -100.164012
+},{
+"label": "Salto Grande", "lat": 18.86834, "lng": -100.227625
+},{
+"label": "Rincón el Sauz Ocotepec", "lat": 18.840689, "lng": -100.092579
+},{
+"label": "Ojo de Agua (Rincón de Ugarte)", "lat": 18.944004, "lng": -100.137186
+},{
+"label": "Arballo", "lat": 18.846873, "lng": -100.058043
+},{
+"label": "Potrero del Guayabal", "lat": 18.848591, "lng": -100.372904
+},{
+"label": "Zapote del Ancón", "lat": 18.866654, "lng": -100.105092
+},{
+"label": "El Aguacate de Monte de Dios", "lat": 18.817911, "lng": -100.201701
+},{
+"label": "La Palma Cuata (La Palma)", "lat": 18.831928, "lng": -100.452631
+},{
+"label": "Salitre de Acamuchitlán (El Salitre)", "lat": 18.831978, "lng": -100.243773
+},{
+"label": "Bejucos", "lat": 18.777674, "lng": -100.427197
+},{
+"label": "La Joya de San Lucas", "lat": 18.956246, "lng": -100.182332
+},{
+"label": "Cuadrilla de los Perros", "lat": 18.807353, "lng": -100.363641
+},{
+"label": "Barranca de Ixtapan", "lat": 18.857321, "lng": -100.15669
+},{
+"label": "Puerto del Aire", "lat": 18.824692, "lng": -100.182551
+},{
+"label": "El Sauz Ocotepec (El Sauz)", "lat": 18.840097, "lng": -100.080099
+},{
+"label": "El Fraile", "lat": 18.817432, "lng": -100.385496
+},{
+"label": "Rincón del Carmen", "lat": 18.901804, "lng": -100.120432
+},{
+"label": "Cerro de Mazatepec", "lat": 18.913279, "lng": -100.096732
+},{
+"label": "Cerro Gordo", "lat": 18.839608, "lng": -100.134392
+},{
+"label": "Campanario de Ixtapan (El Campanario)", "lat": 18.841994, "lng": -100.179765
+},{
+"label": "Cuadrilla de Leones", "lat": 18.890432, "lng": -100.211778
+},{
+"label": "Llano Grande (Llano Grande de San Lucas)", "lat": 18.955936, "lng": -100.213208
+},{
+"label": "El Salto (El Salto Dos)", "lat": 18.796254, "lng": -100.444758
+},{
+"label": "Colonia México Sesenta y Ocho", "lat": 18.895767, "lng": -100.150184
+},{
+"label": "Antimonio", "lat": 18.868558, "lng": -100.037753
+},{
+"label": "Almoloya de las Granadas", "lat": 18.970012, "lng": -100.132041
+},{
+"label": "Plan del Puente", "lat": 18.770456, "lng": -100.40842
+},{
+"label": "Las Mesas de los Capires (Las Mesas)", "lat": 18.826598, "lng": -100.340182
+},{
+"label": "San Lucas del Maíz (San Lucas)", "lat": 18.963771, "lng": -100.184256
+},{
+"label": "Cerro de los Elizaldes", "lat": 18.825192, "lng": -100.319352
+},{
+"label": "El Cuagüilote Ojo de Agua (La Pera)", "lat": 18.939111, "lng": -100.134371
+},{
+"label": "Jacalillos", "lat": 18.86079, "lng": -100.069433
+},{
+"label": "Los Baños", "lat": 18.915045, "lng": -100.062936
+},{
+"label": "Fundadora de San Lucas del Maíz", "lat": 19.003314, "lng": -100.237771
+},{
+"label": "La Parota Quemada (Arroyo del Salto)", "lat": 18.812996, "lng": -100.432848
+},{
+"label": "La Guitarra", "lat": 18.820611, "lng": -100.161199
+},{
+"label": "Tejapan Limones (Tejapan)", "lat": 18.830325, "lng": -100.304245
+},{
+"label": "Plaza de Gallos", "lat": 18.847252, "lng": -100.237564
+},{
+"label": "Paredes Prietas", "lat": 18.80891, "lng": -100.371913
+},{
+"label": "La Laguna de Mazatepec", "lat": 18.887081, "lng": -100.110771
+},{
+"label": "Agua Negra", "lat": 18.985988, "lng": -100.212508
+},{
+"label": "El Limón de Ixtapan", "lat": 18.846113, "lng": -100.117694
+},{
+"label": "La Labor de Zaragoza", "lat": 18.871918, "lng": -100.098466
+},{
+"label": "Santo Domingo-Zacatepec", "lat": 18.882014, "lng": -100.131503
+},{
+"label": "El Banco", "lat": 18.815424, "lng": -100.401116
+},{
+"label": "Coahuilotes", "lat": 18.796317, "lng": -100.330365
+},{
+"label": "El Picacho del Rincón del Guayabal", "lat": 18.830966, "lng": -100.365663
+},{
+"label": "Antonio de San Lucas del Maíz", "lat": 18.993245, "lng": -100.215202
+},{
+"label": "Las Lomas (Los Depósitos)", "lat": 18.776913, "lng": -100.422457
+},{
+"label": "La Cuitacera", "lat": 18.784851, "lng": -100.337085
+},{
+"label": "Colonia Benito Juárez (Lázaro Cárdenas del Río)", "lat": 18.786349, "lng": -100.427709
+},{
+"label": "Río Grande", "lat": 19.015403, "lng": -100.123473
+},{
+"label": "Rancho las Moras (Las Moras)", "lat": 18.842321, "lng": -100.145728
+},{
+"label": "Cuevillas", "lat": 19.004383, "lng": -100.259479
+},{
+"label": "La Angostura Primera", "lat": 19.008279, "lng": -100.276928
+},{
+"label": "Puerto la Piedra Labrada (Puerto de Carboneras)", "lat": 18.846173, "lng": -100.34795
+},{
+"label": "Acamuchitlán", "lat": 18.837017, "lng": -100.268019
+},{
+"label": "Antimonio Pantoja", "lat": 18.869452, "lng": -100.038248
+},{
+"label": "Epazotes", "lat": 18.922866, "lng": -100.222267
+},{
+"label": "El Jumate", "lat": 18.792439, "lng": -100.30238
+},{
+"label": "Planes de la Cofradía (Los Planes)", "lat": 18.801528, "lng": -100.282552
+},{
+"label": "El Naranjito", "lat": 18.791863, "lng": -100.458118
+},{
+"label": "Rincón Chiquito", "lat": 18.833648, "lng": -100.14569
+},{
+"label": "Pantoja", "lat": 18.875136, "lng": -100.018722
+},{
+"label": "Rinconada de la Labor", "lat": 18.885351, "lng": -100.10266
+},{
+"label": "Rincón del Guayabal", "lat": 18.821806, "lng": -100.36213
+},{
+"label": "El Nogal", "lat": 18.843232, "lng": -100.392094
+},{
+"label": "San Gabriel Pantoja", "lat": 18.887321, "lng": -100.031821
+},{
+"label": "Las Ilamas", "lat": 18.800363, "lng": -100.33896
+},{
+"label": "El Corupo", "lat": 18.821603, "lng": -100.309395
+},{
+"label": "Mesa del Huarichi", "lat": 18.815775, "lng": -100.424538
+},{
+"label": "Los Pericones", "lat": 18.886256, "lng": -100.190199
+},{
+"label": "Las Mesas de Ixtapan (Las Mesas)", "lat": 18.846862, "lng": -100.170669
+},{
+"label": "Ilamos", "lat": 18.804103, "lng": -100.171904
+},{
+"label": "La Bolsa", "lat": 18.784524, "lng": -100.317285
+},{
+"label": "El Naranjo Grande", "lat": 18.787631, "lng": -100.348869
+},{
+"label": "Tirados", "lat": 18.807413, "lng": -100.228677
+},{
+"label": "Mesa de Gallos (El Llano)", "lat": 18.847161, "lng": -100.507821
+},{
+"label": "La Florida (Kilómetro 5)", "lat": 18.860278, "lng": -100.139431
+},{
+"label": "Tamarindo", "lat": 18.818971, "lng": -100.375767
+},{
+"label": "Santa Rosa Rincón de Jaimes", "lat": 18.873964, "lng": -100.16065
+},{
+"label": "Tonatilco", "lat": 18.835422, "lng": -100.200199
+},{
+"label": "Cerro del Divisadero", "lat": 18.838979, "lng": -100.123186
+},{
+"label": "Barro Prieto", "lat": 18.795559, "lng": -100.377747
+},{
+"label": "Rincón de López", "lat": 18.922172, "lng": -100.137063
+},{
+"label": "El Guayabo", "lat": 18.794025, "lng": -100.321643
+},{
+"label": "El Potrero de Ixtapan (El Potrero)", "lat": 18.866989, "lng": -100.166718
+},{
+"label": "Suquitila", "lat": 18.946094, "lng": -100.188351
+},{
+"label": "Rincón de Truchas", "lat": 18.830084, "lng": -100.472831
+},{
+"label": "La Mesa", "lat": 18.839182, "lng": -100.299412
+},{
+"label": "Lodo Prieto", "lat": 18.832368, "lng": -100.129097
+},{
+"label": "Paso de la Parota", "lat": 18.770188, "lng": -100.390082
+},{
+"label": "Piedra Boluda", "lat": 18.840501, "lng": -100.465091
+},{
+"label": "Agua Bendita", "lat": 18.936363, "lng": -100.121155
+},{
+"label": "El Capire (Colonia el Capire)", "lat": 18.906916, "lng": -100.160865
+},{
+"label": "Los Melchores de San Lucas (Los Melchores)", "lat": 18.974883, "lng": -100.236697
+},{
+"label": "Santa María de las Flores", "lat": 18.838262, "lng": -100.166968
+},{
+"label": "San Andrés Ocotepec", "lat": 18.903317, "lng": -100.045881
+},{
+"label": "Rincón de Jaimes", "lat": 18.900201, "lng": -100.162747
+},{
+"label": "Cuadrilla de los Martínez (Los Martínez)", "lat": 18.983976, "lng": -100.183924
+},{
+"label": "Los Cuervos", "lat": 18.807359, "lng": -100.311239
+},{
+"label": "La Parota (Rancho las Parotas)", "lat": 18.826359, "lng": -100.378173
+},{
+"label": "San José de la Laguna", "lat": 18.947195, "lng": -100.171357
+},{
+"label": "Monte de Dios", "lat": 18.815005, "lng": -100.221734
+},{
+"label": "Las Juntas del Salto", "lat": 18.782103, "lng": -100.447895
+},{
+"label": "Puerto Madroño", "lat": 18.916634, "lng": -100.046141
+},{
+"label": "Paso de San Juan", "lat": 18.771061, "lng": -100.338097
+},{
+"label": "Fragüita", "lat": 18.891175, "lng": -100.22488
+},{
+"label": "El Zapote de Ixtapan (El Zapote)", "lat": 18.81399, "lng": -100.112154
+},{
+"label": "Cerro Alto (Milpa Vieja)", "lat": 18.968586, "lng": -100.160788
+},{
+"label": "El Puerto del Blanqueadero (Peñas Pintas)", "lat": 18.845161, "lng": -100.486726
+},{
+"label": "Tequesquite (El Tequezquite)", "lat": 18.845219, "lng": -100.476636
+},{
+"label": "La Calera", "lat": 18.790732, "lng": -100.393186
+},{
+"label": "El Zapote de Acamuchitlán (El Zapote)", "lat": 18.825343, "lng": -100.273584
+},{
+"label": "Piedra Ancha", "lat": 18.971023, "lng": -100.199563
+},{
+"label": "Plan de Maguey", "lat": 18.930551, "lng": -100.020012
+},{
+"label": "La Cabecera (Cabecera de los Arrayanes)", "lat": 18.897277, "lng": -100.198899
+},{
+"label": "Hacienda de Ixtapan", "lat": 18.82344, "lng": -100.134799
+},{
+"label": "El Capire de Pantoja", "lat": 18.871438, "lng": -100.053151
+},{
+"label": "Santa Rosa (Las Juntas)", "lat": 18.869917, "lng": -100.152498
+},{
+"label": "Tenería (Pueblo Nuevo)", "lat": 18.973286, "lng": -100.092292
+},{
+"label": "Cacahuananche", "lat": 18.785856, "lng": -100.406129
+},{
+"label": "Rincón de Carboneras (Carboneras)", "lat": 18.835063, "lng": -100.349533
+},{
+"label": "El Carmen de Ixtapan", "lat": 18.833237, "lng": -100.231916
+},{
+"label": "Encinos Verdes", "lat": 18.828371, "lng": -100.079528
+},{
+"label": "Lomas de Tejupilco", "lat": 18.906688, "lng": -100.146089
+},{
+"label": "Santiago Arizmendi (Arizmendi)", "lat": 18.842872, "lng": -100.040822
+},{
+"label": "Río Chiquito", "lat": 18.80713, "lng": -100.269862
+},{
+"label": "El Cirián de la Laguna (El Cirián)", "lat": 18.940876, "lng": -100.197532
+},{
+"label": "Mazatepec", "lat": 18.89982, "lng": -100.094244
+},{
+"label": "Jumiltepec", "lat": 18.928957, "lng": -100.185177
+},{
+"label": "Salitre de San Lucas", "lat": 18.956746, "lng": -100.220739
+},{
+"label": "Limón de San Lucas del Maíz", "lat": 18.983517, "lng": -100.246595
+},{
+"label": "El Molino del Salto (Galera del Molino)", "lat": 18.807072, "lng": -100.445976
+},{
+"label": "Ocoyapan", "lat": 18.875039, "lng": -100.117736
+},{
+"label": "Paso del Guayabal (El Paso)", "lat": 18.792162, "lng": -100.378279
+},{
+"label": "El Burrito (El Sauz)", "lat": 18.806044, "lng": -100.216023
+},{
+"label": "Rincón de Aguirre", "lat": 18.900151, "lng": -100.135231
+},{
+"label": "Las Ánimas", "lat": 18.821813, "lng": -100.099673
+},{
+"label": "Puerto de Jalpan (Jalpa)", "lat": 18.818836, "lng": -100.122371
+},{
+"label": "La Ceiba", "lat": 18.83977, "lng": -100.485658
+},{
+"label": "Tejupilco de Hidalgo", "lat": 18.905696, "lng": -100.153403
+},{
+"label": "La Monera", "lat": 18.821611, "lng": -100.44792
+},{
+"label": "Colonia Buenavista Primera Sección", "lat": 18.914025, "lng": -100.157925
+},{
+"label": "Cerro de los Huérfanos", "lat": 18.838444, "lng": -100.313187
+},{
+"label": "Las Juntas", "lat": 18.864269, "lng": -100.233142
+},{
+"label": "Los Nopales", "lat": 18.805559, "lng": -100.136573
+},{
+"label": "Las Juntas de Ixtapan", "lat": 18.799586, "lng": -100.162673
+},{
+"label": "Los Pinzanes (La Pinzanera)", "lat": 18.777402, "lng": -100.334349
+},{
+"label": "Cerro de Cacalotepec (Cacalotepec)", "lat": 18.949989, "lng": -100.149965
+},{
+"label": "La Cofradía (Los Mangos)", "lat": 18.813467, "lng": -100.284617
+},{
+"label": "Juntas de Zacatepec (El Pedregal Segunda Manzana)", "lat": 18.887606, "lng": -100.143036
+},{
+"label": "Las Anonas", "lat": 18.788819, "lng": -100.362956
+},{
+"label": "La Estancia de Ixtapan", "lat": 18.855384, "lng": -100.114884
+},{
+"label": "Rincón de Ugarte", "lat": 18.923364, "lng": -100.151426
+},{
+"label": "El Rodeo", "lat": 18.861822, "lng": -100.122523
+},{
+"label": "Cerro del Mango del Sauz Ocotepec", "lat": 18.849094, "lng": -100.092161
+},{
+"label": "El Ciruelo", "lat": 18.810415, "lng": -100.329027
+},{
+"label": "El Mango", "lat": 18.803339, "lng": -100.394738
+},{
+"label": "Cañadas de San Simón (Cañada de Chivas)", "lat": 18.912826, "lng": -100.194452
+},{
+"label": "El Ocote", "lat": 18.910412, "lng": -100.105108
+},{
+"label": "Sauz de San Lucas (El Sauz)", "lat": 18.999569, "lng": -100.228887
+},{
+"label": "Cuadrilla de López", "lat": 18.879601, "lng": -100.227704
+},{
+"label": "Llano Grande", "lat": 18.833426, "lng": -100.102267
+},{
+"label": "Paso de Vigas", "lat": 18.892956, "lng": -100.233224
+},{
+"label": "San Mateo (San Mateo Ixtapan)", "lat": 18.844471, "lng": -100.227209
+},{
+"label": "El Mamey de San Lucas", "lat": 18.987354, "lng": -100.221541
+},{
+"label": "El Platanal (El Platanal de San Lucas)", "lat": 18.971935, "lng": -100.220474
+},{
+"label": "San Francisco", "lat": 18.794389, "lng": -100.150974
+},{
+"label": "Rincón del Naranjo (La Cabecera)", "lat": 18.903525, "lng": -100.178706
+},{
+"label": "La Cañada", "lat": 18.818842, "lng": -100.351394
+},{
+"label": "Pinzán Morado", "lat": 18.805377, "lng": -100.238169
+},{
+"label": "Río de Aquiagua (Aquiagua)", "lat": 18.896376, "lng": -100.080446
+},{
+"label": "Cerro del Chirimoyo", "lat": 18.840056, "lng": -100.151697
+},{
+"label": "Naranjo Chiquito", "lat": 18.792622, "lng": -100.344127
+},{
+"label": "Cuadrilla del Molino", "lat": 18.82177, "lng": -100.345792
+},{
+"label": "El Salitre Segunda Seccción", "lat": 18.960116, "lng": -100.232178
+},{
+"label": "Juluapan (Juloapan)", "lat": 18.804033, "lng": -100.111032
+},{
+"label": "Potrero Grande", "lat": 18.838318, "lng": -100.504983
+},{
+"label": "Los Naranjitos la Parota (El Molino)", "lat": 18.823345, "lng": -100.460401
+},{
+"label": "Jalpan (Jalpan San Simón)", "lat": 18.926371, "lng": -100.164212
+}]

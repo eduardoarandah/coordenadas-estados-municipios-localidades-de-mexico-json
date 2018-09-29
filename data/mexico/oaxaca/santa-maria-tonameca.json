@@ -1,0 +1,209 @@
+[{
+"label": "Charco de Agua", "lat": 15.767121, "lng": -96.663755
+},{
+"label": "La Oscurana", "lat": 15.792301, "lng": -96.773219
+},{
+"label": "Paso Ocote", "lat": 15.841545, "lng": -96.709655
+},{
+"label": "La Soledad los García", "lat": 15.776665, "lng": -96.748173
+},{
+"label": "Cuarto", "lat": 15.752879, "lng": -96.526214
+},{
+"label": "El Paraíso", "lat": 15.870526, "lng": -96.777585
+},{
+"label": "La Culebra [Barrio]", "lat": 15.766329, "lng": -96.846194
+},{
+"label": "Tierra Blanca", "lat": 15.880101, "lng": -96.766949
+},{
+"label": "Barrio de la Cruz", "lat": 15.752921, "lng": -96.547492
+},{
+"label": "Cerro Gordo", "lat": 15.790413, "lng": -96.592408
+},{
+"label": "Ventanilla", "lat": 15.672616, "lng": -96.572438
+},{
+"label": "Agostadero", "lat": 15.755196, "lng": -96.69133
+},{
+"label": "San Bernardino", "lat": 15.787066, "lng": -96.817553
+},{
+"label": "Tilzapote", "lat": 15.740575, "lng": -96.78836
+},{
+"label": "Santa Elena el Tule", "lat": 15.756883, "lng": -96.82303
+},{
+"label": "Unión del Palmar", "lat": 15.722958, "lng": -96.620702
+},{
+"label": "Rincón Alegre", "lat": 15.720604, "lng": -96.573168
+},{
+"label": "San Isidro del Palmar", "lat": 15.72119, "lng": -96.609643
+},{
+"label": "Palma Larga", "lat": 15.805774, "lng": -96.754525
+},{
+"label": "El Huizache", "lat": 15.72259, "lng": -96.560613
+},{
+"label": "El Parral", "lat": 15.74759, "lng": -96.737712
+},{
+"label": "Villa Nueva", "lat": 15.87314, "lng": -96.782503
+},{
+"label": "Arroyo Aragón", "lat": 15.666632, "lng": -96.53167
+},{
+"label": "La Florida", "lat": 15.728378, "lng": -96.561687
+},{
+"label": "La Barra del Potrero", "lat": 15.737309, "lng": -96.763526
+},{
+"label": "Chacahua", "lat": 15.702614, "lng": -96.603257
+},{
+"label": "Juan Diego", "lat": 15.78745, "lng": -96.59291
+},{
+"label": "Soluche", "lat": 15.820081, "lng": -96.794906
+},{
+"label": "El Popoyote", "lat": 15.725353, "lng": -96.633207
+},{
+"label": "San Juanito o la Botija", "lat": 15.790658, "lng": -96.786355
+},{
+"label": "Arroyo Arena", "lat": 15.81057, "lng": -96.778215
+},{
+"label": "Lagartero", "lat": 15.731518, "lng": -96.676355
+},{
+"label": "Paso Lagarto", "lat": 15.739498, "lng": -96.555
+},{
+"label": "Piedra Sepultura Miramar", "lat": 15.747378, "lng": -96.669936
+},{
+"label": "Linda Vista", "lat": 15.865959, "lng": -96.743908
+},{
+"label": "El Tecomate", "lat": 15.813273, "lng": -96.832793
+},{
+"label": "El Macuil", "lat": 15.816061, "lng": -96.750101
+},{
+"label": "Escobilla", "lat": 15.731815, "lng": -96.737646
+},{
+"label": "San Antonio", "lat": 15.716611, "lng": -96.579088
+},{
+"label": "El Chilar", "lat": 15.870205, "lng": -96.761676
+},{
+"label": "San Juan Piedras Negras", "lat": 15.725738, "lng": -96.66042
+},{
+"label": "Yerba Santa", "lat": 15.785301, "lng": -96.639299
+},{
+"label": "Tierra Nueva", "lat": 15.845559, "lng": -96.793034
+},{
+"label": "Chaluco", "lat": 15.736796, "lng": -96.531285
+},{
+"label": "Aguaje Cualillo", "lat": 15.726193, "lng": -96.528509
+},{
+"label": "Guapinole", "lat": 15.737773, "lng": -96.782065
+},{
+"label": "Los Ciruelos", "lat": 15.828958, "lng": -96.766501
+},{
+"label": "El Limón", "lat": 15.863275, "lng": -96.783908
+},{
+"label": "Juana Boquita", "lat": 15.799936, "lng": -96.747372
+},{
+"label": "Las Pilas", "lat": 15.842483, "lng": -96.732782
+},{
+"label": "Arroyo Tres", "lat": 15.666464, "lng": -96.524449
+},{
+"label": "San José", "lat": 15.75909, "lng": -96.776356
+},{
+"label": "San Francisco Cozoaltepec", "lat": 15.81243, "lng": -96.721962
+},{
+"label": "El Manantial", "lat": 15.840924, "lng": -96.782074
+},{
+"label": "Yonguina", "lat": 15.89957, "lng": -96.71623
+},{
+"label": "El Calvario", "lat": 15.749665, "lng": -96.544192
+},{
+"label": "Santa María Tonameca", "lat": 15.747139, "lng": -96.545365
+},{
+"label": "El Coco", "lat": 15.721779, "lng": -96.565649
+},{
+"label": "San Isidro (Infiernillo)", "lat": 15.874271, "lng": -96.789996
+},{
+"label": "El Nanchal (San José el Nanchal)", "lat": 15.775478, "lng": -96.794303
+},{
+"label": "Rincón Bonito", "lat": 15.791286, "lng": -96.555863
+},{
+"label": "El Gavilán", "lat": 15.885278, "lng": -96.728318
+},{
+"label": "La Crucecita", "lat": 15.840845, "lng": -96.747532
+},{
+"label": "Piedra Ancha", "lat": 15.743139, "lng": -96.656589
+},{
+"label": "El Carnero", "lat": 15.686766, "lng": -96.511456
+},{
+"label": "El Tigrero", "lat": 15.792848, "lng": -96.547014
+},{
+"label": "Mazunte", "lat": 15.667818, "lng": -96.553957
+},{
+"label": "El Zapotal", "lat": 15.675044, "lng": -96.559086
+},{
+"label": "El Zapote", "lat": 15.799248, "lng": -96.770486
+},{
+"label": "Paso las Garzas", "lat": 15.792806, "lng": -96.727059
+},{
+"label": "El Progreso Cozoaltepec (El Progreso)", "lat": 15.793426, "lng": -96.737187
+},{
+"label": "Frutilla", "lat": 15.774412, "lng": -96.559987
+},{
+"label": "Villa Unión", "lat": 15.812823, "lng": -96.742181
+},{
+"label": "La Rivera", "lat": 15.796294, "lng": -96.719493
+},{
+"label": "Puente Escondido", "lat": 15.7258, "lng": -96.554531
+},{
+"label": "El Samaritan Tonameca", "lat": 15.709074, "lng": -96.597296
+},{
+"label": "Cuatode", "lat": 15.735347, "lng": -96.520374
+},{
+"label": "Vainilla Tonameca", "lat": 15.728277, "lng": -96.701847
+},{
+"label": "San Agustinillo", "lat": 15.665935, "lng": -96.542173
+},{
+"label": "El Regadillo", "lat": 15.843298, "lng": -96.765532
+},{
+"label": "Soluta", "lat": 15.781362, "lng": -96.736989
+},{
+"label": "Cerro la Cruz", "lat": 15.750268, "lng": -96.762069
+},{
+"label": "Lagunilla", "lat": 15.83349, "lng": -96.738367
+},{
+"label": "Agua Dulce", "lat": 15.768134, "lng": -96.637972
+},{
+"label": "Pueblo Viejo", "lat": 15.856999, "lng": -96.750263
+},{
+"label": "El Peñasco", "lat": 15.788739, "lng": -96.605061
+},{
+"label": "San Martín", "lat": 15.864763, "lng": -96.761064
+},{
+"label": "La Anona", "lat": 15.826446, "lng": -96.744413
+},{
+"label": "La Reforma", "lat": 15.726794, "lng": -96.60644
+},{
+"label": "El Manzano", "lat": 15.683346, "lng": -96.574748
+},{
+"label": "El Tule", "lat": 15.740313, "lng": -96.838124
+},{
+"label": "Juquilita", "lat": 15.771723, "lng": -96.565761
+},{
+"label": "Valdeflores", "lat": 15.851093, "lng": -96.792903
+},{
+"label": "El Trapiche", "lat": 15.820523, "lng": -96.697755
+},{
+"label": "Llano Grande", "lat": 15.726108, "lng": -96.539303
+},{
+"label": "Paso Zanate", "lat": 15.767336, "lng": -96.754779
+},{
+"label": "La Laguna del Palmar", "lat": 15.698876, "lng": -96.61297
+},{
+"label": "La Unión", "lat": 15.841137, "lng": -96.80706
+},{
+"label": "Arroyo la Puerta", "lat": 15.762748, "lng": -96.711369
+},{
+"label": "El Mangal", "lat": 15.86337, "lng": -96.726385
+},{
+"label": "Barranca Honda", "lat": 15.792487, "lng": -96.671323
+},{
+"label": "Macahuite", "lat": 15.730178, "lng": -96.690874
+},{
+"label": "El Venado", "lat": 15.716176, "lng": -96.604746
+},{
+"label": "Agua Blanca", "lat": 15.743965, "lng": -96.811936
+}]

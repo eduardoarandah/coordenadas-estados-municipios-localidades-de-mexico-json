@@ -1,0 +1,335 @@
+[{
+"label": "Esperanza", "lat": 27.171228, "lng": -109.765218
+},{
+"label": "Campo de Humberto Olivas", "lat": 27.121726, "lng": -109.830785
+},{
+"label": "Campo Fernando Gutiérrez", "lat": 27.057524, "lng": -109.851203
+},{
+"label": "San Salvador (Laguna Seca)", "lat": 27.041667, "lng": -109.891944
+},{
+"label": "Ninguno [Juan Carlos Sornia]", "lat": 27.152841, "lng": -109.748125
+},{
+"label": "Campo María", "lat": 27.139204, "lng": -109.848253
+},{
+"label": "La Azteca", "lat": 27.006761, "lng": -109.876265
+},{
+"label": "Campo de Juan Pablo", "lat": 27.076944, "lng": -109.870833
+},{
+"label": "La Fresno Veinticinco", "lat": 27.0625, "lng": -109.893056
+},{
+"label": "Bachoco", "lat": 27.099037, "lng": -109.814379
+},{
+"label": "Campo Gildardo Vega", "lat": 27.171679, "lng": -109.851677
+},{
+"label": "Roberto Alaníz", "lat": 27.079702, "lng": -109.918206
+},{
+"label": "Campo de Jesús Othón", "lat": 27.024999, "lng": -109.851074
+},{
+"label": "Ninguno [Marco Mejía]", "lat": 27.152924, "lng": -109.736386
+},{
+"label": "Campo Signoret", "lat": 27.15345, "lng": -109.855612
+},{
+"label": "General Emiliano Zapata", "lat": 27.084722, "lng": -109.902222
+},{
+"label": "Campo del Pompas", "lat": 27.153333, "lng": -109.868056
+},{
+"label": "Roberto Gándara", "lat": 27.089129, "lng": -109.893081
+},{
+"label": "Quinser SPR de RI", "lat": 27.075477, "lng": -109.8429
+},{
+"label": "Francisco Bustamante", "lat": 27.116419, "lng": -109.948972
+},{
+"label": "Campo de Rafael Sonqui", "lat": 27.056944, "lng": -109.8875
+},{
+"label": "General Emiliano Zapata (Campo de Brambila)", "lat": 27.079902, "lng": -109.902074
+},{
+"label": "Ejido Indígenas del Mayo", "lat": 27.043839, "lng": -109.851203
+},{
+"label": "Ninguno", "lat": 27.096649, "lng": -109.782882
+},{
+"label": "Santa María (Costa Rica)", "lat": 27.144184, "lng": -109.904358
+},{
+"label": "Campo de Gonzalo Valenzuela", "lat": 27.084612, "lng": -109.789668
+},{
+"label": "Campo Gutiérrez", "lat": 27.125921, "lng": -109.927665
+},{
+"label": "El Tucán", "lat": 27.189906, "lng": -109.797886
+},{
+"label": "Ninguno [Familia Parra Pérez]", "lat": 27.171661, "lng": -109.744308
+},{
+"label": "Lora", "lat": 27.124537, "lng": -109.854174
+},{
+"label": "Campo Rosario Valenzuela", "lat": 27.116214, "lng": -109.809003
+},{
+"label": "El Águila", "lat": 27.171037, "lng": -109.73833
+},{
+"label": "Campo 23", "lat": 27.098037, "lng": -109.852105
+},{
+"label": "Campo 24", "lat": 27.083889, "lng": -109.748611
+},{
+"label": "Ejido el Porvenir", "lat": 27.033795, "lng": -109.851109
+},{
+"label": "San Salvador Barneche", "lat": 27.107408, "lng": -109.880489
+},{
+"label": "Vargas", "lat": 27.125455, "lng": -109.892339
+},{
+"label": "Caseta de Cobro de la Isla Huivulai", "lat": 27.109734, "lng": -109.962955
+},{
+"label": "Campo Don Rufino", "lat": 27.171815, "lng": -109.777456
+},{
+"label": "Niños Héroes", "lat": 27.13463, "lng": -109.891114
+},{
+"label": "Joselito", "lat": 27.034351, "lng": -109.882812
+},{
+"label": "Campo de Antonio Fuerte", "lat": 27.060747, "lng": -109.869984
+},{
+"label": "Cuatro Caminos", "lat": 27.207396, "lng": -109.819833
+},{
+"label": "Cocoraque", "lat": 27.196624, "lng": -109.848076
+},{
+"label": "Campo de Nelo Cubedo", "lat": 27.084559, "lng": -109.810089
+},{
+"label": "Ranchito de Elias", "lat": 27.107425, "lng": -109.810096
+},{
+"label": "Campo Liborio Rodríguez", "lat": 27.024742, "lng": -109.880677
+},{
+"label": "Campo Arreola", "lat": 27.190383, "lng": -109.830781
+},{
+"label": "Aquiles Souque", "lat": 27.090389, "lng": -109.933104
+},{
+"label": "Campo de José María Piña", "lat": 27.070822, "lng": -109.850292
+},{
+"label": "Granja Bachoco", "lat": 27.148928, "lng": -109.769352
+},{
+"label": "Chávez", "lat": 27.10722, "lng": -109.748102
+},{
+"label": "Chema Pérez", "lat": 27.116396, "lng": -109.840986
+},{
+"label": "El Ranchito", "lat": 27.137902, "lng": -109.850371
+},{
+"label": "Puerta", "lat": 27.1102, "lng": -109.749561
+},{
+"label": "Granos de Sonora", "lat": 27.120161, "lng": -109.770002
+},{
+"label": "Raúl Gutiérrez", "lat": 27.110502, "lng": -109.749492
+},{
+"label": "Campo Arvizu", "lat": 27.21742, "lng": -109.820546
+},{
+"label": "Campo Esteban de Hernández", "lat": 27.189957, "lng": -109.810302
+},{
+"label": "Miguel Hidalgo (El Moño)", "lat": 27.107328, "lng": -109.892269
+},{
+"label": "Campo de Alejandro Rocha", "lat": 27.080649, "lng": -109.923342
+},{
+"label": "Rosarito", "lat": 27.049284, "lng": -109.907801
+},{
+"label": "Campo Espinoza", "lat": 27.192832, "lng": -109.830915
+},{
+"label": "Campo Cornejo", "lat": 27.161667, "lng": -109.785
+},{
+"label": "Planta de Fertilizantes (FIASSA)", "lat": 27.136667, "lng": -109.847222
+},{
+"label": "San Antonio", "lat": 27.116392, "lng": -109.863885
+},{
+"label": "Campo de Marcelo Armenta", "lat": 27.107498, "lng": -109.825748
+},{
+"label": "Campo de Héctor Bustamante", "lat": 27.097931, "lng": -109.857231
+},{
+"label": "Campo L", "lat": 27.117096, "lng": -109.769515
+},{
+"label": "Corea", "lat": 27.028049, "lng": -109.892182
+},{
+"label": "Vicente Suárez", "lat": 27.024681, "lng": -109.871365
+},{
+"label": "Campo Reyna", "lat": 27.152811, "lng": -109.855949
+},{
+"label": "Campo de Rubén Dorame", "lat": 27.121831, "lng": -109.838303
+},{
+"label": "Campo Norte", "lat": 27.201873, "lng": -109.793273
+},{
+"label": "Alfredo Reynoso", "lat": 27.103909, "lng": -109.749447
+},{
+"label": "Ninguno [Fernando Navarro]", "lat": 27.134591, "lng": -109.75346
+},{
+"label": "Algodonera de la USPRUSS", "lat": 27.116227, "lng": -109.856011
+},{
+"label": "Fernando Gándara", "lat": 27.088938, "lng": -109.881518
+},{
+"label": "Campo Flores", "lat": 27.209999, "lng": -109.820461
+},{
+"label": "Campo de Anselmo Cubedo", "lat": 27.089519, "lng": -109.810139
+},{
+"label": "Campo de Jesús Durán Vázquez", "lat": 27.097974, "lng": -109.77137
+},{
+"label": "USPRUS", "lat": 27.117847, "lng": -109.850641
+},{
+"label": "Campo de Felipe Zaldivar", "lat": 27.117044, "lng": -109.78972
+},{
+"label": "Campo de Francisco Yépiz", "lat": 27.090556, "lng": -109.755556
+},{
+"label": "Campo Sánchez Bek (Noriega)", "lat": 27.189598, "lng": -109.823695
+},{
+"label": "Ejido 15 de Mayo", "lat": 27.097693, "lng": -109.759119
+},{
+"label": "Chinotagueca la Loma", "lat": 27.073176, "lng": -109.889101
+},{
+"label": "Jecopaco", "lat": 27.197477, "lng": -109.770495
+},{
+"label": "Lencho Campoy", "lat": 27.098268, "lng": -109.889128
+},{
+"label": "Campo Parada (Costa Rica)", "lat": 27.107351, "lng": -109.912411
+},{
+"label": "Paredoncito", "lat": 27.057083, "lng": -109.912925
+},{
+"label": "Campo de Alfonso Hermosillo", "lat": 27.061559, "lng": -109.850303
+},{
+"label": "Gocotila", "lat": 27.186112, "lng": -109.828728
+},{
+"label": "Ejido Alfredo V. Bonfil", "lat": 27.079533, "lng": -109.851084
+},{
+"label": "Ninguno [Familia Escalante]", "lat": 27.189516, "lng": -109.748224
+},{
+"label": "Carlos Flores", "lat": 27.02075, "lng": -109.851165
+},{
+"label": "Empaque ABC", "lat": 27.117072, "lng": -109.845596
+},{
+"label": "Campo Miranda", "lat": 27.122826, "lng": -109.848938
+},{
+"label": "Campo Licenciado Mora", "lat": 27.128333, "lng": -109.928333
+},{
+"label": "Alfonso Souque", "lat": 27.10874, "lng": -109.941009
+},{
+"label": "Campo de Manuel Ruiz", "lat": 27.107346, "lng": -109.846415
+},{
+"label": "Campo Sección 91", "lat": 27.116483, "lng": -109.76948
+},{
+"label": "Campo Bórquez", "lat": 27.057039, "lng": -109.851211
+},{
+"label": "Campo de Jesús Saldívar", "lat": 27.080376, "lng": -109.86086
+},{
+"label": "Invernadero Jorge Beltrones", "lat": 27.121726, "lng": -109.833576
+},{
+"label": "Batevito (Colonia Irrigación)", "lat": 27.11706, "lng": -109.872243
+},{
+"label": "Campo de Jorge Beltrones", "lat": 27.125278, "lng": -109.807222
+},{
+"label": "Predio de la Familia Siqueiros", "lat": 27.123496, "lng": -109.844396
+},{
+"label": "Los Cipreses", "lat": 27.201646, "lng": -109.822502
+},{
+"label": "Campo Carlos Laugher", "lat": 27.201823, "lng": -109.827675
+},{
+"label": "Familia Brambila Flores (Bloque 2306)", "lat": 27.115, "lng": -109.953333
+},{
+"label": "Rancho Sánchez", "lat": 27.135111, "lng": -109.809419
+},{
+"label": "Campo Marimoto", "lat": 27.117055, "lng": -109.933519
+},{
+"label": "Campo del Gringo", "lat": 27.193944, "lng": -109.777358
+},{
+"label": "Establo Rascón", "lat": 27.075505, "lng": -109.912713
+},{
+"label": "Campo Luis Elias López", "lat": 27.111997, "lng": -109.830606
+},{
+"label": "Campo de Jesús Gutiérrez", "lat": 27.0425, "lng": -109.851667
+},{
+"label": "Fito", "lat": 27.098027, "lng": -109.749299
+},{
+"label": "El Chaleco (Miguel Hidalgo)", "lat": 27.142994, "lng": -109.864703
+},{
+"label": "Benito Escalante", "lat": 27.079756, "lng": -109.919329
+},{
+"label": "Ninguno [Peñuñuri]", "lat": 27.171259, "lng": -109.758605
+},{
+"label": "Ninguno [Salazar]", "lat": 27.171148, "lng": -109.769527
+},{
+"label": "Costa Rica (Mayojusali)", "lat": 27.143807, "lng": -109.922289
+},{
+"label": "Campo Aída Puertas", "lat": 27.153497, "lng": -109.784961
+},{
+"label": "Ninguno [Humberto García]", "lat": 27.171832, "lng": -109.769401
+},{
+"label": "Ninguno [Idalia Mejía]", "lat": 27.15298, "lng": -109.753217
+},{
+"label": "Villa Juárez", "lat": 27.127705, "lng": -109.842611
+},{
+"label": "Joaquín Rincón", "lat": 27.135278, "lng": -109.8375
+},{
+"label": "Norberto Esquer (Bloque 2208)", "lat": 27.13569, "lng": -109.933108
+},{
+"label": "Ejido Primero de Mayo", "lat": 27.152869, "lng": -109.810388
+},{
+"label": "Campo de Lorenzo Ramírez", "lat": 27.183889, "lng": -109.825556
+},{
+"label": "Campo Rivera", "lat": 27.15362, "lng": -109.810361
+},{
+"label": "Calle 19", "lat": 27.171841, "lng": -109.85128
+},{
+"label": "Esquer", "lat": 27.161995, "lng": -109.769359
+},{
+"label": "Campo Ballesteros", "lat": 27.189087, "lng": -109.827043
+},{
+"label": "Algodonera Mexicana", "lat": 27.116462, "lng": -109.825043
+},{
+"label": "Campo de Futuro Bonfil", "lat": 27.062236, "lng": -109.851225
+},{
+"label": "La Aviación", "lat": 27.171612, "lng": -109.801828
+},{
+"label": "Campo de Pedro Dueñas", "lat": 27.11629, "lng": -109.757208
+},{
+"label": "Aquiles Souque (Costa Rica)", "lat": 27.146473, "lng": -109.918733
+},{
+"label": "Santa Catalina", "lat": 27.170845, "lng": -109.831012
+},{
+"label": "Aceitunitas (Sube y Baja)", "lat": 27.079138, "lng": -109.914029
+},{
+"label": "La Loma", "lat": 27.116176, "lng": -109.953649
+},{
+"label": "Eva Valenzuela", "lat": 27.043278, "lng": -109.851036
+},{
+"label": "Costa Rica (El Quirino)", "lat": 27.098219, "lng": -109.925617
+},{
+"label": "Campo Córdova", "lat": 27.170952, "lng": -109.835067
+},{
+"label": "Chinotagueca", "lat": 27.076111, "lng": -109.88
+},{
+"label": "Juan Souque", "lat": 27.098757, "lng": -109.93362
+},{
+"label": "Alberto Castro", "lat": 27.135294, "lng": -109.840567
+},{
+"label": "Ramiro Almada", "lat": 27.080607, "lng": -109.919451
+},{
+"label": "El Tobarito", "lat": 27.001457, "lng": -109.876321
+},{
+"label": "Chuy Moreno", "lat": 27.052523, "lng": -109.885029
+},{
+"label": "Campo Gil", "lat": 27.12067, "lng": -109.826874
+},{
+"label": "Campo de la Viuda", "lat": 27.189206, "lng": -109.809882
+},{
+"label": "Abel Placencia", "lat": 27.098097, "lng": -109.837812
+},{
+"label": "Almacén Bonfil", "lat": 27.079565, "lng": -109.810633
+},{
+"label": "Alfonso Cañez", "lat": 27.134069, "lng": -109.785514
+},{
+"label": "Ninguno [Marco Antonio Gutiérrez]", "lat": 27.198747, "lng": -109.733373
+},{
+"label": "Malbaso", "lat": 27.11097, "lng": -109.78994
+},{
+"label": "Campo Castelo", "lat": 27.152881, "lng": -109.840637
+},{
+"label": "Planta de Aguamonia", "lat": 27.121802, "lng": -109.851379
+},{
+"label": "Paredón Colorado (Paredón Viejo)", "lat": 27.078218, "lng": -109.932683
+},{
+"label": "Roque Arballo", "lat": 27.133889, "lng": -109.780833
+},{
+"label": "Antonio Bustamante", "lat": 27.114167, "lng": -109.948889
+},{
+"label": "Ninguno [Joaquín Preciado]", "lat": 27.143532, "lng": -109.748138
+},{
+"label": "Agua Blanca", "lat": 27.115162, "lng": -109.732986
+},{
+"label": "Los Girasoles", "lat": 27.107443, "lng": -109.897972
+}]

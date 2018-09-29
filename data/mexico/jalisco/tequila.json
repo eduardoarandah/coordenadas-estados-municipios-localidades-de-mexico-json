@@ -1,0 +1,657 @@
+[{
+"label": "Cristo Rey", "lat": 21.08455, "lng": -103.819209
+},{
+"label": "Pandito", "lat": 20.977069, "lng": -103.68117
+},{
+"label": "El Columpio", "lat": 20.913611, "lng": -103.845146
+},{
+"label": "El Barrereño", "lat": 20.899582, "lng": -103.830158
+},{
+"label": "El Salto", "lat": 20.963832, "lng": -103.850031
+},{
+"label": "La Noria", "lat": 20.865367, "lng": -103.786616
+},{
+"label": "San Antonio de Arriba", "lat": 21.340651, "lng": -103.653831
+},{
+"label": "La Villita", "lat": 20.991767, "lng": -103.706994
+},{
+"label": "El Trapichillo", "lat": 21.007247, "lng": -103.646921
+},{
+"label": "El Cuitere", "lat": 21.03766, "lng": -103.848904
+},{
+"label": "Los Oyates", "lat": 21.037878, "lng": -103.683411
+},{
+"label": "Los Tanques", "lat": 20.937778, "lng": -103.843056
+},{
+"label": "Atemanica", "lat": 21.07534, "lng": -103.750311
+},{
+"label": "Cerros Cuates", "lat": 21.235806, "lng": -103.770428
+},{
+"label": "Rancho los Pioneros de Tequila", "lat": 20.875063, "lng": -103.805013
+},{
+"label": "La Matita", "lat": 21.093611, "lng": -103.851111
+},{
+"label": "El Corredero", "lat": 21.167698, "lng": -103.732851
+},{
+"label": "Las Charcas", "lat": 21.257585, "lng": -103.673525
+},{
+"label": "Las Vueltas", "lat": 21.358889, "lng": -103.522222
+},{
+"label": "Charco Verde", "lat": 20.985, "lng": -103.731667
+},{
+"label": "Tequila II [CFE Subestación Eléctrica]", "lat": 20.91202, "lng": -103.837628
+},{
+"label": "Mesa de los Ídolos", "lat": 20.932825, "lng": -103.679693
+},{
+"label": "La Mesa de Cangrejitos", "lat": 21.154707, "lng": -103.855621
+},{
+"label": "Santa Fe", "lat": 20.987334, "lng": -103.684041
+},{
+"label": "El Jagüey", "lat": 21.190858, "lng": -103.651832
+},{
+"label": "El Guamúchil", "lat": 21.156364, "lng": -103.83632
+},{
+"label": "Ninguno", "lat": 20.911129, "lng": -103.943242
+},{
+"label": "Pinabetes", "lat": 21.239735, "lng": -103.763805
+},{
+"label": "La Joya de Mochitiltic", "lat": 20.9625, "lng": -103.834167
+},{
+"label": "San Antonio del Potrero", "lat": 20.912125, "lng": -103.803816
+},{
+"label": "La Botica", "lat": 20.964644, "lng": -103.741471
+},{
+"label": "El Carpintero", "lat": 20.962866, "lng": -103.704229
+},{
+"label": "Toyuca", "lat": 20.94, "lng": -103.800278
+},{
+"label": "Las Azucenas", "lat": 21.236704, "lng": -103.82159
+},{
+"label": "Las Adjuntas", "lat": 21.337535, "lng": -103.755432
+},{
+"label": "Los Landero", "lat": 20.954444, "lng": -103.678611
+},{
+"label": "Bella Vista (El Ranchito)", "lat": 21.004526, "lng": -103.642771
+},{
+"label": "La Haciendita", "lat": 20.963611, "lng": -103.633611
+},{
+"label": "El Madroño", "lat": 21.212238, "lng": -103.970492
+},{
+"label": "La Agüita", "lat": 21.13516, "lng": -103.926821
+},{
+"label": "Tlaltihuilec (San José del Refugio)", "lat": 21.138636, "lng": -103.766794
+},{
+"label": "Chiltillo", "lat": 20.936397, "lng": -103.717206
+},{
+"label": "Palo Verde", "lat": 20.928256, "lng": -103.756376
+},{
+"label": "Gavilanes", "lat": 21.121231, "lng": -103.884825
+},{
+"label": "El Olvido", "lat": 20.965369, "lng": -103.655923
+},{
+"label": "Tesalesquita", "lat": 21.256944, "lng": -103.659167
+},{
+"label": "Timbes", "lat": 21.16783, "lng": -103.722738
+},{
+"label": "Agua Zarca", "lat": 20.985316, "lng": -103.749116
+},{
+"label": "Guachera", "lat": 21.216176, "lng": -103.78818
+},{
+"label": "Casa Blanca", "lat": 21.124529, "lng": -103.936414
+},{
+"label": "Basurero Municipal", "lat": 20.881944, "lng": -103.805556
+},{
+"label": "La Parota (Rancho Alegre)", "lat": 20.906136, "lng": -103.834664
+},{
+"label": "El Colorado", "lat": 21.188744, "lng": -103.828313
+},{
+"label": "La Puya", "lat": 21.040418, "lng": -103.855208
+},{
+"label": "La Manga", "lat": 21.286406, "lng": -103.737889
+},{
+"label": "San Gaspar", "lat": 20.949281, "lng": -103.770559
+},{
+"label": "Mochitiltic", "lat": 20.953372, "lng": -103.82129
+},{
+"label": "Los Perdidos", "lat": 21.003333, "lng": -103.769167
+},{
+"label": "Tequesquite", "lat": 21.236021, "lng": -103.716517
+},{
+"label": "Cieneguitas", "lat": 21.330157, "lng": -103.713238
+},{
+"label": "Manzanillo", "lat": 21.115062, "lng": -103.897181
+},{
+"label": "Carretones", "lat": 20.974227, "lng": -103.792554
+},{
+"label": "La Estancita", "lat": 20.936497, "lng": -103.871787
+},{
+"label": "Jiloasco", "lat": 21.109712, "lng": -103.721095
+},{
+"label": "El Puerto", "lat": 21.19994, "lng": -103.728986
+},{
+"label": "Tía Carrilla", "lat": 21.064905, "lng": -103.740876
+},{
+"label": "Arroyo Carrillo", "lat": 21.255491, "lng": -103.649068
+},{
+"label": "Los Arreola", "lat": 20.869821, "lng": -103.837528
+},{
+"label": "El Zapotito", "lat": 21.223116, "lng": -103.701139
+},{
+"label": "Estimal", "lat": 21.173854, "lng": -103.693227
+},{
+"label": "El Maguey", "lat": 21.049965, "lng": -103.696583
+},{
+"label": "Mina la Azteca", "lat": 21.132951, "lng": -103.662651
+},{
+"label": "Ameca", "lat": 21.150856, "lng": -103.653407
+},{
+"label": "La Cofradía", "lat": 20.862778, "lng": -103.830556
+},{
+"label": "Amatán", "lat": 21.163959, "lng": -103.987099
+},{
+"label": "Haciendita", "lat": 21.192895, "lng": -103.952132
+},{
+"label": "La Mesa", "lat": 20.968824, "lng": -103.743871
+},{
+"label": "Santa Ana (Las Ánimas)", "lat": 20.861541, "lng": -103.787335
+},{
+"label": "Golondrinas", "lat": 21.142863, "lng": -104.018451
+},{
+"label": "Loma Larga (Las Lomas)", "lat": 20.910207, "lng": -103.854726
+},{
+"label": "Los Peñascos", "lat": 21.316944, "lng": -103.769722
+},{
+"label": "Las Parejas", "lat": 21.196667, "lng": -103.645556
+},{
+"label": "El Limón", "lat": 21.222216, "lng": -103.673968
+},{
+"label": "Viruete", "lat": 21.015373, "lng": -103.844228
+},{
+"label": "Mitlán", "lat": 20.96265, "lng": -103.733043
+},{
+"label": "Las Astas", "lat": 21.058186, "lng": -103.701514
+},{
+"label": "Los Alvarado", "lat": 20.9175, "lng": -103.77
+},{
+"label": "La Presa", "lat": 20.964794, "lng": -103.787159
+},{
+"label": "El Ahuilote", "lat": 20.981111, "lng": -103.618889
+},{
+"label": "Chiquilistán", "lat": 20.94734, "lng": -103.736005
+},{
+"label": "Mesa de Palos Verdes", "lat": 21.176717, "lng": -104.058548
+},{
+"label": "La Colmena", "lat": 20.867775, "lng": -103.786209
+},{
+"label": "San Miguel", "lat": 21.102327, "lng": -103.863301
+},{
+"label": "La Calera", "lat": 20.931667, "lng": -103.709722
+},{
+"label": "El Papelote", "lat": 21.227535, "lng": -103.674392
+},{
+"label": "Las Canoas", "lat": 21.33533, "lng": -103.749669
+},{
+"label": "La Presita", "lat": 20.960896, "lng": -103.782473
+},{
+"label": "Los Guajes de Suchitlán", "lat": 20.95765, "lng": -103.633284
+},{
+"label": "La Parota", "lat": 20.966111, "lng": -103.622222
+},{
+"label": "El Gallo", "lat": 21.360278, "lng": -103.681389
+},{
+"label": "La Fundición", "lat": 21.133611, "lng": -103.871667
+},{
+"label": "Romerillo", "lat": 21.177788, "lng": -103.824852
+},{
+"label": "La Lagunilla", "lat": 21.167037, "lng": -103.669202
+},{
+"label": "El Zapote", "lat": 21.197305, "lng": -103.801476
+},{
+"label": "San Pedro Analco", "lat": 21.137984, "lng": -103.949857
+},{
+"label": "Rancho los Anduaga", "lat": 21.356111, "lng": -103.651111
+},{
+"label": "Cerro los Sauces", "lat": 21.348503, "lng": -103.581571
+},{
+"label": "El Colomo", "lat": 20.959284, "lng": -103.883779
+},{
+"label": "Potrerillos", "lat": 20.958769, "lng": -103.736652
+},{
+"label": "La Coba", "lat": 20.951088, "lng": -103.726685
+},{
+"label": "La Higuerita", "lat": 20.949966, "lng": -103.755424
+},{
+"label": "Atisteque", "lat": 21.013463, "lng": -103.753046
+},{
+"label": "Rancho del Bello", "lat": 20.933854, "lng": -103.713984
+},{
+"label": "Palmitos", "lat": 20.956604, "lng": -103.735566
+},{
+"label": "Paso del Guayabo (El Guayabo)", "lat": 21.160278, "lng": -103.883056
+},{
+"label": "Paso de Santa Rosa", "lat": 20.925059, "lng": -103.726642
+},{
+"label": "Los Bancos", "lat": 21.358052, "lng": -103.579944
+},{
+"label": "La Puerta de San Pedro (La Puerta de Enmedio)", "lat": 20.928089, "lng": -103.842738
+},{
+"label": "Los Barbechos", "lat": 21.435278, "lng": -103.544722
+},{
+"label": "Señor Isidro Santos", "lat": 20.870135, "lng": -103.794787
+},{
+"label": "La Anonita", "lat": 21.13514, "lng": -103.912622
+},{
+"label": "Las Ánimas", "lat": 20.960235, "lng": -103.740292
+},{
+"label": "La Labor", "lat": 21.02575, "lng": -103.805464
+},{
+"label": "Rancho Viejo", "lat": 20.944722, "lng": -103.681235
+},{
+"label": "El Pasito (La Huerta del Pasito)", "lat": 20.953164, "lng": -103.859557
+},{
+"label": "Pueblo Viejo", "lat": 21.134747, "lng": -103.964169
+},{
+"label": "Mesa de Timbres", "lat": 21.245108, "lng": -103.640757
+},{
+"label": "La Puerta de Magallanes", "lat": 21.214951, "lng": -103.691306
+},{
+"label": "Agustín Hernández", "lat": 21.043828, "lng": -103.714214
+},{
+"label": "La Toma", "lat": 20.907218, "lng": -103.828648
+},{
+"label": "El Cóbano", "lat": 21.005172, "lng": -103.62924
+},{
+"label": "Mojoneras", "lat": 21.249758, "lng": -103.704071
+},{
+"label": "El Orito", "lat": 20.977883, "lng": -103.895576
+},{
+"label": "Choloaca", "lat": 20.863853, "lng": -103.842972
+},{
+"label": "IPROVIPE I (El Camichín) [Fraccionamiento]", "lat": 20.88626, "lng": -103.824714
+},{
+"label": "El Saucito", "lat": 21.238761, "lng": -103.65205
+},{
+"label": "El Tepetate", "lat": 21.064782, "lng": -103.773376
+},{
+"label": "Las Anonas", "lat": 20.955369, "lng": -103.917045
+},{
+"label": "Ahuacatitán", "lat": 21.179136, "lng": -103.934824
+},{
+"label": "San Pedro de los Landeros", "lat": 20.876111, "lng": -103.783611
+},{
+"label": "Cerro Blanco", "lat": 21.201569, "lng": -103.793144
+},{
+"label": "Casas Blancas", "lat": 20.87357, "lng": -103.801815
+},{
+"label": "Mina la Perla (La Perla)", "lat": 21.107771, "lng": -103.648125
+},{
+"label": "El Carrizalillo", "lat": 21.05059, "lng": -103.761276
+},{
+"label": "Los Ranchitos", "lat": 21.191766, "lng": -103.916673
+},{
+"label": "Potrero de la Mula (Luis Donaldo Colosio)", "lat": 20.903889, "lng": -103.833056
+},{
+"label": "La Joya (La Joya de Ocote)", "lat": 21.076719, "lng": -103.688194
+},{
+"label": "Santo Domingo", "lat": 21.15458, "lng": -103.716083
+},{
+"label": "El Guariche (Los Parajes)", "lat": 20.945483, "lng": -103.721412
+},{
+"label": "Arroyo de las Gallinas", "lat": 20.948019, "lng": -103.741414
+},{
+"label": "Las Víboras", "lat": 21.274761, "lng": -103.742218
+},{
+"label": "El Platanar", "lat": 21.229942, "lng": -103.957786
+},{
+"label": "Acatán", "lat": 21.006589, "lng": -103.663815
+},{
+"label": "Santiaguito", "lat": 21.171667, "lng": -103.893333
+},{
+"label": "Cantarranas", "lat": 21.127212, "lng": -103.888169
+},{
+"label": "San Antonio de Analco", "lat": 21.175483, "lng": -103.850028
+},{
+"label": "Piedra Gorda", "lat": 21.084665, "lng": -103.860188
+},{
+"label": "Los Sabinos", "lat": 21.219459, "lng": -103.730806
+},{
+"label": "Agua Caliente", "lat": 20.910309, "lng": -103.822321
+},{
+"label": "La Culebra", "lat": 20.91011, "lng": -103.82851
+},{
+"label": "La Laja", "lat": 20.929444, "lng": -103.829722
+},{
+"label": "La Explanada", "lat": 20.885211, "lng": -103.817721
+},{
+"label": "La Teja", "lat": 20.939092, "lng": -103.879458
+},{
+"label": "La Relación", "lat": 21.042222, "lng": -103.847778
+},{
+"label": "Ojos de Agua", "lat": 20.963965, "lng": -103.782997
+},{
+"label": "Potrero Grande", "lat": 20.923254, "lng": -103.861248
+},{
+"label": "La Coyotera", "lat": 21.224419, "lng": -103.691241
+},{
+"label": "Los Timbres", "lat": 21.28488, "lng": -103.748668
+},{
+"label": "Los Tlacuaches", "lat": 21.168253, "lng": -103.648528
+},{
+"label": "Palmarcito", "lat": 21.168889, "lng": -103.887222
+},{
+"label": "Tapexco", "lat": 21.032056, "lng": -103.844536
+},{
+"label": "La Guásima", "lat": 21.088606, "lng": -103.825149
+},{
+"label": "Huescata", "lat": 21.032651, "lng": -103.689329
+},{
+"label": "Tal Estaca", "lat": 20.918611, "lng": -103.84
+},{
+"label": "Los Pinitos (Los Coyotes)", "lat": 21.030881, "lng": -103.728914
+},{
+"label": "Rancho el Conejo", "lat": 21.39019, "lng": -103.512809
+},{
+"label": "Zapotán", "lat": 21.028769, "lng": -103.825944
+},{
+"label": "El Chaconeño", "lat": 20.891419, "lng": -103.826193
+},{
+"label": "El Paraíso", "lat": 20.913926, "lng": -103.826479
+},{
+"label": "Montones", "lat": 20.991932, "lng": -103.751052
+},{
+"label": "San Benito", "lat": 21.161871, "lng": -103.966928
+},{
+"label": "Plan del Húmedo (La Bobadilla)", "lat": 21.340742, "lng": -103.700802
+},{
+"label": "La Gloria", "lat": 20.873889, "lng": -103.819216
+},{
+"label": "El Muerto", "lat": 20.924324, "lng": -103.81228
+},{
+"label": "Buenavista", "lat": 20.951853, "lng": -103.704036
+},{
+"label": "Las Tareas", "lat": 21.241944, "lng": -103.688889
+},{
+"label": "Las Parritas", "lat": 20.926047, "lng": -103.820124
+},{
+"label": "Urinda", "lat": 20.9325, "lng": -103.799722
+},{
+"label": "San Isidro", "lat": 21.112387, "lng": -103.743469
+},{
+"label": "La Joya", "lat": 21.137117, "lng": -103.933688
+},{
+"label": "Potrero de los Rivera", "lat": 20.938107, "lng": -103.686813
+},{
+"label": "Buena Vista", "lat": 21.183651, "lng": -103.842305
+},{
+"label": "Belén", "lat": 21.121346, "lng": -103.829743
+},{
+"label": "Arroyo Hismoleque (Hismoleque)", "lat": 21.170921, "lng": -103.659627
+},{
+"label": "Santa Teresa", "lat": 20.916325, "lng": -103.891948
+},{
+"label": "Los Parajes", "lat": 20.984527, "lng": -103.707128
+},{
+"label": "El Pando", "lat": 21.395, "lng": -103.555278
+},{
+"label": "Acatan de Abajo", "lat": 20.995002, "lng": -103.652093
+},{
+"label": "El Cerrito", "lat": 20.953611, "lng": -103.631111
+},{
+"label": "La Pila", "lat": 21.352645, "lng": -103.670565
+},{
+"label": "Las Joyas", "lat": 21.140609, "lng": -103.713514
+},{
+"label": "San Idelfonso", "lat": 21.220613, "lng": -103.692602
+},{
+"label": "La Escondida", "lat": 20.961806, "lng": -103.74829
+},{
+"label": "El Cantor (La Meca)", "lat": 20.934722, "lng": -103.803333
+},{
+"label": "San Fernando", "lat": 21.368611, "lng": -103.520278
+},{
+"label": "La Cabaña", "lat": 20.873041, "lng": -103.845591
+},{
+"label": "Piedras Grandes", "lat": 21.175556, "lng": -103.833333
+},{
+"label": "El Banco", "lat": 21.263306, "lng": -103.706703
+},{
+"label": "Santa Rosa", "lat": 21.207862, "lng": -103.668131
+},{
+"label": "Las Torrecillas", "lat": 20.888918, "lng": -103.805711
+},{
+"label": "El Plan", "lat": 21.220511, "lng": -103.984054
+},{
+"label": "La Glorieta (La Escondida)", "lat": 20.935323, "lng": -103.821657
+},{
+"label": "Las Higueras", "lat": 20.933889, "lng": -103.746389
+},{
+"label": "Apanico", "lat": 21.163949, "lng": -103.797635
+},{
+"label": "La Mezcalera (Las Mezcaleras)", "lat": 20.958333, "lng": -103.708056
+},{
+"label": "El Tepehuaje", "lat": 20.965231, "lng": -103.79806
+},{
+"label": "La Boquilla", "lat": 21.352957, "lng": -103.648386
+},{
+"label": "El Arrayán (El Cuate)", "lat": 20.962242, "lng": -103.860617
+},{
+"label": "Los Naranjos (El Naranjo)", "lat": 20.911863, "lng": -103.78106
+},{
+"label": "Las Cabezas", "lat": 20.966111, "lng": -103.845
+},{
+"label": "Plan de Robles", "lat": 21.224779, "lng": -103.755188
+},{
+"label": "La Piedra Grande", "lat": 21.131121, "lng": -103.846491
+},{
+"label": "La Vuelta", "lat": 20.965, "lng": -103.623889
+},{
+"label": "San Nicolás", "lat": 21.249579, "lng": -103.770641
+},{
+"label": "Las Tapias", "lat": 21.016111, "lng": -103.817778
+},{
+"label": "Las Vírgenes", "lat": 21.074074, "lng": -103.66811
+},{
+"label": "Mesa de Valderrama", "lat": 21.229727, "lng": -103.700605
+},{
+"label": "Mesa Hismoleque", "lat": 21.185251, "lng": -103.666624
+},{
+"label": "El Ranchito", "lat": 21.101667, "lng": -103.6525
+},{
+"label": "El Ciruelo Ancho", "lat": 20.913717, "lng": -103.82285
+},{
+"label": "Tequila", "lat": 20.879444, "lng": -103.835556
+},{
+"label": "El Roble", "lat": 21.200199, "lng": -103.987094
+},{
+"label": "La Joya del Rosario", "lat": 20.971281, "lng": -103.792023
+},{
+"label": "San Antonio", "lat": 21.344116, "lng": -103.640418
+},{
+"label": "Loma de Santa Gertrudis", "lat": 21.059705, "lng": -103.67342
+},{
+"label": "El Ciruelito", "lat": 21.173791, "lng": -103.78237
+},{
+"label": "La Bolsa", "lat": 20.991944, "lng": -103.665
+},{
+"label": "Chalacatita", "lat": 21.159372, "lng": -103.997691
+},{
+"label": "La Cumbre (Peña Blanca)", "lat": 21.131667, "lng": -103.760833
+},{
+"label": "La Mona", "lat": 20.998843, "lng": -103.668725
+},{
+"label": "Los Barros", "lat": 21.241116, "lng": -103.781237
+},{
+"label": "La Cumbre", "lat": 21.196452, "lng": -103.663351
+},{
+"label": "Mistemeque", "lat": 20.988296, "lng": -103.716727
+},{
+"label": "Atemajaque", "lat": 20.933056, "lng": -103.796667
+},{
+"label": "Magallanes", "lat": 21.009173, "lng": -103.741644
+},{
+"label": "El Refugio", "lat": 20.986169, "lng": -103.819609
+},{
+"label": "El Álamo (Los Álamos)", "lat": 21.225938, "lng": -103.681489
+},{
+"label": "El Midio", "lat": 21.268649, "lng": -103.732992
+},{
+"label": "Reparo", "lat": 21.204722, "lng": -103.758611
+},{
+"label": "Platanar", "lat": 20.930503, "lng": -103.775532
+},{
+"label": "El Escobal", "lat": 20.986111, "lng": -103.641944
+},{
+"label": "Planecitos", "lat": 21.212778, "lng": -103.738333
+},{
+"label": "El Guaje", "lat": 20.909039, "lng": -103.825868
+},{
+"label": "La Lomita", "lat": 21.146003, "lng": -103.941529
+},{
+"label": "El Puertecito", "lat": 20.968333, "lng": -103.803056
+},{
+"label": "El Escalón", "lat": 20.946111, "lng": -103.8425
+},{
+"label": "Copales", "lat": 20.954634, "lng": -103.778696
+},{
+"label": "Cebadilla", "lat": 20.991389, "lng": -103.621667
+},{
+"label": "San José", "lat": 20.953641, "lng": -103.759656
+},{
+"label": "Los Sauces", "lat": 21.10711, "lng": -103.883427
+},{
+"label": "El Ardillero", "lat": 20.964833, "lng": -103.742553
+},{
+"label": "El Ombligo", "lat": 21.389464, "lng": -103.57059
+},{
+"label": "Mazalte", "lat": 21.104697, "lng": -103.843196
+},{
+"label": "Jalpilla", "lat": 21.181349, "lng": -103.72666
+},{
+"label": "Santa Ana", "lat": 21.15921, "lng": -103.805229
+},{
+"label": "El Manguito", "lat": 20.981306, "lng": -103.636087
+},{
+"label": "San Felipe", "lat": 20.983689, "lng": -103.829807
+},{
+"label": "Las Tortugas", "lat": 20.994079, "lng": -103.693407
+},{
+"label": "Ocotique", "lat": 21.212085, "lng": -103.892824
+},{
+"label": "Las Margaritas", "lat": 20.971141, "lng": -103.8665
+},{
+"label": "El Mirador", "lat": 21.163761, "lng": -103.949089
+},{
+"label": "Josefa Ortíz de Domínguez", "lat": 20.900494, "lng": -103.832751
+},{
+"label": "El Salvador", "lat": 21.017222, "lng": -103.715556
+},{
+"label": "Los Álamos", "lat": 21.210095, "lng": -103.715255
+},{
+"label": "El Purgatorio", "lat": 20.957212, "lng": -103.743298
+},{
+"label": "El Cacarejo", "lat": 21.226323, "lng": -103.736938
+},{
+"label": "La Hacienda Vieja", "lat": 21.224167, "lng": -103.677778
+},{
+"label": "Los Sandovales", "lat": 20.837673, "lng": -103.796855
+},{
+"label": "Patolpa", "lat": 21.192425, "lng": -103.692702
+},{
+"label": "El Llanito", "lat": 20.980378, "lng": -103.813924
+},{
+"label": "Tierras Blancas", "lat": 20.958949, "lng": -103.789174
+},{
+"label": "Mesa de Santa Efigenia", "lat": 21.378333, "lng": -103.557778
+},{
+"label": "Los Soyates", "lat": 21.270132, "lng": -103.761474
+},{
+"label": "La Providencia", "lat": 21.302778, "lng": -103.792222
+},{
+"label": "San Pedro", "lat": 20.941275, "lng": -103.735996
+},{
+"label": "Bajío Redondo", "lat": 21.388093, "lng": -103.690007
+},{
+"label": "La Laborcita", "lat": 21.278319, "lng": -103.672563
+},{
+"label": "La Curva de Tal Estaca", "lat": 20.908241, "lng": -103.833474
+},{
+"label": "El Banco de los Quezada", "lat": 21.156765, "lng": -103.792995
+},{
+"label": "El Llano (La Presa)", "lat": 20.899841, "lng": -103.774609
+},{
+"label": "La Presita (La Ladrillera)", "lat": 20.923662, "lng": -103.841238
+},{
+"label": "Vinatería", "lat": 21.201902, "lng": -103.682612
+},{
+"label": "San Bartolo", "lat": 21.182905, "lng": -103.820447
+},{
+"label": "Las Pastoras", "lat": 21.190125, "lng": -103.715564
+},{
+"label": "Los Cerritos", "lat": 21.432222, "lng": -103.544722
+},{
+"label": "Los Guajes", "lat": 21.130511, "lng": -103.831241
+},{
+"label": "Santa Cruz", "lat": 20.957203, "lng": -103.73809
+},{
+"label": "Ojo de Agua", "lat": 21.156396, "lng": -103.724188
+},{
+"label": "Los Llanitos", "lat": 21.045253, "lng": -103.770764
+},{
+"label": "Tuitán", "lat": 21.188913, "lng": -103.809094
+},{
+"label": "La Hierbabuena", "lat": 21.01993, "lng": -103.700534
+},{
+"label": "Las Ciénegas", "lat": 21.12236, "lng": -103.818078
+},{
+"label": "El Potrero", "lat": 21.060655, "lng": -103.762674
+},{
+"label": "Arroyo Frío", "lat": 21.009471, "lng": -103.695627
+},{
+"label": "El Carrizal", "lat": 21.139812, "lng": -103.707207
+},{
+"label": "Los Rodríguez", "lat": 20.985506, "lng": -103.757088
+},{
+"label": "El Banco de los Ibarra", "lat": 21.148611, "lng": -103.796944
+},{
+"label": "La Crucillera", "lat": 20.926667, "lng": -103.78
+},{
+"label": "El Reparo", "lat": 20.940983, "lng": -103.827241
+},{
+"label": "La Campana", "lat": 21.212544, "lng": -103.763228
+},{
+"label": "Los Toriles", "lat": 20.910728, "lng": -103.876453
+},{
+"label": "El Medineño", "lat": 20.86725, "lng": -103.779931
+},{
+"label": "San Marcos", "lat": 21.335, "lng": -103.720833
+},{
+"label": "San Martín de las Cañas", "lat": 20.946266, "lng": -103.858007
+},{
+"label": "La Loma", "lat": 21.157553, "lng": -103.896793
+},{
+"label": "Tesalesca", "lat": 21.251872, "lng": -103.671308
+},{
+"label": "El Terrero", "lat": 20.953922, "lng": -103.738992
+},{
+"label": "Saucillo", "lat": 21.162743, "lng": -103.787482
+},{
+"label": "Paso del Totoloasco", "lat": 20.931667, "lng": -103.778333
+},{
+"label": "Las Guásimas", "lat": 21.155349, "lng": -103.797641
+},{
+"label": "El Mezquite", "lat": 21.215813, "lng": -103.699117
+},{
+"label": "El Limoncito", "lat": 21.158033, "lng": -104.01568
+},{
+"label": "El Aguacate", "lat": 21.242778, "lng": -103.661389
+},{
+"label": "La Cañada", "lat": 21.038611, "lng": -103.837314
+},{
+"label": "Salto Colorado", "lat": 21.327203, "lng": -103.706724
+},{
+"label": "El Baral", "lat": 21.193978, "lng": -103.733047
+},{
+"label": "Hostotipaquillito", "lat": 21.158178, "lng": -103.979718
+},{
+"label": "Agua Blanca", "lat": 21.241296, "lng": -103.638539
+}]

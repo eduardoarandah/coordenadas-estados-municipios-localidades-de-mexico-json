@@ -1,0 +1,23 @@
+[{
+"label": "Lázaro Cárdenas", "lat": 21.031420525714275, "lng": -87.41923027999997,"info": "total: 175","children": "data/mexico/quintana-roo/lazaro-cardenas.json"
+},{
+"label": "Othón P. Blanco", "lat": 18.527555593840198, "lng": -88.3606610885466,"info": "total: 1039","children": "data/mexico/quintana-roo/othon-p-blanco.json"
+},{
+"label": "Bacalar", "lat": 18.90443678220859, "lng": -88.48561035889564,"info": "total: 326","children": "data/mexico/quintana-roo/bacalar.json"
+},{
+"label": "Cozumel", "lat": 20.444672984455956, "lng": -86.9337579119171,"info": "total: 193","children": "data/mexico/quintana-roo/cozumel.json"
+},{
+"label": "Benito Juárez", "lat": 21.08998938392856, "lng": -86.99022410416667,"info": "total: 336","children": "data/mexico/quintana-roo/benito-juarez.json"
+},{
+"label": "Tulum", "lat": 20.256003712499997, "lng": -87.51104300624996,"info": "total: 320","children": "data/mexico/quintana-roo/tulum.json"
+},{
+"label": "Felipe Carrillo Puerto", "lat": 19.628341888217527, "lng": -88.14017383685803,"info": "total: 331","children": "data/mexico/quintana-roo/felipe-carrillo-puerto.json"
+},{
+"label": "Isla Mujeres", "lat": 21.268479451977406, "lng": -86.92379525423729,"info": "total: 177","children": "data/mexico/quintana-roo/isla-mujeres.json"
+},{
+"label": "José María Morelos", "lat": 19.73430700456621, "lng": -88.77329984474885,"info": "total: 219","children": "data/mexico/quintana-roo/jose-maria-morelos.json"
+},{
+"label": "Solidaridad", "lat": 20.645000498084286, "lng": -87.1559558965517,"info": "total: 261","children": "data/mexico/quintana-roo/solidaridad.json"
+},{
+"label": "Puerto Morelos", "lat": 20.97097766666667, "lng": -87.09265782170544,"info": "total: 387","children": "data/mexico/quintana-roo/puerto-morelos.json"
+}]

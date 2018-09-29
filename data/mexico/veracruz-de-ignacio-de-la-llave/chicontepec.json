@@ -1,0 +1,653 @@
+[{
+"label": "Ejido las Vegas", "lat": 20.990717, "lng": -98.095804
+},{
+"label": "El As de Oros", "lat": 20.967208, "lng": -97.882992
+},{
+"label": "Pilahuimol", "lat": 20.978234, "lng": -98.132295
+},{
+"label": "Tecanahua", "lat": 20.851601, "lng": -97.957532
+},{
+"label": "Altamira", "lat": 20.98496, "lng": -98.062793
+},{
+"label": "Zacatitla", "lat": 20.949933, "lng": -98.127634
+},{
+"label": "La Avanzada", "lat": 20.922346, "lng": -97.919842
+},{
+"label": "Ayoco", "lat": 20.9046, "lng": -98.199755
+},{
+"label": "Loma Mina", "lat": 20.895471, "lng": -98.076272
+},{
+"label": "La Curva", "lat": 20.970204, "lng": -98.15049
+},{
+"label": "Cuatzapotitla", "lat": 20.88654, "lng": -98.079279
+},{
+"label": "Tierra Blanca", "lat": 21.145289, "lng": -98.100021
+},{
+"label": "Acatitla", "lat": 20.956706, "lng": -98.194291
+},{
+"label": "Zonámatl", "lat": 20.986526, "lng": -98.040764
+},{
+"label": "Los Ángeles", "lat": 20.937591, "lng": -98.126589
+},{
+"label": "Papalotla", "lat": 20.982282, "lng": -98.17195
+},{
+"label": "El Coyol", "lat": 20.947993, "lng": -98.040261
+},{
+"label": "Don Marino", "lat": 21.004489, "lng": -98.185191
+},{
+"label": "Santos Lozano", "lat": 21.116659, "lng": -98.027631
+},{
+"label": "Chicontepec de Tejeda", "lat": 20.971975, "lng": -98.178344
+},{
+"label": "Tepeco", "lat": 20.875902, "lng": -98.072011
+},{
+"label": "Campo Siete", "lat": 21.073112, "lng": -97.978871
+},{
+"label": "El Coyolito", "lat": 21.046524, "lng": -98.007338
+},{
+"label": "Ojoxapa", "lat": 20.867161, "lng": -97.926239
+},{
+"label": "Tiocuayo", "lat": 20.990149, "lng": -98.048255
+},{
+"label": "Poza Azul", "lat": 21.152748, "lng": -97.999721
+},{
+"label": "Barrio Tepenahuac", "lat": 20.966378, "lng": -97.972473
+},{
+"label": "Coamixtepec", "lat": 20.933463, "lng": -97.973603
+},{
+"label": "Tecomaxóchitl Segundo", "lat": 21.0069, "lng": -98.185137
+},{
+"label": "Chalahuiapa", "lat": 20.935977, "lng": -98.207954
+},{
+"label": "Pantimala", "lat": 20.997038, "lng": -98.159219
+},{
+"label": "Mesa de Pedernales", "lat": 21.070868, "lng": -98.131785
+},{
+"label": "Tepexocoyo", "lat": 20.99534, "lng": -98.111847
+},{
+"label": "Tezizapa", "lat": 20.913227, "lng": -98.093116
+},{
+"label": "La Agüita", "lat": 20.963898, "lng": -98.165419
+},{
+"label": "Nuevo Paraje", "lat": 21.160737, "lng": -97.952836
+},{
+"label": "La Palma", "lat": 21.106129, "lng": -98.070013
+},{
+"label": "El Carril", "lat": 21.066204, "lng": -98.142148
+},{
+"label": "Cuilotitla", "lat": 20.984815, "lng": -98.197599
+},{
+"label": "Lindero la Ceiba Achupil", "lat": 20.887622, "lng": -98.200728
+},{
+"label": "Tepenahuac", "lat": 20.968267, "lng": -97.979662
+},{
+"label": "Adolfo López Mateos", "lat": 21.102816, "lng": -97.954482
+},{
+"label": "Ahuatitla Arriba", "lat": 20.89159, "lng": -98.152143
+},{
+"label": "Cuatro Caminos", "lat": 20.897172, "lng": -97.95939
+},{
+"label": "Alaxtitla Postectitla", "lat": 20.924142, "lng": -98.032149
+},{
+"label": "El Doscientos Uno", "lat": 21.109249, "lng": -98.167693
+},{
+"label": "El Lindero Xoquíxhual", "lat": 20.912269, "lng": -98.076069
+},{
+"label": "Alaxtitla Huixnopala", "lat": 21.021879, "lng": -98.009813
+},{
+"label": "Chamola", "lat": 20.970739, "lng": -98.205898
+},{
+"label": "Zapotempa", "lat": 20.888913, "lng": -97.962873
+},{
+"label": "Palmar Bajo", "lat": 21.151646, "lng": -98.078493
+},{
+"label": "La Mesa de Tzapotzala", "lat": 20.865829, "lng": -97.962553
+},{
+"label": "Huexoco", "lat": 20.874043, "lng": -98.065154
+},{
+"label": "La Guada", "lat": 20.936554, "lng": -97.963546
+},{
+"label": "Paso de Tlacolula", "lat": 21.057391, "lng": -97.941346
+},{
+"label": "Callejón Carrizalillo", "lat": 21.123584, "lng": -98.101373
+},{
+"label": "Las Placetas", "lat": 21.033511, "lng": -98.012708
+},{
+"label": "Zacahuiztitla", "lat": 20.870045, "lng": -97.977429
+},{
+"label": "Súchil", "lat": 20.967512, "lng": -98.095
+},{
+"label": "Cimarrón", "lat": 20.981366, "lng": -97.886391
+},{
+"label": "Chacacuáhuitl", "lat": 20.953838, "lng": -98.018441
+},{
+"label": "La Vega", "lat": 21.020688, "lng": -98.096839
+},{
+"label": "Cuaxiloapa", "lat": 20.893684, "lng": -98.029784
+},{
+"label": "Ahuica", "lat": 20.930542, "lng": -98.177328
+},{
+"label": "Pilmirador", "lat": 20.949124, "lng": -97.969421
+},{
+"label": "Texopes", "lat": 20.96405, "lng": -98.154751
+},{
+"label": "El Ixtle Postectitla", "lat": 20.878839, "lng": -97.979105
+},{
+"label": "Akichtzintla", "lat": 20.907697, "lng": -98.127441
+},{
+"label": "Tlaica", "lat": 20.940336, "lng": -98.122836
+},{
+"label": "Tzicatipa", "lat": 20.969464, "lng": -98.21067
+},{
+"label": "Tlamaya Acatitla", "lat": 20.926072, "lng": -97.978899
+},{
+"label": "Coacalco", "lat": 20.963845, "lng": -98.147512
+},{
+"label": "Colonia Fernando López Arias", "lat": 20.962155, "lng": -98.189775
+},{
+"label": "Carolino Anaya", "lat": 21.042945, "lng": -98.029884
+},{
+"label": "La Puerta Camaitlán", "lat": 20.987366, "lng": -98.081449
+},{
+"label": "Mesa de Ahuayo", "lat": 20.873534, "lng": -97.935744
+},{
+"label": "La Pagua", "lat": 20.976153, "lng": -97.990298
+},{
+"label": "Lindero Agua Fría", "lat": 21.072094, "lng": -98.072873
+},{
+"label": "Palma Sola", "lat": 20.915921, "lng": -97.895743
+},{
+"label": "La Mesa", "lat": 21.05177, "lng": -98.123623
+},{
+"label": "La Antigua", "lat": 20.983234, "lng": -97.904785
+},{
+"label": "Ateno", "lat": 20.914698, "lng": -98.135547
+},{
+"label": "Tres Hermanos", "lat": 20.921606, "lng": -97.916771
+},{
+"label": "Monte Grande", "lat": 21.110274, "lng": -98.046623
+},{
+"label": "El Manantial", "lat": 21.145812, "lng": -98.048114
+},{
+"label": "Zaza", "lat": 20.876533, "lng": -98.067766
+},{
+"label": "El Lindero", "lat": 20.962005, "lng": -98.168293
+},{
+"label": "Cuatzapótl", "lat": 20.899726, "lng": -98.117524
+},{
+"label": "La Raya", "lat": 21.136058, "lng": -98.093876
+},{
+"label": "San Miguel", "lat": 20.957283, "lng": -98.166073
+},{
+"label": "Alahualtitla", "lat": 20.927219, "lng": -98.166504
+},{
+"label": "Cuatecómitl Buenavista", "lat": 21.010982, "lng": -98.109288
+},{
+"label": "Las Canoas", "lat": 21.153058, "lng": -97.993905
+},{
+"label": "La Tranca (Cuatzapotl)", "lat": 20.901565, "lng": -98.117402
+},{
+"label": "Palos Negros", "lat": 21.084235, "lng": -98.086784
+},{
+"label": "La Heredad", "lat": 21.027618, "lng": -97.947256
+},{
+"label": "Nexcuatempa", "lat": 20.931725, "lng": -98.102639
+},{
+"label": "Palo Rosa", "lat": 21.039407, "lng": -98.101854
+},{
+"label": "La Ponderosa", "lat": 20.998935, "lng": -98.185559
+},{
+"label": "Alaxcuatitla", "lat": 20.898886, "lng": -98.121929
+},{
+"label": "El Puente", "lat": 21.065372, "lng": -98.14377
+},{
+"label": "Seis Hermanos", "lat": 21.027018, "lng": -98.153738
+},{
+"label": "El Zapote", "lat": 21.081286, "lng": -98.140575
+},{
+"label": "Maguey Pastoría", "lat": 21.103183, "lng": -98.098337
+},{
+"label": "El Pistlar", "lat": 20.966317, "lng": -97.859606
+},{
+"label": "Palo Flor", "lat": 21.007371, "lng": -98.158947
+},{
+"label": "Teácatl Amatlán", "lat": 20.930565, "lng": -98.010932
+},{
+"label": "Tlaquextla Tenextitla", "lat": 20.898645, "lng": -98.080732
+},{
+"label": "Ejido de Tlanempa", "lat": 20.90381, "lng": -97.942683
+},{
+"label": "El Crucero", "lat": 20.914066, "lng": -98.090953
+},{
+"label": "Finca Puerta Dorada", "lat": 20.983122, "lng": -98.08304
+},{
+"label": "Francia Vieja", "lat": 20.992477, "lng": -97.928643
+},{
+"label": "Las Lomas", "lat": 21.008461, "lng": -98.095704
+},{
+"label": "Mesa de Calcote", "lat": 20.863782, "lng": -97.936945
+},{
+"label": "Los Pinos", "lat": 20.966911, "lng": -98.160656
+},{
+"label": "Ahuimol Tzimpiasco", "lat": 20.89005, "lng": -98.120848
+},{
+"label": "Ampliación Palma Sola", "lat": 20.946395, "lng": -97.888278
+},{
+"label": "Hueyatlajo", "lat": 20.893754, "lng": -98.049384
+},{
+"label": "Topaltepec", "lat": 20.980493, "lng": -97.907957
+},{
+"label": "Sojual", "lat": 20.991315, "lng": -98.183191
+},{
+"label": "Rancho Solís", "lat": 21.053726, "lng": -98.146643
+},{
+"label": "Amatepec", "lat": 20.951221, "lng": -98.026759
+},{
+"label": "Rancho Lucero", "lat": 20.947188, "lng": -98.164049
+},{
+"label": "Xoxohuictla", "lat": 20.968599, "lng": -98.104747
+},{
+"label": "Sayoltepec", "lat": 20.989995, "lng": -98.209548
+},{
+"label": "Atlajco", "lat": 20.917461, "lng": -98.118282
+},{
+"label": "Las Puentes", "lat": 21.049542, "lng": -97.998694
+},{
+"label": "Cerro Azul", "lat": 20.87333, "lng": -98.07083
+},{
+"label": "Cuamixtla", "lat": 20.976376, "lng": -98.208677
+},{
+"label": "Tlaquextla Pemuxtitla", "lat": 20.908017, "lng": -98.154973
+},{
+"label": "Pochoco", "lat": 20.984229, "lng": -98.160321
+},{
+"label": "El Cuartel", "lat": 20.847193, "lng": -97.951673
+},{
+"label": "La Mora", "lat": 21.016029, "lng": -98.163667
+},{
+"label": "Tlacolula", "lat": 21.091529, "lng": -97.960011
+},{
+"label": "Ahuamolo", "lat": 20.94706, "lng": -98.181539
+},{
+"label": "Morenotlán Tepetzintla", "lat": 20.997888, "lng": -98.126685
+},{
+"label": "Palma Real Tepenahuac", "lat": 21.062876, "lng": -98.014634
+},{
+"label": "Pichol", "lat": 20.938098, "lng": -98.121694
+},{
+"label": "La Puerta", "lat": 21.06126, "lng": -98.144956
+},{
+"label": "Dos Arroyos", "lat": 20.907105, "lng": -97.90767
+},{
+"label": "Pablo Osorio Hernández", "lat": 20.931848, "lng": -97.920314
+},{
+"label": "Ixcacuatitla", "lat": 20.907955, "lng": -98.023472
+},{
+"label": "Otlatzintla", "lat": 20.981006, "lng": -98.142775
+},{
+"label": "Tenextitla", "lat": 20.898477, "lng": -98.091901
+},{
+"label": "Cuatecómetl Camotipan", "lat": 20.910638, "lng": -97.956245
+},{
+"label": "Tlanempa Común", "lat": 20.915549, "lng": -97.950791
+},{
+"label": "Lindero Tepecxitla", "lat": 20.963486, "lng": -98.029803
+},{
+"label": "Rancho Nuevo Camotipan (Tlaquextla)", "lat": 20.9042, "lng": -97.928641
+},{
+"label": "Las Güiras", "lat": 21.064493, "lng": -98.100814
+},{
+"label": "La Barrita", "lat": 20.950864, "lng": -98.093473
+},{
+"label": "La Concepción", "lat": 21.103508, "lng": -98.154072
+},{
+"label": "La Soledad", "lat": 21.105026, "lng": -98.075421
+},{
+"label": "Pilayoco", "lat": 20.910923, "lng": -98.181579
+},{
+"label": "La Pimienta", "lat": 21.059768, "lng": -97.892291
+},{
+"label": "El Paraje", "lat": 20.95609, "lng": -98.162721
+},{
+"label": "Huitztipa", "lat": 20.892113, "lng": -98.060685
+},{
+"label": "Pemuxtitla", "lat": 20.908478, "lng": -98.153497
+},{
+"label": "Rancho Coyotemango", "lat": 20.915043, "lng": -98.096006
+},{
+"label": "Cocatitla", "lat": 20.949695, "lng": -98.117419
+},{
+"label": "Pastoría", "lat": 21.088966, "lng": -98.140228
+},{
+"label": "Jesús María", "lat": 20.958432, "lng": -98.142969
+},{
+"label": "La Guásima", "lat": 21.100406, "lng": -98.076429
+},{
+"label": "Huexoyo", "lat": 20.920083, "lng": -98.088233
+},{
+"label": "Tzapullo Tecomate", "lat": 20.869306, "lng": -97.999405
+},{
+"label": "Cuatzonco", "lat": 20.98589, "lng": -98.123546
+},{
+"label": "Aragón", "lat": 20.987858, "lng": -97.915483
+},{
+"label": "El Paraíso", "lat": 20.986279, "lng": -97.921234
+},{
+"label": "Jagüey", "lat": 21.127899, "lng": -98.061755
+},{
+"label": "San Benito", "lat": 20.901073, "lng": -97.922419
+},{
+"label": "El Pino", "lat": 21.107991, "lng": -98.074176
+},{
+"label": "Teácatl Tepenahuac", "lat": 20.930138, "lng": -98.008799
+},{
+"label": "Terrerillos", "lat": 21.040648, "lng": -98.148285
+},{
+"label": "Buenavista", "lat": 21.075223, "lng": -98.091044
+},{
+"label": "El Pensamiento", "lat": 21.075089, "lng": -98.141498
+},{
+"label": "Temoctla", "lat": 21.000296, "lng": -98.112139
+},{
+"label": "La Joya", "lat": 21.101289, "lng": -98.139863
+},{
+"label": "Alaxtitla Ixcacuatitla", "lat": 20.922135, "lng": -98.034452
+},{
+"label": "Xilico", "lat": 20.959306, "lng": -98.187265
+},{
+"label": "Buena Vista", "lat": 20.931422, "lng": -98.123062
+},{
+"label": "Cuatempa", "lat": 20.991432, "lng": -98.114853
+},{
+"label": "Xoquíxhual", "lat": 20.933084, "lng": -98.090735
+},{
+"label": "Xalatla", "lat": 20.964405, "lng": -98.120439
+},{
+"label": "Santa Teresa", "lat": 20.907738, "lng": -97.919449
+},{
+"label": "Tzontzopilótl", "lat": 20.967795, "lng": -98.110917
+},{
+"label": "Zanja Honda", "lat": 20.959618, "lng": -97.87195
+},{
+"label": "El Tule la Antigua", "lat": 20.962348, "lng": -97.907271
+},{
+"label": "Camotipan", "lat": 20.897851, "lng": -97.946675
+},{
+"label": "Xahuayoca", "lat": 20.954274, "lng": -98.143221
+},{
+"label": "Tenexaco", "lat": 20.90343, "lng": -98.12154
+},{
+"label": "Huitzapoli", "lat": 20.949716, "lng": -98.007857
+},{
+"label": "Ahuateno Chico", "lat": 20.895005, "lng": -98.118502
+},{
+"label": "El Cerrito", "lat": 21.031908, "lng": -98.093267
+},{
+"label": "Achupil", "lat": 20.909535, "lng": -98.172072
+},{
+"label": "Holititla", "lat": 20.916488, "lng": -98.087301
+},{
+"label": "Las Silletas", "lat": 20.942551, "lng": -98.03289
+},{
+"label": "El Real", "lat": 20.980617, "lng": -97.876135
+},{
+"label": "Apaxtitla", "lat": 20.916053, "lng": -98.079956
+},{
+"label": "Amatlán", "lat": 20.900403, "lng": -97.923637
+},{
+"label": "El Fortín", "lat": 20.969856, "lng": -98.145236
+},{
+"label": "El Negrito", "lat": 21.127151, "lng": -98.088322
+},{
+"label": "Soltepec", "lat": 20.90156, "lng": -97.996082
+},{
+"label": "El Retache", "lat": 20.956675, "lng": -97.86611
+},{
+"label": "Teponaxtla", "lat": 20.952216, "lng": -98.159887
+},{
+"label": "Maxtlatla", "lat": 20.974468, "lng": -98.190524
+},{
+"label": "Cruz Verde", "lat": 20.97772, "lng": -98.169005
+},{
+"label": "La Chingada", "lat": 20.990625, "lng": -98.101865
+},{
+"label": "Pepeyocal", "lat": 21.096616, "lng": -98.139659
+},{
+"label": "Monte Chiquito", "lat": 20.916376, "lng": -97.934901
+},{
+"label": "Piedras Negras", "lat": 20.968031, "lng": -98.162346
+},{
+"label": "Atlajteno", "lat": 20.882482, "lng": -98.073007
+},{
+"label": "Ahuatlán", "lat": 20.908453, "lng": -98.088524
+},{
+"label": "Las Palmas", "lat": 21.06003, "lng": -97.9851
+},{
+"label": "Lindero Achupil", "lat": 20.89354, "lng": -98.208325
+},{
+"label": "Tierra Colorada", "lat": 20.98326, "lng": -98.166667
+},{
+"label": "Atlalco", "lat": 20.893908, "lng": -97.959586
+},{
+"label": "Tecerca Vieja", "lat": 20.981823, "lng": -97.962138
+},{
+"label": "Ácatl", "lat": 20.887598, "lng": -98.072666
+},{
+"label": "Huizache Achichipic", "lat": 20.961132, "lng": -98.139244
+},{
+"label": "Buenos Aires", "lat": 20.932325, "lng": -97.998055
+},{
+"label": "El Tecomate", "lat": 21.142618, "lng": -98.068839
+},{
+"label": "Tzapullo Postectitla", "lat": 20.887586, "lng": -98.00144
+},{
+"label": "El Chote (Santa Teresa)", "lat": 20.905, "lng": -97.902063
+},{
+"label": "La Esmeralda", "lat": 20.909016, "lng": -97.925132
+},{
+"label": "Huitzitzilco", "lat": 20.923053, "lng": -98.094807
+},{
+"label": "Tepeica Ixcacuatitla", "lat": 20.918485, "lng": -98.030667
+},{
+"label": "Palma Sola (Anexo la Antigua)", "lat": 20.946876, "lng": -97.887404
+},{
+"label": "Ahuateno", "lat": 21.001943, "lng": -98.150296
+},{
+"label": "Los Pericos", "lat": 20.982327, "lng": -98.155168
+},{
+"label": "Alaxtitla Tepetzintla", "lat": 20.975994, "lng": -98.117101
+},{
+"label": "Analí", "lat": 20.934145, "lng": -98.096067
+},{
+"label": "Benito Juárez", "lat": 21.073102, "lng": -98.049223
+},{
+"label": "El Ixtle Flores Magón", "lat": 20.879641, "lng": -97.978774
+},{
+"label": "Camaitlán", "lat": 21.000747, "lng": -98.078352
+},{
+"label": "Santa Teresa Camotipan", "lat": 20.906366, "lng": -97.914596
+},{
+"label": "La Camelia", "lat": 20.965999, "lng": -98.166203
+},{
+"label": "Cahuayoapa", "lat": 20.985175, "lng": -98.116937
+},{
+"label": "Pilatlaco", "lat": 20.901008, "lng": -98.112387
+},{
+"label": "Rancho Nuevo", "lat": 21.088039, "lng": -97.968568
+},{
+"label": "Tlamaya Xochicuatepec", "lat": 20.924035, "lng": -97.992321
+},{
+"label": "San Gerardo", "lat": 20.923441, "lng": -98.233887
+},{
+"label": "Zapotal (Zapotal Mirador)", "lat": 21.00257, "lng": -97.948149
+},{
+"label": "Tecomaxóchitl Primero", "lat": 21.014762, "lng": -98.193144
+},{
+"label": "Palma Sola (Los Manantiales)", "lat": 20.944584, "lng": -97.891236
+},{
+"label": "Tanchel", "lat": 21.098683, "lng": -97.96883
+},{
+"label": "Tepoxteco", "lat": 20.932463, "lng": -98.059829
+},{
+"label": "Colonia Jardines", "lat": 20.957277, "lng": -98.185353
+},{
+"label": "Cerro Prieto", "lat": 21.087395, "lng": -98.026223
+},{
+"label": "El Jacubal", "lat": 21.051984, "lng": -97.930736
+},{
+"label": "El Carril Pastoría", "lat": 21.092425, "lng": -98.133091
+},{
+"label": "Ixcacuatitla de los Pinos", "lat": 20.905403, "lng": -98.021023
+},{
+"label": "Tepetzintla Xicalango", "lat": 20.929262, "lng": -97.937727
+},{
+"label": "Filogonio Barrales Leyba", "lat": 21.091349, "lng": -97.949776
+},{
+"label": "El Zapotal Espinal", "lat": 21.041548, "lng": -97.973064
+},{
+"label": "Tepetzintla", "lat": 20.966456, "lng": -98.141757
+},{
+"label": "El Mirador", "lat": 21.012204, "lng": -97.944168
+},{
+"label": "Las Cucharas", "lat": 20.927, "lng": -97.97097
+},{
+"label": "Xochicuatepec", "lat": 20.916417, "lng": -97.995654
+},{
+"label": "Sagrado Corazón de Jesús", "lat": 20.942268, "lng": -98.177548
+},{
+"label": "Ayacaxtle", "lat": 20.966735, "lng": -97.994228
+},{
+"label": "Emiliano Zapata", "lat": 21.116428, "lng": -98.074935
+},{
+"label": "La Barra", "lat": 20.945639, "lng": -98.092137
+},{
+"label": "Zocohuite", "lat": 20.94663, "lng": -98.167307
+},{
+"label": "Los Cocuyos", "lat": 21.060879, "lng": -98.109016
+},{
+"label": "Ahuatitla Abajo", "lat": 20.894086, "lng": -98.148099
+},{
+"label": "Aquixcruz", "lat": 20.907358, "lng": -98.001507
+},{
+"label": "Diamante", "lat": 20.971554, "lng": -97.879528
+},{
+"label": "Xihuicalco", "lat": 20.935848, "lng": -98.158148
+},{
+"label": "Alaxtitla Morenotlán", "lat": 21.003877, "lng": -98.131103
+},{
+"label": "Sasaltitla", "lat": 20.934513, "lng": -98.196275
+},{
+"label": "Xocócatl", "lat": 20.973239, "lng": -97.981943
+},{
+"label": "El Zacatal", "lat": 21.143864, "lng": -98.051272
+},{
+"label": "Finca Doña Chela", "lat": 20.991975, "lng": -98.084782
+},{
+"label": "Toloncuitlatla", "lat": 20.942071, "lng": -98.137808
+},{
+"label": "La Providencia", "lat": 20.9756, "lng": -98.074169
+},{
+"label": "Huichintitla", "lat": 20.953838, "lng": -98.024811
+},{
+"label": "El Querreque", "lat": 20.971244, "lng": -97.864325
+},{
+"label": "El Tordillo", "lat": 20.998908, "lng": -98.061519
+},{
+"label": "Zacateno", "lat": 20.976391, "lng": -98.20327
+},{
+"label": "Otlayo", "lat": 20.945106, "lng": -97.992268
+},{
+"label": "Tepecxitla", "lat": 20.951229, "lng": -98.035179
+},{
+"label": "La Zorra", "lat": 21.150906, "lng": -98.095905
+},{
+"label": "Limontitla", "lat": 20.920967, "lng": -98.138223
+},{
+"label": "La Cabaña Manantial", "lat": 20.969264, "lng": -98.17749
+},{
+"label": "Francia Nueva", "lat": 21.116611, "lng": -97.952759
+},{
+"label": "El Tule Cuatecómetl", "lat": 20.921025, "lng": -97.965053
+},{
+"label": "Granadilla", "lat": 21.153941, "lng": -98.100891
+},{
+"label": "Tlaica Xicalango", "lat": 20.934314, "lng": -97.970215
+},{
+"label": "Nuevo Tecerca", "lat": 21.113383, "lng": -97.964194
+},{
+"label": "Lázaro Cárdenas", "lat": 21.118118, "lng": -98.159891
+},{
+"label": "Tlatolongo", "lat": 20.934335, "lng": -98.120369
+},{
+"label": "El Chote la Antigua", "lat": 20.953107, "lng": -97.918362
+},{
+"label": "Tlaquextla (Rancho Nuevo Camotipan)", "lat": 20.88972, "lng": -97.93167
+},{
+"label": "Tlamaya Pemuxtitla", "lat": 20.904342, "lng": -98.158044
+},{
+"label": "Hipólito Hernández Bautista", "lat": 20.93279, "lng": -97.913039
+},{
+"label": "Mesa de Tzonámatl", "lat": 20.868341, "lng": -97.940047
+},{
+"label": "Adalberto Tejeda", "lat": 21.050058, "lng": -97.964705
+},{
+"label": "Las Bugambilias", "lat": 21.066562, "lng": -98.060122
+},{
+"label": "Huacango", "lat": 20.945092, "lng": -98.11188
+},{
+"label": "El Chalahuite", "lat": 21.075243, "lng": -98.066566
+},{
+"label": "El Tarro", "lat": 20.911203, "lng": -98.099889
+},{
+"label": "El Jabalí", "lat": 21.145307, "lng": -98.08982
+},{
+"label": "Las Lomas de Huitzapoli", "lat": 20.948987, "lng": -98.005071
+},{
+"label": "El Molino", "lat": 20.941269, "lng": -98.000402
+},{
+"label": "Monte Negro", "lat": 21.061944, "lng": -98.046527
+},{
+"label": "Chapixtla", "lat": 20.961444, "lng": -98.07444
+},{
+"label": "Postectitla", "lat": 20.899784, "lng": -98.037035
+},{
+"label": "Tzocohuititla", "lat": 20.926584, "lng": -98.143346
+},{
+"label": "El Barrio", "lat": 21.092908, "lng": -97.972169
+},{
+"label": "Xaltepec", "lat": 20.95403, "lng": -97.99052
+},{
+"label": "General Ignacio Zaragoza", "lat": 21.06398, "lng": -98.124414
+},{
+"label": "Tecuapa", "lat": 20.897573, "lng": -98.128795
+},{
+"label": "Xicalango", "lat": 20.929651, "lng": -97.952282
+},{
+"label": "Quilitepec", "lat": 20.949929, "lng": -97.98734
+},{
+"label": "El Terrero", "lat": 20.94478, "lng": -98.178275
+},{
+"label": "Bellavista", "lat": 20.899998, "lng": -98.120246
+},{
+"label": "Maguey Maguaquite", "lat": 21.137301, "lng": -97.960625
+},{
+"label": "La Guásima Ixcacuatitla", "lat": 20.918909, "lng": -98.038429
+},{
+"label": "El Mezquite", "lat": 21.050911, "lng": -97.991888
+},{
+"label": "El Aguacate", "lat": 21.046445, "lng": -98.106962
+},{
+"label": "Francisco Villa", "lat": 21.132736, "lng": -98.090819
+},{
+"label": "La Ceiba Tlacolula", "lat": 21.1184, "lng": -97.969638
+},{
+"label": "Cuahuítzil", "lat": 20.968797, "lng": -98.180914
+},{
+"label": "El Sitio", "lat": 20.963676, "lng": -98.061235
+},{
+"label": "Mexcatla", "lat": 20.967912, "lng": -98.156998
+},{
+"label": "Tenexco", "lat": 20.926826, "lng": -98.226186
+},{
+"label": "Don Polo", "lat": 20.964647, "lng": -97.884934
+}]

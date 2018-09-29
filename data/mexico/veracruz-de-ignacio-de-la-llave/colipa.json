@@ -1,0 +1,139 @@
+[{
+"label": "La Concordia", "lat": 19.891468, "lng": -96.709453
+},{
+"label": "San Juan del Ocotillo", "lat": 19.916192, "lng": -96.678067
+},{
+"label": "Cerro del Tigre", "lat": 19.970028, "lng": -96.737532
+},{
+"label": "Paso Fresco", "lat": 19.980893, "lng": -96.662813
+},{
+"label": "Rosendo", "lat": 19.924818, "lng": -96.712183
+},{
+"label": "Ixtacapan", "lat": 19.92976, "lng": -96.739617
+},{
+"label": "Altamira", "lat": 19.962232, "lng": -96.68189
+},{
+"label": "El Tecolote", "lat": 19.974501, "lng": -96.687194
+},{
+"label": "La Aurora", "lat": 19.981991, "lng": -96.67954
+},{
+"label": "San Miguel", "lat": 19.912263, "lng": -96.72097
+},{
+"label": "Colipa", "lat": 19.924, "lng": -96.72673
+},{
+"label": "Coyolillo", "lat": 19.901809, "lng": -96.667099
+},{
+"label": "Tarral", "lat": 19.976342, "lng": -96.720981
+},{
+"label": "Santa Lucía", "lat": 19.935399, "lng": -96.667646
+},{
+"label": "Cerro Gordo", "lat": 19.936241, "lng": -96.7691
+},{
+"label": "El Hule", "lat": 19.926211, "lng": -96.675308
+},{
+"label": "Tortuguillas", "lat": 19.944813, "lng": -96.739071
+},{
+"label": "El Zapotal", "lat": 19.955, "lng": -96.67444
+},{
+"label": "El Órgano (San Gerónimo)", "lat": 19.971933, "lng": -96.693461
+},{
+"label": "El Limonario", "lat": 19.887583, "lng": -96.683484
+},{
+"label": "Coyotitlán", "lat": 19.907794, "lng": -96.736846
+},{
+"label": "Nacaspoya", "lat": 19.956826, "lng": -96.699539
+},{
+"label": "San Ramón Zapotal", "lat": 19.961216, "lng": -96.676214
+},{
+"label": "El Buzón", "lat": 19.978108, "lng": -96.654162
+},{
+"label": "Plan de San Luis", "lat": 19.952076, "lng": -96.751532
+},{
+"label": "La Floreña", "lat": 19.883191, "lng": -96.715539
+},{
+"label": "Pila de Agua", "lat": 19.946715, "lng": -96.683261
+},{
+"label": "San Bartolo", "lat": 19.96907, "lng": -96.675508
+},{
+"label": "Antonio Ortega", "lat": 19.930459, "lng": -96.716007
+},{
+"label": "El Palmar", "lat": 19.932707, "lng": -96.673573
+},{
+"label": "La Mesa de los Encinos", "lat": 19.895641, "lng": -96.658567
+},{
+"label": "Santa Cruz", "lat": 19.958213, "lng": -96.712444
+},{
+"label": "La Pahua", "lat": 19.894001, "lng": -96.672899
+},{
+"label": "Ojo de Agua", "lat": 19.906839, "lng": -96.684826
+},{
+"label": "Vista Hermosa", "lat": 19.892308, "lng": -96.680369
+},{
+"label": "Santa Rosa", "lat": 19.902734, "lng": -96.753676
+},{
+"label": "Teodoro Rodríguez", "lat": 19.917134, "lng": -96.764762
+},{
+"label": "El Vencedor", "lat": 19.9381, "lng": -96.654453
+},{
+"label": "La Palma", "lat": 19.886226, "lng": -96.698386
+},{
+"label": "San Ramón", "lat": 19.97319, "lng": -96.737581
+},{
+"label": "Los Diegos (La Chingada)", "lat": 19.943389, "lng": -96.707114
+},{
+"label": "El Manantial (San Julián)", "lat": 19.946319, "lng": -96.724555
+},{
+"label": "La Piedrilla", "lat": 19.925714, "lng": -96.768921
+},{
+"label": "El Recreo", "lat": 19.951254, "lng": -96.682853
+},{
+"label": "El Ocotillo", "lat": 19.930655, "lng": -96.689035
+},{
+"label": "La Ceiba", "lat": 19.901557, "lng": -96.652687
+},{
+"label": "Las Parcelas", "lat": 19.958527, "lng": -96.720254
+},{
+"label": "Boquerón", "lat": 19.93444, "lng": -96.716203
+},{
+"label": "El Atorón (Loma Bonita)", "lat": 19.894914, "lng": -96.687548
+},{
+"label": "El Chalahuite", "lat": 19.89029, "lng": -96.693194
+},{
+"label": "Cerro Azul", "lat": 19.969604, "lng": -96.708546
+},{
+"label": "La Cachetada", "lat": 19.923456, "lng": -96.773801
+},{
+"label": "Santa Rita", "lat": 19.915076, "lng": -96.660716
+},{
+"label": "Los Mangos", "lat": 19.902286, "lng": -96.683589
+},{
+"label": "Cerro el Bejuco", "lat": 19.907561, "lng": -96.732574
+},{
+"label": "Cerro del Aguacate", "lat": 19.888335, "lng": -96.690053
+},{
+"label": "Colonia Teodoro A. Dehesa", "lat": 19.905306, "lng": -96.759051
+},{
+"label": "El Rubí", "lat": 19.922714, "lng": -96.652403
+},{
+"label": "Loma Bonita (El Catalán)", "lat": 19.974377, "lng": -96.676945
+},{
+"label": "La Esmeralda", "lat": 19.930366, "lng": -96.674904
+},{
+"label": "Las Cabrillas", "lat": 19.976398, "lng": -96.654756
+},{
+"label": "La Esperanza", "lat": 19.966413, "lng": -96.679647
+},{
+"label": "Boquerón Dos", "lat": 19.94116, "lng": -96.715414
+},{
+"label": "Cerro del Bejuco", "lat": 19.908549, "lng": -96.723857
+},{
+"label": "La Trinidad", "lat": 19.902563, "lng": -96.704393
+},{
+"label": "Miramar", "lat": 19.974519, "lng": -96.665675
+},{
+"label": "El Verde", "lat": 19.935176, "lng": -96.72998
+},{
+"label": "El Naranjal", "lat": 19.958431, "lng": -96.729263
+},{
+"label": "Tres Hermanos", "lat": 19.920424, "lng": -96.715972
+}]

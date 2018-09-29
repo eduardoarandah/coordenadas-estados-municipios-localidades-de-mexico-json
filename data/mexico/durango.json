@@ -1,0 +1,79 @@
+[{
+"label": "Nazas", "lat": 25.240735973684206, "lng": -104.09073872368418,"info": "total: 76","children": "data/mexico/durango/nazas.json"
+},{
+"label": "San Dimas", "lat": 24.206658985915492, "lng": -105.74820909859156,"info": "total: 497","children": "data/mexico/durango/san-dimas.json"
+},{
+"label": "Nuevo Ideal", "lat": 24.88074590058479, "lng": -105.0229073040936,"info": "total: 171","children": "data/mexico/durango/nuevo-ideal.json"
+},{
+"label": "Guanaceví", "lat": 25.996154265734294, "lng": -106.10298019580418,"info": "total: 286","children": "data/mexico/durango/guanacevi.json"
+},{
+"label": "Cuencamé", "lat": 24.64571197656252, "lng": -103.73819547656251,"info": "total: 256","children": "data/mexico/durango/cuencame.json"
+},{
+"label": "Nombre de Dios", "lat": 23.832902962616817, "lng": -104.16621779439257,"info": "total: 107","children": "data/mexico/durango/nombre-de-dios.json"
+},{
+"label": "Tlahualilo", "lat": 26.051418904761906, "lng": -103.52516236054429,"info": "total: 147","children": "data/mexico/durango/tlahualilo.json"
+},{
+"label": "Canelas", "lat": 25.08813508333333, "lng": -106.50612823717954,"info": "total: 156","children": "data/mexico/durango/canelas.json"
+},{
+"label": "General Simón Bolívar", "lat": 24.902176235294117, "lng": -103.2694573137255,"info": "total: 51","children": "data/mexico/durango/general-simon-bolivar.json"
+},{
+"label": "Santa Clara", "lat": 24.499518027027026, "lng": -103.40864224324322,"info": "total: 37","children": "data/mexico/durango/santa-clara.json"
+},{
+"label": "San Juan del Río", "lat": 24.77447104587155, "lng": -104.50057001834863,"info": "total: 109","children": "data/mexico/durango/san-juan-del-rio.json"
+},{
+"label": "Gómez Palacio", "lat": 25.707919383838373, "lng": -103.47569468080806,"info": "total: 495","children": "data/mexico/durango/gomez-palacio.json"
+},{
+"label": "Guadalupe Victoria", "lat": 24.432118067415733, "lng": -104.08939638202244,"info": "total: 89","children": "data/mexico/durango/guadalupe-victoria.json"
+},{
+"label": "Pueblo Nuevo", "lat": 23.41443489999999, "lng": -105.34286196415087,"info": "total: 530","children": "data/mexico/durango/pueblo-nuevo.json"
+},{
+"label": "San Pedro del Gallo", "lat": 25.598717476923074, "lng": -104.38834724615386,"info": "total: 65","children": "data/mexico/durango/san-pedro-del-gallo.json"
+},{
+"label": "Lerdo", "lat": 25.485781437641723, "lng": -103.60804028798185,"info": "total: 441","children": "data/mexico/durango/lerdo.json"
+},{
+"label": "San Juan de Guadalupe", "lat": 24.59446194285714, "lng": -102.69812242857142,"info": "total: 70","children": "data/mexico/durango/san-juan-de-guadalupe.json"
+},{
+"label": "Súchil", "lat": 23.435707781250002, "lng": -104.14679671875002,"info": "total: 64","children": "data/mexico/durango/suchil.json"
+},{
+"label": "Topia", "lat": 25.233180812080537, "lng": -106.66300808389259,"info": "total: 298","children": "data/mexico/durango/topia.json"
+},{
+"label": "Otáez", "lat": 24.700735980392157, "lng": -106.01203138235292,"info": "total: 102","children": "data/mexico/durango/otaez.json"
+},{
+"label": "Mezquital", "lat": 22.89154300510201, "lng": -104.5375467418368,"info": "total: 980","children": "data/mexico/durango/mezquital.json"
+},{
+"label": "Rodeo", "lat": 25.17559798461539, "lng": -104.56350115384609,"info": "total: 65","children": "data/mexico/durango/rodeo.json"
+},{
+"label": "San Luis del Cordero", "lat": 25.382209933333336, "lng": -104.283732,"info": "total: 15","children": "data/mexico/durango/san-luis-del-cordero.json"
+},{
+"label": "Tepehuanes", "lat": 25.474650986885255, "lng": -106.20562719016391,"info": "total: 305","children": "data/mexico/durango/tepehuanes.json"
+},{
+"label": "Indé", "lat": 25.76297155555555, "lng": -105.03337472839507,"info": "total: 81","children": "data/mexico/durango/inde.json"
+},{
+"label": "Santiago Papasquiaro", "lat": 24.96762268229166, "lng": -105.70119178385416,"info": "total: 384","children": "data/mexico/durango/santiago-papasquiaro.json"
+},{
+"label": "Hidalgo", "lat": 26.028096783018867, "lng": -104.8275991981132,"info": "total: 106","children": "data/mexico/durango/hidalgo.json"
+},{
+"label": "Coneto de Comonfort", "lat": 25.02935847368421, "lng": -104.7368267719298,"info": "total: 57","children": "data/mexico/durango/coneto-de-comonfort.json"
+},{
+"label": "Ocampo", "lat": 26.551313738888883, "lng": -105.76173914444443,"info": "total: 180","children": "data/mexico/durango/ocampo.json"
+},{
+"label": "El Oro", "lat": 25.681751278846164, "lng": -105.26354142307693,"info": "total: 104","children": "data/mexico/durango/el-oro.json"
+},{
+"label": "Pánuco de Coronado", "lat": 24.426716333333324, "lng": -104.33327675000001,"info": "total: 60","children": "data/mexico/durango/panuco-de-coronado.json"
+},{
+"label": "Peñón Blanco", "lat": 24.759450918367353, "lng": -104.01798777551018,"info": "total: 98","children": "data/mexico/durango/penon-blanco.json"
+},{
+"label": "Poanas", "lat": 23.976960078125003, "lng": -104.044467234375,"info": "total: 64","children": "data/mexico/durango/poanas.json"
+},{
+"label": "Durango", "lat": 24.023836050442462, "lng": -104.67755446460197,"info": "total: 1130","children": "data/mexico/durango/durango.json"
+},{
+"label": "Vicente Guerrero", "lat": 23.72217681481481, "lng": -103.98074266666666,"info": "total: 27","children": "data/mexico/durango/vicente-guerrero.json"
+},{
+"label": "Canatlán", "lat": 24.5183833122807, "lng": -104.80186082456144,"info": "total: 285","children": "data/mexico/durango/canatlan.json"
+},{
+"label": "Mapimí", "lat": 26.17899820325202, "lng": -104.04746708130078,"info": "total: 246","children": "data/mexico/durango/mapimi.json"
+},{
+"label": "Tamazula", "lat": 25.066639359281446, "lng": -106.77691318263479,"info": "total: 668","children": "data/mexico/durango/tamazula.json"
+},{
+"label": "San Bernardo", "lat": 26.169315245283013, "lng": -105.66303884905658,"info": "total: 106","children": "data/mexico/durango/san-bernardo.json"
+}]

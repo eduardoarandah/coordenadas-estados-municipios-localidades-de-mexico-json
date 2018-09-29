@@ -1,0 +1,335 @@
+[{
+"label": "Ciénega Larga (Agua Santa)", "lat": 19.71455, "lng": -98.089687
+},{
+"label": "La Concepción Calapa", "lat": 19.749454, "lng": -98.142739
+},{
+"label": "Acolihuia", "lat": 19.784358, "lng": -98.125066
+},{
+"label": "Altamira", "lat": 19.890316, "lng": -98.223024
+},{
+"label": "El Tecajete", "lat": 19.791944, "lng": -98.1875
+},{
+"label": "Llano Verde", "lat": 19.758356, "lng": -98.124249
+},{
+"label": "El Paraíso", "lat": 19.851828, "lng": -98.294444
+},{
+"label": "El Cantón", "lat": 19.821934, "lng": -98.090511
+},{
+"label": "Ajolotla", "lat": 19.851556, "lng": -98.124233
+},{
+"label": "Paxtla", "lat": 19.798028, "lng": -98.089719
+},{
+"label": "Ejido Río Blanco (El Doce)", "lat": 19.708343, "lng": -98.065791
+},{
+"label": "Apapasco", "lat": 19.851699, "lng": -98.037851
+},{
+"label": "Buenavista", "lat": 19.8136, "lng": -98.171503
+},{
+"label": "Cerro de la Virgen", "lat": 19.705752, "lng": -98.081869
+},{
+"label": "Las Mesas", "lat": 19.814302, "lng": -98.108449
+},{
+"label": "La Joya", "lat": 19.744343, "lng": -98.168237
+},{
+"label": "El Fierro", "lat": 19.820349, "lng": -98.180988
+},{
+"label": "Teotlalcingo", "lat": 19.825166, "lng": -97.993982
+},{
+"label": "Tecoloque", "lat": 19.831043, "lng": -98.1919
+},{
+"label": "El Eco", "lat": 19.894218, "lng": -98.163791
+},{
+"label": "San Claudio", "lat": 19.866389, "lng": -98.242222
+},{
+"label": "Ocojala", "lat": 19.946888, "lng": -98.099741
+},{
+"label": "Mano Pintada", "lat": 19.933288, "lng": -98.236538
+},{
+"label": "San Miguel (Llanito Verde)", "lat": 19.935384, "lng": -98.195892
+},{
+"label": "Palo Bendito", "lat": 19.80051, "lng": -98.201672
+},{
+"label": "El Saltito", "lat": 19.771656, "lng": -98.140539
+},{
+"label": "San José Corral Blanco", "lat": 19.910121, "lng": -98.177377
+},{
+"label": "La Bruja", "lat": 19.808318, "lng": -98.120334
+},{
+"label": "San José de las Delicias", "lat": 19.824111, "lng": -98.181154
+},{
+"label": "Jonuco Pedernales", "lat": 19.933398, "lng": -98.156626
+},{
+"label": "Tlapizahua", "lat": 19.801893, "lng": -98.139404
+},{
+"label": "Santa Rosa", "lat": 19.883059, "lng": -98.031508
+},{
+"label": "Atlamaxac", "lat": 19.798015, "lng": -98.052156
+},{
+"label": "El Arenal (La Colonia)", "lat": 19.781556, "lng": -98.146052
+},{
+"label": "Canuillas (Barranca del Cristo)", "lat": 19.866954, "lng": -98.199666
+},{
+"label": "Lázaro Cárdenas (Tzitla)", "lat": 19.816462, "lng": -98.053229
+},{
+"label": "Cozapa (El Polvorín)", "lat": 19.868736, "lng": -98.023171
+},{
+"label": "Tecoyuca", "lat": 19.774114, "lng": -98.150581
+},{
+"label": "Tenextla", "lat": 19.835321, "lng": -98.008288
+},{
+"label": "Ciudad de Chignahuapan", "lat": 19.838223, "lng": -98.030975
+},{
+"label": "Las Tetillas", "lat": 19.837909, "lng": -98.193622
+},{
+"label": "La Cruz de los Pastores", "lat": 19.900556, "lng": -98.214444
+},{
+"label": "Michac", "lat": 19.852525, "lng": -98.050522
+},{
+"label": "La Fragua", "lat": 19.777111, "lng": -98.138729
+},{
+"label": "La Magdalena", "lat": 19.914775, "lng": -98.086291
+},{
+"label": "Nacayolo", "lat": 19.830137, "lng": -98.152365
+},{
+"label": "Cozapa (El Cortijo)", "lat": 19.858841, "lng": -98.036362
+},{
+"label": "Venta Ahumada", "lat": 19.743817, "lng": -98.060481
+},{
+"label": "Acoculco (Alamedilla)", "lat": 19.935756, "lng": -98.209775
+},{
+"label": "Loma Alta", "lat": 19.796245, "lng": -98.026834
+},{
+"label": "San Miguel Lastiri", "lat": 19.870451, "lng": -98.044268
+},{
+"label": "El Derramadero", "lat": 19.875469, "lng": -98.037643
+},{
+"label": "El Tesmolar", "lat": 19.807637, "lng": -98.17207
+},{
+"label": "Las Cabras", "lat": 19.811236, "lng": -98.128643
+},{
+"label": "Los Reyes", "lat": 19.804596, "lng": -98.24585
+},{
+"label": "San Francisco Terrerillos", "lat": 19.910359, "lng": -98.163823
+},{
+"label": "San Isidro Coliuca", "lat": 19.83873, "lng": -98.250546
+},{
+"label": "San Rafael", "lat": 19.886111, "lng": -98.034722
+},{
+"label": "El Refugio", "lat": 19.800269, "lng": -98.173404
+},{
+"label": "Villa Cuauhtémoc", "lat": 19.779131, "lng": -98.096938
+},{
+"label": "El Lobón", "lat": 19.730379, "lng": -98.148347
+},{
+"label": "Las Chavelitas", "lat": 19.85852, "lng": -98.016688
+},{
+"label": "Río Chico", "lat": 19.737748, "lng": -98.183428
+},{
+"label": "El Fresno", "lat": 19.728345, "lng": -98.079784
+},{
+"label": "Tenancingo", "lat": 19.870569, "lng": -98.156323
+},{
+"label": "La Mesa", "lat": 19.895353, "lng": -98.238283
+},{
+"label": "El Porvenir", "lat": 19.906257, "lng": -98.068627
+},{
+"label": "Río Blanco (Sebastopol)", "lat": 19.780864, "lng": -98.036176
+},{
+"label": "Calapa", "lat": 19.748333, "lng": -98.150197
+},{
+"label": "Cruz Colorada", "lat": 19.920601, "lng": -98.12135
+},{
+"label": "Ixtlahuaca (Palancingo)", "lat": 19.863757, "lng": -98.003516
+},{
+"label": "Ilamapa", "lat": 19.857322, "lng": -98.049108
+},{
+"label": "San José", "lat": 19.889343, "lng": -98.047314
+},{
+"label": "San Luis del Valle", "lat": 19.775474, "lng": -98.181159
+},{
+"label": "Maderas de la Sierra [Aserradero]", "lat": 19.793311, "lng": -98.01821
+},{
+"label": "Rancho Escondido", "lat": 19.788268, "lng": -98.009821
+},{
+"label": "La Ruleta", "lat": 19.796411, "lng": -98.12768
+},{
+"label": "El Cazadero (El Encanto)", "lat": 19.915908, "lng": -98.198878
+},{
+"label": "Zotoltepec", "lat": 19.810814, "lng": -98.162393
+},{
+"label": "Los Pilares (La Joya)", "lat": 19.911122, "lng": -98.225392
+},{
+"label": "La Gloria (Primera Sección)", "lat": 19.893195, "lng": -98.053279
+},{
+"label": "Piedra Ancha", "lat": 19.804364, "lng": -98.221278
+},{
+"label": "Matlahuacales de Aquiles Serdán", "lat": 19.763108, "lng": -98.055983
+},{
+"label": "Los Ranchos (Rinconada)", "lat": 19.721687, "lng": -98.199965
+},{
+"label": "Toltempan", "lat": 19.842118, "lng": -98.042829
+},{
+"label": "General Rafael Ávila Camacho (Teopan)", "lat": 19.679136, "lng": -98.093743
+},{
+"label": "Loma Larga", "lat": 19.787429, "lng": -98.179479
+},{
+"label": "La Perla", "lat": 19.728105, "lng": -98.175389
+},{
+"label": "San Antonio Matlahuacales", "lat": 19.755619, "lng": -98.081915
+},{
+"label": "Chignahuapan [Baños Termales]", "lat": 19.839115, "lng": -97.995216
+},{
+"label": "San Isidro Pedernales", "lat": 19.974686, "lng": -98.15873
+},{
+"label": "El Campamento", "lat": 19.854303, "lng": -98.309232
+},{
+"label": "Maguey Cenizo", "lat": 19.919576, "lng": -98.234303
+},{
+"label": "El Manzanito", "lat": 19.865022, "lng": -98.180499
+},{
+"label": "El Capulín", "lat": 19.741068, "lng": -98.162263
+},{
+"label": "El Cristo", "lat": 19.922055, "lng": -98.18624
+},{
+"label": "La Providencia", "lat": 19.811578, "lng": -98.234966
+},{
+"label": "Tres Cabezas", "lat": 19.882807, "lng": -98.275225
+},{
+"label": "Ocote Huérfano", "lat": 19.818191, "lng": -98.122359
+},{
+"label": "Matlahuacala", "lat": 19.842586, "lng": -97.976198
+},{
+"label": "Potrerillos", "lat": 19.925708, "lng": -98.215901
+},{
+"label": "El Abandono", "lat": 19.726103, "lng": -98.176614
+},{
+"label": "Cuautelolulco", "lat": 19.893686, "lng": -98.137674
+},{
+"label": "La Cuchilla (Manav Kendra)", "lat": 19.756924, "lng": -98.167136
+},{
+"label": "Parada el Conejo", "lat": 19.701232, "lng": -98.078693
+},{
+"label": "Tzitla", "lat": 19.824417, "lng": -98.069059
+},{
+"label": "Almeya (Casa Blanca)", "lat": 19.797528, "lng": -98.021047
+},{
+"label": "Ixtlahuaca Barrio", "lat": 19.838051, "lng": -98.014305
+},{
+"label": "Los Cerones", "lat": 19.870601, "lng": -98.291378
+},{
+"label": "Santa Rosa Amanalco", "lat": 19.840519, "lng": -98.044483
+},{
+"label": "Santa Cruz", "lat": 19.89552, "lng": -98.058381
+},{
+"label": "Ojo de Agua", "lat": 19.90554, "lng": -98.103064
+},{
+"label": "Vista Hermosa", "lat": 19.787596, "lng": -98.15712
+},{
+"label": "Teyra (Santa Rita)", "lat": 19.881373, "lng": -98.029862
+},{
+"label": "Teotlalpan", "lat": 19.819758, "lng": -98.039678
+},{
+"label": "Tlalayotes", "lat": 19.919116, "lng": -98.176083
+},{
+"label": "Ciénega Larga", "lat": 19.719278, "lng": -98.085396
+},{
+"label": "Ailitla", "lat": 19.833303, "lng": -98.124813
+},{
+"label": "Coacoyunga", "lat": 19.80433, "lng": -98.025571
+},{
+"label": "Ejido de Atlamaxac (Estados Unidos)", "lat": 19.768376, "lng": -98.037819
+},{
+"label": "El Sifón", "lat": 19.788432, "lng": -98.105128
+},{
+"label": "Sebastopol", "lat": 19.779192, "lng": -98.021705
+},{
+"label": "La Melada", "lat": 19.788071, "lng": -98.197149
+},{
+"label": "La Quinta", "lat": 19.761708, "lng": -98.084569
+},{
+"label": "Rancho San Isidro", "lat": 19.77953, "lng": -98.147277
+},{
+"label": "El Potrero", "lat": 19.917997, "lng": -98.07809
+},{
+"label": "Zacatempa", "lat": 19.790889, "lng": -98.044513
+},{
+"label": "Jardínes de Cozapa", "lat": 19.851785, "lng": -98.030934
+},{
+"label": "La Gloria (Segunda Sección)", "lat": 19.910318, "lng": -98.079852
+},{
+"label": "Pueblo Nuevo (Peñuelas)", "lat": 19.956156, "lng": -98.112077
+},{
+"label": "Piedra Ancha Aserradero (Segunda Ampliación)", "lat": 19.80701, "lng": -98.250218
+},{
+"label": "Las Cruces", "lat": 19.822656, "lng": -98.182071
+},{
+"label": "Llano Grande (El Aserradero)", "lat": 19.715018, "lng": -98.161403
+},{
+"label": "San Miguel Pedernales", "lat": 19.956023, "lng": -98.170806
+},{
+"label": "El Reparo", "lat": 19.875465, "lng": -98.219261
+},{
+"label": "La Campana", "lat": 19.874004, "lng": -98.135331
+},{
+"label": "El Manzano", "lat": 19.766298, "lng": -98.189167
+},{
+"label": "Capulaquito", "lat": 19.881601, "lng": -98.114988
+},{
+"label": "Nuevo San Claudio (Carretero)", "lat": 19.825328, "lng": -98.246503
+},{
+"label": "Buenos Aires (Presa San Francisco)", "lat": 19.785099, "lng": -98.068634
+},{
+"label": "Cañada de Piedras", "lat": 19.934396, "lng": -98.097311
+},{
+"label": "Cerro Blanco", "lat": 19.776969, "lng": -98.175609
+},{
+"label": "Berlín", "lat": 19.827436, "lng": -98.194384
+},{
+"label": "El Paredón", "lat": 19.867566, "lng": -98.252148
+},{
+"label": "El Rodeo", "lat": 19.779444, "lng": -98.113056
+},{
+"label": "La Rosa", "lat": 19.828787, "lng": -98.142271
+},{
+"label": "Rinconada", "lat": 19.714429, "lng": -98.186085
+},{
+"label": "Rincón Verde", "lat": 19.770429, "lng": -98.159514
+},{
+"label": "San José Atzintlimeya", "lat": 19.756167, "lng": -98.128292
+},{
+"label": "Huéymac", "lat": 19.883647, "lng": -98.039627
+},{
+"label": "San Juan", "lat": 19.791644, "lng": -98.169154
+},{
+"label": "La Loma", "lat": 19.915469, "lng": -98.074886
+},{
+"label": "Las Víboras", "lat": 19.76407, "lng": -98.070383
+},{
+"label": "Sección el Ixtete", "lat": 19.804667, "lng": -98.104839
+},{
+"label": "La Paila", "lat": 19.894856, "lng": -98.091377
+},{
+"label": "La Alcantarilla", "lat": 19.857755, "lng": -98.038008
+},{
+"label": "San Pedro el Tipizil", "lat": 19.910414, "lng": -98.073199
+},{
+"label": "Tecoloquillo", "lat": 19.836844, "lng": -98.214386
+},{
+"label": "La Roca", "lat": 19.767727, "lng": -98.133402
+},{
+"label": "San Francisco", "lat": 19.810278, "lng": -98.183333
+},{
+"label": "Los Puentes Cuates", "lat": 19.796874, "lng": -98.197836
+},{
+"label": "El Zacatonal", "lat": 19.814299, "lng": -98.183036
+},{
+"label": "La Ocopilera (El Capulín)", "lat": 19.822778, "lng": -98.1325
+},{
+"label": "La Tesmolosa", "lat": 19.863121, "lng": -98.080518
+},{
+"label": "La Soledad", "lat": 19.758831, "lng": -98.179754
+},{
+"label": "Llanetillo", "lat": 19.769076, "lng": -98.045132
+},{
+"label": "La Yerba", "lat": 19.740444, "lng": -98.087768
+}]

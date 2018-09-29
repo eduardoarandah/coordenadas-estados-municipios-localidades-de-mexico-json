@@ -1,0 +1,569 @@
+[{
+"label": "Ahuátzatl", "lat": 21.259661, "lng": -98.835748
+},{
+"label": "Ahuicol", "lat": 21.286789, "lng": -98.778924
+},{
+"label": "Fraccionamiento Rosalba", "lat": 21.213493, "lng": -98.669834
+},{
+"label": "Tlachiquilillacapa", "lat": 21.172821, "lng": -98.840399
+},{
+"label": "Soquiamel", "lat": 21.171526, "lng": -98.795693
+},{
+"label": "Barrio Tequilillo", "lat": 21.28375, "lng": -98.862917
+},{
+"label": "Coxtecapa (Lorenzo Hipólito Cortés)", "lat": 21.262347, "lng": -98.735434
+},{
+"label": "Barrio San Rafael (El Sol)", "lat": 21.273083, "lng": -98.771373
+},{
+"label": "Cerro el Campanario", "lat": 21.314614, "lng": -98.680707
+},{
+"label": "Colonia Doracely", "lat": 21.251464, "lng": -98.763188
+},{
+"label": "Temamatla", "lat": 21.234087, "lng": -98.760437
+},{
+"label": "Tantoyuquita", "lat": 21.242352, "lng": -98.717107
+},{
+"label": "Tierra Blanca", "lat": 21.247515, "lng": -98.856547
+},{
+"label": "Tetitla", "lat": 21.210556, "lng": -98.832222
+},{
+"label": "Las Cabañas", "lat": 21.224404, "lng": -98.67319
+},{
+"label": "Atlajmolo", "lat": 21.214546, "lng": -98.798844
+},{
+"label": "Lalastzintla", "lat": 21.176804, "lng": -98.804179
+},{
+"label": "Barrio la Cruz", "lat": 21.248056, "lng": -98.852778
+},{
+"label": "Palictla", "lat": 21.289544, "lng": -98.789023
+},{
+"label": "Cacateo", "lat": 21.210683, "lng": -98.885977
+},{
+"label": "Pilchapulhuacán", "lat": 21.217808, "lng": -98.84168
+},{
+"label": "Alfonso Luna (Cañas Viejas)", "lat": 21.238333, "lng": -98.782778
+},{
+"label": "La Fortuna", "lat": 21.254322, "lng": -98.81126
+},{
+"label": "Félix Fernández Hernández", "lat": 21.269014, "lng": -98.727578
+},{
+"label": "El Palmillar", "lat": 21.241975, "lng": -98.750839
+},{
+"label": "Las Amelias", "lat": 21.297878, "lng": -98.718186
+},{
+"label": "Tetlama", "lat": 21.238499, "lng": -98.814495
+},{
+"label": "Mecapala", "lat": 21.187399, "lng": -98.767744
+},{
+"label": "Axoxohuil (Agua Verde)", "lat": 21.199882, "lng": -98.643317
+},{
+"label": "Tequilillo", "lat": 21.188276, "lng": -98.88062
+},{
+"label": "El Guayabal", "lat": 21.308893, "lng": -98.875144
+},{
+"label": "Centro de Readaptación Social [Penitenciaría]", "lat": 21.243056, "lng": -98.722778
+},{
+"label": "Temacuil", "lat": 21.165199, "lng": -98.700246
+},{
+"label": "Tamazunchale", "lat": 21.262738, "lng": -98.791518
+},{
+"label": "Ixtlapalaco", "lat": 21.268233, "lng": -98.768459
+},{
+"label": "Marcelino Ávila", "lat": 21.255536, "lng": -98.751544
+},{
+"label": "La Mera Ceiba", "lat": 21.234194, "lng": -98.865644
+},{
+"label": "Barrio la Vega Cuixcuatitla", "lat": 21.306693, "lng": -98.732879
+},{
+"label": "Barrio las Palmas", "lat": 21.274406, "lng": -98.733482
+},{
+"label": "Fraccionamiento María Isabel", "lat": 21.272415, "lng": -98.737693
+},{
+"label": "Amatitla Santiago", "lat": 21.220042, "lng": -98.858862
+},{
+"label": "Santiago Centro", "lat": 21.205206, "lng": -98.863641
+},{
+"label": "La Peñita Santiago", "lat": 21.207801, "lng": -98.885809
+},{
+"label": "Cuixcuatitla", "lat": 21.299111, "lng": -98.767231
+},{
+"label": "Barrio de Guadalupe", "lat": 21.232515, "lng": -98.883682
+},{
+"label": "San Carlos", "lat": 21.2925, "lng": -98.723889
+},{
+"label": "El Sastre", "lat": 21.232716, "lng": -98.867939
+},{
+"label": "Las Chacas", "lat": 21.315356, "lng": -98.758667
+},{
+"label": "La Pimienta (Lomas de Aguayo)", "lat": 21.221629, "lng": -98.904618
+},{
+"label": "El Infiernillo", "lat": 21.317183, "lng": -98.685473
+},{
+"label": "Huatepango", "lat": 21.278481, "lng": -98.717696
+},{
+"label": "Tlalocuil", "lat": 21.192603, "lng": -98.797034
+},{
+"label": "Tepani", "lat": 21.228606, "lng": -98.852722
+},{
+"label": "Las Lomas (El Piñal)", "lat": 21.246286, "lng": -98.746298
+},{
+"label": "El Maguey", "lat": 21.213508, "lng": -98.655876
+},{
+"label": "Tepeyac", "lat": 21.167648, "lng": -98.83251
+},{
+"label": "Eulalio Hervert (El Tecomate)", "lat": 21.241141, "lng": -98.690913
+},{
+"label": "Nicolás González Ramírez (San Rafael)", "lat": 21.263526, "lng": -98.775233
+},{
+"label": "Taxicho", "lat": 21.19744, "lng": -98.647013
+},{
+"label": "Los Naranjos Santiago", "lat": 21.196944, "lng": -98.874722
+},{
+"label": "Amatitla Tamán", "lat": 21.226939, "lng": -98.860313
+},{
+"label": "Barrio Benito Juárez", "lat": 21.185316, "lng": -98.854454
+},{
+"label": "Coyol (Vega Larga)", "lat": 21.267001, "lng": -98.852577
+},{
+"label": "Tres Hermanos", "lat": 21.298268, "lng": -98.688112
+},{
+"label": "Ahuimol", "lat": 21.199749, "lng": -98.680731
+},{
+"label": "Xochiayo Santiago", "lat": 21.19768, "lng": -98.866783
+},{
+"label": "Quinta Santa Natalia (Villa Liliana)", "lat": 21.300911, "lng": -98.694648
+},{
+"label": "Cojolapa", "lat": 21.221928, "lng": -98.705324
+},{
+"label": "Comuntla", "lat": 21.185741, "lng": -98.645765
+},{
+"label": "Valle Hermoso", "lat": 21.305485, "lng": -98.716963
+},{
+"label": "Rancho Ixtlapalaco (Amador Rivera Ángeles)", "lat": 21.260776, "lng": -98.759044
+},{
+"label": "Torojatl", "lat": 21.177378, "lng": -98.826001
+},{
+"label": "La Gloria [Lienzo Charro]", "lat": 21.278464, "lng": -98.736729
+},{
+"label": "Pedro Benito Cervantes", "lat": 21.266079, "lng": -98.779457
+},{
+"label": "Texochitl", "lat": 21.226043, "lng": -98.817024
+},{
+"label": "El Gavilán", "lat": 21.289511, "lng": -98.878881
+},{
+"label": "Balcón de Moctezuma", "lat": 21.275524, "lng": -98.764886
+},{
+"label": "El Cerro", "lat": 21.301769, "lng": -98.679668
+},{
+"label": "Rancho el Chijol", "lat": 21.271183, "lng": -98.758926
+},{
+"label": "Los Lázaro", "lat": 21.296679, "lng": -98.717051
+},{
+"label": "Xilhuazo", "lat": 21.264722, "lng": -98.864167
+},{
+"label": "Zindeje", "lat": 21.255956, "lng": -98.746073
+},{
+"label": "Guaxcuaco", "lat": 21.204029, "lng": -98.879436
+},{
+"label": "Camarones", "lat": 21.268637, "lng": -98.885402
+},{
+"label": "Tixcuayuca", "lat": 21.183811, "lng": -98.811962
+},{
+"label": "La Cuchilla", "lat": 21.285611, "lng": -98.724313
+},{
+"label": "Barrio Progreso", "lat": 21.210077, "lng": -98.870316
+},{
+"label": "Las Lomas", "lat": 21.257778, "lng": -98.779444
+},{
+"label": "Tensonapa", "lat": 21.196646, "lng": -98.817206
+},{
+"label": "Cuajapa Santiago", "lat": 21.218826, "lng": -98.868429
+},{
+"label": "San Miguelito (El Chaparral)", "lat": 21.256849, "lng": -98.687976
+},{
+"label": "Tlazuapa", "lat": 21.262685, "lng": -98.867331
+},{
+"label": "El Centenario", "lat": 21.251051, "lng": -98.757479
+},{
+"label": "Huazalingo", "lat": 21.245144, "lng": -98.846436
+},{
+"label": "Tecomate Uno", "lat": 21.196141, "lng": -98.712535
+},{
+"label": "El Altito", "lat": 21.313056, "lng": -98.679444
+},{
+"label": "El Banco (San Francisco)", "lat": 21.259507, "lng": -98.868394
+},{
+"label": "Huazalingo (El Primer Tirón)", "lat": 21.244314, "lng": -98.850079
+},{
+"label": "Santa María Picula", "lat": 21.202768, "lng": -98.74354
+},{
+"label": "Poxtla", "lat": 21.234291, "lng": -98.880492
+},{
+"label": "Las Minas (Xicotla)", "lat": 21.236687, "lng": -98.706673
+},{
+"label": "La Ceiba", "lat": 21.199765, "lng": -98.873426
+},{
+"label": "Barrio San José", "lat": 21.201455, "lng": -98.674509
+},{
+"label": "Chapulhuacanito", "lat": 21.208601, "lng": -98.671576
+},{
+"label": "Limatitla", "lat": 21.205753, "lng": -98.651766
+},{
+"label": "La Reforma (El Lindero)", "lat": 21.278949, "lng": -98.920172
+},{
+"label": "San Martín", "lat": 21.248611, "lng": -98.691389
+},{
+"label": "Cerro Grande Santiago", "lat": 21.192908, "lng": -98.88113
+},{
+"label": "Las Palomas", "lat": 21.27353, "lng": -98.700023
+},{
+"label": "Totectitla los Ciruelos", "lat": 21.279978, "lng": -98.784866
+},{
+"label": "Rancho la Finca", "lat": 21.297478, "lng": -98.701469
+},{
+"label": "Ixtla (Ixtla Santiago)", "lat": 21.201697, "lng": -98.854456
+},{
+"label": "El Tepetate", "lat": 21.292964, "lng": -98.747338
+},{
+"label": "El Vergel", "lat": 21.292683, "lng": -98.716413
+},{
+"label": "Limajyo", "lat": 21.211939, "lng": -98.710824
+},{
+"label": "Nuevo México (Roque Julián Santiago)", "lat": 21.243161, "lng": -98.779819
+},{
+"label": "Tlalnepantla", "lat": 21.181943, "lng": -98.844649
+},{
+"label": "Zopiloapa", "lat": 21.221583, "lng": -98.872857
+},{
+"label": "Santo Domingo", "lat": 21.256941, "lng": -98.748557
+},{
+"label": "El Clérigo", "lat": 21.312901, "lng": -98.753408
+},{
+"label": "Los Corrales", "lat": 21.275292, "lng": -98.739641
+},{
+"label": "Coaxocotitla", "lat": 21.210838, "lng": -98.772713
+},{
+"label": "Río Claro (Las Adjuntas)", "lat": 21.221406, "lng": -98.754349
+},{
+"label": "Barrio Tezilo Xilhuazo", "lat": 21.260333, "lng": -98.859797
+},{
+"label": "El Chaparral", "lat": 21.255888, "lng": -98.683748
+},{
+"label": "El Platanito", "lat": 21.221881, "lng": -98.888856
+},{
+"label": "Cantarranas", "lat": 21.295288, "lng": -98.70905
+},{
+"label": "Las Estacas", "lat": 21.241971, "lng": -98.771453
+},{
+"label": "San Francisco", "lat": 21.279229, "lng": -98.891009
+},{
+"label": "Pahuayo", "lat": 21.196111, "lng": -98.881944
+},{
+"label": "Tlaxcala", "lat": 21.203503, "lng": -98.811697
+},{
+"label": "Tenextipa", "lat": 21.252422, "lng": -98.815287
+},{
+"label": "El Coyol San Francisco", "lat": 21.248056, "lng": -98.914444
+},{
+"label": "Tamalcuatitla", "lat": 21.215723, "lng": -98.669038
+},{
+"label": "Santos Leobardo (Tlacuilola)", "lat": 21.185238, "lng": -98.780787
+},{
+"label": "Xaltipa", "lat": 21.247691, "lng": -98.85918
+},{
+"label": "Río Claro (Mauro Martínez)", "lat": 21.216672, "lng": -98.74899
+},{
+"label": "Arroyo de los Patos", "lat": 21.230699, "lng": -98.698028
+},{
+"label": "Río Claro (Armando Manilla)", "lat": 21.216904, "lng": -98.749566
+},{
+"label": "El Ranchito (El Bejucal)", "lat": 21.285588, "lng": -98.865148
+},{
+"label": "Ixteamel", "lat": 21.282696, "lng": -98.796643
+},{
+"label": "Jeremías López Hervert", "lat": 21.261336, "lng": -98.799029
+},{
+"label": "Cuapilol", "lat": 21.281073, "lng": -98.811278
+},{
+"label": "Tlachihualamel", "lat": 21.181842, "lng": -98.82894
+},{
+"label": "Ahuehueyo", "lat": 21.284859, "lng": -98.811677
+},{
+"label": "Enramaditas", "lat": 21.202222, "lng": -98.807222
+},{
+"label": "Lomas de San Isidro", "lat": 21.247694, "lng": -98.756111
+},{
+"label": "Cacalacayo", "lat": 21.210018, "lng": -98.705176
+},{
+"label": "Tecomate Dos", "lat": 21.23737, "lng": -98.67476
+},{
+"label": "Alfredo Barrera Franco", "lat": 21.235193, "lng": -98.77383
+},{
+"label": "Barrio San Rafael", "lat": 21.268056, "lng": -98.789167
+},{
+"label": "Ecuatitla", "lat": 21.233153, "lng": -98.803335
+},{
+"label": "Choteo", "lat": 21.258889, "lng": -98.821667
+},{
+"label": "Buenavista", "lat": 21.265528, "lng": -98.877545
+},{
+"label": "San Isidro", "lat": 21.278536, "lng": -98.869073
+},{
+"label": "Rancho la Pitahaya", "lat": 21.275253, "lng": -98.741451
+},{
+"label": "Coahuica", "lat": 21.224242, "lng": -98.850235
+},{
+"label": "La Joya", "lat": 21.276629, "lng": -98.70589
+},{
+"label": "Tlamaya Santiago", "lat": 21.19253, "lng": -98.876685
+},{
+"label": "Los Borrados [Finca]", "lat": 21.277371, "lng": -98.76741
+},{
+"label": "Cuatzontitla", "lat": 21.221709, "lng": -98.784781
+},{
+"label": "Xicuilapa", "lat": 21.254717, "lng": -98.854864
+},{
+"label": "Huerta San Joaquín", "lat": 21.246739, "lng": -98.802774
+},{
+"label": "Aguazarca", "lat": 21.286944, "lng": -98.923889
+},{
+"label": "Jaltocán San Francisco", "lat": 21.262222, "lng": -98.857222
+},{
+"label": "San José Santiago", "lat": 21.197152, "lng": -98.85936
+},{
+"label": "Pablo Reséndiz Hernández", "lat": 21.264444, "lng": -98.786389
+},{
+"label": "Rancho Quemado", "lat": 21.257574, "lng": -98.837399
+},{
+"label": "Mecatlán", "lat": 21.219172, "lng": -98.790754
+},{
+"label": "La Escondida", "lat": 21.249257, "lng": -98.796326
+},{
+"label": "Buenos Aires Retroceso", "lat": 21.217921, "lng": -98.882754
+},{
+"label": "Acalamayo", "lat": 21.196199, "lng": -98.855392
+},{
+"label": "Los Amigos", "lat": 21.226269, "lng": -98.885027
+},{
+"label": "La Perlita", "lat": 21.274294, "lng": -98.761684
+},{
+"label": "Rancho las Palomas", "lat": 21.268993, "lng": -98.705418
+},{
+"label": "Mazatétl", "lat": 21.273141, "lng": -98.804221
+},{
+"label": "Paguayo", "lat": 21.269586, "lng": -98.857328
+},{
+"label": "Atehuac", "lat": 21.187938, "lng": -98.786325
+},{
+"label": "El Encinal", "lat": 21.297037, "lng": -98.881053
+},{
+"label": "Mi Ranchito", "lat": 21.237656, "lng": -98.865123
+},{
+"label": "Xiatipa", "lat": 21.216236, "lng": -98.827541
+},{
+"label": "Atlajque", "lat": 21.213779, "lng": -98.803022
+},{
+"label": "Cozapa", "lat": 21.306396, "lng": -98.720583
+},{
+"label": "Los Tamarindos", "lat": 21.241236, "lng": -98.774302
+},{
+"label": "Los Otates", "lat": 21.261426, "lng": -98.697519
+},{
+"label": "Las Palmas", "lat": 21.245514, "lng": -98.803564
+},{
+"label": "Vega Larga", "lat": 21.257042, "lng": -98.838431
+},{
+"label": "El Ranchito", "lat": 21.243516, "lng": -98.741051
+},{
+"label": "Rosalino Hernández Pérez", "lat": 21.216246, "lng": -98.624474
+},{
+"label": "Rancho Conque", "lat": 21.271911, "lng": -98.707286
+},{
+"label": "Chilocuil Tamán", "lat": 21.241855, "lng": -98.877493
+},{
+"label": "Mizquetla", "lat": 21.260589, "lng": -98.803455
+},{
+"label": "Xomoco", "lat": 21.252115, "lng": -98.84838
+},{
+"label": "Rancho el Huasteco", "lat": 21.242766, "lng": -98.768507
+},{
+"label": "Xahualapa", "lat": 21.235536, "lng": -98.758462
+},{
+"label": "Pemuchtitla", "lat": 21.216061, "lng": -98.675086
+},{
+"label": "San Antonio", "lat": 21.220991, "lng": -98.815863
+},{
+"label": "Los Olivos", "lat": 21.250221, "lng": -98.8474
+},{
+"label": "Cuajapa Tamán", "lat": 21.222288, "lng": -98.867676
+},{
+"label": "Encino Solo", "lat": 21.234851, "lng": -98.723121
+},{
+"label": "Colonia Nezahualcóyotl", "lat": 21.256836, "lng": -98.798523
+},{
+"label": "Tilapa", "lat": 21.211048, "lng": -98.727991
+},{
+"label": "El Pedregal (Guillermo García)", "lat": 21.24, "lng": -98.759444
+},{
+"label": "La Hacienda", "lat": 21.244807, "lng": -98.693959
+},{
+"label": "Cuapacho", "lat": 21.262703, "lng": -98.826226
+},{
+"label": "Huichapa", "lat": 21.260351, "lng": -98.848638
+},{
+"label": "Xiliapa", "lat": 21.274054, "lng": -98.837559
+},{
+"label": "Pezmayo Santiago", "lat": 21.207117, "lng": -98.883735
+},{
+"label": "Xicotla", "lat": 21.236124, "lng": -98.712099
+},{
+"label": "José Cruz Antonio", "lat": 21.246944, "lng": -98.790833
+},{
+"label": "Tezontla", "lat": 21.239722, "lng": -98.696667
+},{
+"label": "Rancho Xalhueyac", "lat": 21.184734, "lng": -98.7806
+},{
+"label": "El Naranjal", "lat": 21.289009, "lng": -98.684738
+},{
+"label": "Cuatolol", "lat": 21.256291, "lng": -98.711301
+},{
+"label": "Rancho Nuevo", "lat": 21.200431, "lng": -98.726485
+},{
+"label": "Paula Velázquez", "lat": 21.2975, "lng": -98.721944
+},{
+"label": "Zoquitipa", "lat": 21.214467, "lng": -98.768575
+},{
+"label": "Poxantla", "lat": 21.275123, "lng": -98.875822
+},{
+"label": "Tencaxapa", "lat": 21.24, "lng": -98.786111
+},{
+"label": "Tolapa (Tolapa Tamán)", "lat": 21.223611, "lng": -98.8775
+},{
+"label": "La Laguna", "lat": 21.247508, "lng": -98.728818
+},{
+"label": "San Andres", "lat": 21.233203, "lng": -98.747894
+},{
+"label": "Carbonera San Francisco", "lat": 21.300215, "lng": -98.888083
+},{
+"label": "Payantla", "lat": 21.213536, "lng": -98.808258
+},{
+"label": "El Piñal", "lat": 21.25041, "lng": -98.751005
+},{
+"label": "Loma Cuesta de los Monos", "lat": 21.245991, "lng": -98.854894
+},{
+"label": "Pemucho", "lat": 21.196593, "lng": -98.832148
+},{
+"label": "Monte Alegre", "lat": 21.18771, "lng": -98.793483
+},{
+"label": "Tepetzintla", "lat": 21.229477, "lng": -98.733143
+},{
+"label": "Las Margaritas", "lat": 21.272222, "lng": -98.740556
+},{
+"label": "El Mirador", "lat": 21.222027, "lng": -98.885084
+},{
+"label": "Aquichamel", "lat": 21.193506, "lng": -98.765635
+},{
+"label": "Emiliano Zapata", "lat": 21.194737, "lng": -98.872094
+},{
+"label": "Achiquico", "lat": 21.266215, "lng": -98.743032
+},{
+"label": "Zapotitla", "lat": 21.18525, "lng": -98.80529
+},{
+"label": "Cohapa", "lat": 21.211837, "lng": -98.679398
+},{
+"label": "San Sebastián", "lat": 21.30007, "lng": -98.692754
+},{
+"label": "Chichictla", "lat": 21.200668, "lng": -98.690466
+},{
+"label": "Rancho Santa Rosa", "lat": 21.295105, "lng": -98.720932
+},{
+"label": "La Providencia", "lat": 21.297453, "lng": -98.713187
+},{
+"label": "La Bandera", "lat": 21.281223, "lng": -98.913834
+},{
+"label": "Pahuayo San Miguel", "lat": 21.243196, "lng": -98.800517
+},{
+"label": "Tianguispicula", "lat": 21.190431, "lng": -98.706779
+},{
+"label": "Tlalixco", "lat": 21.183973, "lng": -98.806221
+},{
+"label": "Xinictle", "lat": 21.296303, "lng": -98.856839
+},{
+"label": "Los Cerritos", "lat": 21.301994, "lng": -98.688746
+},{
+"label": "Armando Terrones Barrera", "lat": 21.257778, "lng": -98.799722
+},{
+"label": "Lomas de Buenavista Tamán", "lat": 21.222788, "lng": -98.859643
+},{
+"label": "Los Molina", "lat": 21.273193, "lng": -98.774146
+},{
+"label": "Tamacol", "lat": 21.234327, "lng": -98.823965
+},{
+"label": "Tacial", "lat": 21.256161, "lng": -98.810343
+},{
+"label": "El Carrizal", "lat": 21.187197, "lng": -98.836328
+},{
+"label": "Cuitlamecaco", "lat": 21.224724, "lng": -98.823049
+},{
+"label": "San Pablo", "lat": 21.24, "lng": -98.863889
+},{
+"label": "Axhumol", "lat": 21.203348, "lng": -98.780565
+},{
+"label": "Texojol", "lat": 21.217926, "lng": -98.764495
+},{
+"label": "Barrio el Encinal (El Maguey)", "lat": 21.209843, "lng": -98.651788
+},{
+"label": "El Jabalí", "lat": 21.307127, "lng": -98.871378
+},{
+"label": "El Vigilante Ecológico", "lat": 21.270833, "lng": -98.765
+},{
+"label": "El Palmito", "lat": 21.250154, "lng": -98.707935
+},{
+"label": "La Reforma", "lat": 21.278379, "lng": -98.704971
+},{
+"label": "Mecachiquico", "lat": 21.197377, "lng": -98.770835
+},{
+"label": "La Peña", "lat": 21.296727, "lng": -98.721699
+},{
+"label": "Rancho Santa Rita", "lat": 21.298113, "lng": -98.71304
+},{
+"label": "Luis Alfonso Pérez (Las Bugambilias)", "lat": 21.273486, "lng": -98.744256
+},{
+"label": "Cerro Grande", "lat": 21.280609, "lng": -98.86303
+},{
+"label": "Tamán", "lat": 21.232004, "lng": -98.879369
+},{
+"label": "Las Chachalacas", "lat": 21.221959, "lng": -98.682278
+},{
+"label": "Rancho el Retoño", "lat": 21.268063, "lng": -98.707003
+},{
+"label": "Santa Catalina", "lat": 21.289684, "lng": -98.719329
+},{
+"label": "Zanapa (Armando Ortega)", "lat": 21.258333, "lng": -98.766944
+},{
+"label": "El Laurel", "lat": 21.215993, "lng": -98.679819
+},{
+"label": "Texopis", "lat": 21.224344, "lng": -98.808897
+},{
+"label": "Luis Donaldo Colosio (San José)", "lat": 21.222701, "lng": -98.805168
+},{
+"label": "Tlacuilola", "lat": 21.237633, "lng": -98.868005
+},{
+"label": "Tezapotla", "lat": 21.175082, "lng": -98.813491
+},{
+"label": "El Mangal", "lat": 21.267187, "lng": -98.788996
+},{
+"label": "Acuapich (Pixteyo)", "lat": 21.203749, "lng": -98.664449
+},{
+"label": "Papatlaco Santiago", "lat": 21.223801, "lng": -98.840742
+},{
+"label": "El Aquichal", "lat": 21.2925, "lng": -98.703333
+},{
+"label": "Quinta Chilla", "lat": 21.257398, "lng": -98.802766
+},{
+"label": "Coxotla", "lat": 21.205603, "lng": -98.846371
+},{
+"label": "Tenexco", "lat": 21.215278, "lng": -98.738333
+},{
+"label": "Teozeloc", "lat": 21.223499, "lng": -98.827895
+}]

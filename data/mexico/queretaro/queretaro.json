@@ -1,0 +1,613 @@
+[{
+"label": "Familia Salazar Aguilar", "lat": 20.690493, "lng": -100.360398
+},{
+"label": "Sección Oeste de Montenegro", "lat": 20.759462, "lng": -100.437063
+},{
+"label": "La Azteca", "lat": 20.698169, "lng": -100.435833
+},{
+"label": "El Pedregal", "lat": 20.653199, "lng": -100.462415
+},{
+"label": "Familia Velázquez Jiménez", "lat": 20.780453, "lng": -100.493216
+},{
+"label": "La Solana", "lat": 20.744998, "lng": -100.394564
+},{
+"label": "El Tránsito", "lat": 20.724937, "lng": -100.570978
+},{
+"label": "Familia Hernández", "lat": 20.703123, "lng": -100.534252
+},{
+"label": "Familia Araujo", "lat": 20.760133, "lng": -100.433242
+},{
+"label": "El Salitre", "lat": 20.665532, "lng": -100.422793
+},{
+"label": "Alborada", "lat": 20.609718, "lng": -100.458323
+},{
+"label": "Altos del Salitre", "lat": 20.662281, "lng": -100.412873
+},{
+"label": "Los Hornos", "lat": 20.867493, "lng": -100.410503
+},{
+"label": "Ejido Casa Blanca", "lat": 20.579027, "lng": -100.346613
+},{
+"label": "Familia Reyna", "lat": 20.871344, "lng": -100.422263
+},{
+"label": "La Granja de Mariana", "lat": 20.761451, "lng": -100.471929
+},{
+"label": "Sección Este de Montenegro", "lat": 20.760289, "lng": -100.422791
+},{
+"label": "Pinto", "lat": 20.801549, "lng": -100.411848
+},{
+"label": "La Cuadra [Granja]", "lat": 20.61639, "lng": -100.494913
+},{
+"label": "Plan Nuevo de Santa María", "lat": 20.617385, "lng": -100.456971
+},{
+"label": "Cuadra Don Peri", "lat": 20.761717, "lng": -100.467409
+},{
+"label": "San Francisco de la Palma", "lat": 20.661583, "lng": -100.512046
+},{
+"label": "Ninguno", "lat": 20.616858, "lng": -100.495163
+},{
+"label": "Grand Juriquilla", "lat": 20.745754, "lng": -100.472814
+},{
+"label": "El Capricho", "lat": 20.762332, "lng": -100.484523
+},{
+"label": "Agrogen [Industria]", "lat": 20.593684, "lng": -100.472877
+},{
+"label": "Ejido Jofrito", "lat": 20.870958, "lng": -100.392213
+},{
+"label": "Sección Noroeste de la Gotera", "lat": 20.868195, "lng": -100.381201
+},{
+"label": "Villa Romana [Fraccionamiento]", "lat": 20.644267, "lng": -100.352748
+},{
+"label": "La Palma", "lat": 20.885541, "lng": -100.392274
+},{
+"label": "Familia Luna Jiménez", "lat": 20.794944, "lng": -100.5029
+},{
+"label": "Tlacote el Bajo", "lat": 20.663404, "lng": -100.50745
+},{
+"label": "Arroyo de los Tepetates", "lat": 20.763967, "lng": -100.463281
+},{
+"label": "Rancho los Panchos", "lat": 20.750609, "lng": -100.439434
+},{
+"label": "San Jerónimo [Fraccionamiento]", "lat": 20.630773, "lng": -100.361707
+},{
+"label": "Casa Blanca", "lat": 20.752017, "lng": -100.506007
+},{
+"label": "Ejido San Pablo", "lat": 20.665623, "lng": -100.413556
+},{
+"label": "Ninguno [Bombas y Maniobras la Frontera]", "lat": 20.876133, "lng": -100.419905
+},{
+"label": "Sección Suroeste de Buenavista", "lat": 20.822383, "lng": -100.472274
+},{
+"label": "Rancho el Acicate", "lat": 20.810294, "lng": -100.422201
+},{
+"label": "El Puerto", "lat": 20.813204, "lng": -100.439992
+},{
+"label": "Linda Vista", "lat": 20.740855, "lng": -100.462384
+},{
+"label": "El Arcángel [Fraccionamiento]", "lat": 20.61461, "lng": -100.452149
+},{
+"label": "Sección Este de la Luz", "lat": 20.866016, "lng": -100.432893
+},{
+"label": "Sección Sureste de Santa Rosa", "lat": 20.735713, "lng": -100.438554
+},{
+"label": "Sección Este de Pie de Gallo", "lat": 20.785396, "lng": -100.486192
+},{
+"label": "Tlacote el Alto", "lat": 20.691313, "lng": -100.522556
+},{
+"label": "Acueducto", "lat": 20.752452, "lng": -100.442122
+},{
+"label": "Santo Niño de Praga", "lat": 20.667916, "lng": -100.511138
+},{
+"label": "Tres Amigos", "lat": 20.757569, "lng": -100.488457
+},{
+"label": "San Francisco el Alto", "lat": 20.731675, "lng": -100.568664
+},{
+"label": "Sección Este de la Solana", "lat": 20.742585, "lng": -100.391444
+},{
+"label": "Grupo Vértice [Macro Bodegas]", "lat": 20.813189, "lng": -100.434453
+},{
+"label": "Rancho Dos Arroyos", "lat": 20.770623, "lng": -100.444381
+},{
+"label": "Familia Gutiérrez Yañez", "lat": 20.864573, "lng": -100.430102
+},{
+"label": "San José el Alto Zona III", "lat": 20.660833, "lng": -100.3775
+},{
+"label": "Presa de Becerra", "lat": 20.863123, "lng": -100.459352
+},{
+"label": "La Mesa", "lat": 20.886649, "lng": -100.336451
+},{
+"label": "Rancho la Toya", "lat": 20.780278, "lng": -100.413889
+},{
+"label": "Los Dos Pinos", "lat": 20.751869, "lng": -100.454702
+},{
+"label": "Charape la Joya", "lat": 20.796856, "lng": -100.553126
+},{
+"label": "Quintín Lozada", "lat": 20.725358, "lng": -100.547724
+},{
+"label": "El Mogote", "lat": 20.764586, "lng": -100.488621
+},{
+"label": "Familia García", "lat": 20.870113, "lng": -100.415593
+},{
+"label": "Cerro Colorado (El Colorado)", "lat": 20.761459, "lng": -100.499687
+},{
+"label": "Rancho el Raspiño", "lat": 20.893731, "lng": -100.461747
+},{
+"label": "Palpa [Granja]", "lat": 20.600193, "lng": -100.478442
+},{
+"label": "Arboledas", "lat": 20.736389, "lng": -100.455
+},{
+"label": "Sección Sureste de la Solana", "lat": 20.739444, "lng": -100.391944
+},{
+"label": "Jardines de San José 1ra. y 2da. Sección", "lat": 20.648297, "lng": -100.377195
+},{
+"label": "La Puerta de Santiaguillo", "lat": 20.75405, "lng": -100.550383
+},{
+"label": "Rancho el Nido", "lat": 20.860878, "lng": -100.438109
+},{
+"label": "Charape de los Pelones", "lat": 20.919797, "lng": -100.454604
+},{
+"label": "Rancho Escondido", "lat": 20.765214, "lng": -100.467232
+},{
+"label": "Rancho el Álamo", "lat": 20.772823, "lng": -100.47532
+},{
+"label": "Prados del Rincón", "lat": 20.627818, "lng": -100.480201
+},{
+"label": "Santa Catarina [Asociación de Colonos]", "lat": 20.776006, "lng": -100.447938
+},{
+"label": "Pozo de Ojo de Agua", "lat": 20.880215, "lng": -100.415733
+},{
+"label": "Familia Torres", "lat": 20.576944, "lng": -100.423611
+},{
+"label": "Rancho la Solana", "lat": 20.745774, "lng": -100.401814
+},{
+"label": "San Isidro el Alto", "lat": 20.71658, "lng": -100.526453
+},{
+"label": "Querétaro [Parque Industrial]", "lat": 20.823044, "lng": -100.444362
+},{
+"label": "La Rica [Fraccionamiento Campestre Ecológico]", "lat": 20.724491, "lng": -100.459812
+},{
+"label": "Rancho la Chata (Palo Bobar)", "lat": 20.779743, "lng": -100.445474
+},{
+"label": "Familia Elisea Jiménez", "lat": 20.790238, "lng": -100.500214
+},{
+"label": "Anáhuac", "lat": 20.575556, "lng": -100.420278
+},{
+"label": "San Juan [Granja]", "lat": 20.814971, "lng": -100.46843
+},{
+"label": "San Antonio de Trojes", "lat": 20.820937, "lng": -100.420027
+},{
+"label": "Los Muertos", "lat": 20.735393, "lng": -100.540384
+},{
+"label": "Rancho la Pared", "lat": 20.647975, "lng": -100.513638
+},{
+"label": "Rancho la Aldea", "lat": 20.768088, "lng": -100.452589
+},{
+"label": "La Tinaja de la Estancia", "lat": 20.714597, "lng": -100.558809
+},{
+"label": "El Zapote", "lat": 20.861244, "lng": -100.475082
+},{
+"label": "San José Buenavista", "lat": 20.735004, "lng": -100.410663
+},{
+"label": "Real de Juriquilla", "lat": 20.723279, "lng": -100.466634
+},{
+"label": "Ninguno [CERESO]", "lat": 20.673579, "lng": -100.360383
+},{
+"label": "Desarrollo Buenavista", "lat": 20.836729, "lng": -100.476895
+},{
+"label": "Sección Suroeste de Santa Rosa", "lat": 20.730362, "lng": -100.450165
+},{
+"label": "La Gotera", "lat": 20.8664, "lng": -100.377971
+},{
+"label": "Quinta Mompaní", "lat": 20.691533, "lng": -100.517479
+},{
+"label": "Rancho Quinta Diana", "lat": 20.779358, "lng": -100.457833
+},{
+"label": "Presita de San Antonio", "lat": 20.781292, "lng": -100.557468
+},{
+"label": "Cuatro Milpas", "lat": 20.735818, "lng": -100.425523
+},{
+"label": "Vista Hermosa", "lat": 20.664444, "lng": -100.373889
+},{
+"label": "La Ciénega", "lat": 20.864978, "lng": -100.37055
+},{
+"label": "La Nueva Palma", "lat": 20.659849, "lng": -100.522241
+},{
+"label": "Q [Parque Industrial]", "lat": 20.640261, "lng": -100.500753
+},{
+"label": "Rancho los Pirules", "lat": 20.784297, "lng": -100.429588
+},{
+"label": "La Milpa", "lat": 20.751263, "lng": -100.450561
+},{
+"label": "Rancho Largo", "lat": 20.703889, "lng": -100.44
+},{
+"label": "San José el Alto Zona X", "lat": 20.641832, "lng": -100.382947
+},{
+"label": "Familia Luna Bárcenas", "lat": 20.684944, "lng": -100.457198
+},{
+"label": "Rancho el Mesón", "lat": 20.749577, "lng": -100.495103
+},{
+"label": "El Refugio [Fraccionamiento]", "lat": 20.651108, "lng": -100.349684
+},{
+"label": "Quinta los Corrales", "lat": 20.757713, "lng": -100.465105
+},{
+"label": "Kilómetro 2.6 a Pie de Gallo", "lat": 20.766454, "lng": -100.473311
+},{
+"label": "San Pedro Mártir", "lat": 20.617159, "lng": -100.470318
+},{
+"label": "Zapote el Alto", "lat": 20.672103, "lng": -100.563339
+},{
+"label": "El Establo", "lat": 20.577418, "lng": -100.427089
+},{
+"label": "Los Venados", "lat": 20.766521, "lng": -100.44232
+},{
+"label": "Sección Sureste de Montenegro", "lat": 20.758797, "lng": -100.425377
+},{
+"label": "Santa Rosa [Polígono Empresarial]", "lat": 20.75545, "lng": -100.446007
+},{
+"label": "Tierras Duras (Potrero de San Antonio)", "lat": 20.752061, "lng": -100.477421
+},{
+"label": "Bellas Artes", "lat": 20.604194, "lng": -100.458153
+},{
+"label": "Estancia de la Rochera", "lat": 20.771551, "lng": -100.507476
+},{
+"label": "Sección Este de Colonia Santa Rosa", "lat": 20.744201, "lng": -100.435793
+},{
+"label": "Cerro de la Cruz", "lat": 20.81526, "lng": -100.499077
+},{
+"label": "Rancho el Cortijo", "lat": 20.778866, "lng": -100.469778
+},{
+"label": "Misión de Concá [Fraccionamiento]", "lat": 20.627828, "lng": -100.373234
+},{
+"label": "La Vista [Residencial]", "lat": 20.641308, "lng": -100.348131
+},{
+"label": "Ojo de Agua del Sauz", "lat": 20.783427, "lng": -100.537535
+},{
+"label": "Satélite [Granja]", "lat": 20.616579, "lng": -100.493811
+},{
+"label": "Colinas de Santa Cruz Segunda Sección", "lat": 20.624028, "lng": -100.467616
+},{
+"label": "La Casita", "lat": 20.859194, "lng": -100.428493
+},{
+"label": "Bordo de San Carlos", "lat": 20.649348, "lng": -100.495812
+},{
+"label": "San Miguelito", "lat": 20.734532, "lng": -100.50045
+},{
+"label": "Los Olvera", "lat": 20.763952, "lng": -100.481731
+},{
+"label": "Santa María del Zapote", "lat": 20.651421, "lng": -100.536197
+},{
+"label": "Santa Rosa Jáuregui", "lat": 20.742178, "lng": -100.44735
+},{
+"label": "Rancho de Guadalupe (La Lágrima)", "lat": 20.87239, "lng": -100.435114
+},{
+"label": "El Tepeyac", "lat": 20.659842, "lng": -100.477108
+},{
+"label": "El Canelo [Rancho]", "lat": 20.861682, "lng": -100.411074
+},{
+"label": "Casa Blanca [Granja]", "lat": 20.875925, "lng": -100.437477
+},{
+"label": "San Pedrito el Alto (El Obraje)", "lat": 20.677388, "lng": -100.381905
+},{
+"label": "Montenegro", "lat": 20.763173, "lng": -100.428332
+},{
+"label": "Colinas de Santa Rosa", "lat": 20.747039, "lng": -100.439194
+},{
+"label": "La Carbonera", "lat": 20.806495, "lng": -100.504186
+},{
+"label": "Rancho el Risco", "lat": 20.775696, "lng": -100.415036
+},{
+"label": "Sección Este de Santa Rosa", "lat": 20.736589, "lng": -100.434058
+},{
+"label": "El Patol", "lat": 20.735786, "lng": -100.548284
+},{
+"label": "Prados del Cimatario", "lat": 20.544461, "lng": -100.380644
+},{
+"label": "Barreiro", "lat": 20.778171, "lng": -100.475074
+},{
+"label": "Rinconada las Joyas", "lat": 20.657856, "lng": -100.369123
+},{
+"label": "Ex-Hacienda San Pedrito el Alto", "lat": 20.661787, "lng": -100.39199
+},{
+"label": "Pintillo", "lat": 20.796739, "lng": -100.416855
+},{
+"label": "Sección Sureste de San Miguelito", "lat": 20.733977, "lng": -100.499613
+},{
+"label": "El Pino", "lat": 20.834438, "lng": -100.448141
+},{
+"label": "Parcela 180 (Privada Laureles)", "lat": 20.607655, "lng": -100.456388
+},{
+"label": "San José el Alto", "lat": 20.65492, "lng": -100.382089
+},{
+"label": "El Bordo", "lat": 20.854788, "lng": -100.43615
+},{
+"label": "Rancho la Tinaja", "lat": 20.681408, "lng": -100.366456
+},{
+"label": "Buenavista", "lat": 20.821613, "lng": -100.469151
+},{
+"label": "La Estacada", "lat": 20.822044, "lng": -100.407162
+},{
+"label": "La Joya", "lat": 20.815659, "lng": -100.551985
+},{
+"label": "Rancho el Canutillo", "lat": 20.870278, "lng": -100.434444
+},{
+"label": "Primero de Junio", "lat": 20.657413, "lng": -100.386114
+},{
+"label": "Fracción Ejido el Retablo", "lat": 20.600988, "lng": -100.465404
+},{
+"label": "Santa Catarina", "lat": 20.776449, "lng": -100.452209
+},{
+"label": "Santa María Magdalena", "lat": 20.598158, "lng": -100.448432
+},{
+"label": "Networks Logistic [Bodegas]", "lat": 20.598024, "lng": -100.457971
+},{
+"label": "Rancho el Rincón", "lat": 20.6225, "lng": -100.485556
+},{
+"label": "Familia Cruz", "lat": 20.877823, "lng": -100.429206
+},{
+"label": "El Cerrito", "lat": 20.786171, "lng": -100.488908
+},{
+"label": "Hacienda la Monja", "lat": 20.843178, "lng": -100.502994
+},{
+"label": "Parque Opción [Parque Industrial]", "lat": 20.799257, "lng": -100.448039
+},{
+"label": "El Pirul", "lat": 20.770499, "lng": -100.480714
+},{
+"label": "Sotavento [Conjunto Industrial]", "lat": 20.663448, "lng": -100.392769
+},{
+"label": "Llano de la Rochera", "lat": 20.772678, "lng": -100.556021
+},{
+"label": "Rancho Trojes de San Antonio", "lat": 20.819167, "lng": -100.418889
+},{
+"label": "Luxar [Conjunto Industrial]", "lat": 20.711431, "lng": -100.43737
+},{
+"label": "San José de los Perales", "lat": 20.606111, "lng": -100.346944
+},{
+"label": "Rancho el Cerrito", "lat": 20.850593, "lng": -100.507578
+},{
+"label": "Rancho la Esperanza", "lat": 20.652835, "lng": -100.516295
+},{
+"label": "Santa Rosa", "lat": 20.778239, "lng": -100.479713
+},{
+"label": "Las Mariposas", "lat": 20.741883, "lng": -100.401531
+},{
+"label": "Nuevo Horizonte", "lat": 20.583333, "lng": -100.346944
+},{
+"label": "El Plan", "lat": 20.771336, "lng": -100.460344
+},{
+"label": "Anexo Menchaca Tres", "lat": 20.634158, "lng": -100.378367
+},{
+"label": "El Camino", "lat": 20.813724, "lng": -100.423072
+},{
+"label": "Lomas del Mirador", "lat": 20.826667, "lng": -100.474722
+},{
+"label": "Palmas de San José", "lat": 20.649739, "lng": -100.373322
+},{
+"label": "Jardines de Jurica", "lat": 20.662222, "lng": -100.455278
+},{
+"label": "La Versolilla", "lat": 20.872198, "lng": -100.376362
+},{
+"label": "El Huizachal (El Calero)", "lat": 20.685601, "lng": -100.358211
+},{
+"label": "La Joyita", "lat": 20.663889, "lng": -100.381944
+},{
+"label": "Mártires de la Libertad III", "lat": 20.639123, "lng": -100.424416
+},{
+"label": "Santiago de Querétaro", "lat": 20.593391, "lng": -100.389957
+},{
+"label": "El Rincón de Ojo de Agua", "lat": 20.888248, "lng": -100.42039
+},{
+"label": "Familia Ortíz Hernández", "lat": 20.674327, "lng": -100.464557
+},{
+"label": "El Pie", "lat": 20.691909, "lng": -100.574166
+},{
+"label": "Al Oriente de Terminal de Autobuses", "lat": 20.576449, "lng": -100.357198
+},{
+"label": "Acequia Blanca", "lat": 20.719589, "lng": -100.467532
+},{
+"label": "Pedregal de San José", "lat": 20.6527, "lng": -100.375852
+},{
+"label": "El Nabo", "lat": 20.693889, "lng": -100.480278
+},{
+"label": "El Ranchito", "lat": 20.869114, "lng": -100.418783
+},{
+"label": "La Torna", "lat": 20.755787, "lng": -100.484958
+},{
+"label": "Ampliación Sur del Salitre", "lat": 20.659496, "lng": -100.422421
+},{
+"label": "Rancho la Chinita", "lat": 20.737495, "lng": -100.420023
+},{
+"label": "Nuevo Juriquilla", "lat": 20.70569, "lng": -100.439778
+},{
+"label": "Privada Independencia", "lat": 20.86484, "lng": -100.380429
+},{
+"label": "Huertas la Joya [Fraccionamiento Campestre]", "lat": 20.626741, "lng": -100.504419
+},{
+"label": "Corea", "lat": 20.802085, "lng": -100.450437
+},{
+"label": "La Cantera", "lat": 20.875, "lng": -100.446389
+},{
+"label": "Familia Reyna Olvera", "lat": 20.792564, "lng": -100.496357
+},{
+"label": "El Refugio", "lat": 20.638041, "lng": -100.340571
+},{
+"label": "Los Arquitos", "lat": 20.759428, "lng": -100.440886
+},{
+"label": "Familia Bautista", "lat": 20.74033, "lng": -100.406882
+},{
+"label": "Palo Alto", "lat": 20.867867, "lng": -100.399939
+},{
+"label": "Rancho Santa Mónica", "lat": 20.777958, "lng": -100.429293
+},{
+"label": "Las Águilas", "lat": 20.56951, "lng": -100.332248
+},{
+"label": "Ejido Bolaños", "lat": 20.626084, "lng": -100.356205
+},{
+"label": "Gobernantes", "lat": 20.677898, "lng": -100.461678
+},{
+"label": "Los Laureles (Quinta la Sexta)", "lat": 20.763389, "lng": -100.450187
+},{
+"label": "La Nopalera", "lat": 20.735867, "lng": -100.400314
+},{
+"label": "Colinas de Santa Cruz Primera Sección", "lat": 20.619714, "lng": -100.455031
+},{
+"label": "El Puertecito", "lat": 20.700533, "lng": -100.518559
+},{
+"label": "Familia Martínez", "lat": 20.665302, "lng": -100.456892
+},{
+"label": "Bosques de Iturbide", "lat": 20.655872, "lng": -100.414006
+},{
+"label": "Rancho el Pitayo", "lat": 20.651495, "lng": -100.506419
+},{
+"label": "Las Troneras", "lat": 20.771825, "lng": -100.467127
+},{
+"label": "La Ladera (Pedro Nicolás)", "lat": 20.663404, "lng": -100.380111
+},{
+"label": "Anexo Colonia la Cruz", "lat": 20.739551, "lng": -100.435342
+},{
+"label": "La Laguna", "lat": 20.813796, "lng": -100.541506
+},{
+"label": "Mompaní", "lat": 20.693448, "lng": -100.506206
+},{
+"label": "Lomas de Menchaca", "lat": 20.637222, "lng": -100.384444
+},{
+"label": "Cerro Prieto", "lat": 20.719876, "lng": -100.587325
+},{
+"label": "Tierras Duras", "lat": 20.767535, "lng": -100.480141
+},{
+"label": "Ninguno [Sección Norte de San Miguelito]", "lat": 20.739329, "lng": -100.506363
+},{
+"label": "El Tecolote", "lat": 20.771423, "lng": -100.401362
+},{
+"label": "Los Rosales", "lat": 20.593736, "lng": -100.458448
+},{
+"label": "La Huerta", "lat": 20.816959, "lng": -100.421761
+},{
+"label": "Estación Repetidora TV Azteca", "lat": 20.528849, "lng": -100.361909
+},{
+"label": "Rancho los Arcos", "lat": 20.771867, "lng": -100.41478
+},{
+"label": "Valle de San Pedro", "lat": 20.616016, "lng": -100.461024
+},{
+"label": "Sección Sur de San Miguelito", "lat": 20.730645, "lng": -100.499952
+},{
+"label": "La Purísima", "lat": 20.629728, "lng": -100.350366
+},{
+"label": "Puerto de Aguirre", "lat": 20.808241, "lng": -100.429264
+},{
+"label": "Prados de Miranda", "lat": 20.575, "lng": -100.343333
+},{
+"label": "Bomba del Agua (Familia Olvera)", "lat": 20.876106, "lng": -100.411716
+},{
+"label": "El Huerto de la Torna", "lat": 20.755409, "lng": -100.492752
+},{
+"label": "La Pradera de Buenavista", "lat": 20.830656, "lng": -100.478955
+},{
+"label": "El Herrero", "lat": 20.75853, "lng": -100.555138
+},{
+"label": "Jardines de San José 3ra. Sección", "lat": 20.644785, "lng": -100.379192
+},{
+"label": "Rancho Menchaca", "lat": 20.631884, "lng": -100.376524
+},{
+"label": "Los Pirules", "lat": 20.759912, "lng": -100.491675
+},{
+"label": "Las Naranjo", "lat": 20.776009, "lng": -100.482539
+},{
+"label": "Ejido Santa Rosa Jauregui", "lat": 20.715983, "lng": -100.439674
+},{
+"label": "La Estancia de Palo Dulce", "lat": 20.863548, "lng": -100.479129
+},{
+"label": "Ojo de Agua", "lat": 20.886361, "lng": -100.413351
+},{
+"label": "Villas", "lat": 20.677318, "lng": -100.446554
+},{
+"label": "Cañada de la Monja", "lat": 20.85355, "lng": -100.501879
+},{
+"label": "La Presa [Parque Industrial]", "lat": 20.780424, "lng": -100.451093
+},{
+"label": "San José el Alto Zona II", "lat": 20.657746, "lng": -100.379894
+},{
+"label": "La Crucita", "lat": 20.66566, "lng": -100.367084
+},{
+"label": "El Nogal [Parque Industrial]", "lat": 20.769005, "lng": -100.447541
+},{
+"label": "Zona Entrada a Tlacote", "lat": 20.647881, "lng": -100.502874
+},{
+"label": "El Potrero", "lat": 20.765284, "lng": -100.552458
+},{
+"label": "Rancho la Curva", "lat": 20.738146, "lng": -100.489592
+},{
+"label": "Ampliación Piano", "lat": 20.754725, "lng": -100.459037
+},{
+"label": "San Isidro el Viejo", "lat": 20.742225, "lng": -100.483676
+},{
+"label": "Integra [Parque Microindustrial]", "lat": 20.76449, "lng": -100.445803
+},{
+"label": "San José el Alto Zona IV", "lat": 20.659291, "lng": -100.373849
+},{
+"label": "Los Viñedos [Fraccionamiento]", "lat": 20.608621, "lng": -100.484992
+},{
+"label": "Rancho No", "lat": 20.766558, "lng": -100.444024
+},{
+"label": "Jofre", "lat": 20.851561, "lng": -100.42016
+},{
+"label": "Luchis [Granja]", "lat": 20.617914, "lng": -100.479746
+},{
+"label": "Loma del Chino", "lat": 20.849174, "lng": -100.47651
+},{
+"label": "Jofrito", "lat": 20.861406, "lng": -100.419211
+},{
+"label": "Novatec Business Park [Parque Industrial]", "lat": 20.639785, "lng": -100.496262
+},{
+"label": "Santa Isabel", "lat": 20.613591, "lng": -100.45796
+},{
+"label": "San Isidro Buenavista", "lat": 20.789544, "lng": -100.449666
+},{
+"label": "Piletas (El Derramadero)", "lat": 20.883823, "lng": -100.346596
+},{
+"label": "Pie de Gallo", "lat": 20.785231, "lng": -100.493708
+},{
+"label": "Ejido de Montenegro", "lat": 20.760568, "lng": -100.418492
+},{
+"label": "Los Jiménez", "lat": 20.780276, "lng": -100.501028
+},{
+"label": "Santa Juanita", "lat": 20.565571, "lng": -100.331207
+},{
+"label": "El Rosario [Granja]", "lat": 20.610266, "lng": -100.473819
+},{
+"label": "Rancho Naranjo", "lat": 20.770504, "lng": -100.484485
+},{
+"label": "Familia Ortíz Sánchez", "lat": 20.782615, "lng": -100.496933
+},{
+"label": "El Milagro", "lat": 20.773889, "lng": -100.546389
+},{
+"label": "Tonatiú", "lat": 20.611834, "lng": -100.450892
+},{
+"label": "Sección Oeste de Santa Rosa", "lat": 20.745, "lng": -100.460278
+},{
+"label": "La Esperanza", "lat": 20.765613, "lng": -100.445384
+},{
+"label": "Cuitláhuac", "lat": 20.671111, "lng": -100.426944
+},{
+"label": "La Luz", "lat": 20.867134, "lng": -100.436724
+},{
+"label": "Diana Laura (Rinconada)", "lat": 20.630307, "lng": -100.380624
+},{
+"label": "El Huizachal de las Tetillas", "lat": 20.721934, "lng": -100.437296
+},{
+"label": "Rancho las Tres Fuentes", "lat": 20.691118, "lng": -100.491712
+},{
+"label": "La Guadalupana", "lat": 20.828793, "lng": -100.470154
+},{
+"label": "Juriquilla", "lat": 20.710008, "lng": -100.458358
+},{
+"label": "La Barreta", "lat": 20.826502, "lng": -100.505177
+},{
+"label": "Grupo Deyca", "lat": 20.871599, "lng": -100.420491
+},{
+"label": "Los Cuates", "lat": 20.749142, "lng": -100.467001
+},{
+"label": "Anexo Ejido Bolaños", "lat": 20.618706, "lng": -100.369171
+},{
+"label": "Sección Este de San Miguelito", "lat": 20.736511, "lng": -100.498203
+},{
+"label": "La Monja", "lat": 20.840845, "lng": -100.498209
+}]

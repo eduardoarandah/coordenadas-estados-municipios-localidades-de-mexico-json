@@ -1,0 +1,297 @@
+[{
+"label": "El Granjeno", "lat": 19.962118, "lng": -100.611561
+},{
+"label": "Ejido de Pomas (Poblado de Dolores)", "lat": 19.835259, "lng": -100.443764
+},{
+"label": "Huajumbarito", "lat": 19.869046, "lng": -100.595792
+},{
+"label": "Tenerías", "lat": 19.840348, "lng": -100.322751
+},{
+"label": "El Salto (La Hacienda)", "lat": 19.970986, "lng": -100.454215
+},{
+"label": "Santa Mónica", "lat": 19.904404, "lng": -100.580749
+},{
+"label": "Ex-Hacienda Santa Elena", "lat": 19.866014, "lng": -100.405218
+},{
+"label": "El Pedregal", "lat": 19.962478, "lng": -100.291794
+},{
+"label": "El Tejero", "lat": 19.876542, "lng": -100.389018
+},{
+"label": "Toluquilla", "lat": 19.877866, "lng": -100.260795
+},{
+"label": "La Hormiga", "lat": 19.882318, "lng": -100.305934
+},{
+"label": "Maravatío de Ocampo", "lat": 19.891674, "lng": -100.441667
+},{
+"label": "San Juan Guaracha", "lat": 19.901401, "lng": -100.418211
+},{
+"label": "Pueblo Nuevo", "lat": 19.966676, "lng": -100.530469
+},{
+"label": "La Cuenca", "lat": 19.90799, "lng": -100.386654
+},{
+"label": "Laguna Seca [Ejido Pozo de Tres Piedras]", "lat": 19.918434, "lng": -100.501084
+},{
+"label": "Las Mesas", "lat": 19.846333, "lng": -100.287668
+},{
+"label": "San Isidro", "lat": 19.952831, "lng": -100.547492
+},{
+"label": "El Salitre", "lat": 19.900843, "lng": -100.399829
+},{
+"label": "Tungareo", "lat": 19.908036, "lng": -100.366405
+},{
+"label": "Cliserio Villafuerte el Chico", "lat": 19.841906, "lng": -100.53159
+},{
+"label": "Apeo", "lat": 19.887268, "lng": -100.344004
+},{
+"label": "Huaraqueo", "lat": 19.918833, "lng": -100.562919
+},{
+"label": "San Juanito", "lat": 19.930774, "lng": -100.413946
+},{
+"label": "Loma de San Miguel", "lat": 19.92568, "lng": -100.473436
+},{
+"label": "El Botín", "lat": 19.982455, "lng": -100.317967
+},{
+"label": "San Lorenzo", "lat": 19.954624, "lng": -100.438435
+},{
+"label": "El Zapote (Palo Seco)", "lat": 19.848019, "lng": -100.385891
+},{
+"label": "El Aguaje (Cuartel Aguaje)", "lat": 19.880302, "lng": -100.273724
+},{
+"label": "El Jagüey", "lat": 19.822667, "lng": -100.337636
+},{
+"label": "Cuartel Quinto", "lat": 19.885035, "lng": -100.475353
+},{
+"label": "Ninguno", "lat": 19.894383, "lng": -100.41919
+},{
+"label": "Las Cajas", "lat": 19.893056, "lng": -100.410833
+},{
+"label": "Las Joyas", "lat": 19.812126, "lng": -100.325342
+},{
+"label": "Jesús del Monte", "lat": 19.810833, "lng": -100.539722
+},{
+"label": "Santa Rosa", "lat": 19.859827, "lng": -100.451627
+},{
+"label": "El Zopilote", "lat": 19.844687, "lng": -100.481319
+},{
+"label": "Campo Hermoso", "lat": 19.843424, "lng": -100.405113
+},{
+"label": "San Ramón", "lat": 19.901336, "lng": -100.261166
+},{
+"label": "Los Cachorros", "lat": 19.85513, "lng": -100.476605
+},{
+"label": "San Nicolasito", "lat": 19.924794, "lng": -100.375885
+},{
+"label": "Santa Ana (Cuartel Segundo)", "lat": 19.860589, "lng": -100.244012
+},{
+"label": "Yurécuaro (San Juan Yurécuaro)", "lat": 19.929995, "lng": -100.427315
+},{
+"label": "La Tuna Mansa", "lat": 19.946389, "lng": -100.606944
+},{
+"label": "Bordo Nuevo", "lat": 19.844462, "lng": -100.501928
+},{
+"label": "Lomas de Maruati [Fraccionamiento]", "lat": 19.928051, "lng": -100.445123
+},{
+"label": "Casa Blanca", "lat": 19.863621, "lng": -100.447701
+},{
+"label": "Ninguno [Kilómetro Cuatro]", "lat": 19.926934, "lng": -100.474042
+},{
+"label": "Cliserio Villafuerte el Grande", "lat": 19.833682, "lng": -100.554617
+},{
+"label": "El Colorado", "lat": 19.890087, "lng": -100.248752
+},{
+"label": "Santo Niño (Santa Ana)", "lat": 19.860396, "lng": -100.254847
+},{
+"label": "Loma de Huaracha", "lat": 19.920223, "lng": -100.465306
+},{
+"label": "San Isidrito", "lat": 19.961115, "lng": -100.363787
+},{
+"label": "Santa Rita", "lat": 19.872499, "lng": -100.495955
+},{
+"label": "Sianca", "lat": 19.890649, "lng": -100.582476
+},{
+"label": "San Juan Buenavista", "lat": 19.939826, "lng": -100.536785
+},{
+"label": "Estancia de Paquisihuato", "lat": 19.941014, "lng": -100.322708
+},{
+"label": "San Cristóbal de las Piedras", "lat": 19.899495, "lng": -100.438019
+},{
+"label": "El Puerto", "lat": 19.862853, "lng": -100.318112
+},{
+"label": "Santa Cruz (Rancho Viejo)", "lat": 19.908565, "lng": -100.470144
+},{
+"label": "El Moral", "lat": 19.955222, "lng": -100.502777
+},{
+"label": "Corral Blanco", "lat": 19.863747, "lng": -100.401432
+},{
+"label": "San José del Rodeo", "lat": 19.910585, "lng": -100.529361
+},{
+"label": "El Fresnito", "lat": 19.952987, "lng": -100.347899
+},{
+"label": "Colonia General Felipe Ángeles", "lat": 19.885919, "lng": -100.2417
+},{
+"label": "Los Olivos", "lat": 19.914523, "lng": -100.481263
+},{
+"label": "El Gigantito", "lat": 19.963834, "lng": -100.44705
+},{
+"label": "Ejido Jesús del Monte", "lat": 19.820354, "lng": -100.499591
+},{
+"label": "Peña Blanca", "lat": 19.963589, "lng": -100.398323
+},{
+"label": "San Miguel Curinhuato", "lat": 19.989293, "lng": -100.589309
+},{
+"label": "Valle Dorado [Colonia]", "lat": 19.884713, "lng": -100.416156
+},{
+"label": "La Coyota", "lat": 19.883341, "lng": -100.329031
+},{
+"label": "Yurécuaro [Colonia]", "lat": 19.922359, "lng": -100.430409
+},{
+"label": "Los Pérez (Paso de Sagud)", "lat": 19.874393, "lng": -100.576216
+},{
+"label": "Cerrito de la Cruz", "lat": 19.942036, "lng": -100.548343
+},{
+"label": "El Chupadero (San Miguel Chupadero)", "lat": 19.971086, "lng": -100.42407
+},{
+"label": "Loma del Gallo", "lat": 19.959911, "lng": -100.532332
+},{
+"label": "Joyas del Pilar", "lat": 19.883831, "lng": -100.544687
+},{
+"label": "El Tejocote (Presa Quebrada)", "lat": 19.857583, "lng": -100.304219
+},{
+"label": "Pomoquita", "lat": 19.887596, "lng": -100.366417
+},{
+"label": "Plan de Agua Bendita", "lat": 19.900249, "lng": -100.431948
+},{
+"label": "Palomas (La Presita)", "lat": 19.981598, "lng": -100.347409
+},{
+"label": "Huanimoro", "lat": 19.901964, "lng": -100.502024
+},{
+"label": "La Nopalera", "lat": 19.827369, "lng": -100.35609
+},{
+"label": "Colonia Guadalupe", "lat": 19.971949, "lng": -100.428373
+},{
+"label": "Las Pomas [Congregación]", "lat": 19.813109, "lng": -100.428882
+},{
+"label": "Cebadillas", "lat": 19.832901, "lng": -100.490196
+},{
+"label": "Barrio de San Miguel", "lat": 19.943644, "lng": -100.542214
+},{
+"label": "Cebadillas Primeras", "lat": 19.838611, "lng": -100.244413
+},{
+"label": "Agua Rosada", "lat": 19.835861, "lng": -100.559969
+},{
+"label": "El Bordo (Los Carrillos)", "lat": 19.856965, "lng": -100.365749
+},{
+"label": "Santiago Puriatzícuaro", "lat": 19.884037, "lng": -100.588888
+},{
+"label": "El Saucillo Primero", "lat": 19.924787, "lng": -100.536125
+},{
+"label": "Tziritzícuaro (Nativitas)", "lat": 19.957754, "lng": -100.458249
+},{
+"label": "La Huerta", "lat": 19.867821, "lng": -100.281256
+},{
+"label": "El Naranjo [Fraccionamiento]", "lat": 19.925266, "lng": -100.455809
+},{
+"label": "Mesa del León", "lat": 19.793777, "lng": -100.489602
+},{
+"label": "El Gigante", "lat": 19.971069, "lng": -100.45051
+},{
+"label": "La Presita", "lat": 19.962574, "lng": -100.360595
+},{
+"label": "La Granja", "lat": 19.938256, "lng": -100.441546
+},{
+"label": "San Vicente el Grande (San Vicente)", "lat": 19.793798, "lng": -100.464021
+},{
+"label": "Puente Santa Eugenia", "lat": 19.874714, "lng": -100.449163
+},{
+"label": "Peña Blanca Pequeña Propiedad", "lat": 19.963954, "lng": -100.407207
+},{
+"label": "San José del Fresno", "lat": 19.819727, "lng": -100.416128
+},{
+"label": "Rosa Amarilla", "lat": 19.952583, "lng": -100.541844
+},{
+"label": "El Campamento", "lat": 19.885955, "lng": -100.313015
+},{
+"label": "La Lagunilla", "lat": 19.786212, "lng": -100.521188
+},{
+"label": "Ex-Hacienda de Guapamacátaro", "lat": 19.847573, "lng": -100.394075
+},{
+"label": "Los Bancos", "lat": 19.948246, "lng": -100.396557
+},{
+"label": "El Centenario", "lat": 19.881086, "lng": -100.423126
+},{
+"label": "Santa Cruz", "lat": 19.91409, "lng": -100.569908
+},{
+"label": "Santa Elena", "lat": 19.858258, "lng": -100.407674
+},{
+"label": "El Tejocote", "lat": 19.903331, "lng": -100.551565
+},{
+"label": "Vista Hermosa", "lat": 19.847709, "lng": -100.481396
+},{
+"label": "Torre Blanca (Guapamacátaro)", "lat": 19.821388, "lng": -100.386116
+},{
+"label": "Rincón de Huaraqueo", "lat": 19.924321, "lng": -100.568899
+},{
+"label": "Guapamacátaro", "lat": 19.845053, "lng": -100.384516
+},{
+"label": "Melchor Ocampo", "lat": 19.931818, "lng": -100.556682
+},{
+"label": "Cebadillas Corral Falso", "lat": 19.808871, "lng": -100.493634
+},{
+"label": "Tecario Jesús del Monte", "lat": 19.799859, "lng": -100.551902
+},{
+"label": "Agua Dulce", "lat": 19.952545, "lng": -100.597936
+},{
+"label": "Pomoca", "lat": 19.880725, "lng": -100.298403
+},{
+"label": "Mina de San Vidal", "lat": 19.857779, "lng": -100.298593
+},{
+"label": "Lagunillas", "lat": 19.855358, "lng": -100.232874
+},{
+"label": "Las Palomas", "lat": 19.822363, "lng": -100.570271
+},{
+"label": "Cerro Azul", "lat": 19.783765, "lng": -100.516536
+},{
+"label": "El Manzano", "lat": 19.870707, "lng": -100.217901
+},{
+"label": "Puente de Palos", "lat": 19.884103, "lng": -100.406675
+},{
+"label": "La Mora", "lat": 19.934195, "lng": -100.507724
+},{
+"label": "Las Arenas (La Lagunita) [Colonia]", "lat": 19.913291, "lng": -100.444378
+},{
+"label": "Corral de las Ardillas", "lat": 19.864768, "lng": -100.399867
+},{
+"label": "San Miguel el Alto (El Puerto)", "lat": 19.847635, "lng": -100.25808
+},{
+"label": "Huandishi (Las Chinches) [Colonia]", "lat": 19.911136, "lng": -100.35514
+},{
+"label": "Uripitio", "lat": 19.953158, "lng": -100.538204
+},{
+"label": "El Terrero", "lat": 19.859803, "lng": -100.345414
+},{
+"label": "Estancia de San Miguel (El Capulín)", "lat": 19.871787, "lng": -100.350478
+},{
+"label": "Llano Grande", "lat": 19.847891, "lng": -100.342159
+},{
+"label": "Estancia de Santa Elena", "lat": 19.866399, "lng": -100.356148
+},{
+"label": "Loma de la Rosa (Torre del Jaral)", "lat": 19.940516, "lng": -100.480348
+},{
+"label": "Tupátaro", "lat": 19.810606, "lng": -100.314513
+},{
+"label": "La Laja", "lat": 19.856773, "lng": -100.222404
+},{
+"label": "El Fresnal", "lat": 19.875059, "lng": -100.423558
+},{
+"label": "Encinillas", "lat": 19.962243, "lng": -100.483286
+},{
+"label": "Cebadillas Segundas", "lat": 19.832089, "lng": -100.231588
+},{
+"label": "La Mesa Chiquita (Las Mesitas)", "lat": 19.846699, "lng": -100.27541
+},{
+"label": "Sandi", "lat": 19.838768, "lng": -100.22035
+},{
+"label": "Los Ocotes [Ejido los Ocotes]", "lat": 19.913227, "lng": -100.315978
+},{
+"label": "Los Talayotes", "lat": 19.828757, "lng": -100.372741
+}]

@@ -1,0 +1,117 @@
+[{
+"label": "Tepetongo", "lat": 22.455358306666675, "lng": -103.13466038666668,"info": "total: 75","children": "data/mexico/zacatecas/tepetongo.json"
+},{
+"label": "Pinos", "lat": 22.27089407449856, "lng": -101.54350862750714,"info": "total: 349","children": "data/mexico/zacatecas/pinos.json"
+},{
+"label": "Jiménez del Teul", "lat": 23.172628539823013, "lng": -103.8666075044248,"info": "total: 113","children": "data/mexico/zacatecas/jimenez-del-teul.json"
+},{
+"label": "Tepechitlán", "lat": 21.628149616438357, "lng": -103.32883121917811,"info": "total: 73","children": "data/mexico/zacatecas/tepechitlan.json"
+},{
+"label": "General Enrique Estrada", "lat": 23.017130839506176, "lng": -102.7676822345679,"info": "total: 81","children": "data/mexico/zacatecas/general-enrique-estrada.json"
+},{
+"label": "Mezquital del Oro", "lat": 21.20469015151515, "lng": -103.34708290909087,"info": "total: 99","children": "data/mexico/zacatecas/mezquital-del-oro.json"
+},{
+"label": "Loreto", "lat": 22.270505673076926, "lng": -101.9290253269231,"info": "total: 104","children": "data/mexico/zacatecas/loreto.json"
+},{
+"label": "Moyahua de Estrada", "lat": 21.180593420454553, "lng": -103.16700128409092,"info": "total: 88","children": "data/mexico/zacatecas/moyahua-de-estrada.json"
+},{
+"label": "Villa García", "lat": 22.132532153846153, "lng": -101.90636247692308,"info": "total: 65","children": "data/mexico/zacatecas/villa-garcia.json"
+},{
+"label": "Momax", "lat": 21.93456194285714, "lng": -103.29515885714284,"info": "total: 35","children": "data/mexico/zacatecas/momax.json"
+},{
+"label": "Villanueva", "lat": 22.28633929885056, "lng": -102.85803502873569,"info": "total: 174","children": "data/mexico/zacatecas/villanueva.json"
+},{
+"label": "El Salvador", "lat": 24.47096257377049, "lng": -100.91742650819674,"info": "total: 61","children": "data/mexico/zacatecas/el-salvador.json"
+},{
+"label": "Santa María de la Paz", "lat": 21.514028000000003, "lng": -103.36127480952382,"info": "total: 42","children": "data/mexico/zacatecas/santa-maria-de-la-paz.json"
+},{
+"label": "Cuauhtémoc", "lat": 22.480983491803272, "lng": -102.34677011475408,"info": "total: 61","children": "data/mexico/zacatecas/cuauhtemoc.json"
+},{
+"label": "Apozol", "lat": 21.46765087837838, "lng": -103.05567445945945,"info": "total: 74","children": "data/mexico/zacatecas/apozol.json"
+},{
+"label": "Pánuco", "lat": 23.01802012980771, "lng": -102.4311260913461,"info": "total: 208","children": "data/mexico/zacatecas/panuco.json"
+},{
+"label": "Atolinga", "lat": 21.777348071428573, "lng": -103.44681392857142,"info": "total: 28","children": "data/mexico/zacatecas/atolinga.json"
+},{
+"label": "Sombrerete", "lat": 23.6440187962963, "lng": -103.61344145555549,"info": "total: 270","children": "data/mexico/zacatecas/sombrerete.json"
+},{
+"label": "Morelos", "lat": 22.863376764705876, "lng": -102.6442022156863,"info": "total: 51","children": "data/mexico/zacatecas/morelos.json"
+},{
+"label": "Juchipila", "lat": 21.38343012280702, "lng": -103.10533884210527,"info": "total: 57","children": "data/mexico/zacatecas/juchipila.json"
+},{
+"label": "Nochistlán de Mejía", "lat": 21.441409139423097, "lng": -102.85080315865386,"info": "total: 208","children": "data/mexico/zacatecas/nochistlan-de-mejia.json"
+},{
+"label": "Tlaltenango de Sánchez Román", "lat": 21.776602885416676, "lng": -103.24593110416662,"info": "total: 96","children": "data/mexico/zacatecas/tlaltenango-de-sanchez-roman.json"
+},{
+"label": "Jerez", "lat": 22.690748838427954, "lng": -103.00068789956335,"info": "total: 229","children": "data/mexico/zacatecas/jerez.json"
+},{
+"label": "General Pánfilo Natera", "lat": 22.65577494366197, "lng": -102.09677577464787,"info": "total: 71","children": "data/mexico/zacatecas/general-panfilo-natera.json"
+},{
+"label": "Ojocaliente", "lat": 22.57837265277777, "lng": -102.2423938194445,"info": "total: 144","children": "data/mexico/zacatecas/ojocaliente.json"
+},{
+"label": "Fresnillo", "lat": 23.226524776595706, "lng": -102.97090755186159,"info": "total: 752","children": "data/mexico/zacatecas/fresnillo.json"
+},{
+"label": "Miguel Auza", "lat": 24.149062908256884, "lng": -103.46286953211006,"info": "total: 109","children": "data/mexico/zacatecas/miguel-auza.json"
+},{
+"label": "Tabasco", "lat": 21.910193099999997, "lng": -102.93615447142855,"info": "total: 70","children": "data/mexico/zacatecas/tabasco.json"
+},{
+"label": "Calera", "lat": 22.982421485029942, "lng": -102.69119586826349,"info": "total: 167","children": "data/mexico/zacatecas/calera.json"
+},{
+"label": "Trancoso", "lat": 22.754187302325587, "lng": -102.32111804651161,"info": "total: 43","children": "data/mexico/zacatecas/trancoso.json"
+},{
+"label": "Concepción del Oro", "lat": 24.53133042727273, "lng": -101.29404937272726,"info": "total: 110","children": "data/mexico/zacatecas/concepcion-del-oro.json"
+},{
+"label": "Genaro Codina", "lat": 22.5023579868421, "lng": -102.51863985526316,"info": "total: 76","children": "data/mexico/zacatecas/genaro-codina.json"
+},{
+"label": "Trinidad García de la Cadena", "lat": 21.221932000000002, "lng": -103.49414742528732,"info": "total: 87","children": "data/mexico/zacatecas/trinidad-garcia-de-la-cadena.json"
+},{
+"label": "Guadalupe", "lat": 22.729888398963734, "lng": -102.4633360310881,"info": "total: 193","children": "data/mexico/zacatecas/guadalupe.json"
+},{
+"label": "Río Grande", "lat": 23.80821203092784, "lng": -103.06820370103095,"info": "total: 97","children": "data/mexico/zacatecas/rio-grande.json"
+},{
+"label": "Valparaíso", "lat": 22.77392851871658, "lng": -103.70434341443863,"info": "total: 374","children": "data/mexico/zacatecas/valparaiso.json"
+},{
+"label": "Villa de Cos", "lat": 23.464640179144386, "lng": -102.25572725935822,"info": "total: 374","children": "data/mexico/zacatecas/villa-de-cos.json"
+},{
+"label": "Chalchihuites", "lat": 23.44221430612245, "lng": -103.89617108163263,"info": "total: 98","children": "data/mexico/zacatecas/chalchihuites.json"
+},{
+"label": "Teúl de González Ortega", "lat": 21.369105239669423, "lng": -103.45565163636363,"info": "total: 121","children": "data/mexico/zacatecas/teul-de-gonzalez-ortega.json"
+},{
+"label": "Juan Aldama", "lat": 24.25818222499999, "lng": -103.32716475000002,"info": "total: 40","children": "data/mexico/zacatecas/juan-aldama.json"
+},{
+"label": "Melchor Ocampo", "lat": 24.831315750000005, "lng": -101.78856510416665,"info": "total: 48","children": "data/mexico/zacatecas/melchor-ocampo.json"
+},{
+"label": "Villa Hidalgo", "lat": 22.391547955223874, "lng": -101.74055950746265,"info": "total: 67","children": "data/mexico/zacatecas/villa-hidalgo.json"
+},{
+"label": "Susticacán", "lat": 22.612830375, "lng": -103.1480825,"info": "total: 16","children": "data/mexico/zacatecas/susticacan.json"
+},{
+"label": "Noria de Ángeles", "lat": 22.384371431372543, "lng": -101.89490113725493,"info": "total: 51","children": "data/mexico/zacatecas/noria-de-angeles.json"
+},{
+"label": "General Francisco R. Murguía", "lat": 24.102374320610686, "lng": -102.93897215267182,"info": "total: 131","children": "data/mexico/zacatecas/general-francisco-r-murguia.json"
+},{
+"label": "Cañitas de Felipe Pescador", "lat": 23.579092533333327, "lng": -102.71785186666666,"info": "total: 15","children": "data/mexico/zacatecas/canitas-de-felipe-pescador.json"
+},{
+"label": "El Plateado de Joaquín Amaro", "lat": 22.00092279310345, "lng": -103.0551737586207,"info": "total: 29","children": "data/mexico/zacatecas/el-plateado-de-joaquin-amaro.json"
+},{
+"label": "Apulco", "lat": 21.466728230769235, "lng": -102.69325282051285,"info": "total: 39","children": "data/mexico/zacatecas/apulco.json"
+},{
+"label": "Jalpa", "lat": 21.636119877358492, "lng": -102.97582876415089,"info": "total: 212","children": "data/mexico/zacatecas/jalpa.json"
+},{
+"label": "Villa González Ortega", "lat": 22.54095285915493, "lng": -101.94970439436622,"info": "total: 71","children": "data/mexico/zacatecas/villa-gonzalez-ortega.json"
+},{
+"label": "Monte Escobedo", "lat": 22.390544880952397, "lng": -103.49063617857139,"info": "total: 252","children": "data/mexico/zacatecas/monte-escobedo.json"
+},{
+"label": "Mazapil", "lat": 24.431592538194433, "lng": -101.8868549618056,"info": "total: 288","children": "data/mexico/zacatecas/mazapil.json"
+},{
+"label": "Vetagrande", "lat": 22.85051875, "lng": -102.4873618,"info": "total: 20","children": "data/mexico/zacatecas/vetagrande.json"
+},{
+"label": "Sain Alto", "lat": 23.596151030927835, "lng": -103.27155836082474,"info": "total: 97","children": "data/mexico/zacatecas/sain-alto.json"
+},{
+"label": "Benito Juárez", "lat": 21.50427595348837, "lng": -103.56745413953486,"info": "total: 43","children": "data/mexico/zacatecas/benito-juarez.json"
+},{
+"label": "Luis Moya", "lat": 22.438252949999995, "lng": -102.2513061875,"info": "total: 80","children": "data/mexico/zacatecas/luis-moya.json"
+},{
+"label": "Huanusco", "lat": 21.74981331884058, "lng": -102.89009220289857,"info": "total: 69","children": "data/mexico/zacatecas/huanusco.json"
+},{
+"label": "Zacatecas", "lat": 22.73766897058824, "lng": -102.67218573529412,"info": "total: 102","children": "data/mexico/zacatecas/zacatecas.json"
+}]

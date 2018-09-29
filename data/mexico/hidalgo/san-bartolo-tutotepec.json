@@ -1,0 +1,265 @@
+[{
+"label": "La Florida (La Canoa)", "lat": 20.529109, "lng": -98.109196
+},{
+"label": "El Nanjo", "lat": 20.52351, "lng": -98.078665
+},{
+"label": "Pie del Cerro", "lat": 20.409465, "lng": -98.197999
+},{
+"label": "Cerro Pelón", "lat": 20.384722, "lng": -98.2925
+},{
+"label": "El Candeje", "lat": 20.412831, "lng": -98.195307
+},{
+"label": "El Zenthe", "lat": 20.521049, "lng": -98.167504
+},{
+"label": "El Popotillo Chico", "lat": 20.445295, "lng": -98.198884
+},{
+"label": "La Cumbre de la Campana", "lat": 20.404089, "lng": -98.192535
+},{
+"label": "Colonia Industrial", "lat": 20.405139, "lng": -98.195357
+},{
+"label": "Tutotepec", "lat": 20.426781, "lng": -98.274119
+},{
+"label": "El Arco", "lat": 20.403497, "lng": -98.288239
+},{
+"label": "El Dónimo", "lat": 20.396882, "lng": -98.228288
+},{
+"label": "El Pedregal", "lat": 20.423832, "lng": -98.193253
+},{
+"label": "San Juan de las Flores", "lat": 20.479788, "lng": -98.241765
+},{
+"label": "El Cojolite", "lat": 20.503154, "lng": -98.139288
+},{
+"label": "Pueblo Nuevo", "lat": 20.424267, "lng": -98.23786
+},{
+"label": "El Mavodo", "lat": 20.417988, "lng": -98.198903
+},{
+"label": "La Sabana", "lat": 20.546596, "lng": -98.129994
+},{
+"label": "San Isidro", "lat": 20.56549, "lng": -98.133668
+},{
+"label": "Agua Grande", "lat": 20.492339, "lng": -98.148648
+},{
+"label": "Arroyo Seco", "lat": 20.473815, "lng": -98.180229
+},{
+"label": "La Joya", "lat": 20.498561, "lng": -98.149247
+},{
+"label": "Buena Vista", "lat": 20.387456, "lng": -98.216003
+},{
+"label": "Tenantitlán", "lat": 20.394089, "lng": -98.268635
+},{
+"label": "El Hongo", "lat": 20.432161, "lng": -98.244792
+},{
+"label": "La Cueva", "lat": 20.515438, "lng": -98.172325
+},{
+"label": "Milpa Larga", "lat": 20.531814, "lng": -98.101527
+},{
+"label": "Agua Linda", "lat": 20.48079, "lng": -98.118129
+},{
+"label": "El Juandhó", "lat": 20.401303, "lng": -98.294728
+},{
+"label": "Santiago", "lat": 20.399347, "lng": -98.218863
+},{
+"label": "El Grillo", "lat": 20.425039, "lng": -98.150193
+},{
+"label": "Medio Monte", "lat": 20.414379, "lng": -98.238378
+},{
+"label": "Chicamole", "lat": 20.432211, "lng": -98.231404
+},{
+"label": "La Barranca (El Infiernillo)", "lat": 20.508483, "lng": -98.128895
+},{
+"label": "San Jerónimo", "lat": 20.485578, "lng": -98.156986
+},{
+"label": "El Banco", "lat": 20.377921, "lng": -98.300064
+},{
+"label": "Agua Escondida", "lat": 20.467049, "lng": -98.235366
+},{
+"label": "Cerro Verde", "lat": 20.469872, "lng": -98.171754
+},{
+"label": "Valle Verde", "lat": 20.401119, "lng": -98.195456
+},{
+"label": "El Zopilote", "lat": 20.394937, "lng": -98.210122
+},{
+"label": "El Jicote", "lat": 20.456936, "lng": -98.134983
+},{
+"label": "El Mundhó", "lat": 20.386529, "lng": -98.24609
+},{
+"label": "Llano Seco", "lat": 20.605583, "lng": -98.101516
+},{
+"label": "Piedra Blanca", "lat": 20.397167, "lng": -98.246648
+},{
+"label": "El Encinal", "lat": 20.422544, "lng": -98.224156
+},{
+"label": "El Paraíso de Tierra Fuerte", "lat": 20.442499, "lng": -98.130355
+},{
+"label": "La Loma de Cerro Verde", "lat": 20.458484, "lng": -98.172234
+},{
+"label": "El Tomate", "lat": 20.583325, "lng": -98.099878
+},{
+"label": "Cerro Negro", "lat": 20.426451, "lng": -98.183471
+},{
+"label": "Tierra Amarilla", "lat": 20.417344, "lng": -98.224191
+},{
+"label": "Piedras Negras", "lat": 20.428851, "lng": -98.139816
+},{
+"label": "Los Manantiales", "lat": 20.405297, "lng": -98.210899
+},{
+"label": "El Xúchitl", "lat": 20.519623, "lng": -98.21013
+},{
+"label": "La Ventilla", "lat": 20.405806, "lng": -98.263536
+},{
+"label": "Juntas del Río", "lat": 20.430913, "lng": -98.315229
+},{
+"label": "El Caliche", "lat": 20.512222, "lng": -98.082222
+},{
+"label": "La Loma de San Andrés", "lat": 20.492692, "lng": -98.087828
+},{
+"label": "El Denxe", "lat": 20.443915, "lng": -98.163666
+},{
+"label": "Diez Cerros", "lat": 20.422106, "lng": -98.165549
+},{
+"label": "Agua Hedionda", "lat": 20.510523, "lng": -98.161842
+},{
+"label": "San Antonio", "lat": 20.547353, "lng": -98.115323
+},{
+"label": "El Popotillo Grande", "lat": 20.45774, "lng": -98.187179
+},{
+"label": "Cerro Macho", "lat": 20.379743, "lng": -98.267477
+},{
+"label": "La Huahua", "lat": 20.430513, "lng": -98.204428
+},{
+"label": "La Cumbre de Muridores", "lat": 20.345316, "lng": -98.322677
+},{
+"label": "Media Cuesta", "lat": 20.406508, "lng": -98.223187
+},{
+"label": "La Pagua", "lat": 20.461232, "lng": -98.265813
+},{
+"label": "El Fresno", "lat": 20.435477, "lng": -98.184723
+},{
+"label": "La Mesa", "lat": 20.406142, "lng": -98.228034
+},{
+"label": "Cerro de Buena Vista", "lat": 20.487531, "lng": -98.123616
+},{
+"label": "El Coyul", "lat": 20.472981, "lng": -98.269842
+},{
+"label": "El Naranjal", "lat": 20.470133, "lng": -98.275459
+},{
+"label": "Anaya", "lat": 20.442058, "lng": -98.116049
+},{
+"label": "La Venta", "lat": 20.448057, "lng": -98.263108
+},{
+"label": "Rancho Nuevo", "lat": 20.481451, "lng": -98.222944
+},{
+"label": "Monte Grande", "lat": 20.461342, "lng": -98.276331
+},{
+"label": "El Rincón", "lat": 20.40538, "lng": -98.232869
+},{
+"label": "El Nenjo", "lat": 20.508956, "lng": -98.223068
+},{
+"label": "El Lindero", "lat": 20.54877, "lng": -98.08748
+},{
+"label": "Barrio de las Maravillas", "lat": 20.517925, "lng": -98.081748
+},{
+"label": "El Canjoy", "lat": 20.504006, "lng": -98.068372
+},{
+"label": "San Andrés", "lat": 20.502765, "lng": -98.095758
+},{
+"label": "El Piñal", "lat": 20.522305, "lng": -98.179688
+},{
+"label": "El Lindero Chico", "lat": 20.418254, "lng": -98.213582
+},{
+"label": "El Sotol", "lat": 20.453374, "lng": -98.260653
+},{
+"label": "San Miguel", "lat": 20.441766, "lng": -98.202478
+},{
+"label": "El Mirador", "lat": 20.417331, "lng": -98.280415
+},{
+"label": "Los Álamos", "lat": 20.45866, "lng": -98.260908
+},{
+"label": "El Seis", "lat": 20.457601, "lng": -98.219993
+},{
+"label": "El Lindero de San Mateo", "lat": 20.446131, "lng": -98.162068
+},{
+"label": "Piedra Ancha", "lat": 20.453436, "lng": -98.202271
+},{
+"label": "San Sebastián", "lat": 20.570778, "lng": -98.116985
+},{
+"label": "La Flor de Santiago (La Flor)", "lat": 20.40254, "lng": -98.234164
+},{
+"label": "Loma Larga", "lat": 20.449338, "lng": -98.27962
+},{
+"label": "La Sorpresa", "lat": 20.537594, "lng": -98.159878
+},{
+"label": "La Segunda Ranchería", "lat": 20.427312, "lng": -98.158704
+},{
+"label": "El Copal", "lat": 20.471389, "lng": -98.194444
+},{
+"label": "El Veinte", "lat": 20.507957, "lng": -98.149948
+},{
+"label": "El Mahuaquite", "lat": 20.44666, "lng": -98.292297
+},{
+"label": "Los Planes", "lat": 20.423613, "lng": -98.285188
+},{
+"label": "Barrio del Canjoy", "lat": 20.498333, "lng": -98.070833
+},{
+"label": "El Templado", "lat": 20.480021, "lng": -98.10419
+},{
+"label": "Camarones", "lat": 20.447536, "lng": -98.146638
+},{
+"label": "Salto del Agua", "lat": 20.378067, "lng": -98.282568
+},{
+"label": "Río Chiquito", "lat": 20.413747, "lng": -98.220615
+},{
+"label": "Rincón de Cerro Macho", "lat": 20.357533, "lng": -98.280889
+},{
+"label": "El Oratorio", "lat": 20.494207, "lng": -98.150941
+},{
+"label": "El Ñundo", "lat": 20.45784, "lng": -98.267607
+},{
+"label": "El Mothó", "lat": 20.483041, "lng": -98.260014
+},{
+"label": "Santa Cruz", "lat": 20.46679, "lng": -98.268236
+},{
+"label": "Palo Gordo", "lat": 20.49018, "lng": -98.208582
+},{
+"label": "La Vereda", "lat": 20.388986, "lng": -98.287136
+},{
+"label": "Calintla", "lat": 20.386312, "lng": -98.208162
+},{
+"label": "Cueva Ahumada", "lat": 20.369112, "lng": -98.305938
+},{
+"label": "Las Juntas", "lat": 20.380577, "lng": -98.219372
+},{
+"label": "La Cerca", "lat": 20.481924, "lng": -98.162022
+},{
+"label": "La Campana", "lat": 20.405396, "lng": -98.184287
+},{
+"label": "El Nandho", "lat": 20.391175, "lng": -98.237927
+},{
+"label": "El Progreso", "lat": 20.395821, "lng": -98.255674
+},{
+"label": "Piedra Larga", "lat": 20.523739, "lng": -98.129102
+},{
+"label": "Poza Larga", "lat": 20.409034, "lng": -98.1598
+},{
+"label": "Xuchitlán", "lat": 20.450161, "lng": -98.253154
+},{
+"label": "San Gabriel", "lat": 20.425198, "lng": -98.175931
+},{
+"label": "El Tigrillo", "lat": 20.364639, "lng": -98.291825
+},{
+"label": "Santiaguito", "lat": 20.437187, "lng": -98.144209
+},{
+"label": "Tierra Fuerte", "lat": 20.43451, "lng": -98.257103
+},{
+"label": "Llano Grande", "lat": 20.462237, "lng": -98.140241
+},{
+"label": "San Bartolo Tutotepec", "lat": 20.399143, "lng": -98.20206
+},{
+"label": "La Soledad", "lat": 20.530993, "lng": -98.142184
+},{
+"label": "Huasquilla", "lat": 20.446228, "lng": -98.222561
+},{
+"label": "El Jovión", "lat": 20.446764, "lng": -98.242125
+},{
+"label": "San Mateo", "lat": 20.456311, "lng": -98.147231
+}]

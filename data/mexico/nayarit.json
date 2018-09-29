@@ -1,0 +1,41 @@
+[{
+"label": "Ahuacatlán", "lat": 21.044008236111107, "lng": -104.54012943055552,"info": "total: 72","children": "data/mexico/nayarit/ahuacatlan.json"
+},{
+"label": "Tuxpan", "lat": 21.947318921568638, "lng": -105.29391074509805,"info": "total: 51","children": "data/mexico/nayarit/tuxpan.json"
+},{
+"label": "San Blas", "lat": 21.57676831884058, "lng": -105.32578607246374,"info": "total: 138","children": "data/mexico/nayarit/san-blas.json"
+},{
+"label": "Compostela", "lat": 21.142654379032255, "lng": -105.09758961827937,"info": "total: 372","children": "data/mexico/nayarit/compostela.json"
+},{
+"label": "San Pedro Lagunillas", "lat": 21.19566073913043, "lng": -104.74051654347825,"info": "total: 46","children": "data/mexico/nayarit/san-pedro-lagunillas.json"
+},{
+"label": "Huajicori", "lat": 22.765801323008844, "lng": -105.22548308407077,"info": "total: 226","children": "data/mexico/nayarit/huajicori.json"
+},{
+"label": "Jala", "lat": 21.17799724675325, "lng": -104.39693814285714,"info": "total: 77","children": "data/mexico/nayarit/jala.json"
+},{
+"label": "Xalisco", "lat": 21.395667076923072, "lng": -104.91954407692309,"info": "total: 65","children": "data/mexico/nayarit/xalisco.json"
+},{
+"label": "Santa María del Oro", "lat": 21.35448639880952, "lng": -104.59132594047621,"info": "total: 168","children": "data/mexico/nayarit/santa-maria-del-oro.json"
+},{
+"label": "Tepic", "lat": 21.55671564495114, "lng": -104.873076257329,"info": "total: 307","children": "data/mexico/nayarit/tepic.json"
+},{
+"label": "Ruíz", "lat": 21.989134826530613, "lng": -104.9629763367347,"info": "total: 98","children": "data/mexico/nayarit/ruiz.json"
+},{
+"label": "Santiago Ixcuintla", "lat": 21.808414218487407, "lng": -105.24374481092435,"info": "total: 238","children": "data/mexico/nayarit/santiago-ixcuintla.json"
+},{
+"label": "Ixtlán del Río", "lat": 21.043540978947366, "lng": -104.32218151578947,"info": "total: 95","children": "data/mexico/nayarit/ixtlan-del-rio.json"
+},{
+"label": "Del Nayar", "lat": 22.116389695867777, "lng": -104.65232769752082,"info": "total: 605","children": "data/mexico/nayarit/del-nayar.json"
+},{
+"label": "La Yesca", "lat": 21.554029268831187, "lng": -104.13230172597396,"info": "total: 770","children": "data/mexico/nayarit/la-yesca.json"
+},{
+"label": "Acaponeta", "lat": 22.479670032258053, "lng": -105.33092228494627,"info": "total: 186","children": "data/mexico/nayarit/acaponeta.json"
+},{
+"label": "Tecuala", "lat": 22.370795122580645, "lng": -105.50946476129032,"info": "total: 155","children": "data/mexico/nayarit/tecuala.json"
+},{
+"label": "Rosamorada", "lat": 22.07799736190476, "lng": -105.20245953333337,"info": "total: 105","children": "data/mexico/nayarit/rosamorada.json"
+},{
+"label": "Bahía de Banderas", "lat": 20.802716146572106, "lng": -105.30773435460992,"info": "total: 423","children": "data/mexico/nayarit/bahia-de-banderas.json"
+},{
+"label": "Amatlán de Cañas", "lat": 20.841189941176463, "lng": -104.4230608382353,"info": "total: 68","children": "data/mexico/nayarit/amatlan-de-canas.json"
+}]

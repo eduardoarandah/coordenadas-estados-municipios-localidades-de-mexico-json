@@ -1,0 +1,23 @@
+[{
+"label": "Asientos", "lat": 22.137366986486487, "lng": -102.04127593243243,"info": "total: 222","children": "data/mexico/aguascalientes/asientos.json"
+},{
+"label": "Pabellón de Arteaga", "lat": 22.11865607421876, "lng": -102.28290475000006,"info": "total: 256","children": "data/mexico/aguascalientes/pabellon-de-arteaga.json"
+},{
+"label": "Rincón de Romos", "lat": 22.216096220447287, "lng": -102.3008352236421,"info": "total: 313","children": "data/mexico/aguascalientes/rincon-de-romos.json"
+},{
+"label": "El Llano", "lat": 21.881600565217415, "lng": -102.07877198550726,"info": "total: 207","children": "data/mexico/aguascalientes/el-llano.json"
+},{
+"label": "Calvillo", "lat": 21.87956459333333, "lng": -102.71521499666666,"info": "total: 300","children": "data/mexico/aguascalientes/calvillo.json"
+},{
+"label": "Jesús María", "lat": 21.94769985849055, "lng": -102.38289982704393,"info": "total: 318","children": "data/mexico/aguascalientes/jesus-maria.json"
+},{
+"label": "San José de Gracia", "lat": 22.16348843801655, "lng": -102.52903085123963,"info": "total: 121","children": "data/mexico/aguascalientes/san-jose-de-gracia.json"
+},{
+"label": "Aguascalientes", "lat": 21.83211951355421, "lng": -102.28227977560229,"info": "total: 664","children": "data/mexico/aguascalientes/aguascalientes.json"
+},{
+"label": "Cosío", "lat": 22.358808529411768, "lng": -102.28053835294119,"info": "total: 85","children": "data/mexico/aguascalientes/cosio.json"
+},{
+"label": "Tepezalá", "lat": 22.224494412698405, "lng": -102.2297794920635,"info": "total: 126","children": "data/mexico/aguascalientes/tepezala.json"
+},{
+"label": "San Francisco de los Romo", "lat": 22.036776283185844, "lng": -102.2610863539823,"info": "total: 113","children": "data/mexico/aguascalientes/san-francisco-de-los-romo.json"
+}]

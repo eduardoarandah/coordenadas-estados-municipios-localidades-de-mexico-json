@@ -1,0 +1,335 @@
+[{
+"label": "Loma del Tejón (Paso Arriero)", "lat": 18.979258, "lng": -96.419461
+},{
+"label": "El Recuerdo", "lat": 18.971266, "lng": -96.555288
+},{
+"label": "Fernando Montero", "lat": 19.087814, "lng": -96.519654
+},{
+"label": "Jardines de la Soledad [Unidad Habitacional]", "lat": 19.055826, "lng": -96.387686
+},{
+"label": "Mata Pionche", "lat": 18.992495, "lng": -96.401497
+},{
+"label": "Paso Solano (Ejido Mirador y Anexos)", "lat": 18.996333, "lng": -96.336523
+},{
+"label": "Altamira", "lat": 18.980118, "lng": -96.434048
+},{
+"label": "El Cedro", "lat": 18.986793, "lng": -96.35676
+},{
+"label": "La Victoria", "lat": 19.148573, "lng": -96.430037
+},{
+"label": "El Malinar (El Pica)", "lat": 19.098785, "lng": -96.444781
+},{
+"label": "Colonia Paso Pedregoso", "lat": 19.04083, "lng": -96.40778
+},{
+"label": "El Rosario", "lat": 18.952928, "lng": -96.394942
+},{
+"label": "La Gachupina", "lat": 18.953743, "lng": -96.371176
+},{
+"label": "Bachoco", "lat": 19.006634, "lng": -96.421724
+},{
+"label": "Loma del Faro (El Toche)", "lat": 19.160117, "lng": -96.417967
+},{
+"label": "La Primavera", "lat": 19.019545, "lng": -96.374581
+},{
+"label": "Loma del Vigía", "lat": 18.977848, "lng": -96.476784
+},{
+"label": "Buenavista", "lat": 19.067469, "lng": -96.549029
+},{
+"label": "Playa Azul (El Degollado)", "lat": 18.975238, "lng": -96.454665
+},{
+"label": "El Pensamiento", "lat": 18.977624, "lng": -96.508859
+},{
+"label": "Tizaltepec", "lat": 19.129079, "lng": -96.478014
+},{
+"label": "Paso Naranjo Oriente", "lat": 18.992517, "lng": -96.364856
+},{
+"label": "La Mapachera", "lat": 18.96806, "lng": -96.3325
+},{
+"label": "Nuevo Silva", "lat": 19.067351, "lng": -96.438224
+},{
+"label": "Las Potrancas", "lat": 19.060541, "lng": -96.433541
+},{
+"label": "El Oeste", "lat": 19.051264, "lng": -96.446963
+},{
+"label": "Paso Carrera el Jagüey", "lat": 18.961899, "lng": -96.359966
+},{
+"label": "El Huatusquito", "lat": 19.17848, "lng": -96.484465
+},{
+"label": "Colonia Flores", "lat": 19.044168, "lng": -96.410618
+},{
+"label": "La Unión Dos", "lat": 18.969074, "lng": -96.410264
+},{
+"label": "Loma Clara", "lat": 18.983817, "lng": -96.383519
+},{
+"label": "Piedra del Indio", "lat": 19.006818, "lng": -96.486071
+},{
+"label": "Tiolinga", "lat": 19.027229, "lng": -96.458632
+},{
+"label": "Paso María Hernández", "lat": 18.949458, "lng": -96.437194
+},{
+"label": "El Organito", "lat": 19.16632, "lng": -96.407955
+},{
+"label": "Tamarindo Uno (Tamarindo de Conrado)", "lat": 18.95333, "lng": -96.45028
+},{
+"label": "Gramo de Oro", "lat": 19.118606, "lng": -96.439823
+},{
+"label": "Mata del Gallo", "lat": 19.062722, "lng": -96.534759
+},{
+"label": "Dos Matas", "lat": 18.958641, "lng": -96.468669
+},{
+"label": "La Campera (Los Pozos)", "lat": 19.087406, "lng": -96.515681
+},{
+"label": "Guillermo Naranjo", "lat": 19.048444, "lng": -96.403696
+},{
+"label": "La Perlita", "lat": 18.95722, "lng": -96.53278
+},{
+"label": "Hermanos de Diego", "lat": 19.11528, "lng": -96.51306
+},{
+"label": "El Balajú", "lat": 19.165317, "lng": -96.430793
+},{
+"label": "La Cabaña", "lat": 19.045299, "lng": -96.435195
+},{
+"label": "El Izote", "lat": 19.120634, "lng": -96.456382
+},{
+"label": "Paso Cabestro", "lat": 19.115333, "lng": -96.431595
+},{
+"label": "Santa Rosa", "lat": 19.056013, "lng": -96.503204
+},{
+"label": "Los Teteles", "lat": 19.021196, "lng": -96.38571
+},{
+"label": "El Conejo (Paso de los Cedros)", "lat": 18.956436, "lng": -96.462019
+},{
+"label": "La Palma", "lat": 18.992673, "lng": -96.420575
+},{
+"label": "La Oriental", "lat": 19.154959, "lng": -96.470338
+},{
+"label": "Mi Retiro", "lat": 19.14952, "lng": -96.443728
+},{
+"label": "Pénjamo", "lat": 19.14167, "lng": -96.4125
+},{
+"label": "Cuatro Caminos", "lat": 18.994027, "lng": -96.39148
+},{
+"label": "La Sábila", "lat": 18.974981, "lng": -96.376508
+},{
+"label": "Loma Triste", "lat": 18.966018, "lng": -96.515433
+},{
+"label": "Mirador de Malibrán", "lat": 18.982245, "lng": -96.353226
+},{
+"label": "Paso de los Cedros", "lat": 18.946462, "lng": -96.461146
+},{
+"label": "Joaquín Moreno", "lat": 19.088758, "lng": -96.528306
+},{
+"label": "Higuera Cuata", "lat": 18.9659, "lng": -96.495819
+},{
+"label": "Paso Achote", "lat": 19.136613, "lng": -96.463949
+},{
+"label": "Mata de Caña", "lat": 19.07304, "lng": -96.399226
+},{
+"label": "Valladolid", "lat": 18.978624, "lng": -96.488841
+},{
+"label": "La Unión Uno", "lat": 19.093502, "lng": -96.414658
+},{
+"label": "La Guadalupe (Mata de Loros)", "lat": 18.967352, "lng": -96.478841
+},{
+"label": "La Pista", "lat": 19.03482, "lng": -96.431229
+},{
+"label": "El Retiro de la Mendoza", "lat": 18.98556, "lng": -96.47917
+},{
+"label": "Santa Rita", "lat": 19.094883, "lng": -96.546013
+},{
+"label": "Paso Lagarto", "lat": 19.101219, "lng": -96.50667
+},{
+"label": "Matamoros (Mata Muertos)", "lat": 18.965247, "lng": -96.431081
+},{
+"label": "Loma Jovera", "lat": 18.949714, "lng": -96.504189
+},{
+"label": "El Roble", "lat": 18.96039, "lng": -96.520982
+},{
+"label": "Adalberto Tejeda (La Iguana)", "lat": 19.174192, "lng": -96.463072
+},{
+"label": "Mata Higuera", "lat": 18.951244, "lng": -96.414445
+},{
+"label": "El Cristo (El Vado)", "lat": 18.986205, "lng": -96.487853
+},{
+"label": "Huihuixtla", "lat": 19.127281, "lng": -96.443997
+},{
+"label": "Tranca Negra", "lat": 19.017176, "lng": -96.356917
+},{
+"label": "El Volcán", "lat": 19.112921, "lng": -96.45933
+},{
+"label": "Mario Montero", "lat": 19.089761, "lng": -96.443836
+},{
+"label": "Puerta de Mata Anona", "lat": 19.163234, "lng": -96.497776
+},{
+"label": "Paso Cabra", "lat": 19.006318, "lng": -96.387953
+},{
+"label": "Soledad de Doblado", "lat": 19.044746, "lng": -96.423289
+},{
+"label": "Mirador de Santa Rosa", "lat": 19.060435, "lng": -96.480537
+},{
+"label": "Paso Naranjo Poniente", "lat": 18.992105, "lng": -96.382666
+},{
+"label": "El Porvenir", "lat": 18.944805, "lng": -96.493934
+},{
+"label": "Trinidad Nava", "lat": 19.057054, "lng": -96.444334
+},{
+"label": "Camino de Luz y Esperanza", "lat": 19.08972, "lng": -96.47417
+},{
+"label": "Rancho Nuevo", "lat": 19.074576, "lng": -96.493122
+},{
+"label": "Espinal de Santa Bárbara", "lat": 19.128269, "lng": -96.418847
+},{
+"label": "Mata Bruja", "lat": 18.997713, "lng": -96.457439
+},{
+"label": "El Moreno", "lat": 19.076029, "lng": -96.504844
+},{
+"label": "La Finca", "lat": 18.938906, "lng": -96.481954
+},{
+"label": "Rincón Sabroso", "lat": 18.998963, "lng": -96.4203
+},{
+"label": "La Angostura", "lat": 19.114493, "lng": -96.503122
+},{
+"label": "La Jacaranda", "lat": 19.065162, "lng": -96.572296
+},{
+"label": "Chapulina", "lat": 19.134076, "lng": -96.413739
+},{
+"label": "San Miguel", "lat": 18.973956, "lng": -96.387342
+},{
+"label": "Huentitlán", "lat": 19.137781, "lng": -96.457671
+},{
+"label": "Mirador de Mata Redonda", "lat": 18.978387, "lng": -96.515129
+},{
+"label": "Rincón del Toro", "lat": 19.052689, "lng": -96.459413
+},{
+"label": "Los Portales", "lat": 19.10979, "lng": -96.442931
+},{
+"label": "Ventura", "lat": 18.972165, "lng": -96.434453
+},{
+"label": "Miguel Fadul", "lat": 19.058562, "lng": -96.517373
+},{
+"label": "Tamarindo de San Miguel", "lat": 18.97254, "lng": -96.404614
+},{
+"label": "Las Remojadas", "lat": 19.079758, "lng": -96.389829
+},{
+"label": "José Grajales", "lat": 19.060354, "lng": -96.435774
+},{
+"label": "Paso de Cabra", "lat": 18.995571, "lng": -96.380873
+},{
+"label": "La Perla", "lat": 19.014761, "lng": -96.401882
+},{
+"label": "La Cruz (Lázaro Cárdenas)", "lat": 19.017111, "lng": -96.363746
+},{
+"label": "Tres Estrellas", "lat": 19.066039, "lng": -96.431148
+},{
+"label": "Mata Bejuco", "lat": 19.090882, "lng": -96.454654
+},{
+"label": "Paso Real", "lat": 19.13056, "lng": -96.44417
+},{
+"label": "La Burrera", "lat": 18.964767, "lng": -96.535648
+},{
+"label": "Vista Hermosa Sur", "lat": 18.96647, "lng": -96.503938
+},{
+"label": "La Mendoza", "lat": 18.977881, "lng": -96.462386
+},{
+"label": "Mata Ardilla", "lat": 19.109672, "lng": -96.436035
+},{
+"label": "Paso Santiago", "lat": 18.994738, "lng": -96.437362
+},{
+"label": "Mata Novillo", "lat": 19.083756, "lng": -96.412008
+},{
+"label": "Vacas Gordas", "lat": 18.965311, "lng": -96.547047
+},{
+"label": "Mata Redonda", "lat": 18.988426, "lng": -96.521529
+},{
+"label": "Miralejos", "lat": 19.016986, "lng": -96.482483
+},{
+"label": "Colonia José Cardel", "lat": 19.068686, "lng": -96.444803
+},{
+"label": "El Diamante", "lat": 19.02777, "lng": -96.415377
+},{
+"label": "David Yerena", "lat": 19.042891, "lng": -96.407861
+},{
+"label": "Santa Cruz", "lat": 19.106812, "lng": -96.479335
+},{
+"label": "El Jagüey de Malibrán", "lat": 18.974258, "lng": -96.350408
+},{
+"label": "El Organal", "lat": 18.950846, "lng": -96.390283
+},{
+"label": "Vista Hermosa", "lat": 19.095032, "lng": -96.427188
+},{
+"label": "Oaxaquilla", "lat": 19.014675, "lng": -96.458398
+},{
+"label": "Soledad Dos", "lat": 18.995499, "lng": -96.423362
+},{
+"label": "San Vicente", "lat": 18.957552, "lng": -96.361552
+},{
+"label": "Tres Higueras", "lat": 18.975055, "lng": -96.502866
+},{
+"label": "Soledad Tres", "lat": 18.992119, "lng": -96.423126
+},{
+"label": "Mata Copite", "lat": 18.993468, "lng": -96.394148
+},{
+"label": "Loma de Santa Bárbara (El Organal)", "lat": 19.120222, "lng": -96.41374
+},{
+"label": "Paso las Pintas", "lat": 19.059569, "lng": -96.387213
+},{
+"label": "Las Palomas", "lat": 18.953548, "lng": -96.387163
+},{
+"label": "Puente Nuevo", "lat": 19.043198, "lng": -96.436229
+},{
+"label": "La Reforma", "lat": 19.112162, "lng": -96.402168
+},{
+"label": "Laguna Blanca", "lat": 19.054144, "lng": -96.46226
+},{
+"label": "Paso Trujillo", "lat": 18.989894, "lng": -96.500835
+},{
+"label": "Jorge Malpica Enríquez (El Polvorín)", "lat": 19.05333, "lng": -96.445501
+},{
+"label": "El Vergel", "lat": 19.05971, "lng": -96.51229
+},{
+"label": "Los Guajitos", "lat": 19.103667, "lng": -96.401561
+},{
+"label": "Loma del Nanche", "lat": 18.972725, "lng": -96.366729
+},{
+"label": "Las Minas", "lat": 18.938483, "lng": -96.406141
+},{
+"label": "Emilio Carranza", "lat": 19.118637, "lng": -96.489457
+},{
+"label": "Tepetates", "lat": 19.118941, "lng": -96.54898
+},{
+"label": "La Margarita", "lat": 19.14278, "lng": -96.47083
+},{
+"label": "Cerro de León (Mundo Raro)", "lat": 18.977139, "lng": -96.334425
+},{
+"label": "Rincón de las Flores", "lat": 18.999074, "lng": -96.447154
+},{
+"label": "Tamarindo Dos (Tamarindo Cerro de León)", "lat": 18.975409, "lng": -96.325079
+},{
+"label": "Mata Cazuela", "lat": 19.148904, "lng": -96.450722
+},{
+"label": "Rincón de los Toros", "lat": 19.114745, "lng": -96.447436
+},{
+"label": "El Chaparral", "lat": 19.062583, "lng": -96.435957
+},{
+"label": "La Esperanza", "lat": 18.950418, "lng": -96.407926
+},{
+"label": "El Progreso (Mata Novillo)", "lat": 19.08897, "lng": -96.404762
+},{
+"label": "Félix Paredes Colorado (Los Pozos)", "lat": 19.088818, "lng": -96.504232
+},{
+"label": "El Copite", "lat": 18.991299, "lng": -96.388579
+},{
+"label": "Dicha del Coyote", "lat": 19.149616, "lng": -96.42821
+},{
+"label": "Barranca de Palma", "lat": 19.110341, "lng": -96.470262
+},{
+"label": "Loma Bonita", "lat": 19.113226, "lng": -96.440624
+},{
+"label": "El Pingüino", "lat": 19.116887, "lng": -96.40448
+},{
+"label": "San José de Gracia", "lat": 18.994369, "lng": -96.355587
+},{
+"label": "Mata Conejo", "lat": 19.010595, "lng": -96.352382
+},{
+"label": "Paso Don Roque", "lat": 19.131363, "lng": -96.432006
+}]

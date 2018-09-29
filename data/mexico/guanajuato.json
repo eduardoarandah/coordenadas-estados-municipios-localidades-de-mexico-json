@@ -1,0 +1,93 @@
+[{
+"label": "Tarimoro", "lat": 20.298716339130447, "lng": -100.75865699999999,"info": "total: 115","children": "data/mexico/guanajuato/tarimoro.json"
+},{
+"label": "Purísima del Rincón", "lat": 20.952477843283578, "lng": -101.90713532835821,"info": "total: 134","children": "data/mexico/guanajuato/purisima-del-rincon.json"
+},{
+"label": "Manuel Doblado", "lat": 20.7208247925072, "lng": -101.85512070317012,"info": "total: 347","children": "data/mexico/guanajuato/manuel-doblado.json"
+},{
+"label": "Pénjamo", "lat": 20.403006382905957, "lng": -101.80498251623945,"info": "total: 585","children": "data/mexico/guanajuato/penjamo.json"
+},{
+"label": "San Miguel de Allende", "lat": 20.941332616987193, "lng": -100.71130049038464,"info": "total: 624","children": "data/mexico/guanajuato/san-miguel-de-allende.json"
+},{
+"label": "Silao de la Victoria", "lat": 20.939296856262832, "lng": -101.44988086652972,"info": "total: 487","children": "data/mexico/guanajuato/silao-de-la-victoria.json"
+},{
+"label": "Coroneo", "lat": 20.210722964285715, "lng": -100.37647353571427,"info": "total: 28","children": "data/mexico/guanajuato/coroneo.json"
+},{
+"label": "San Felipe", "lat": 21.457635700000022, "lng": -101.24343033018869,"info": "total: 530","children": "data/mexico/guanajuato/san-felipe.json"
+},{
+"label": "Villagrán", "lat": 20.53567073446329, "lng": -100.98061420338983,"info": "total: 177","children": "data/mexico/guanajuato/villagran.json"
+},{
+"label": "Santiago Maravatío", "lat": 20.163339999999994, "lng": -101.00206613333333,"info": "total: 15","children": "data/mexico/guanajuato/santiago-maravatio.json"
+},{
+"label": "Xichú", "lat": 21.34302206896553, "lng": -99.9997273218391,"info": "total: 87","children": "data/mexico/guanajuato/xichu.json"
+},{
+"label": "Tarandacuao", "lat": 20.00255215217391, "lng": -100.53137660869565,"info": "total: 46","children": "data/mexico/guanajuato/tarandacuao.json"
+},{
+"label": "Valle de Santiago", "lat": 20.40969378671328, "lng": -101.25318571678321,"info": "total: 286","children": "data/mexico/guanajuato/valle-de-santiago.json"
+},{
+"label": "León", "lat": 21.092330063218387, "lng": -101.64703363936785,"info": "total: 696","children": "data/mexico/guanajuato/leon.json"
+},{
+"label": "San José Iturbide", "lat": 21.032955217898838, "lng": -100.41147919455251,"info": "total: 257","children": "data/mexico/guanajuato/san-jose-iturbide.json"
+},{
+"label": "Jaral del Progreso", "lat": 20.35558054166667, "lng": -101.05169804166667,"info": "total: 72","children": "data/mexico/guanajuato/jaral-del-progreso.json"
+},{
+"label": "Cuerámaro", "lat": 20.620206409090912, "lng": -101.66201519090912,"info": "total: 110","children": "data/mexico/guanajuato/cueramaro.json"
+},{
+"label": "Apaseo el Alto", "lat": 20.425744944785276, "lng": -100.56618630674843,"info": "total: 163","children": "data/mexico/guanajuato/apaseo-el-alto.json"
+},{
+"label": "Tierra Blanca", "lat": 21.03220229113924, "lng": -100.1562012151899,"info": "total: 79","children": "data/mexico/guanajuato/tierra-blanca.json"
+},{
+"label": "Pueblo Nuevo", "lat": 20.545487111111107, "lng": -101.36431447619049,"info": "total: 63","children": "data/mexico/guanajuato/pueblo-nuevo.json"
+},{
+"label": "Romita", "lat": 20.841702356125342, "lng": -101.56084493732186,"info": "total: 351","children": "data/mexico/guanajuato/romita.json"
+},{
+"label": "Guanajuato", "lat": 21.001854222996506, "lng": -101.2661943902439,"info": "total: 287","children": "data/mexico/guanajuato/guanajuato.json"
+},{
+"label": "Irapuato", "lat": 20.67719674100718, "lng": -101.3719123723021,"info": "total: 556","children": "data/mexico/guanajuato/irapuato.json"
+},{
+"label": "Yuriria", "lat": 20.187028913669067, "lng": -101.20551256834524,"info": "total: 139","children": "data/mexico/guanajuato/yuriria.json"
+},{
+"label": "Apaseo el Grande", "lat": 20.552046971193413, "lng": -100.63833525102882,"info": "total: 243","children": "data/mexico/guanajuato/apaseo-el-grande.json"
+},{
+"label": "San Luis de la Paz", "lat": 21.362833519626175, "lng": -100.49642722429917,"info": "total: 535","children": "data/mexico/guanajuato/san-luis-de-la-paz.json"
+},{
+"label": "Santa Cruz de Juventino Rosas", "lat": 20.636713434389137, "lng": -100.98126625791853,"info": "total: 221","children": "data/mexico/guanajuato/santa-cruz-de-juventino-rosas.json"
+},{
+"label": "Abasolo", "lat": 20.506521967455615, "lng": -101.53836638757392,"info": "total: 338","children": "data/mexico/guanajuato/abasolo.json"
+},{
+"label": "Cortazar", "lat": 20.469529472222217, "lng": -100.96098307222229,"info": "total: 180","children": "data/mexico/guanajuato/cortazar.json"
+},{
+"label": "Salamanca", "lat": 20.587191416666656, "lng": -101.17581818201755,"info": "total: 456","children": "data/mexico/guanajuato/salamanca.json"
+},{
+"label": "Victoria", "lat": 21.35474548469389, "lng": -100.22368026020413,"info": "total: 196","children": "data/mexico/guanajuato/victoria.json"
+},{
+"label": "Santa Catarina", "lat": 21.150884152173912, "lng": -100.07027417391303,"info": "total: 46","children": "data/mexico/guanajuato/santa-catarina.json"
+},{
+"label": "Doctor Mora", "lat": 21.138783441860465, "lng": -100.36063174418605,"info": "total: 86","children": "data/mexico/guanajuato/doctor-mora.json"
+},{
+"label": "Celaya", "lat": 20.534829283482143, "lng": -100.80800239955352,"info": "total: 448","children": "data/mexico/guanajuato/celaya.json"
+},{
+"label": "San Francisco del Rincón", "lat": 20.93739450819672, "lng": -101.79138173770498,"info": "total: 244","children": "data/mexico/guanajuato/san-francisco-del-rincon.json"
+},{
+"label": "Ocampo", "lat": 21.60325444444446, "lng": -101.46913212169305,"info": "total: 189","children": "data/mexico/guanajuato/ocampo.json"
+},{
+"label": "Atarjea", "lat": 21.244784225, "lng": -99.80787480000002,"info": "total: 40","children": "data/mexico/guanajuato/atarjea.json"
+},{
+"label": "Comonfort", "lat": 20.728293164893604, "lng": -100.78541232978728,"info": "total: 188","children": "data/mexico/guanajuato/comonfort.json"
+},{
+"label": "Jerécuaro", "lat": 20.19887826804123, "lng": -100.50864171134022,"info": "total: 194","children": "data/mexico/guanajuato/jerecuaro.json"
+},{
+"label": "San Diego de la Unión", "lat": 21.400715190045247, "lng": -100.80811995022628,"info": "total: 221","children": "data/mexico/guanajuato/san-diego-de-la-union.json"
+},{
+"label": "Salvatierra", "lat": 20.214409322834648, "lng": -100.90403148031497,"info": "total: 127","children": "data/mexico/guanajuato/salvatierra.json"
+},{
+"label": "Dolores Hidalgo Cuna de la Independencia Nacional", "lat": 21.161400151618412, "lng": -100.90189413458265,"info": "total: 587","children": "data/mexico/guanajuato/dolores-hidalgo-cuna-de-la-independencia-nacional.json"
+},{
+"label": "Moroleón", "lat": 20.100094076923078, "lng": -101.23005846153846,"info": "total: 39","children": "data/mexico/guanajuato/moroleon.json"
+},{
+"label": "Huanímaro", "lat": 20.358190320754712, "lng": -101.50130347169812,"info": "total: 53","children": "data/mexico/guanajuato/huanimaro.json"
+},{
+"label": "Acámbaro", "lat": 20.05890080215826, "lng": -100.73929294244599,"info": "total: 278","children": "data/mexico/guanajuato/acambaro.json"
+},{
+"label": "Uriangato", "lat": 20.110323847457625, "lng": -101.15990272881356,"info": "total: 59","children": "data/mexico/guanajuato/uriangato.json"
+}]

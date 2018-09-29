@@ -1,0 +1,637 @@
+[{
+"label": "Presa Abelardo Rodríguez", "lat": 21.916773, "lng": -102.427283
+},{
+"label": "Villas Tec [Fraccionamiento]", "lat": 21.939312, "lng": -102.338958
+},{
+"label": "San José del Llano (San Isidro)", "lat": 21.878636, "lng": -102.498124
+},{
+"label": "Las Puertas Gemelas", "lat": 22.020809, "lng": -102.277206
+},{
+"label": "Rincón del Pilar [Fraccionamiento]", "lat": 21.936752, "lng": -102.344428
+},{
+"label": "Puerta de los Bueyes", "lat": 21.824431, "lng": -102.50099
+},{
+"label": "Crucero Gracias a Dios", "lat": 21.888562, "lng": -102.463728
+},{
+"label": "Alcázar [Residencial]", "lat": 21.954923, "lng": -102.316172
+},{
+"label": "Corral Colorado", "lat": 21.933034, "lng": -102.547001
+},{
+"label": "Las Claras", "lat": 21.896247, "lng": -102.406189
+},{
+"label": "Unión de Ladrilleros", "lat": 21.948273, "lng": -102.360881
+},{
+"label": "Tanque la Viznaga", "lat": 21.933786, "lng": -102.350034
+},{
+"label": "Santa Elena [Sector 9]", "lat": 21.914453, "lng": -102.356002
+},{
+"label": "El Llano (San Isidro)", "lat": 21.874933, "lng": -102.495449
+},{
+"label": "El Ranchito (El Perjuicio)", "lat": 21.926147, "lng": -102.375654
+},{
+"label": "La Posta", "lat": 21.969021, "lng": -102.375009
+},{
+"label": "La Providencia [Sector 6]", "lat": 21.928708, "lng": -102.356829
+},{
+"label": "Los Mirasoles", "lat": 21.89736, "lng": -102.401087
+},{
+"label": "San Cristóbal", "lat": 22.037957, "lng": -102.313037
+},{
+"label": "La Guayana [Hacienda]", "lat": 21.990959, "lng": -102.280334
+},{
+"label": "La Malobra", "lat": 22.011433, "lng": -102.330984
+},{
+"label": "Quintas Miguel Jerónimo", "lat": 21.930056, "lng": -102.345594
+},{
+"label": "Paso Blanco", "lat": 21.976078, "lng": -102.317053
+},{
+"label": "San Juan [Rancho]", "lat": 21.976541, "lng": -102.307954
+},{
+"label": "Venaderito", "lat": 21.885035, "lng": -102.450347
+},{
+"label": "Rila", "lat": 21.970752, "lng": -102.288481
+},{
+"label": "Interpec San Marcos (Postura IV y V)", "lat": 22.015777, "lng": -102.275154
+},{
+"label": "El Gemelo Uno", "lat": 21.993255, "lng": -102.298474
+},{
+"label": "La Fortuna", "lat": 21.872101, "lng": -102.527609
+},{
+"label": "Lomas de los Vergeles [Fraccionamiento]", "lat": 21.929862, "lng": -102.342303
+},{
+"label": "Laurita (El Suspiro) [Granja]", "lat": 22.020665, "lng": -102.27418
+},{
+"label": "Santa Fe", "lat": 22.021294, "lng": -102.284396
+},{
+"label": "El Refugio [Rancho]", "lat": 21.938333, "lng": -102.330556
+},{
+"label": "Ninguno", "lat": 21.858906, "lng": -102.525248
+},{
+"label": "Ex-Viñedos Eva", "lat": 21.957364, "lng": -102.299454
+},{
+"label": "Las Adjuntas", "lat": 21.96784, "lng": -102.320109
+},{
+"label": "El Zapato", "lat": 21.984121, "lng": -102.292822
+},{
+"label": "Entrada a San Lorenzo", "lat": 21.965044, "lng": -102.365173
+},{
+"label": "Fraternidad [Colonia]", "lat": 21.954079, "lng": -102.359788
+},{
+"label": "El Pedernal", "lat": 21.900856, "lng": -102.528523
+},{
+"label": "El Castillo [Rancho]", "lat": 21.974427, "lng": -102.309123
+},{
+"label": "La Florida", "lat": 21.98353, "lng": -102.304779
+},{
+"label": "Villa Escondida", "lat": 21.940372, "lng": -102.350364
+},{
+"label": "La Loma (San Isidro)", "lat": 21.895228, "lng": -102.483133
+},{
+"label": "Yaya [Rancho]", "lat": 21.970958, "lng": -102.302183
+},{
+"label": "Sector 3", "lat": 21.946802, "lng": -102.365358
+},{
+"label": "Coral [Ex-Viñedos]", "lat": 21.954421, "lng": -102.291284
+},{
+"label": "Primero Dios", "lat": 22.02588, "lng": -102.301306
+},{
+"label": "La Yerbabuena [Sector 4]", "lat": 21.930847, "lng": -102.373058
+},{
+"label": "Agua Zarca", "lat": 21.934513, "lng": -102.427249
+},{
+"label": "Higinio Chávez [Sector]", "lat": 22.017225, "lng": -102.342539
+},{
+"label": "Villas de Guadalupe (La Malobra)", "lat": 22.015474, "lng": -102.322429
+},{
+"label": "El Mirador [Rancho]", "lat": 22.003349, "lng": -102.360521
+},{
+"label": "La Puerta del Chaveñal", "lat": 21.858336, "lng": -102.516907
+},{
+"label": "Venustiano Carranza [Sector]", "lat": 21.953008, "lng": -102.301887
+},{
+"label": "Las Tranquitas (Licenciado Enrique Castro)", "lat": 21.897363, "lng": -102.391447
+},{
+"label": "El Chacho", "lat": 21.908292, "lng": -102.366527
+},{
+"label": "Valladolid", "lat": 22.020946, "lng": -102.315534
+},{
+"label": "El Rinconcito Lejano", "lat": 21.923465, "lng": -102.553565
+},{
+"label": "El Retiro", "lat": 21.921153, "lng": -102.373626
+},{
+"label": "Rinconada el Country (Principal)", "lat": 21.93917, "lng": -102.341879
+},{
+"label": "Cieneguitas", "lat": 21.895487, "lng": -102.426522
+},{
+"label": "La Chaveña", "lat": 22.004548, "lng": -102.315007
+},{
+"label": "La Barranca", "lat": 21.916369, "lng": -102.57558
+},{
+"label": "Mesa de los Pobres", "lat": 21.834819, "lng": -102.553433
+},{
+"label": "Puerta del Llano (San Isidro)", "lat": 21.870236, "lng": -102.500176
+},{
+"label": "Ruiseñores [Fraccionamiento]", "lat": 21.967696, "lng": -102.330168
+},{
+"label": "La Lomita de Paso Blanco (Las Canoas)", "lat": 21.969467, "lng": -102.316064
+},{
+"label": "Casa Blanca [Rancho]", "lat": 21.981223, "lng": -102.308445
+},{
+"label": "Bajío de las Liebres", "lat": 21.918301, "lng": -102.351091
+},{
+"label": "El Llano", "lat": 21.940426, "lng": -102.309018
+},{
+"label": "El Chaveño (Octavio Lara Martínez)", "lat": 21.957678, "lng": -102.364851
+},{
+"label": "La Malobra (La Puerta del Sol)", "lat": 22.012133, "lng": -102.326041
+},{
+"label": "El Maguey", "lat": 22.023443, "lng": -102.306881
+},{
+"label": "Industrial Fundidora Hidráulica", "lat": 21.938521, "lng": -102.377358
+},{
+"label": "El Lucero [Rancho]", "lat": 22.020597, "lng": -102.270273
+},{
+"label": "Tres Arroyos [Condominio Residencial]", "lat": 21.932774, "lng": -102.34385
+},{
+"label": "Los Ponce", "lat": 21.933051, "lng": -102.542693
+},{
+"label": "Los Arenales", "lat": 21.962086, "lng": -102.319635
+},{
+"label": "San José del Alto", "lat": 21.98035, "lng": -102.301
+},{
+"label": "Quinta Sofía (La Matutina)", "lat": 21.992917, "lng": -102.333853
+},{
+"label": "El Cordero", "lat": 22.035032, "lng": -102.316708
+},{
+"label": "La Máquina", "lat": 22.029485, "lng": -102.303079
+},{
+"label": "El Cortijo", "lat": 22.017124, "lng": -102.292883
+},{
+"label": "El Gran Chaparral", "lat": 22.010112, "lng": -102.295153
+},{
+"label": "Corral de Barrancos", "lat": 21.943546, "lng": -102.330009
+},{
+"label": "La Ventana", "lat": 21.990916, "lng": -102.353559
+},{
+"label": "María Luisa [Potrero Nuevo]", "lat": 21.819649, "lng": -102.536561
+},{
+"label": "El Manantial", "lat": 21.962322, "lng": -102.363924
+},{
+"label": "La Tomatina", "lat": 21.901461, "lng": -102.415154
+},{
+"label": "Las Cuevas", "lat": 21.934424, "lng": -102.563335
+},{
+"label": "Benito Juárez [Sector 3]", "lat": 21.986258, "lng": -102.315149
+},{
+"label": "Arroyo Hondo (La Salve)", "lat": 21.894891, "lng": -102.418873
+},{
+"label": "El Varal", "lat": 21.970665, "lng": -102.461495
+},{
+"label": "Ponderosa [Granja]", "lat": 22.026206, "lng": -102.29931
+},{
+"label": "Boca del Coyote", "lat": 21.827493, "lng": -102.544328
+},{
+"label": "San Miguel", "lat": 21.931575, "lng": -102.545816
+},{
+"label": "Cañada Ancha", "lat": 21.933822, "lng": -102.464799
+},{
+"label": "La Presita", "lat": 21.899342, "lng": -102.44593
+},{
+"label": "Jesús María [Ejido]", "lat": 21.961148, "lng": -102.302983
+},{
+"label": "Margaritas", "lat": 21.999881, "lng": -102.29766
+},{
+"label": "San Juan [Granja]", "lat": 22.000659, "lng": -102.35082
+},{
+"label": "La Providencia (La Laguna del Rocío)", "lat": 21.865846, "lng": -102.47197
+},{
+"label": "La Barranca (Rancho Arroyo Seco)", "lat": 21.967926, "lng": -102.379689
+},{
+"label": "Las Pulgas", "lat": 21.895723, "lng": -102.45007
+},{
+"label": "Arborada [Condominio Residencial]", "lat": 21.950471, "lng": -102.297969
+},{
+"label": "El Zapote", "lat": 21.927898, "lng": -102.473104
+},{
+"label": "El Chaveño", "lat": 21.961525, "lng": -102.361271
+},{
+"label": "El Capulín", "lat": 21.827795, "lng": -102.583974
+},{
+"label": "Los Pinos (Las Golondrinas)", "lat": 21.915576, "lng": -102.398424
+},{
+"label": "La Loma (La Puerta de Tampico)", "lat": 21.893668, "lng": -102.471115
+},{
+"label": "Parque Industrial del Valle de Aguascalientes (PIVA)", "lat": 21.964959, "lng": -102.282911
+},{
+"label": "María Antonieta [Rancho]", "lat": 22.010934, "lng": -102.346028
+},{
+"label": "Pikita [Granja]", "lat": 21.897466, "lng": -102.464036
+},{
+"label": "Rincón Lomas del Vergel", "lat": 21.929997, "lng": -102.340734
+},{
+"label": "El Aurero", "lat": 22.01319, "lng": -102.321312
+},{
+"label": "Augusta [Condominio]", "lat": 21.958218, "lng": -102.310253
+},{
+"label": "El Alto (La Concepción)", "lat": 22.004842, "lng": -102.30316
+},{
+"label": "Vista Hermosa", "lat": 21.966548, "lng": -102.317112
+},{
+"label": "Las Laderas", "lat": 21.826824, "lng": -102.5334
+},{
+"label": "Santa Fe [Productora de Hortalizas]", "lat": 22.022262, "lng": -102.289811
+},{
+"label": "La Chiquis [Quinta]", "lat": 21.920419, "lng": -102.379706
+},{
+"label": "Ojo de Agua de los Arrieros [Sector 5]", "lat": 21.924564, "lng": -102.366194
+},{
+"label": "San Isidro de los Muñoz", "lat": 21.96271, "lng": -102.431335
+},{
+"label": "San Guillermo [Rancho Viejo]", "lat": 21.925615, "lng": -102.383152
+},{
+"label": "Presa de Huijolotes", "lat": 21.824595, "lng": -102.526754
+},{
+"label": "San Martín", "lat": 22.002283, "lng": -102.324238
+},{
+"label": "El Chaveñal", "lat": 21.844224, "lng": -102.511624
+},{
+"label": "Las Cruces", "lat": 21.931757, "lng": -102.55323
+},{
+"label": "El Durazno", "lat": 21.897768, "lng": -102.519242
+},{
+"label": "Las Palomas", "lat": 21.843421, "lng": -102.540647
+},{
+"label": "La Granjita (Los Palillos)", "lat": 22.011981, "lng": -102.33693
+},{
+"label": "Peña Azul", "lat": 21.955341, "lng": -102.47836
+},{
+"label": "El Bule", "lat": 21.997488, "lng": -102.3161
+},{
+"label": "El Vergel", "lat": 21.976111, "lng": -102.309722
+},{
+"label": "Las Bóvedas", "lat": 22.029567, "lng": -102.326849
+},{
+"label": "Pozo la Palma (La Viznaga) [Sector 8]", "lat": 21.936103, "lng": -102.353477
+},{
+"label": "La Loma de Valladolid", "lat": 22.012013, "lng": -102.309006
+},{
+"label": "San Jacobo", "lat": 21.918365, "lng": -102.374679
+},{
+"label": "Las Huertas", "lat": 22.005651, "lng": -102.318809
+},{
+"label": "Potrero del Río", "lat": 21.856876, "lng": -102.566424
+},{
+"label": "Miravalle", "lat": 21.97075, "lng": -102.31308
+},{
+"label": "Las Liebres [Sector 10]", "lat": 21.91856, "lng": -102.357948
+},{
+"label": "Milpillas de Abajo", "lat": 21.93565, "lng": -102.553086
+},{
+"label": "El Relicario", "lat": 22.007463, "lng": -102.340722
+},{
+"label": "Albamex (Granja Alteñita)", "lat": 21.941586, "lng": -102.343401
+},{
+"label": "La Huizachera", "lat": 21.919479, "lng": -102.489125
+},{
+"label": "Frutilandia [Viñedos]", "lat": 21.970974, "lng": -102.293403
+},{
+"label": "Villas del Camino Real", "lat": 22.017959, "lng": -102.331186
+},{
+"label": "San Miguel Residencial [Rancho]", "lat": 21.9593, "lng": -102.307587
+},{
+"label": "Flores Magón II", "lat": 22.02981, "lng": -102.328
+},{
+"label": "La Soledad", "lat": 21.944147, "lng": -102.456806
+},{
+"label": "Miravalle [Granja]", "lat": 21.967529, "lng": -102.310935
+},{
+"label": "El Gemelo Dos", "lat": 21.994842, "lng": -102.298262
+},{
+"label": "Villas de Montegrande", "lat": 21.897946, "lng": -102.409258
+},{
+"label": "Los Ramírez", "lat": 21.971016, "lng": -102.327284
+},{
+"label": "Las Amarillas", "lat": 21.86516, "lng": -102.555053
+},{
+"label": "La Palma [Sector]", "lat": 21.942765, "lng": -102.353333
+},{
+"label": "Camino Real [Granja]", "lat": 22.004251, "lng": -102.293903
+},{
+"label": "Flores Magón I", "lat": 22.022574, "lng": -102.329652
+},{
+"label": "Jesús María", "lat": 21.961273, "lng": -102.343416
+},{
+"label": "Mesa de las Carretas (Un Nuevo Amanecer)", "lat": 21.889595, "lng": -102.438819
+},{
+"label": "Lomas de San Isidro", "lat": 21.893326, "lng": -102.49486
+},{
+"label": "Tierra Verde [Fraccionamiento]", "lat": 21.951773, "lng": -102.317056
+},{
+"label": "Esthelita (Texti Mills) [Granja]", "lat": 21.901521, "lng": -102.466714
+},{
+"label": "El Rosario", "lat": 22.003002, "lng": -102.310831
+},{
+"label": "Valladolid [Hípico]", "lat": 22.034939, "lng": -102.309884
+},{
+"label": "El Jilotito Dos (San José)", "lat": 22.010683, "lng": -102.277422
+},{
+"label": "La Primavera", "lat": 21.908909, "lng": -102.38137
+},{
+"label": "Buenavista", "lat": 21.884531, "lng": -102.461393
+},{
+"label": "San Isidro", "lat": 21.882556, "lng": -102.493591
+},{
+"label": "Tapias Viejas", "lat": 21.848403, "lng": -102.535026
+},{
+"label": "La Joya", "lat": 21.97673, "lng": -102.297581
+},{
+"label": "Marcellana [Condominio Residencial]", "lat": 21.955196, "lng": -102.309819
+},{
+"label": "Rinconada [Fraccionamiento]", "lat": 21.968337, "lng": -102.325818
+},{
+"label": "Avenida Guadalupe los Gavilanes", "lat": 21.949345, "lng": -102.314569
+},{
+"label": "San Antonio de los Horcones", "lat": 21.996316, "lng": -102.327638
+},{
+"label": "Arboledas Paso Blanco [Fraccionamiento]", "lat": 21.963472, "lng": -102.300062
+},{
+"label": "General Ignacio Zaragoza (Venadero)", "lat": 21.883071, "lng": -102.465181
+},{
+"label": "Viñedos Ríos (Granja Chispiritos)", "lat": 21.977094, "lng": -102.294941
+},{
+"label": "Belmondo [Fraccionamiento]", "lat": 21.960491, "lng": -102.309779
+},{
+"label": "El Chichimeco", "lat": 21.998934, "lng": -102.357178
+},{
+"label": "San Juan de Dios", "lat": 21.974573, "lng": -102.325331
+},{
+"label": "San Miguel [Rancho]", "lat": 22.003258, "lng": -102.319482
+},{
+"label": "San Juan [Colonia]", "lat": 21.997109, "lng": -102.300441
+},{
+"label": "San Lorenzo", "lat": 21.957089, "lng": -102.369278
+},{
+"label": "La Isla (San Francisco)", "lat": 21.989182, "lng": -102.329165
+},{
+"label": "Los Vázquez", "lat": 21.973435, "lng": -102.331513
+},{
+"label": "Postura II", "lat": 21.957644, "lng": -102.279347
+},{
+"label": "Lázaro Cárdenas [Sector]", "lat": 22.023534, "lng": -102.293389
+},{
+"label": "El Centro", "lat": 21.957458, "lng": -102.473042
+},{
+"label": "Agua Amarilla", "lat": 21.893913, "lng": -102.445106
+},{
+"label": "La Cañada [Sector]", "lat": 21.946398, "lng": -102.356212
+},{
+"label": "Gracias a Dios", "lat": 21.928871, "lng": -102.492529
+},{
+"label": "Rinconada Bugambilias", "lat": 21.93161, "lng": -102.341103
+},{
+"label": "Huerta Texas", "lat": 21.864079, "lng": -102.577263
+},{
+"label": "El Álamo", "lat": 21.855083, "lng": -102.482108
+},{
+"label": "Granja Aparicio", "lat": 21.915305, "lng": -102.382578
+},{
+"label": "Paseos de las Haciendas [Fraccionamiento]", "lat": 21.992869, "lng": -102.345235
+},{
+"label": "Puerta los Toros", "lat": 21.894032, "lng": -102.510556
+},{
+"label": "La Mesa del Contadero (El Contadero)", "lat": 21.913102, "lng": -102.535511
+},{
+"label": "La Chingada", "lat": 21.998801, "lng": -102.312054
+},{
+"label": "Chichihuas", "lat": 21.89939, "lng": -102.441664
+},{
+"label": "San Marcos (Central de Abastos) [Viñedos]", "lat": 21.972698, "lng": -102.291334
+},{
+"label": "La Boquilla", "lat": 21.855984, "lng": -102.540212
+},{
+"label": "Piedras Negras", "lat": 21.86629, "lng": -102.519261
+},{
+"label": "Potrero de las Escobas", "lat": 21.998383, "lng": -102.335028
+},{
+"label": "Sartenejo", "lat": 21.955228, "lng": -102.289308
+},{
+"label": "Los Cuartos", "lat": 21.985278, "lng": -102.331389
+},{
+"label": "Pedernal Primero", "lat": 21.890797, "lng": -102.505791
+},{
+"label": "Las Garzas [Quinta]", "lat": 21.977222, "lng": -102.337222
+},{
+"label": "Maravillas", "lat": 21.951797, "lng": -102.328261
+},{
+"label": "El Refugio de los Arquitos [Granja]", "lat": 21.918499, "lng": -102.37986
+},{
+"label": "Viña Antigua [Condominio]", "lat": 21.95363, "lng": -102.31243
+},{
+"label": "Ruiz Cortínez [Sector]", "lat": 22.031303, "lng": -102.283038
+},{
+"label": "Viñedos Eva (Fraccionamiento Paso Blanco)", "lat": 21.958417, "lng": -102.296882
+},{
+"label": "Buenos Aires", "lat": 21.924145, "lng": -102.582602
+},{
+"label": "Mesa de la Cruz", "lat": 21.895802, "lng": -102.567045
+},{
+"label": "Granja Gutiérrez", "lat": 22.006619, "lng": -102.317162
+},{
+"label": "El Barreno", "lat": 21.982034, "lng": -102.336626
+},{
+"label": "El Cenizo", "lat": 22.003847, "lng": -102.32861
+},{
+"label": "El Conejo (Puerta del Llano)", "lat": 21.863477, "lng": -102.499552
+},{
+"label": "El Sol [Granja]", "lat": 21.972117, "lng": -102.306797
+},{
+"label": "Pensamiento (Puerta Nueva)", "lat": 21.907577, "lng": -102.569308
+},{
+"label": "Las Loberas", "lat": 21.828615, "lng": -102.570211
+},{
+"label": "San Rafael", "lat": 21.911355, "lng": -102.556385
+},{
+"label": "San Manuel [Sector 2]", "lat": 21.930289, "lng": -102.367209
+},{
+"label": "Loma Alta de la Cañada", "lat": 21.934656, "lng": -102.342096
+},{
+"label": "Los Arquitos", "lat": 21.923446, "lng": -102.385745
+},{
+"label": "El Refugio", "lat": 22.012225, "lng": -102.321339
+},{
+"label": "Porta Real [Condominio]", "lat": 21.953121, "lng": -102.306669
+},{
+"label": "El Canutillo", "lat": 21.838056, "lng": -102.522778
+},{
+"label": "Plan Benito Juárez", "lat": 21.964201, "lng": -102.352191
+},{
+"label": "La Yerbabuena", "lat": 21.939415, "lng": -102.348413
+},{
+"label": "Ninguno [Canchas Deportivas Olímpicas]", "lat": 21.939564, "lng": -102.370585
+},{
+"label": "La Tozcana", "lat": 21.920368, "lng": -102.477265
+},{
+"label": "Viñedos Ríos (Viñedos Silvia)", "lat": 21.984864, "lng": -102.297395
+},{
+"label": "Palmiras", "lat": 21.901439, "lng": -102.550549
+},{
+"label": "La Mesita de Piedra", "lat": 21.936481, "lng": -102.584212
+},{
+"label": "Los Sauces", "lat": 21.963702, "lng": -102.316479
+},{
+"label": "La Laguna", "lat": 22.030005, "lng": -102.311735
+},{
+"label": "El Puerto (Puerto de Abajo)", "lat": 21.826116, "lng": -102.478128
+},{
+"label": "Los Gavilanes", "lat": 21.94829, "lng": -102.309228
+},{
+"label": "El Pretexto", "lat": 21.926934, "lng": -102.375953
+},{
+"label": "Brownsville", "lat": 21.988912, "lng": -102.332003
+},{
+"label": "Villas de Monteclaro", "lat": 21.894591, "lng": -102.411072
+},{
+"label": "El Aurero [Ejido]", "lat": 22.000442, "lng": -102.336358
+},{
+"label": "La Puerta la Pileta", "lat": 21.989512, "lng": -102.36688
+},{
+"label": "Líquidos del Centro [Transportes]", "lat": 21.945313, "lng": -102.29181
+},{
+"label": "La Providencia (La Loma)", "lat": 21.941402, "lng": -102.341817
+},{
+"label": "Miguel Ángel Ávila de Luna", "lat": 21.955371, "lng": -102.360673
+},{
+"label": "La Lagunita", "lat": 21.916083, "lng": -102.565667
+},{
+"label": "Los Muñoz", "lat": 21.944469, "lng": -102.581049
+},{
+"label": "Ex-Hacienda de Milpillas", "lat": 21.943312, "lng": -102.539616
+},{
+"label": "Carboneras", "lat": 21.854747, "lng": -102.458094
+},{
+"label": "Los Álamos [Fraccionamiento]", "lat": 21.967633, "lng": -102.327153
+},{
+"label": "Loma Alta (La Loma)", "lat": 21.944459, "lng": -102.348105
+},{
+"label": "El Rincón de la Virgen (El Rincón)", "lat": 21.903944, "lng": -102.518839
+},{
+"label": "San Marcos [Club Hípico]", "lat": 21.995754, "lng": -102.334511
+},{
+"label": "Don Trini (Jaltipa) [Viñedos]", "lat": 22.012921, "lng": -102.276728
+},{
+"label": "Pedernal Segundo", "lat": 22.047336, "lng": -102.334724
+},{
+"label": "La Primavera [Rancho]", "lat": 21.959484, "lng": -102.47703
+},{
+"label": "La Loma de Maravillas", "lat": 21.946644, "lng": -102.335344
+},{
+"label": "Paseos de Aguascalientes", "lat": 21.968809, "lng": -102.296432
+},{
+"label": "El Tigre", "lat": 21.934372, "lng": -102.383424
+},{
+"label": "Los Martínez (Granja la Cuchilla) [Rancho]", "lat": 21.918727, "lng": -102.369214
+},{
+"label": "La Cardona", "lat": 21.964757, "lng": -102.330136
+},{
+"label": "Las Jaulas", "lat": 22.017396, "lng": -102.306277
+},{
+"label": "Villa Asunción [Hípico]", "lat": 21.955954, "lng": -102.301954
+},{
+"label": "Los Arquitos [Cuenca Lechera]", "lat": 21.937004, "lng": -102.380154
+},{
+"label": "Ojo de Agua", "lat": 21.958308, "lng": -102.355849
+},{
+"label": "La Piedra [Condominio]", "lat": 21.928092, "lng": -102.342138
+},{
+"label": "Barranquillas", "lat": 22.004043, "lng": -102.332583
+},{
+"label": "Cavas de Margaritas", "lat": 21.997567, "lng": -102.299004
+},{
+"label": "El Palenque", "lat": 21.864845, "lng": -102.504604
+},{
+"label": "La Pileta", "lat": 21.948971, "lng": -102.506528
+},{
+"label": "Quinta Alegre", "lat": 21.89243, "lng": -102.445689
+},{
+"label": "Viñedos Ríos (Viñedos el Panal)", "lat": 21.976566, "lng": -102.301202
+},{
+"label": "El Terreno de Don Raúl", "lat": 21.894591, "lng": -102.465412
+},{
+"label": "Santa Paulina [Fraccionamiento]", "lat": 21.986503, "lng": -102.320335
+},{
+"label": "Parque Indusrtial Santa Fe Tecno Park", "lat": 22.024887, "lng": -102.28161
+},{
+"label": "Jesús Gómez Portugal (Margaritas)", "lat": 21.998873, "lng": -102.290917
+},{
+"label": "Puentes Cuates", "lat": 21.857909, "lng": -102.572271
+},{
+"label": "Cartuja Residencial", "lat": 21.987129, "lng": -102.336623
+},{
+"label": "Puente de Villalpando (El Puente)", "lat": 21.856416, "lng": -102.527473
+},{
+"label": "El Refugio [Sector 1]", "lat": 21.943391, "lng": -102.363294
+},{
+"label": "Parque Industrial Chichimeco (PICH)", "lat": 21.991136, "lng": -102.33839
+},{
+"label": "Planta de Asfalto Uno", "lat": 22.011029, "lng": -102.286676
+},{
+"label": "San Isidro [Sector 7]", "lat": 21.924943, "lng": -102.35086
+},{
+"label": "El Castillo", "lat": 21.932544, "lng": -102.378534
+},{
+"label": "Las Mangas", "lat": 21.850435, "lng": -102.553041
+},{
+"label": "Los Montoyas", "lat": 21.871604, "lng": -102.456178
+},{
+"label": "Los Campos [Rancho]", "lat": 21.969416, "lng": -102.477642
+},{
+"label": "Villas de Montecassino [Fraccionamiento]", "lat": 21.995183, "lng": -102.307724
+},{
+"label": "El Llano de los Arquitos", "lat": 21.93694, "lng": -102.381816
+},{
+"label": "Lumbreras (Las Lagartijas)", "lat": 21.934013, "lng": -102.342335
+},{
+"label": "Tepetates", "lat": 21.9578, "lng": -102.321353
+},{
+"label": "Granja Imelda", "lat": 21.988605, "lng": -102.336685
+},{
+"label": "Agronómica (Las Tres Almas) [Colonia]", "lat": 21.89612, "lng": -102.454245
+},{
+"label": "Ejido la Guayana (Rancho Seco)", "lat": 21.982002, "lng": -102.272974
+},{
+"label": "El Colorín", "lat": 21.958876, "lng": -102.492103
+},{
+"label": "La Esperanza", "lat": 22.029859, "lng": -102.297471
+},{
+"label": "Cañada el Rodeo", "lat": 21.904936, "lng": -102.456636
+},{
+"label": "Santa Elena [Fraccionamiento]", "lat": 21.969988, "lng": -102.302327
+},{
+"label": "La Cañada", "lat": 21.950313, "lng": -102.357773
+},{
+"label": "Benigno Chávez [Sector 1]", "lat": 21.983441, "lng": -102.3248
+},{
+"label": "El Retorno", "lat": 21.977071, "lng": -102.314752
+},{
+"label": "Santa Fe [Rancho]", "lat": 22.017282, "lng": -102.29207
+},{
+"label": "El Ruedo", "lat": 21.927622, "lng": -102.559773
+},{
+"label": "Buenavista (Kilómetro 14) [Granja]", "lat": 22.002949, "lng": -102.287633
+},{
+"label": "El Feo [Rancho]", "lat": 21.986046, "lng": -102.325248
+},{
+"label": "Las Nubes [Rancho]", "lat": 22.001349, "lng": -102.315704
+},{
+"label": "Las Presitas", "lat": 21.872815, "lng": -102.549444
+},{
+"label": "La Tomatina (La Laguna) [Ampliación]", "lat": 21.904877, "lng": -102.407615
+},{
+"label": "José de la Cruz", "lat": 21.980414, "lng": -102.367708
+},{
+"label": "Wizard", "lat": 21.972033, "lng": -102.30824
+},{
+"label": "Casas Blancas (Loma Alta)", "lat": 21.896061, "lng": -102.40438
+},{
+"label": "San Mateo", "lat": 21.926825, "lng": -102.363674
+}]

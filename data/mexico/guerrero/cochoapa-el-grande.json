@@ -1,0 +1,319 @@
+[{
+"label": "Arroyo Tigrillo", "lat": 17.032033, "lng": -98.409308
+},{
+"label": "Colonia Nueva", "lat": 17.03615, "lng": -98.362215
+},{
+"label": "Laguna", "lat": 17.113138, "lng": -98.380026
+},{
+"label": "Cochoapa el Grande", "lat": 17.192967, "lng": -98.45528
+},{
+"label": "Loma San Marcos", "lat": 17.117548, "lng": -98.373729
+},{
+"label": "Yoso Chun", "lat": 17.172604, "lng": -98.474284
+},{
+"label": "Barranca Escondida", "lat": 17.078057, "lng": -98.341941
+},{
+"label": "Nu'u Yaa", "lat": 17.052499, "lng": -98.395136
+},{
+"label": "Yuu Mini Saa", "lat": 17.066115, "lng": -98.522007
+},{
+"label": "Llano Zacatero", "lat": 17.156779, "lng": -98.425707
+},{
+"label": "Cerro Perico", "lat": 17.044024, "lng": -98.448104
+},{
+"label": "Colonia Belén", "lat": 17.008309, "lng": -98.390846
+},{
+"label": "Llano de la Mosca", "lat": 17.165527, "lng": -98.455851
+},{
+"label": "Ndoyo Savi", "lat": 17.168989, "lng": -98.463588
+},{
+"label": "Yozondacua Loma Bonita", "lat": 17.139344, "lng": -98.392856
+},{
+"label": "Tierra Blanca", "lat": 17.270095, "lng": -98.468939
+},{
+"label": "Yuku Nu Kaxin", "lat": 17.114186, "lng": -98.359546
+},{
+"label": "Yoso Iñu", "lat": 17.172637, "lng": -98.452198
+},{
+"label": "San Isidro", "lat": 17.096777, "lng": -98.355929
+},{
+"label": "Cerro de la Lluvia", "lat": 17.095175, "lng": -98.337439
+},{
+"label": "Yoso Kanu", "lat": 17.124531, "lng": -98.390845
+},{
+"label": "Xaha Yucundia", "lat": 17.168523, "lng": -98.469198
+},{
+"label": "Rancho de San Marcos", "lat": 17.021148, "lng": -98.411307
+},{
+"label": "Rancho San Martín", "lat": 17.198399, "lng": -98.503482
+},{
+"label": "Tierra Blanquita", "lat": 17.223696, "lng": -98.501551
+},{
+"label": "Barranca Pobre", "lat": 17.135785, "lng": -98.337253
+},{
+"label": "Cieneguilla", "lat": 17.117718, "lng": -98.349954
+},{
+"label": "Barrio del Carmen", "lat": 17.071224, "lng": -98.307409
+},{
+"label": "Yozondacua", "lat": 17.141204, "lng": -98.393641
+},{
+"label": "Barranca Ceniza", "lat": 17.080836, "lng": -98.436098
+},{
+"label": "Calpanapa Viejo", "lat": 17.076677, "lng": -98.419901
+},{
+"label": "Barranca Faisán", "lat": 17.1765, "lng": -98.418239
+},{
+"label": "Monte los Pinos", "lat": 16.992903, "lng": -98.384709
+},{
+"label": "Dos Ríos", "lat": 17.060682, "lng": -98.392304
+},{
+"label": "Río Encajonado", "lat": 17.042063, "lng": -98.315451
+},{
+"label": "Río Corazón", "lat": 17.023446, "lng": -98.507644
+},{
+"label": "Valle Verde", "lat": 17.180217, "lng": -98.434339
+},{
+"label": "Cruz Verde", "lat": 17.028417, "lng": -98.365205
+},{
+"label": "Santa Rosa de Maldonado", "lat": 17.013807, "lng": -98.500134
+},{
+"label": "Xa Kavá", "lat": 17.019659, "lng": -98.373339
+},{
+"label": "Cerro de la Garza", "lat": 17.120963, "lng": -98.398631
+},{
+"label": "Valle de Maguey", "lat": 17.210531, "lng": -98.466904
+},{
+"label": "Llano de Encino", "lat": 17.122223, "lng": -98.36082
+},{
+"label": "Ahuezutla", "lat": 17.212281, "lng": -98.514422
+},{
+"label": "Barranca de Águila", "lat": 17.179206, "lng": -98.464559
+},{
+"label": "Llano de la Yacua", "lat": 17.120411, "lng": -98.327802
+},{
+"label": "Costa Rica", "lat": 17.034738, "lng": -98.385566
+},{
+"label": "Ithia Thiehe", "lat": 17.047795, "lng": -98.429672
+},{
+"label": "Rancho de las Flores", "lat": 17.171461, "lng": -98.479603
+},{
+"label": "Loma Grande", "lat": 17.190727, "lng": -98.472841
+},{
+"label": "Juquila Tikindi", "lat": 17.104476, "lng": -98.315058
+},{
+"label": "Tierra Colorada", "lat": 17.212931, "lng": -98.46404
+},{
+"label": "Arroyo Olor", "lat": 16.974304, "lng": -98.359941
+},{
+"label": "Cerro del Chapulín", "lat": 17.11139, "lng": -98.340541
+},{
+"label": "San Lucas", "lat": 17.244554, "lng": -98.511774
+},{
+"label": "Barranca Ocotera", "lat": 17.072406, "lng": -98.395103
+},{
+"label": "Minatitlán", "lat": 17.065666, "lng": -98.350287
+},{
+"label": "Yozo Chun Chiquito", "lat": 17.125352, "lng": -98.340683
+},{
+"label": "Ocotepec", "lat": 17.131937, "lng": -98.358274
+},{
+"label": "Barranca Espino", "lat": 17.093458, "lng": -98.298915
+},{
+"label": "Rancho Juquila de los Pinos", "lat": 17.099947, "lng": -98.300353
+},{
+"label": "Colonia Rutilio Vázquez", "lat": 17.046672, "lng": -98.312633
+},{
+"label": "San Rafael", "lat": 17.226794, "lng": -98.424175
+},{
+"label": "Llano de Ocote", "lat": 17.191726, "lng": -98.468469
+},{
+"label": "Yautepec", "lat": 17.091132, "lng": -98.421713
+},{
+"label": "Yuu Mini", "lat": 17.202399, "lng": -98.439642
+},{
+"label": "Yozo Canu Nuevo", "lat": 17.131703, "lng": -98.354913
+},{
+"label": "Barranca Náhuatl", "lat": 17.131389, "lng": -98.465556
+},{
+"label": "Tierra Campesina", "lat": 17.209809, "lng": -98.471984
+},{
+"label": "Loma Arenal", "lat": 17.160422, "lng": -98.438609
+},{
+"label": "San Pedro el Viejo", "lat": 17.024514, "lng": -98.399406
+},{
+"label": "Llano de la Loma", "lat": 17.005046, "lng": -98.496614
+},{
+"label": "Barranca de la Palma", "lat": 17.143286, "lng": -98.418333
+},{
+"label": "Piedra Negra", "lat": 17.061111, "lng": -98.38578
+},{
+"label": "San Rafael Nuevo", "lat": 17.228869, "lng": -98.424915
+},{
+"label": "Llano de la Chuparrosa", "lat": 17.179722, "lng": -98.477899
+},{
+"label": "Yuvi Xa Tiyoo", "lat": 17.188607, "lng": -98.469991
+},{
+"label": "Joya Real", "lat": 17.083153, "lng": -98.386439
+},{
+"label": "El Limón", "lat": 17.049327, "lng": -98.391785
+},{
+"label": "El Rincón", "lat": 17.136625, "lng": -98.412639
+},{
+"label": "San Martín Yukuxaki", "lat": 17.111328, "lng": -98.499939
+},{
+"label": "Tierra de Algodón", "lat": 17.184807, "lng": -98.43175
+},{
+"label": "La Puerta del Cielo", "lat": 17.028958, "lng": -98.394701
+},{
+"label": "Tutun Nde Ita", "lat": 17.08442, "lng": -98.353937
+},{
+"label": "Río Hamaca", "lat": 17.042046, "lng": -98.354459
+},{
+"label": "Barranca Guayabo", "lat": 17.08586, "lng": -98.305837
+},{
+"label": "San Miguel Amoltepec Nuevo", "lat": 17.203429, "lng": -98.492903
+},{
+"label": "Itu", "lat": 17.072453, "lng": -98.354704
+},{
+"label": "Colonia los Pinos", "lat": 17.160223, "lng": -98.514194
+},{
+"label": "Loma Canoa", "lat": 17.081859, "lng": -98.344211
+},{
+"label": "Guadalupe la Joya", "lat": 17.008558, "lng": -98.387664
+},{
+"label": "Itiatio", "lat": 16.9941, "lng": -98.349157
+},{
+"label": "Hierba Santa", "lat": 17.112964, "lng": -98.429498
+},{
+"label": "La Parota", "lat": 17.062411, "lng": -98.41907
+},{
+"label": "Arroyo Carrizo", "lat": 17.085431, "lng": -98.313321
+},{
+"label": "Azoyú de las Palmas", "lat": 17.012761, "lng": -98.499434
+},{
+"label": "Xiniandiki", "lat": 17.172646, "lng": -98.461433
+},{
+"label": "Yoso Ya'a", "lat": 17.014324, "lng": -98.365449
+},{
+"label": "Cuesta Baje", "lat": 17.001203, "lng": -98.375593
+},{
+"label": "Peña de Venado", "lat": 17.066988, "lng": -98.399724
+},{
+"label": "Cuetzala Unión", "lat": 17.235638, "lng": -98.476262
+},{
+"label": "Llano Pobre", "lat": 17.148817, "lng": -98.38283
+},{
+"label": "Santa María Cahuañaña", "lat": 17.138439, "lng": -98.38863
+},{
+"label": "El Naranjo", "lat": 17.022229, "lng": -98.420541
+},{
+"label": "Colonia Chilpancinguito de los Libres", "lat": 17.184906, "lng": -98.420797
+},{
+"label": "Divino Pastor", "lat": 17.095994, "lng": -98.378707
+},{
+"label": "La Joya de Oro", "lat": 17.006912, "lng": -98.389519
+},{
+"label": "Tierra Colorada Sur", "lat": 17.07995, "lng": -98.4096
+},{
+"label": "Xalpa", "lat": 17.082724, "lng": -98.362806
+},{
+"label": "Barrio de San Agustín", "lat": 17.273038, "lng": -98.492999
+},{
+"label": "Cascada del Zorro", "lat": 17.090199, "lng": -98.373628
+},{
+"label": "Itia Miniñu Un", "lat": 17.065481, "lng": -98.407748
+},{
+"label": "Arroyo Prieto", "lat": 17.073346, "lng": -98.310352
+},{
+"label": "Los Pinos", "lat": 17.196597, "lng": -98.465808
+},{
+"label": "Plan Buenavista", "lat": 17.04914, "lng": -98.528892
+},{
+"label": "San Agustín el Viejo", "lat": 17.269868, "lng": -98.49047
+},{
+"label": "Santa Cruz", "lat": 17.130349, "lng": -98.358602
+},{
+"label": "Rancho de Guadalupe (Barranca Pobre)", "lat": 17.155498, "lng": -98.396671
+},{
+"label": "Vista Hermosa", "lat": 17.069799, "lng": -98.37633
+},{
+"label": "La Ciénega", "lat": 17.175596, "lng": -98.452516
+},{
+"label": "Naucalpan de Juárez", "lat": 17.076791, "lng": -98.418544
+},{
+"label": "Ndii Yoo", "lat": 17.212476, "lng": -98.439126
+},{
+"label": "Lázaro Cárdenas", "lat": 17.121324, "lng": -98.495125
+},{
+"label": "Peña Colorada", "lat": 17.048515, "lng": -98.424396
+},{
+"label": "La Barca", "lat": 17.229589, "lng": -98.429722
+},{
+"label": "Pueblo Viejo", "lat": 17.180276, "lng": -98.456483
+},{
+"label": "El Ocotito", "lat": 17.035704, "lng": -98.422068
+},{
+"label": "Llano Perdido", "lat": 17.008579, "lng": -98.498247
+},{
+"label": "Río de la Víbora", "lat": 17.004253, "lng": -98.485367
+},{
+"label": "Llano de Laguna", "lat": 17.202002, "lng": -98.504947
+},{
+"label": "Colonia Guadalupe el Nuevo", "lat": 17.166755, "lng": -98.45929
+},{
+"label": "Rancho de los Hilarios", "lat": 17.063254, "lng": -98.42691
+},{
+"label": "Piedra Silleta", "lat": 17.208911, "lng": -98.446351
+},{
+"label": "Yoso Ndikivi", "lat": 17.027498, "lng": -98.326508
+},{
+"label": "Cahuañaña Centro", "lat": 17.139056, "lng": -98.388668
+},{
+"label": "Azoyuc Chiquito", "lat": 17.028345, "lng": -98.404001
+},{
+"label": "Yuvicani", "lat": 17.074629, "lng": -98.406035
+},{
+"label": "Llano del Carmen", "lat": 17.138017, "lng": -98.396183
+},{
+"label": "El Ciruelo", "lat": 17.044004, "lng": -98.40768
+},{
+"label": "Pie de Mango", "lat": 17.127613, "lng": -98.344349
+},{
+"label": "Río Cantador Chiquito", "lat": 17.019476, "lng": -98.380893
+},{
+"label": "Río Hoja", "lat": 17.011119, "lng": -98.338872
+},{
+"label": "Llano de las Piedras", "lat": 17.209299, "lng": -98.502643
+},{
+"label": "Nueva Jerusalén", "lat": 17.072535, "lng": -98.420195
+},{
+"label": "Llano del Burrito", "lat": 17.201942, "lng": -98.468989
+},{
+"label": "Colonia Barranca de los Mangos", "lat": 17.044167, "lng": -98.320278
+},{
+"label": "San Cristobalito", "lat": 17.179927, "lng": -98.49648
+},{
+"label": "Yuvi Chonu", "lat": 17.081103, "lng": -98.406729
+},{
+"label": "Ometepec Chiquito", "lat": 17.201384, "lng": -98.475269
+},{
+"label": "Cahuañaña", "lat": 17.139482, "lng": -98.387285
+},{
+"label": "Colonia Natividad", "lat": 17.075031, "lng": -98.389376
+},{
+"label": "Loma Tronconal", "lat": 17.150742, "lng": -98.424798
+},{
+"label": "Rancho Viejo Santa Cruz", "lat": 17.21862, "lng": -98.513978
+},{
+"label": "Llano de Durazno", "lat": 17.106471, "lng": -98.349626
+},{
+"label": "Xaha Yucu Yaa", "lat": 17.136205, "lng": -98.366286
+},{
+"label": "Loma Bonita", "lat": 17.164383, "lng": -98.45464
+},{
+"label": "El Mameyal", "lat": 17.051111, "lng": -98.401389
+},{
+"label": "San Miguel Amoltepec Viejo", "lat": 17.199177, "lng": -98.497765
+},{
+"label": "Llano de Metate", "lat": 17.190258, "lng": -98.492139
+}]

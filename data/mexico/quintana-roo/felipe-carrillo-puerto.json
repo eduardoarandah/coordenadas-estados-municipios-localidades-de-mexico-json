@@ -1,0 +1,663 @@
+[{
+"label": "Kopchén", "lat": 20.057804, "lng": -88.068727
+},{
+"label": "Ninguno [Corredor Frutícola]", "lat": 19.389444, "lng": -88.057619
+},{
+"label": "San Francisco Aké", "lat": 19.956187, "lng": -88.344578
+},{
+"label": "Rancho Tadeo", "lat": 19.121561, "lng": -88.243525
+},{
+"label": "Kopchen", "lat": 19.374016, "lng": -88.153048
+},{
+"label": "Isidra Koyoc", "lat": 19.606429, "lng": -87.988211
+},{
+"label": "Tuzik", "lat": 19.915273, "lng": -88.159277
+},{
+"label": "La Noria", "lat": 20.210459, "lng": -88.156928
+},{
+"label": "Pollos a la Leña [Restaurante]", "lat": 19.201869, "lng": -88.102211
+},{
+"label": "Xmacnail", "lat": 19.692222, "lng": -88.201667
+},{
+"label": "La Curva", "lat": 19.276284, "lng": -88.098867
+},{
+"label": "Ninguno [Rastro Municipal]", "lat": 19.594444, "lng": -88.035278
+},{
+"label": "Pomká", "lat": 19.694808, "lng": -88.323788
+},{
+"label": "Señor", "lat": 19.843863, "lng": -88.136032
+},{
+"label": "Santa Amalia", "lat": 19.765772, "lng": -87.862603
+},{
+"label": "Margarito Zamora", "lat": 19.244593, "lng": -87.507649
+},{
+"label": "San Luis", "lat": 19.646025, "lng": -88.447649
+},{
+"label": "Presidente Juárez", "lat": 19.328783, "lng": -88.561935
+},{
+"label": "Zona Arqueológica", "lat": 20.078829, "lng": -87.611276
+},{
+"label": "Centauro", "lat": 19.285, "lng": -88.0975
+},{
+"label": "Santa Fe Segundo", "lat": 19.59148, "lng": -88.079394
+},{
+"label": "Ramonal", "lat": 19.396843, "lng": -88.619525
+},{
+"label": "Ninguno", "lat": 19.550415, "lng": -88.042692
+},{
+"label": "Guadalupana", "lat": 19.586444, "lng": -88.187621
+},{
+"label": "El Olimpo", "lat": 20.033333, "lng": -88.323333
+},{
+"label": "Chan Dzonot", "lat": 20.19134, "lng": -88.353925
+},{
+"label": "María Magdalena Dzul Chuc", "lat": 19.57409, "lng": -88.59013
+},{
+"label": "El Triunfo", "lat": 19.256944, "lng": -87.495278
+},{
+"label": "San José Segundo", "lat": 19.969993, "lng": -88.227058
+},{
+"label": "Felipe Carrillo Puerto", "lat": 19.57851, "lng": -88.046587
+},{
+"label": "Balché", "lat": 20.231369, "lng": -88.188587
+},{
+"label": "Las Lagarteras", "lat": 19.296164, "lng": -88.551563
+},{
+"label": "San Román", "lat": 19.492801, "lng": -87.431514
+},{
+"label": "Guadalupe", "lat": 19.605668, "lng": -88.117134
+},{
+"label": "Dzaptún", "lat": 20.271176, "lng": -88.075303
+},{
+"label": "X-Hazil Primero", "lat": 20.170792, "lng": -87.992168
+},{
+"label": "El Gallito", "lat": 19.178889, "lng": -88.068611
+},{
+"label": "Marte", "lat": 19.598056, "lng": -88.101111
+},{
+"label": "La Librada", "lat": 19.175278, "lng": -88.17
+},{
+"label": "Casa Blanca", "lat": 19.600786, "lng": -87.412409
+},{
+"label": "Chan Chen Chuc", "lat": 19.401001, "lng": -88.391196
+},{
+"label": "Kankabdzonot", "lat": 20.136574, "lng": -87.961999
+},{
+"label": "Seis de Enero", "lat": 19.371819, "lng": -88.562832
+},{
+"label": "Macario Leyva", "lat": 19.111796, "lng": -88.269454
+},{
+"label": "Santa Clara", "lat": 19.362778, "lng": -88.611944
+},{
+"label": "San Severo", "lat": 19.661944, "lng": -88.076389
+},{
+"label": "Ninguno [UAIM]", "lat": 19.412778, "lng": -88.048333
+},{
+"label": "Laguna Ocom Primero", "lat": 19.465003, "lng": -88.119905
+},{
+"label": "X-Café", "lat": 20.197922, "lng": -88.015485
+},{
+"label": "Los Cocos", "lat": 19.313119, "lng": -88.324233
+},{
+"label": "Laguna Kaná", "lat": 19.501727, "lng": -88.397591
+},{
+"label": "Yodzonot Nuevo", "lat": 19.78523, "lng": -88.288393
+},{
+"label": "Casa Arvimi", "lat": 19.257345, "lng": -87.495251
+},{
+"label": "San Carlos", "lat": 19.619444, "lng": -88.176667
+},{
+"label": "Rancho Lejos", "lat": 19.348333, "lng": -88.665
+},{
+"label": "Ignacio Montes de Oca Carrillo", "lat": 19.458666, "lng": -88.582206
+},{
+"label": "El Pollito", "lat": 20.148725, "lng": -87.99225
+},{
+"label": "Sijiil Noh Ha", "lat": 19.476221, "lng": -88.054465
+},{
+"label": "Chimay", "lat": 20.277778, "lng": -88.034444
+},{
+"label": "Nueva Loría", "lat": 19.301779, "lng": -88.537063
+},{
+"label": "Canzepchén", "lat": 20.01208, "lng": -88.15761
+},{
+"label": "X-Konha", "lat": 19.431739, "lng": -88.101204
+},{
+"label": "El Rey", "lat": 19.230278, "lng": -88.101389
+},{
+"label": "Jorge Espinoza", "lat": 19.143889, "lng": -87.549444
+},{
+"label": "Vigía Chico", "lat": 19.773611, "lng": -87.587222
+},{
+"label": "José Guadalupe", "lat": 19.60255, "lng": -88.053338
+},{
+"label": "San José Café", "lat": 20.095833, "lng": -88.412222
+},{
+"label": "Radio Turquesa", "lat": 19.596515, "lng": -88.034038
+},{
+"label": "El Haragán", "lat": 19.226389, "lng": -88.101667
+},{
+"label": "Nueva Visión", "lat": 19.607583, "lng": -88.123498
+},{
+"label": "Los Tres Reyes", "lat": 19.260111, "lng": -87.492493
+},{
+"label": "Kancabchén", "lat": 20.235226, "lng": -88.155101
+},{
+"label": "Santa Cecilia", "lat": 19.276425, "lng": -88.097277
+},{
+"label": "Sisbic", "lat": 19.578981, "lng": -88.083076
+},{
+"label": "Amadamaya S.A. de C.V. [Kilómetro Ochenta y Uno]", "lat": 19.141048, "lng": -87.549253
+},{
+"label": "San Felipe Berriozábal", "lat": 20.053365, "lng": -88.168482
+},{
+"label": "Rancho Chico", "lat": 19.458764, "lng": -88.124861
+},{
+"label": "El Albur", "lat": 19.234121, "lng": -88.108855
+},{
+"label": "Lagos", "lat": 19.262769, "lng": -87.489149
+},{
+"label": "Santa Leticia", "lat": 20.071088, "lng": -88.117769
+},{
+"label": "Uh May", "lat": 19.416404, "lng": -88.048732
+},{
+"label": "Ninguno [Gasolinera]", "lat": 19.594753, "lng": -88.036318
+},{
+"label": "Chun-Yah", "lat": 20.101727, "lng": -87.92696
+},{
+"label": "Celso Juárez", "lat": 19.086111, "lng": -88.3125
+},{
+"label": "Los Lagartos", "lat": 19.287564, "lng": -88.529259
+},{
+"label": "San Miguel", "lat": 19.59448, "lng": -88.089925
+},{
+"label": "San Pedro Nuevo", "lat": 19.576667, "lng": -88.246667
+},{
+"label": "El Resbalón", "lat": 19.080173, "lng": -88.325674
+},{
+"label": "Cruz-Chen", "lat": 20.321958, "lng": -88.06095
+},{
+"label": "El Coleguita", "lat": 19.223694, "lng": -88.082321
+},{
+"label": "San Antonio Segundo", "lat": 19.892334, "lng": -88.001397
+},{
+"label": "Chapas", "lat": 19.589824, "lng": -88.077616
+},{
+"label": "El Ramonal", "lat": 19.828752, "lng": -87.557944
+},{
+"label": "La Virtud", "lat": 19.260556, "lng": -88.135
+},{
+"label": "Sacrificio", "lat": 19.46658, "lng": -87.44766
+},{
+"label": "Macehual", "lat": 19.165556, "lng": -88.168333
+},{
+"label": "El Cristo", "lat": 19.359167, "lng": -88.569722
+},{
+"label": "Chan Koh", "lat": 20.343396, "lng": -88.032949
+},{
+"label": "Mosquiteros", "lat": 19.236613, "lng": -87.514661
+},{
+"label": "El Girasol", "lat": 19.301449, "lng": -88.466602
+},{
+"label": "Dzoyola", "lat": 19.94247, "lng": -88.445299
+},{
+"label": "X-Pichil", "lat": 19.695634, "lng": -88.377951
+},{
+"label": "X-Hazil Norte", "lat": 20.214389, "lng": -87.982491
+},{
+"label": "Tihosuco", "lat": 20.197147, "lng": -88.374148
+},{
+"label": "Santa María", "lat": 19.617778, "lng": -88.178889
+},{
+"label": "Marín", "lat": 19.486126, "lng": -88.031735
+},{
+"label": "Suku'un Rich", "lat": 19.534395, "lng": -88.04163
+},{
+"label": "Naranjal Dos", "lat": 20.038889, "lng": -87.655
+},{
+"label": "Chumpichi", "lat": 19.268614, "lng": -88.364078
+},{
+"label": "Las Lomas", "lat": 19.255833, "lng": -88.100556
+},{
+"label": "Mixtequilla", "lat": 19.386992, "lng": -88.265491
+},{
+"label": "Nuevo Israel", "lat": 19.241688, "lng": -88.55245
+},{
+"label": "San Jorge", "lat": 19.381515, "lng": -88.398501
+},{
+"label": "Mulichén", "lat": 20.287894, "lng": -88.053648
+},{
+"label": "San Antonio Nuevo", "lat": 19.626162, "lng": -88.067064
+},{
+"label": "Yaxley", "lat": 19.768204, "lng": -88.199767
+},{
+"label": "Novelo", "lat": 19.594566, "lng": -88.093218
+},{
+"label": "Blanca Flor", "lat": 19.357335, "lng": -88.433602
+},{
+"label": "Naranjal", "lat": 19.845962, "lng": -87.866929
+},{
+"label": "Sac-Tzu-Tzui", "lat": 19.601323, "lng": -88.115384
+},{
+"label": "San Daniel", "lat": 19.305941, "lng": -88.323384
+},{
+"label": "Santa Rosa Segundo", "lat": 19.978937, "lng": -88.261741
+},{
+"label": "Anexa Santa Fe Segundo", "lat": 19.591106, "lng": -88.077113
+},{
+"label": "SEDENA", "lat": 19.590249, "lng": -88.074086
+},{
+"label": "Nueva Vida", "lat": 20.146081, "lng": -87.98259
+},{
+"label": "Melchor Ocampo", "lat": 20.025361, "lng": -88.279092
+},{
+"label": "Nicte Ha", "lat": 19.591874, "lng": -88.177352
+},{
+"label": "La Ceiba", "lat": 19.373889, "lng": -88.405
+},{
+"label": "Eliodoro Llovera Guzmán", "lat": 19.102139, "lng": -88.263351
+},{
+"label": "Pucté", "lat": 19.470394, "lng": -88.081174
+},{
+"label": "San Martín", "lat": 19.49, "lng": -88.373333
+},{
+"label": "San Jacinto", "lat": 20.210794, "lng": -88.369584
+},{
+"label": "Las Palomas", "lat": 19.4275, "lng": -88.102778
+},{
+"label": "Roberto Pérez", "lat": 19.094288, "lng": -88.277061
+},{
+"label": "Kancab Chén", "lat": 19.877651, "lng": -87.846596
+},{
+"label": "Lirios", "lat": 20.091851, "lng": -88.389591
+},{
+"label": "Paytoro", "lat": 19.256944, "lng": -88.362222
+},{
+"label": "Pozo Blanco", "lat": 19.409658, "lng": -88.568894
+},{
+"label": "El Vergel", "lat": 19.378504, "lng": -88.561873
+},{
+"label": "San Juan Dieguito", "lat": 19.43899, "lng": -88.576817
+},{
+"label": "Noh-Cah", "lat": 19.421679, "lng": -88.159883
+},{
+"label": "San Ángel", "lat": 19.489658, "lng": -88.591278
+},{
+"label": "El Progreso", "lat": 19.234148, "lng": -88.115026
+},{
+"label": "Xaan", "lat": 20.000589, "lng": -88.035193
+},{
+"label": "Andrea Angélica", "lat": 19.262103, "lng": -87.489242
+},{
+"label": "Tres Pocitos", "lat": 19.450064, "lng": -88.014173
+},{
+"label": "Kilómetro Treinta y Uno", "lat": 19.814439, "lng": -87.874317
+},{
+"label": "Gustavo Ché Montalvo", "lat": 19.565793, "lng": -88.047699
+},{
+"label": "Tierra Bonita", "lat": 19.507253, "lng": -88.597067
+},{
+"label": "El Corozo", "lat": 19.267176, "lng": -88.502038
+},{
+"label": "Santa Gertrudis", "lat": 20.037333, "lng": -88.398843
+},{
+"label": "Los Ponchos", "lat": 19.406111, "lng": -88.052222
+},{
+"label": "Santa Matilde", "lat": 19.421111, "lng": -88.634444
+},{
+"label": "Lidia Arana Tun", "lat": 19.618889, "lng": -88.168889
+},{
+"label": "Kenia Nairobi", "lat": 19.257734, "lng": -88.099423
+},{
+"label": "Punta Estrella", "lat": 19.538599, "lng": -87.423599
+},{
+"label": "Yodzonot", "lat": 19.999514, "lng": -87.927031
+},{
+"label": "Chunhuás", "lat": 19.632027, "lng": -88.210289
+},{
+"label": "Frontera Norte", "lat": 19.306223, "lng": -88.534329
+},{
+"label": "Polinkín", "lat": 19.174619, "lng": -88.168407
+},{
+"label": "Chancah Derrepente", "lat": 19.400567, "lng": -88.229414
+},{
+"label": "Santa María Poniente", "lat": 19.367637, "lng": -88.407411
+},{
+"label": "Chanchén", "lat": 19.883444, "lng": -87.8554
+},{
+"label": "Fernando Serrano Trujillo", "lat": 19.613422, "lng": -88.151968
+},{
+"label": "Tres Pozos", "lat": 19.517589, "lng": -88.03846
+},{
+"label": "San Valentín", "lat": 19.345361, "lng": -88.270995
+},{
+"label": "Las Golondrinas", "lat": 19.478056, "lng": -88.5875
+},{
+"label": "Dzitbalché", "lat": 20.209284, "lng": -88.08731
+},{
+"label": "La Victoria", "lat": 19.44534, "lng": -87.471598
+},{
+"label": "Andrés Quintana Roo", "lat": 19.161881, "lng": -88.103411
+},{
+"label": "Tzukum", "lat": 19.751389, "lng": -88.15
+},{
+"label": "San Diego", "lat": 19.356528, "lng": -88.256648
+},{
+"label": "Dos Cedritos", "lat": 19.835162, "lng": -87.540751
+},{
+"label": "Chumpón", "lat": 20.002827, "lng": -87.811203
+},{
+"label": "Isla Zitipal", "lat": 19.327593, "lng": -87.46479
+},{
+"label": "La Gloria", "lat": 19.612937, "lng": -88.149034
+},{
+"label": "Chan-Yodzonot", "lat": 20.063636, "lng": -87.966456
+},{
+"label": "Cecilio Chí (Kilómetro Sesenta y Cuatro)", "lat": 20.022299, "lng": -87.669843
+},{
+"label": "Villahermosa", "lat": 20.278696, "lng": -88.070319
+},{
+"label": "Santa Lucía", "lat": 19.382732, "lng": -88.642313
+},{
+"label": "San Isidro", "lat": 20.055004, "lng": -88.360648
+},{
+"label": "Santa Teresa", "lat": 19.615833, "lng": -88.163333
+},{
+"label": "Francisco May", "lat": 20.153653, "lng": -88.157481
+},{
+"label": "Rastafari Mens Club", "lat": 19.59359, "lng": -88.037272
+},{
+"label": "Kampokolché", "lat": 19.852509, "lng": -88.330551
+},{
+"label": "Chich-Muc", "lat": 19.401389, "lng": -88.431389
+},{
+"label": "Charys", "lat": 19.617869, "lng": -88.157487
+},{
+"label": "San Lorenzo", "lat": 20.211141, "lng": -88.461361
+},{
+"label": "Akachén", "lat": 20.268959, "lng": -88.042601
+},{
+"label": "Pixoy", "lat": 19.979292, "lng": -87.899002
+},{
+"label": "Tepich", "lat": 20.241375, "lng": -88.256409
+},{
+"label": "Tasistal", "lat": 19.2875, "lng": -88.096389
+},{
+"label": "Tzuquil", "lat": 20.253333, "lng": -87.989722
+},{
+"label": "Los Dos Potrillos", "lat": 19.260978, "lng": -88.36485
+},{
+"label": "Pablo Jiménez Villanueva", "lat": 19.430182, "lng": -88.573221
+},{
+"label": "San Fernando", "lat": 19.894383, "lng": -88.01235
+},{
+"label": "San Carreto [Cafetería]", "lat": 19.856086, "lng": -87.857806
+},{
+"label": "Tricasa", "lat": 19.593435, "lng": -88.086529
+},{
+"label": "Santa Rosa", "lat": 19.359722, "lng": -88.271667
+},{
+"label": "Hazil", "lat": 19.85248, "lng": -88.263531
+},{
+"label": "San Ramón", "lat": 20.145196, "lng": -88.107966
+},{
+"label": "Dzulá", "lat": 19.603323, "lng": -88.41575
+},{
+"label": "Punta Herrero", "lat": 19.321011, "lng": -87.462248
+},{
+"label": "Tres Reyes", "lat": 19.836131, "lng": -87.861789
+},{
+"label": "Rancho Víctor", "lat": 19.267859, "lng": -88.100423
+},{
+"label": "Mi Ranchito", "lat": 19.52502, "lng": -87.428005
+},{
+"label": "Chun Akidz", "lat": 19.375483, "lng": -88.445341
+},{
+"label": "Kilómetro Dos", "lat": 19.595084, "lng": -88.051774
+},{
+"label": "El Olvido (Kulché)", "lat": 19.260679, "lng": -87.491014
+},{
+"label": "Las Palmas", "lat": 19.260278, "lng": -88.098333
+},{
+"label": "Fitosanitaria", "lat": 19.595136, "lng": -88.035934
+},{
+"label": "Santa Rita", "lat": 19.640278, "lng": -88.066111
+},{
+"label": "San Nicolás", "lat": 19.416864, "lng": -88.403288
+},{
+"label": "Chun Kulché", "lat": 19.790556, "lng": -88.169444
+},{
+"label": "Cacab", "lat": 19.981974, "lng": -87.944667
+},{
+"label": "Tac-Chivo", "lat": 20.221111, "lng": -88.040833
+},{
+"label": "El Edén", "lat": 19.565813, "lng": -88.051824
+},{
+"label": "El Roble", "lat": 19.113216, "lng": -88.263383
+},{
+"label": "Primera Laguna", "lat": 19.603235, "lng": -88.003027
+},{
+"label": "Filadelfia", "lat": 19.975676, "lng": -88.255478
+},{
+"label": "San Antonio", "lat": 19.475546, "lng": -88.080106
+},{
+"label": "Noh-Bec", "lat": 19.142812, "lng": -88.169666
+},{
+"label": "Tixcacal Guardia", "lat": 19.858631, "lng": -88.175279
+},{
+"label": "Chucab", "lat": 19.890349, "lng": -88.413575
+},{
+"label": "El Perico", "lat": 19.357157, "lng": -88.551507
+},{
+"label": "Tepich Dos", "lat": 20.205047, "lng": -88.312494
+},{
+"label": "Hobompich", "lat": 19.808333, "lng": -88.351111
+},{
+"label": "Nohkancab", "lat": 19.813798, "lng": -87.992988
+},{
+"label": "CERESO", "lat": 19.588172, "lng": -88.068347
+},{
+"label": "Chancah Veracruz", "lat": 19.494894, "lng": -87.994321
+},{
+"label": "Estanislao Bolio Caamal", "lat": 19.473544, "lng": -88.587353
+},{
+"label": "Xec-Pich", "lat": 19.456667, "lng": -88.201944
+},{
+"label": "El Naranjal", "lat": 20.059991, "lng": -88.334929
+},{
+"label": "Tampalán", "lat": 19.160492, "lng": -87.541408
+},{
+"label": "Tierra Prometida", "lat": 19.603575, "lng": -88.124782
+},{
+"label": "Chancacab", "lat": 19.303889, "lng": -88.093889
+},{
+"label": "San José", "lat": 19.418369, "lng": -88.045104
+},{
+"label": "Balam Nah", "lat": 19.476389, "lng": -88.0675
+},{
+"label": "X-Huazil", "lat": 20.222398, "lng": -88.004718
+},{
+"label": "Ninguno [Vivero Municipal]", "lat": 19.598016, "lng": -88.032879
+},{
+"label": "María Elena", "lat": 19.405968, "lng": -87.517473
+},{
+"label": "Flor de Mayo", "lat": 20.190317, "lng": -88.108688
+},{
+"label": "San Felipe", "lat": 19.594839, "lng": -88.09552
+},{
+"label": "San Andrés", "lat": 19.40209, "lng": -88.13189
+},{
+"label": "San Salvador", "lat": 20.328271, "lng": -88.072971
+},{
+"label": "Ramón Lara", "lat": 19.593889, "lng": -88.085556
+},{
+"label": "La Lagunita", "lat": 19.160773, "lng": -88.169568
+},{
+"label": "XECPQ [Estación de Radio]", "lat": 19.55618, "lng": -88.04206
+},{
+"label": "Emiliano Zapata", "lat": 19.203944, "lng": -88.535001
+},{
+"label": "San José Primero", "lat": 19.81175, "lng": -88.11067
+},{
+"label": "Xhulmi", "lat": 19.608394, "lng": -88.149311
+},{
+"label": "Caña Brava", "lat": 20.081191, "lng": -88.336468
+},{
+"label": "José María Pino Suárez", "lat": 19.804586, "lng": -88.118633
+},{
+"label": "Ignacio Xool", "lat": 19.577629, "lng": -88.594756
+},{
+"label": "Filomeno Mata", "lat": 19.859475, "lng": -88.39458
+},{
+"label": "Columpich", "lat": 20.10638, "lng": -88.26273
+},{
+"label": "Xijun Kah", "lat": 20.07804, "lng": -88.091822
+},{
+"label": "Reforma Agraria", "lat": 19.197186, "lng": -88.115155
+},{
+"label": "Aktún Kú", "lat": 20.256258, "lng": -88.036734
+},{
+"label": "El Paso", "lat": 19.470828, "lng": -88.58716
+},{
+"label": "La Herradura", "lat": 19.158817, "lng": -88.104411
+},{
+"label": "Chan Santa Cruz", "lat": 19.369731, "lng": -88.333044
+},{
+"label": "Chan Xcán", "lat": 20.036408, "lng": -88.437335
+},{
+"label": "Polyuc", "lat": 19.609333, "lng": -88.562287
+},{
+"label": "Rancho Grande", "lat": 19.206693, "lng": -88.101916
+},{
+"label": "Bachoco [Granja]", "lat": 19.606154, "lng": -88.127275
+},{
+"label": "El Naranjo", "lat": 19.768611, "lng": -88.131111
+},{
+"label": "La Estrella [Kilómetro Ochenta y Uno]", "lat": 19.447015, "lng": -88.579405
+},{
+"label": "Yoactún", "lat": 19.459391, "lng": -88.358634
+},{
+"label": "San Hipólito", "lat": 20.136804, "lng": -87.999463
+},{
+"label": "San Pedro", "lat": 19.393056, "lng": -88.409722
+},{
+"label": "Betania", "lat": 19.638369, "lng": -88.287095
+},{
+"label": "Tabi", "lat": 19.720656, "lng": -88.265169
+},{
+"label": "Lal-Cah", "lat": 20.099587, "lng": -88.32165
+},{
+"label": "San Bartolo", "lat": 20.161915, "lng": -88.062868
+},{
+"label": "Gas de Chetumal", "lat": 19.598001, "lng": -88.101679
+},{
+"label": "San Silverio", "lat": 20.359251, "lng": -88.036974
+},{
+"label": "La Maravilla", "lat": 19.850347, "lng": -87.860348
+},{
+"label": "Komchén", "lat": 19.468671, "lng": -88.214906
+},{
+"label": "X-Yatil", "lat": 19.662475, "lng": -88.443913
+},{
+"label": "Emilio Che Tuz", "lat": 19.388454, "lng": -88.058897
+},{
+"label": "Naranjal Poniente", "lat": 19.361607, "lng": -88.460548
+},{
+"label": "Santa Cruz", "lat": 19.309975, "lng": -88.130064
+},{
+"label": "Trapich", "lat": 20.013757, "lng": -88.140513
+},{
+"label": "Yaxché Chal", "lat": 20.065898, "lng": -88.088064
+},{
+"label": "Kiichpam K'áax", "lat": 19.496219, "lng": -88.593808
+},{
+"label": "Yalchén", "lat": 20.309946, "lng": -88.016054
+},{
+"label": "Petcacab", "lat": 19.290823, "lng": -88.225413
+},{
+"label": "X-Hazil Sur", "lat": 19.391323, "lng": -88.075497
+},{
+"label": "San Vicente", "lat": 19.417894, "lng": -88.555615
+},{
+"label": "Fausto Aké", "lat": 19.319949, "lng": -88.305993
+},{
+"label": "Tres Potrillos", "lat": 19.27, "lng": -88.144167
+},{
+"label": "Cedralito", "lat": 19.420173, "lng": -88.150043
+},{
+"label": "Chayote", "lat": 19.751437, "lng": -88.106916
+},{
+"label": "San Pablo", "lat": 20.002048, "lng": -87.697548
+},{
+"label": "El Humilde Campesino", "lat": 19.643858, "lng": -88.064709
+},{
+"label": "Omega", "lat": 19.384619, "lng": -88.55927
+},{
+"label": "Sahcabchén", "lat": 20.172476, "lng": -87.927317
+},{
+"label": "Las Bugambilias", "lat": 19.597404, "lng": -88.008216
+},{
+"label": "Las Isabeles", "lat": 19.606943, "lng": -88.133395
+},{
+"label": "SEDARI [Vivero]", "lat": 19.495556, "lng": -88.594167
+},{
+"label": "Punta Herrero [Faro]", "lat": 19.312742, "lng": -87.446144
+},{
+"label": "Ignacio Manuel Altamirano", "lat": 19.287257, "lng": -88.575495
+},{
+"label": "Los Laureles", "lat": 19.752677, "lng": -88.364465
+},{
+"label": "Chun Ox", "lat": 19.283889, "lng": -88.133611
+},{
+"label": "Los Chiquiles", "lat": 19.265, "lng": -87.488333
+},{
+"label": "Santa Isabel", "lat": 19.469103, "lng": -88.097207
+},{
+"label": "Chun On", "lat": 20.031237, "lng": -87.870572
+},{
+"label": "Yodzonot Chico", "lat": 20.050134, "lng": -87.948932
+},{
+"label": "Hacienda", "lat": 20.200278, "lng": -88.452778
+},{
+"label": "San Juan", "lat": 19.61799, "lng": -88.170868
+},{
+"label": "Paraíso", "lat": 19.230643, "lng": -88.101055
+},{
+"label": "Chunhuhub", "lat": 19.586067, "lng": -88.592386
+},{
+"label": "La Esperanza", "lat": 19.437429, "lng": -88.575921
+},{
+"label": "Ninguno [CBTA 80]", "lat": 19.563873, "lng": -88.591731
+},{
+"label": "Mil Caminos", "lat": 19.595798, "lng": -88.035412
+},{
+"label": "San Hermenegildo", "lat": 19.385994, "lng": -88.189279
+},{
+"label": "Gallito", "lat": 19.245833, "lng": -88.330833
+},{
+"label": "Francisco I. Madero", "lat": 20.156462, "lng": -88.026448
+},{
+"label": "Bella Flor", "lat": 19.390379, "lng": -88.56563
+},{
+"label": "La Guadalupana", "lat": 19.477386, "lng": -88.072147
+},{
+"label": "Chanchén Comandante", "lat": 19.838978, "lng": -88.107079
+},{
+"label": "Kilómetro Sesenta y Ocho", "lat": 20.048333, "lng": -87.653056
+},{
+"label": "Chunyaxché", "lat": 20.077826, "lng": -87.61487
+},{
+"label": "Kancabchén Segundo", "lat": 20.086944, "lng": -87.829722
+},{
+"label": "Dzap Tun", "lat": 19.937865, "lng": -87.915647
+},{
+"label": "Flor de Jazmín", "lat": 19.319815, "lng": -88.307228
+},{
+"label": "Tampak", "lat": 19.77048, "lng": -88.144222
+},{
+"label": "Laguna Cenote", "lat": 19.483611, "lng": -88.051111
+},{
+"label": "Montalvo", "lat": 19.527781, "lng": -88.035229
+},{
+"label": "Rocío", "lat": 19.598374, "lng": -88.127605
+}]

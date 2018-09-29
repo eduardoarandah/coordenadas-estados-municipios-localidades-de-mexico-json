@@ -1,0 +1,3899 @@
+[{
+"label": "Mexicali (Colonia la Herradura) [Club Hípico]", "lat": 32.636536, "lng": -115.285295
+},{
+"label": "Colonia Carlos Salinas de Gortari", "lat": 31.035732, "lng": -114.884959
+},{
+"label": "Familia Sánchez (Tlaxcala Dos)", "lat": 32.472856, "lng": -115.115496
+},{
+"label": "Familia Cota (Lote Cuarenta y Cuatro Colonia Silva)", "lat": 32.402689, "lng": -115.066221
+},{
+"label": "Compuerta 29 (Veracruz Marítimo)", "lat": 32.35825, "lng": -115.083989
+},{
+"label": "Poblado Lázaro Cárdenas (La Veintiocho)", "lat": 32.371168, "lng": -115.059274
+},{
+"label": "Cuatro Hermanos", "lat": 32.512093, "lng": -115.413599
+},{
+"label": "Villa Hermosa", "lat": 32.639011, "lng": -114.974522
+},{
+"label": "Familia González Herrera (Colonia Silva)", "lat": 32.400258, "lng": -115.016319
+},{
+"label": "Rancho Zavala (Colonia Venustiano Carranza)", "lat": 32.219679, "lng": -115.147037
+},{
+"label": "Parcela Veintinueve (Ejido Aguascalientes)", "lat": 32.28995, "lng": -115.142271
+},{
+"label": "Crucero del Toluca (Ejido Toluca)", "lat": 32.418642, "lng": -115.067952
+},{
+"label": "Familia Jáquez (Colonia Osiris)", "lat": 32.556728, "lng": -115.187505
+},{
+"label": "Familia González Maciel (Colonia el Triángulo)", "lat": 32.248654, "lng": -115.110588
+},{
+"label": "Ciudad Morelos (Cuervos)", "lat": 32.631515, "lng": -114.864714
+},{
+"label": "Familia Delgado Gutiérrez (Colonia Progreso)", "lat": 32.560587, "lng": -115.524892
+},{
+"label": "Familia Félix (Ejido Hermosillo)", "lat": 32.512137, "lng": -114.899294
+},{
+"label": "Familia Salcedo (Ejido Morelos)", "lat": 32.610751, "lng": -114.855394
+},{
+"label": "Rancho Escolane", "lat": 30.966483, "lng": -114.840635
+},{
+"label": "FANOSA", "lat": 32.605175, "lng": -115.526003
+},{
+"label": "Familia Reyes (Ejido Cucapah Mestizo)", "lat": 32.263024, "lng": -115.319242
+},{
+"label": "Colonia Manuel Ávila Camacho", "lat": 32.175968, "lng": -115.120473
+},{
+"label": "Los Laureles del Desierto", "lat": 32.259491, "lng": -115.755292
+},{
+"label": "Ejido Irapuato", "lat": 32.594096, "lng": -115.124446
+},{
+"label": "Ninguno", "lat": 30.949291, "lng": -114.840097
+},{
+"label": "Familia Meza (Colonia Sonora)", "lat": 32.599223, "lng": -115.648464
+},{
+"label": "Familia Orozco (Colonia Bórquez)", "lat": 32.659921, "lng": -114.964262
+},{
+"label": "Familia Sánchez (Ejido Culiacán)", "lat": 32.702554, "lng": -114.73856
+},{
+"label": "Familia Lara (Ejido San Luis Potosí)", "lat": 32.495278, "lng": -115.160833
+},{
+"label": "La Palma", "lat": 32.318833, "lng": -115.273698
+},{
+"label": "Rancho Valdivia", "lat": 32.466638, "lng": -115.135335
+},{
+"label": "Rancho Duarte (Colonia Abasolo)", "lat": 32.641629, "lng": -115.333951
+},{
+"label": "Familia Melgoza Ortega (Ejido Durango)", "lat": 32.268729, "lng": -115.187254
+},{
+"label": "RV Park el Cachanilla", "lat": 31.115057, "lng": -114.906409
+},{
+"label": "Ejido San Luis Potosí Dos", "lat": 32.48191, "lng": -115.157754
+},{
+"label": "El Arenal", "lat": 32.677474, "lng": -114.780865
+},{
+"label": "Familia Loza (Ejido Aguascalientes)", "lat": 32.289638, "lng": -115.121486
+},{
+"label": "Rancho Sánchez (Colonia Venustiano Carranza)", "lat": 32.212704, "lng": -115.167914
+},{
+"label": "Los Capiros", "lat": 32.650158, "lng": -115.326432
+},{
+"label": "El Milagro (Ejido Campeche)", "lat": 32.560155, "lng": -114.961547
+},{
+"label": "Familia Ramírez (Colonia Miguel Alemán)", "lat": 32.492252, "lng": -114.867559
+},{
+"label": "Rancho Marlboro", "lat": 32.601371, "lng": -115.520852
+},{
+"label": "Ejido Sonora", "lat": 32.288041, "lng": -115.233199
+},{
+"label": "Rancho de los Chico (Ejido Tlaxcala)", "lat": 32.446668, "lng": -115.126742
+},{
+"label": "San Francisco (Rodolfo Sánchez Taboada)", "lat": 32.260805, "lng": -115.714376
+},{
+"label": "Las Avestruces", "lat": 32.454248, "lng": -115.15848
+},{
+"label": "Familia Hernández (Ejido Durango)", "lat": 32.240629, "lng": -115.236343
+},{
+"label": "Familia León Martínez (Ejido Sinaloa)", "lat": 32.503475, "lng": -115.293712
+},{
+"label": "Familia Meza (Colonia Tecolote Batáquez)", "lat": 32.570069, "lng": -115.025121
+},{
+"label": "Familia Mosqueda (Veracruz Dos)", "lat": 32.383824, "lng": -115.066498
+},{
+"label": "Familia Rodríguez Martínez (Ejido Chiapas)", "lat": 32.438206, "lng": -114.986355
+},{
+"label": "Familia Siordia (Ejido Aguascalientes)", "lat": 32.275605, "lng": -115.146096
+},{
+"label": "Rancho Barba (Colonia Tecolote Batáquez)", "lat": 32.531083, "lng": -115.054852
+},{
+"label": "Familia Castañeda (Colonia Hindú)", "lat": 32.413243, "lng": -114.983508
+},{
+"label": "Los Viveros (Colonia Colorado Número Dos)", "lat": 32.440033, "lng": -115.339643
+},{
+"label": "Familia Yorba (Ejido Morelos)", "lat": 32.580226, "lng": -114.854921
+},{
+"label": "San Jacinto (Colonia Elías)", "lat": 32.347583, "lng": -115.037424
+},{
+"label": "Familia Berna", "lat": 32.669178, "lng": -115.320281
+},{
+"label": "Familia BR", "lat": 32.606945, "lng": -115.357487
+},{
+"label": "Familia Elizarrarás (Ejido Jalapa)", "lat": 32.470154, "lng": -115.167163
+},{
+"label": "Villas San Francisco [Fraccionamiento]", "lat": 30.970258, "lng": -114.797928
+},{
+"label": "Familia Ríos (Ampliación Ejido Torreón)", "lat": 32.627701, "lng": -114.916674
+},{
+"label": "Familia Montes (Colonia Chapultepec)", "lat": 32.335, "lng": -115.097778
+},{
+"label": "Familia Vega (Parcela Ochenta y Tres Ejido Campeche)", "lat": 32.536624, "lng": -114.992367
+},{
+"label": "Rancho de mis Recuerdos", "lat": 32.598638, "lng": -115.574353
+},{
+"label": "De un Rancho a Otro", "lat": 31.095985, "lng": -114.890806
+},{
+"label": "Familia Martínez (Veracruz Dos)", "lat": 32.394119, "lng": -115.098248
+},{
+"label": "Rancho Brown (Colonia Abasolo)", "lat": 32.619329, "lng": -115.347243
+},{
+"label": "Familia Gaspar (Ejido Hermosillo)", "lat": 32.515728, "lng": -114.899707
+},{
+"label": "La Texanita", "lat": 32.484238, "lng": -114.838251
+},{
+"label": "Poblado Alfredo V. Bonfil", "lat": 32.340463, "lng": -115.069703
+},{
+"label": "Familia García (Ejido Hermosillo)", "lat": 32.544907, "lng": -114.955605
+},{
+"label": "Familia Canchola Félix (Ejido Jiquilpan)", "lat": 32.481841, "lng": -115.072153
+},{
+"label": "Familia Figueroa Leyva (Colonia Silva)", "lat": 32.376816, "lng": -115.048165
+},{
+"label": "Familia Maldonado (Colonia Castro)", "lat": 32.639817, "lng": -115.308954
+},{
+"label": "Ninguno [Familia Barba]", "lat": 32.511374, "lng": -115.068777
+},{
+"label": "Familia Chávez (Colonia Progreso)", "lat": 32.556071, "lng": -115.582166
+},{
+"label": "Colonia 4 Cerro Prieto (Rancho el Roa)", "lat": 32.503175, "lng": -115.402816
+},{
+"label": "La Ponderosa", "lat": 32.362224, "lng": -115.805287
+},{
+"label": "Los Tres Rhinos (Colonia San Pedro Mártir)", "lat": 31.072366, "lng": -115.273324
+},{
+"label": "El Zorro Lote Cinco (Colonia Cerro Prieto)", "lat": 32.50359, "lng": -115.415985
+},{
+"label": "Los Alcatraces", "lat": 32.512274, "lng": -115.412165
+},{
+"label": "Familia Quintero (Ejido Mezquital)", "lat": 32.500247, "lng": -114.883238
+},{
+"label": "Familia Méndez (Colonia Mariana)", "lat": 32.228096, "lng": -115.314109
+},{
+"label": "Familia Hernández (Ejido República Mexicana)", "lat": 32.639796, "lng": -114.824635
+},{
+"label": "Familia Chávez (Colonia Elías)", "lat": 32.36024, "lng": -114.979246
+},{
+"label": "Familia Gallegos (Ejido Tabasco)", "lat": 32.58224, "lng": -114.912884
+},{
+"label": "Familia López Ortiz (Colonia Villarreal)", "lat": 32.450615, "lng": -115.029607
+},{
+"label": "Rancho Roa", "lat": 32.508165, "lng": -115.400257
+},{
+"label": "Familia Sánchez (Veracruz Marítimo)", "lat": 32.372264, "lng": -115.072917
+},{
+"label": "Familia Valtierra", "lat": 31.069558, "lng": -115.247625
+},{
+"label": "Familia Vázquez (Colonia Hidalgo)", "lat": 32.265004, "lng": -115.04982
+},{
+"label": "Santa María", "lat": 32.298625, "lng": -115.055179
+},{
+"label": "Familia Álvarez (Ejido Hermosillo)", "lat": 32.531753, "lng": -114.882684
+},{
+"label": "Colonia Leona Vicario", "lat": 32.137538, "lng": -115.155152
+},{
+"label": "Familia Cibrián (Ejido Tula)", "lat": 32.599301, "lng": -115.257464
+},{
+"label": "Familia Dojáquez", "lat": 32.651387, "lng": -115.305565
+},{
+"label": "Rancho Núñez (Colonia Zacatecas)", "lat": 32.175224, "lng": -115.014248
+},{
+"label": "Familia Hernández (Colonia Primavera)", "lat": 32.325192, "lng": -115.084308
+},{
+"label": "Familia Enríquez Banfi (Ejido Nayarit)", "lat": 32.306378, "lng": -115.298262
+},{
+"label": "Juan Ríos", "lat": 32.48262, "lng": -115.271144
+},{
+"label": "Familia Encinas (Colonia Abasolo)", "lat": 32.625999, "lng": -115.355322
+},{
+"label": "Rancho Ayala (Colonia Zacatecas)", "lat": 32.128915, "lng": -115.004284
+},{
+"label": "La Mora", "lat": 32.035402, "lng": -115.824886
+},{
+"label": "El Ranchito (Colonia Leona Vicario)", "lat": 32.129747, "lng": -115.151207
+},{
+"label": "Familia García (Ejido Aguascalientes)", "lat": 32.301621, "lng": -115.152563
+},{
+"label": "Familia Laguna (Colonia Independencia Económica)", "lat": 32.206032, "lng": -115.304663
+},{
+"label": "Burócratas [Centro Vacacional]", "lat": 31.163237, "lng": -114.891254
+},{
+"label": "Familia Bárcenas (Colonia San Isidro)", "lat": 32.664768, "lng": -115.355541
+},{
+"label": "Luis Hernández", "lat": 32.236403, "lng": -115.097968
+},{
+"label": "Familia Manzo (Colonia Centinela)", "lat": 32.613931, "lng": -115.649176
+},{
+"label": "Familia Mendoza (Colonia Centinela)", "lat": 32.636068, "lng": -115.591469
+},{
+"label": "Familia Torres (Veracruz Marítimo)", "lat": 32.364137, "lng": -115.113548
+},{
+"label": "Los López (Tlaxcala Dos)", "lat": 32.479108, "lng": -115.132085
+},{
+"label": "Hermanos Sánchez (Colonia Venustiano Carranza)", "lat": 32.229702, "lng": -115.14908
+},{
+"label": "Familia Ochoa (Colonia Colorado Número Tres) [Corrales]", "lat": 32.540063, "lng": -115.360981
+},{
+"label": "Rancho Acero", "lat": 32.373438, "lng": -114.978847
+},{
+"label": "Familia Soto (Colonia Primavera)", "lat": 32.321442, "lng": -115.093105
+},{
+"label": "Valle Verde (Colonia Colorado Número Uno) [Granjas]", "lat": 32.564238, "lng": -115.441857
+},{
+"label": "El Encanto", "lat": 32.500984, "lng": -115.39884
+},{
+"label": "Familia Moreno (Colonia Bórquez)", "lat": 32.664018, "lng": -114.95236
+},{
+"label": "Familia Becerra", "lat": 30.954191, "lng": -114.838823
+},{
+"label": "Rancho Tovar (Colonia Progreso)", "lat": 32.557709, "lng": -115.529528
+},{
+"label": "Familia Chávez (Colonia Orive de Alba)", "lat": 32.655683, "lng": -114.845376
+},{
+"label": "Familia Guzmán (Ejido Hermosillo)", "lat": 32.511219, "lng": -114.872631
+},{
+"label": "Familia Díaz Chacón (Parcela Veintiséis)", "lat": 32.602421, "lng": -114.908806
+},{
+"label": "Familia Quintanar Rojas (Colonia Abasolo)", "lat": 32.624081, "lng": -115.356393
+},{
+"label": "Rancho Gloria (Colonia Rodríguez)", "lat": 32.467044, "lng": -115.053415
+},{
+"label": "Playa María Elena", "lat": 31.091143, "lng": -114.869301
+},{
+"label": "Familia Hidalgo (Colonia Miguel Alemán)", "lat": 32.503828, "lng": -114.836164
+},{
+"label": "Familia Martínez Córdova (Colonia Abasolo)", "lat": 32.634722, "lng": -115.356111
+},{
+"label": "Familia Rodríguez Morales (Colonia Colorado Tres)", "lat": 32.53404, "lng": -115.358491
+},{
+"label": "Familia Solís Acuña (Colonia Hidalgo)", "lat": 32.27312, "lng": -115.069566
+},{
+"label": "Familia Ponce Arizaga (Colonia Progreso)", "lat": 32.555163, "lng": -115.580023
+},{
+"label": "Familia Ortiz", "lat": 32.650296, "lng": -114.767529
+},{
+"label": "Familia Ayala (Colonia Mariana)", "lat": 32.260598, "lng": -115.320418
+},{
+"label": "Santa Adriana (Ejido Quintana Roo)", "lat": 32.472772, "lng": -115.067403
+},{
+"label": "El Diamantito [Rancho]", "lat": 32.549658, "lng": -115.485169
+},{
+"label": "Familia Cervantes Tejeda", "lat": 32.628611, "lng": -115.055908
+},{
+"label": "Los Figueroa (Ejido Tlaxcala)", "lat": 32.467142, "lng": -115.138493
+},{
+"label": "Familia Carmona (Colonia Dieciocho de Marzo)", "lat": 32.622534, "lng": -114.989574
+},{
+"label": "Familia Quintero (Ejido Tula)", "lat": 32.590278, "lng": -115.1725
+},{
+"label": "Colonia Venustiano Carranza (La Carranza)", "lat": 32.228011, "lng": -115.170267
+},{
+"label": "Familia Robles (Ejido San Luis Potosí)", "lat": 32.499378, "lng": -115.152591
+},{
+"label": "Familia Robles (Colonia Progreso)", "lat": 32.55655, "lng": -115.593849
+},{
+"label": "El Encanto (Colonia Colorado Número Siete)", "lat": 32.539594, "lng": -115.453868
+},{
+"label": "Familia Floreano Rueda (Colonia Osiris)", "lat": 32.565454, "lng": -115.194867
+},{
+"label": "Los Padilla (Veracruz Dos)", "lat": 32.379088, "lng": -115.09604
+},{
+"label": "Ninguno [Granja Acuícola]", "lat": 31.196659, "lng": -114.901699
+},{
+"label": "Campo Rafael (Colonia Zacatecas)", "lat": 32.050721, "lng": -115.098708
+},{
+"label": "El Michoacán (Ejido Plan Nacional Agrario) [Restaurante]", "lat": 31.439754, "lng": -115.053866
+},{
+"label": "Familia Rodríguez (Lote 9 Colonia Progreso)", "lat": 32.598966, "lng": -115.57321
+},{
+"label": "Familia Reyes", "lat": 32.614226, "lng": -115.192206
+},{
+"label": "Familia Hernández (Ejido Aguascalientes)", "lat": 32.283551, "lng": -115.135125
+},{
+"label": "Pérez Núñez (Ejido Camacho)", "lat": 32.174448, "lng": -115.099911
+},{
+"label": "Campo Camerina (Colonia Terrenos Indios)", "lat": 32.167484, "lng": -115.272165
+},{
+"label": "Ejido Heriberto Jara Sección Coronita", "lat": 32.539158, "lng": -115.524875
+},{
+"label": "El Crucero (Ejido Nuevo León)", "lat": 32.362369, "lng": -115.200478
+},{
+"label": "Rancho Talamante (Parcela Dos Ejido Torreón)", "lat": 32.614068, "lng": -114.918107
+},{
+"label": "Familia González (Ejido Guanajuato)", "lat": 32.492222, "lng": -115.285
+},{
+"label": "Misión Viejo", "lat": 32.64743, "lng": -115.565037
+},{
+"label": "Colonia Hidalgo (González Ortega Dos)", "lat": 32.271778, "lng": -115.050244
+},{
+"label": "Familia Rubio", "lat": 32.540108, "lng": -115.501258
+},{
+"label": "Familia Bojórquez Juárez (Colonia Colorado 3)", "lat": 32.569628, "lng": -115.386439
+},{
+"label": "Ejido Tula", "lat": 32.578085, "lng": -115.194717
+},{
+"label": "Familia Sánchez (Colonia Primavera)", "lat": 32.306571, "lng": -115.103766
+},{
+"label": "Familia Villegas (Colonia Primavera)", "lat": 32.315238, "lng": -115.096146
+},{
+"label": "Rancho Cristina (Colonia Colorado Número Cinco)", "lat": 32.486111, "lng": -115.356667
+},{
+"label": "José María Rodríguez (Ejido Netzahualcóyotl)", "lat": 32.626111, "lng": -115.088056
+},{
+"label": "Familia Bañuelos (Ejido Sonora 2)", "lat": 32.30677, "lng": -115.168732
+},{
+"label": "Familia López (Ejido Irapuato)", "lat": 32.591838, "lng": -115.273079
+},{
+"label": "Rancho del Sol (El Dorado)", "lat": 31.122087, "lng": -114.90555
+},{
+"label": "Familia Moreno Moreno (Ejido Campeche)", "lat": 32.551526, "lng": -114.977404
+},{
+"label": "T del Nayarit (Ejido Nayarit Familia Rivera)", "lat": 32.313646, "lng": -115.190638
+},{
+"label": "El Edén", "lat": 32.575366, "lng": -115.390354
+},{
+"label": "Poblado Janitzio", "lat": 32.52791, "lng": -114.854661
+},{
+"label": "Granjas Arcoíris", "lat": 32.615731, "lng": -115.348689
+},{
+"label": "Familia Salas (Ejido Tula)", "lat": 32.61063, "lng": -115.210777
+},{
+"label": "Familia Ramírez (Colonia Olachea)", "lat": 32.353646, "lng": -115.119431
+},{
+"label": "Familia Echeverría (Colonia Independencia)", "lat": 32.209429, "lng": -115.301532
+},{
+"label": "La Hacienda", "lat": 30.959929, "lng": -114.777141
+},{
+"label": "Familia Balderrama (Ejido Campeche)", "lat": 32.54163, "lng": -114.993709
+},{
+"label": "Familia Franco (Colonia Olachea)", "lat": 32.285603, "lng": -115.164187
+},{
+"label": "El Alacrán", "lat": 32.566263, "lng": -115.178478
+},{
+"label": "Bordo Tule Chek (Colonia Cerro Prieto)", "lat": 32.542963, "lng": -115.481785
+},{
+"label": "Ninguno [Familia Castillo Romero]", "lat": 32.600581, "lng": -115.112938
+},{
+"label": "Familia García (Ejido Morelos)", "lat": 32.578573, "lng": -114.874687
+},{
+"label": "Rancho Chinalito (Ejido Plan Nacional Agrario)", "lat": 31.082156, "lng": -115.242507
+},{
+"label": "Huertas de la Progreso", "lat": 32.622771, "lng": -115.540821
+},{
+"label": "Los Gallegos (Colonia Colorado Número Dos)", "lat": 32.564876, "lng": -115.411966
+},{
+"label": "González Ortega 1 (Colonia Baja California)", "lat": 32.240889, "lng": -115.09871
+},{
+"label": "Familia Espinoza Guillén (Ejido Nayarit)", "lat": 32.342166, "lng": -115.302618
+},{
+"label": "Los Álvarez (Colonia Hindú)", "lat": 32.361764, "lng": -115.003525
+},{
+"label": "Familia García Mosqueda (Colonia Zacatecas)", "lat": 32.166614, "lng": -115.097783
+},{
+"label": "Familia Zavala (Colonia Orive de Alba)", "lat": 32.656669, "lng": -114.861728
+},{
+"label": "Familia Marines Lara (Colonia Hindú)", "lat": 32.39, "lng": -114.98
+},{
+"label": "Familia Llamas (Ejido Torreón)", "lat": 32.592611, "lng": -114.971273
+},{
+"label": "Familia Estrada (Ejido Culiacán)", "lat": 32.699279, "lng": -114.745391
+},{
+"label": "San José", "lat": 32.64021, "lng": -115.615629
+},{
+"label": "Perla del Mar", "lat": 30.939905, "lng": -114.731662
+},{
+"label": "Rancho Reyes (Ejido Heriberto Jara)", "lat": 32.552706, "lng": -115.600581
+},{
+"label": "Familia Luke (Ejido Campeche)", "lat": 32.549477, "lng": -114.992628
+},{
+"label": "Familia Vargas (Colonia Zacatecas)", "lat": 32.077818, "lng": -115.047334
+},{
+"label": "Familia Villaseñor (Ejido Hermosillo)", "lat": 32.501009, "lng": -114.934833
+},{
+"label": "Familia Contreras (Colonia Chaussé)", "lat": 32.300388, "lng": -115.020715
+},{
+"label": "Campo Nuevo (Ejido Jalapa)", "lat": 32.464979, "lng": -115.168557
+},{
+"label": "Rancho López (Ejido Tabasco)", "lat": 32.565634, "lng": -114.937304
+},{
+"label": "Familia Rodríguez (Ejido Campeche)", "lat": 32.548069, "lng": -115.013164
+},{
+"label": "Los Jasso (Veracruz Marítimo)", "lat": 32.362937, "lng": -115.090045
+},{
+"label": "Rancho Chapingo (Colonia Centinela)", "lat": 32.612981, "lng": -115.575848
+},{
+"label": "El Venado [Despepitadora]", "lat": 32.547953, "lng": -115.213139
+},{
+"label": "Los Correa (Ejido Tabasco)", "lat": 32.52417, "lng": -114.937977
+},{
+"label": "San Cristobal [Rancho]", "lat": 32.644404, "lng": -115.321221
+},{
+"label": "Familia Fregoso (Colonia Orive de Alba)", "lat": 32.661644, "lng": -114.834946
+},{
+"label": "Familia Solorio", "lat": 32.626809, "lng": -114.976544
+},{
+"label": "Empresas Longoria", "lat": 32.530178, "lng": -114.941739
+},{
+"label": "Familia López Ruiz (Colonia Colorado Número Cuatro)", "lat": 32.518302, "lng": -115.378276
+},{
+"label": "Colonia Villarreal", "lat": 32.453808, "lng": -115.031959
+},{
+"label": "Familia Ceballos (Colonia Grupo Dos Tubos)", "lat": 32.480014, "lng": -115.106968
+},{
+"label": "La Salada", "lat": 32.572488, "lng": -115.793846
+},{
+"label": "Familia Huitrón (Colonia Cerro Prieto)", "lat": 32.425478, "lng": -115.298533
+},{
+"label": "El Fantasma", "lat": 32.527466, "lng": -115.429621
+},{
+"label": "Familia Servín", "lat": 32.648853, "lng": -115.305876
+},{
+"label": "Familia Vaca (Ejido Irapuato)", "lat": 32.601328, "lng": -115.1847
+},{
+"label": "Colonia Primavera", "lat": 32.308201, "lng": -115.100468
+},{
+"label": "Familia Orozco (Colonia Ahumada)", "lat": 32.588314, "lng": -115.51168
+},{
+"label": "Familia García Peña (Ejido Nuevo León)", "lat": 32.386171, "lng": -115.184809
+},{
+"label": "Familia González (Colonia Tecolote Batáquez)", "lat": 32.52387, "lng": -115.061387
+},{
+"label": "San Pedro (Colonia Abasolo) [Establo]", "lat": 32.635477, "lng": -115.326251
+},{
+"label": "Zaragoza Segunda Sección", "lat": 32.600409, "lng": -115.534409
+},{
+"label": "Familia Ramírez (Ejido Villa Hermosa)", "lat": 32.631216, "lng": -114.988339
+},{
+"label": "Lugo [Rancho]", "lat": 32.580239, "lng": -115.239706
+},{
+"label": "Familia Salazar (Ejido Sonora 2 Parcela Setenta y Cinco)", "lat": 32.289985, "lng": -115.174716
+},{
+"label": "Familia Verdugo (Ejido Nayarit)", "lat": 32.352778, "lng": -115.223618
+},{
+"label": "Granja Orientación (Colonia Ahumada Parcela Cuarenta)", "lat": 32.563379, "lng": -115.498488
+},{
+"label": "Rancho Chacón (Colonia Venustiano Carranza)", "lat": 32.245665, "lng": -115.175598
+},{
+"label": "Rancho de los Pérez (Ejido Durango)", "lat": 32.261854, "lng": -115.210704
+},{
+"label": "Familia Márquez Lugo", "lat": 32.417724, "lng": -115.111699
+},{
+"label": "Familia Ibarra C. (El Chino Colonia Independencia 1)", "lat": 32.185984, "lng": -115.275651
+},{
+"label": "San José [Vivero]", "lat": 32.605142, "lng": -115.530358
+},{
+"label": "Familia Contreras (Colonia Silva el Bordo)", "lat": 32.402988, "lng": -115.006176
+},{
+"label": "Industrial Sánchez de Mexicali", "lat": 32.551803, "lng": -115.415689
+},{
+"label": "Familia Moreno (Colonia Orive de Alba)", "lat": 32.665284, "lng": -114.830463
+},{
+"label": "Colonia Pescaderos (Campo la Catorce)", "lat": 32.432748, "lng": -114.966095
+},{
+"label": "José María Morelos y Pavón (Ejido Orizaba Canal Reforma)", "lat": 32.631005, "lng": -115.542888
+},{
+"label": "Familia Limón (Colonia Primavera)", "lat": 32.311332, "lng": -115.074426
+},{
+"label": "La Esparza (Colonia San Pedro Mártir)", "lat": 31.076944, "lng": -115.296667
+},{
+"label": "Familia Yáñez (Ejido Chiapas)", "lat": 32.475341, "lng": -114.947381
+},{
+"label": "San Pablo", "lat": 32.656502, "lng": -115.325487
+},{
+"label": "Familia Vega", "lat": 32.635353, "lng": -115.347847
+},{
+"label": "Sexta de la Progreso (Ampliación Coronita)", "lat": 32.541606, "lng": -115.526046
+},{
+"label": "Familia Hernández (Veracruz Marítimo)", "lat": 32.374656, "lng": -115.10343
+},{
+"label": "Ejido Morelia", "lat": 32.442003, "lng": -115.237534
+},{
+"label": "Familia González (Colonia Independencia)", "lat": 32.220042, "lng": -115.316352
+},{
+"label": "Familia Castro Araiza (Ejido Campeche)", "lat": 32.541603, "lng": -114.977489
+},{
+"label": "Familia Acosta", "lat": 32.615678, "lng": -115.053293
+},{
+"label": "Mesa Arenosa de Andrade (Villa Zapata)", "lat": 32.618448, "lng": -115.216486
+},{
+"label": "Rancho Jiménez (Colonia Colorado Número Cuatro)", "lat": 32.503255, "lng": -115.374234
+},{
+"label": "Ejido Tigres del Desierto", "lat": 32.213559, "lng": -115.730582
+},{
+"label": "Familia Zepeda (Ejido Guadalajara)", "lat": 32.562218, "lng": -114.861783
+},{
+"label": "Santa Verónica (Colonia Silva)", "lat": 32.400433, "lng": -115.063899
+},{
+"label": "Poblado Palo Verde", "lat": 32.552292, "lng": -115.436279
+},{
+"label": "Familia Rodríguez Batalla (Colonia Colorado)", "lat": 32.440501, "lng": -115.337413
+},{
+"label": "Colonia del Bosque", "lat": 32.187949, "lng": -115.007269
+},{
+"label": "Familia Monge (Colonia Orive de Alba)", "lat": 32.666889, "lng": -114.891818
+},{
+"label": "Colonia Pólvora", "lat": 32.549043, "lng": -115.193829
+},{
+"label": "Familia Barragán (Colonia Colorado Número Tres)", "lat": 32.544233, "lng": -115.364787
+},{
+"label": "Familia Quintana (Ejido Tula)", "lat": 32.584788, "lng": -115.196005
+},{
+"label": "Familia Valdivia (Colonia del Norte)", "lat": 32.615571, "lng": -115.016759
+},{
+"label": "Familia Rodelo Salgado (Colonia Cerro Prieto)", "lat": 32.493561, "lng": -115.44497
+},{
+"label": "Familia Flores (Colonia Pescadores)", "lat": 32.455791, "lng": -114.951297
+},{
+"label": "Familia Zavala (Colonia Benito Juárez)", "lat": 32.307444, "lng": -115.018145
+},{
+"label": "Familia García (Colonia Osiris)", "lat": 32.565662, "lng": -115.184127
+},{
+"label": "Familia Almanza (Colonia Leona Vicario)", "lat": 32.144437, "lng": -115.156662
+},{
+"label": "Colonia Cuatro Cerro Prieto", "lat": 32.504571, "lng": -115.363525
+},{
+"label": "Familia Vargas (Colonia Triángulo)", "lat": 32.273889, "lng": -115.097222
+},{
+"label": "Rancho Cuéllar", "lat": 32.625764, "lng": -114.848528
+},{
+"label": "Jardines de Mendoza", "lat": 32.635549, "lng": -115.362685
+},{
+"label": "Ejido Hermosillo", "lat": 32.512066, "lng": -114.922471
+},{
+"label": "San Víctor (Familia Vázquez)", "lat": 32.297907, "lng": -115.016225
+},{
+"label": "Familia Reyes Moreno (Ejido Jiquilpan)", "lat": 32.48518, "lng": -115.053274
+},{
+"label": "Ejido General Álvaro Obregón (Tierras Blancas)", "lat": 32.556249, "lng": -115.048
+},{
+"label": "Ejido Pachuca", "lat": 32.611791, "lng": -114.827293
+},{
+"label": "San José (Colonia Colorado Número Cinco) [Corrales]", "lat": 32.497277, "lng": -115.341603
+},{
+"label": "Los Loya", "lat": 32.623403, "lng": -115.334178
+},{
+"label": "Los Gutiérrez", "lat": 32.294336, "lng": -115.253953
+},{
+"label": "Ejido Tabasco", "lat": 32.562001, "lng": -114.926634
+},{
+"label": "Familia Fierro Huerta (Ejido Jalapa)", "lat": 32.470866, "lng": -115.151869
+},{
+"label": "Los Pablos (Colonia San Pedro Mártir)", "lat": 31.04055, "lng": -115.245493
+},{
+"label": "Campo Zavala (Colonia Venustiano Carranza)", "lat": 32.221967, "lng": -115.18089
+},{
+"label": "Familia Chávez", "lat": 32.646344, "lng": -114.948581
+},{
+"label": "Colonia Francisco Santana Peralta", "lat": 32.680124, "lng": -114.753499
+},{
+"label": "Familia Brito Prado", "lat": 31.056026, "lng": -114.873085
+},{
+"label": "San Martín (Colonia Elías Lote Trece)", "lat": 32.348782, "lng": -115.038774
+},{
+"label": "Valle del Sol [Hortalizas]", "lat": 32.3606, "lng": -115.024214
+},{
+"label": "Familia Guerrero (Ejido Pachuca)", "lat": 32.587573, "lng": -114.809773
+},{
+"label": "Familia Barraza Galindo (Colonia BC Lote Cuarenta y Siete)", "lat": 32.254722, "lng": -115.095
+},{
+"label": "San Luis", "lat": 32.115013, "lng": -115.840411
+},{
+"label": "Familia Vaca (Ejido Irapuato Parcela Cuarenta y Dos)", "lat": 32.589915, "lng": -115.14438
+},{
+"label": "Las Ánimas (Colonia San Pedro Mártir)", "lat": 31.05443, "lng": -115.258297
+},{
+"label": "Los Silva (Veracruz Marítimo)", "lat": 32.375016, "lng": -115.073389
+},{
+"label": "Familia Partida Lomelí (Colonia Cerro Prieto)", "lat": 32.550383, "lng": -115.416121
+},{
+"label": "Colonia XVII Ayuntamiento (Ejido Pachuca)", "lat": 32.579515, "lng": -114.831633
+},{
+"label": "Familia Velador (Colonia José María Rodríguez)", "lat": 32.642496, "lng": -115.048224
+},{
+"label": "Familia Sánchez Martínez (Ejido Irapuato)", "lat": 32.582823, "lng": -115.127314
+},{
+"label": "Bachoco (Colonia Cerro Prieto) [Avícola]", "lat": 32.509732, "lng": -115.419292
+},{
+"label": "Familia Palma (Veracruz Dos)", "lat": 32.396712, "lng": -115.094125
+},{
+"label": "Familia Velasco", "lat": 32.357325, "lng": -115.13879
+},{
+"label": "Familia Calderón (Veracruz Marítimo)", "lat": 32.371652, "lng": -115.09391
+},{
+"label": "Casa Blanca", "lat": 30.940022, "lng": -114.739423
+},{
+"label": "Ejido Miguel Hidalgo", "lat": 32.423588, "lng": -115.22171
+},{
+"label": "Familia Siqueiros", "lat": 32.663198, "lng": -114.907404
+},{
+"label": "Familia Montaño", "lat": 32.642222, "lng": -115.309444
+},{
+"label": "Familia Guzmán (Colonia Miguel Alemán)", "lat": 32.554698, "lng": -114.821471
+},{
+"label": "Zona del Canal (Colonia Chapultepec)", "lat": 32.344163, "lng": -115.076375
+},{
+"label": "Familia Villaseñor (Colonia Independencia Número Uno)", "lat": 32.185556, "lng": -115.256111
+},{
+"label": "Familia Avitia (Colonia Tecolotes Batáquez)", "lat": 32.583661, "lng": -115.007916
+},{
+"label": "Cerro Prieto 3 (Los Mena)", "lat": 32.535077, "lng": -115.406033
+},{
+"label": "Familia Silva Jaime (Colonia Camacho)", "lat": 32.15646, "lng": -115.120891
+},{
+"label": "Rancho Félix (Colonia Chapultepec)", "lat": 32.352974, "lng": -115.119548
+},{
+"label": "Alamar [Rancho Turístico]", "lat": 31.977135, "lng": -115.809651
+},{
+"label": "Chiapas 2", "lat": 32.459588, "lng": -114.972696
+},{
+"label": "San Carlos", "lat": 32.475777, "lng": -115.390726
+},{
+"label": "El Girasol (Colonia Abasolo)", "lat": 32.633284, "lng": -115.300806
+},{
+"label": "Heriberto Jara [Calera]", "lat": 32.531667, "lng": -115.598939
+},{
+"label": "Familia Bañuelos (Colonia Silva)", "lat": 32.362315, "lng": -115.048327
+},{
+"label": "Familia Lizárraga (Ejido Guanajuato)", "lat": 32.492051, "lng": -115.287702
+},{
+"label": "Familia Chávez (Colonia Zaragoza)", "lat": 32.603399, "lng": -115.554859
+},{
+"label": "Familia Matamoros (Veracruz Marítimo)", "lat": 32.36289, "lng": -115.129064
+},{
+"label": "Familia Chávez (Colonia José María Rodríguez)", "lat": 32.632771, "lng": -115.041519
+},{
+"label": "Rancho de Manuel González (Ejido Tula)", "lat": 32.586843, "lng": -115.199239
+},{
+"label": "Familia González (Ejido Morelia)", "lat": 32.436236, "lng": -115.18739
+},{
+"label": "Familia Solorio (Colonia Chaussé)", "lat": 32.295253, "lng": -115.024049
+},{
+"label": "Familia Aviña (Veracruz 2)", "lat": 32.397177, "lng": -115.10261
+},{
+"label": "Rancho Flores (Ejido Chiapas)", "lat": 32.465418, "lng": -114.962096
+},{
+"label": "Torocoba [Rancho]", "lat": 32.556989, "lng": -115.564031
+},{
+"label": "Ejido Jiquilpan", "lat": 32.501335, "lng": -115.065039
+},{
+"label": "Familia López (Colonia Chaussé)", "lat": 32.284151, "lng": -115.039503
+},{
+"label": "Poblado el Caimán", "lat": 32.225063, "lng": -115.19217
+},{
+"label": "Familia Gaxiola (Ejido Villa Hermosa)", "lat": 32.648724, "lng": -114.975055
+},{
+"label": "Familia Figueroa (Colonia Ahumadita)", "lat": 32.552158, "lng": -115.494966
+},{
+"label": "Familia Arizaga Ponce (Colonia Progreso)", "lat": 32.549869, "lng": -115.59738
+},{
+"label": "Familia Valenzuela C. (Ej. Nuevo León)", "lat": 32.360221, "lng": -115.226406
+},{
+"label": "Margarita [Rancho]", "lat": 30.960483, "lng": -114.840743
+},{
+"label": "Familia Martínez (Colonia Centinela)", "lat": 32.616771, "lng": -115.605876
+},{
+"label": "Familia González Fajardo (Ejido Sonora Dos)", "lat": 32.304712, "lng": -115.167474
+},{
+"label": "Salina Ometepec (NCPE Industrial Año de Juárez 1972)", "lat": 31.411389, "lng": -114.979722
+},{
+"label": "Familia Salgado (Colonia Cerro Prieto)", "lat": 32.500387, "lng": -115.449117
+},{
+"label": "Familia Lutz Méndez (Colonia Madero)", "lat": 32.329898, "lng": -115.018304
+},{
+"label": "Familia Funes (Colonia Cerro Prieto)", "lat": 32.512735, "lng": -115.449221
+},{
+"label": "Familia Antolín (Ejido Hermosillo)", "lat": 32.532599, "lng": -114.877583
+},{
+"label": "Familia Pereda Cota (Colonia Mariana)", "lat": 32.288865, "lng": -115.311215
+},{
+"label": "Rancho Roldán (Colonia Rodríguez)", "lat": 32.436806, "lng": -115.05953
+},{
+"label": "Familia Ruvalcaba", "lat": 32.280231, "lng": -115.094139
+},{
+"label": "Alamar [Rancho]", "lat": 32.008436, "lng": -115.707823
+},{
+"label": "Familia Inzunza (Colonia Tecolote Batáquez)", "lat": 32.577623, "lng": -115.028271
+},{
+"label": "Centinela Primera Sección", "lat": 32.654761, "lng": -115.582408
+},{
+"label": "Rancho de Carlos (Colonia Zacatecas)", "lat": 32.187007, "lng": -115.011301
+},{
+"label": "Familia Calvillo (Colonia Osiris Parcela 5)", "lat": 32.553846, "lng": -115.203252
+},{
+"label": "Rancho Guzmán (Colonia Zacatecas)", "lat": 32.167726, "lng": -115.077214
+},{
+"label": "Ejido Villa Hermosa", "lat": 32.650511, "lng": -114.986044
+},{
+"label": "Familia Verdugo Gutiérrez (Colonia Pólvora)", "lat": 32.514541, "lng": -115.209087
+},{
+"label": "Familia Partida Flores (Ejido Hermosillo)", "lat": 32.514271, "lng": -114.883157
+},{
+"label": "La Ilusión [Granja]", "lat": 32.556425, "lng": -115.485872
+},{
+"label": "Colonia Muñoz", "lat": 32.201556, "lng": -115.297107
+},{
+"label": "Villa de Cortés", "lat": 32.609486, "lng": -115.344094
+},{
+"label": "Lomas de Abasolo", "lat": 32.621111, "lng": -115.364722
+},{
+"label": "Familia Ayala (Colonia Miguel Alemán)", "lat": 32.512063, "lng": -114.824946
+},{
+"label": "Ejido Cauces Federales", "lat": 32.052222, "lng": -114.9875
+},{
+"label": "Rancho de Gustavo Sánchez (Ejido Hermosillo)", "lat": 32.530208, "lng": -114.910785
+},{
+"label": "Margarito Medina (Ejido Nuevo León)", "lat": 32.39157, "lng": -115.184191
+},{
+"label": "Beach Front", "lat": 30.911558, "lng": -114.717611
+},{
+"label": "Familia Jiménez (Ejido Campeche)", "lat": 32.560386, "lng": -114.964136
+},{
+"label": "Rancho Mujica [Ejido Aguascalientes]", "lat": 32.291435, "lng": -115.12016
+},{
+"label": "COHERMEZ [Empresa Productora de Algodón]", "lat": 32.508817, "lng": -114.854661
+},{
+"label": "La Providencia (Colonia Venustiano Carranza)", "lat": 32.205013, "lng": -115.228361
+},{
+"label": "Familia Ruiz (Ejido San Luis Potosí)", "lat": 32.497063, "lng": -115.172396
+},{
+"label": "Las Cabañas (Colonia el Mayor)", "lat": 32.147206, "lng": -115.28466
+},{
+"label": "Familia Castro (Ejido Villa Hermosa)", "lat": 32.633096, "lng": -114.963076
+},{
+"label": "Harinera de Maíz de Mexicali", "lat": 32.549939, "lng": -115.364283
+},{
+"label": "Familia Duarte [Ejido Oaxaca]", "lat": 32.36781, "lng": -115.171189
+},{
+"label": "Familia Macías (Colonia Pólvora)", "lat": 32.550123, "lng": -115.177656
+},{
+"label": "Los Médanos (Ejido Plan Nacional Agrario)", "lat": 31.100641, "lng": -114.926604
+},{
+"label": "Industrias Unidas de México", "lat": 32.306144, "lng": -115.075561
+},{
+"label": "Ejido General J. Gertrudis García Sánchez", "lat": 32.656188, "lng": -114.786346
+},{
+"label": "Los Arzola (Ejido Zacatecas)", "lat": 32.497777, "lng": -115.367035
+},{
+"label": "Familia Zúñiga (Colonia Grupo Reforma)", "lat": 32.678227, "lng": -114.748504
+},{
+"label": "Familia Sotero (Ejido Garzón Santibáñez)", "lat": 32.147933, "lng": -115.074308
+},{
+"label": "Familia Aguilar (Veracruz Marítimo)", "lat": 32.371493, "lng": -115.098325
+},{
+"label": "Familia Rodríguez (Veracruz Dos)", "lat": 32.378515, "lng": -115.073008
+},{
+"label": "Familia Castillo (Ejido Morelia)", "lat": 32.443751, "lng": -115.192116
+},{
+"label": "Familia Jiménez (Colonia Mariana)", "lat": 32.26491, "lng": -115.320851
+},{
+"label": "Rancho Milagro (Colonia Progreso)", "lat": 32.589172, "lng": -115.561695
+},{
+"label": "Rancho Guerra", "lat": 32.658056, "lng": -114.811111
+},{
+"label": "Eucalipto", "lat": 32.438543, "lng": -115.380747
+},{
+"label": "Familia Aguirre", "lat": 32.632249, "lng": -115.030902
+},{
+"label": "Familia Pantoja (Colonia Centinela)", "lat": 32.640476, "lng": -115.649464
+},{
+"label": "Chorizo Morelia (Ejido Morelia)", "lat": 32.433977, "lng": -115.192386
+},{
+"label": "Familia Fernández (Ejido Durango)", "lat": 32.247397, "lng": -115.233816
+},{
+"label": "Punta Estrella", "lat": 30.911514, "lng": -114.713907
+},{
+"label": "Rancho Ayala (Rancho Viejo Veracruz Dos)", "lat": 32.391476, "lng": -115.080966
+},{
+"label": "Familia Osuna (Ejido Benito Juárez)", "lat": 32.476249, "lng": -115.417597
+},{
+"label": "Familia Jiménez Villarruel (Colonia Silva)", "lat": 32.395756, "lng": -115.065068
+},{
+"label": "Agua Fría [Rancho]", "lat": 32.027896, "lng": -115.800519
+},{
+"label": "Familia Solís (Ejido Tula)", "lat": 32.609745, "lng": -115.241057
+},{
+"label": "Familia Rodríguez (Ejido Paredones)", "lat": 32.632593, "lng": -114.924356
+},{
+"label": "Familia Guzmán (Colonia Terrenos Indios)", "lat": 32.144827, "lng": -115.290546
+},{
+"label": "Familia Pérez (Ejido Hermosillo)", "lat": 32.507958, "lng": -114.882601
+},{
+"label": "Familia Ortiz Vázquez (Ejido Morelia)", "lat": 32.438964, "lng": -115.193044
+},{
+"label": "Ejido Tlaxcala", "lat": 32.443929, "lng": -115.115773
+},{
+"label": "Familia Cibrián (Ejido Cucapah Mestizo)", "lat": 32.267729, "lng": -115.288671
+},{
+"label": "Renacimiento del Valle", "lat": 32.342689, "lng": -115.331194
+},{
+"label": "Familia González Hernández (Colonia Madero)", "lat": 32.328333, "lng": -115.03978
+},{
+"label": "Colonia Gutiérrez", "lat": 32.303612, "lng": -115.079808
+},{
+"label": "Familia Romo (Parcela Setenta y Ocho Ejido Sonora 2)", "lat": 32.295334, "lng": -115.162912
+},{
+"label": "Los Aguayo (Colonia Venustiano Carranza)", "lat": 32.251389, "lng": -115.173333
+},{
+"label": "Bugambilias", "lat": 31.125783, "lng": -114.889768
+},{
+"label": "Rancho Jiménez (Veracruz Marítimo)", "lat": 32.360258, "lng": -115.133327
+},{
+"label": "Zakamoto (Nayarit 2)", "lat": 32.326657, "lng": -115.284828
+},{
+"label": "Familia Ojeda (Colonia Miguel Alemán)", "lat": 32.545931, "lng": -114.828948
+},{
+"label": "Ejido el Choropo (Colonia Colorado Número Uno)", "lat": 32.528768, "lng": -115.412075
+},{
+"label": "Robertson", "lat": 32.223056, "lng": -115.288889
+},{
+"label": "Familia Jiménez Ruvalcaba (Colonia Progreso)", "lat": 32.549563, "lng": -115.559861
+},{
+"label": "Rancho Viejo (Progreso Cuarta Sección)", "lat": 32.589483, "lng": -115.608961
+},{
+"label": "San Fernando", "lat": 30.942558, "lng": -114.734993
+},{
+"label": "Familia Amador (Ejido Culiacán)", "lat": 32.68526, "lng": -114.756856
+},{
+"label": "Familia Espinoza (Colonia Primavera)", "lat": 32.318681, "lng": -115.072359
+},{
+"label": "Poblado Torchoza", "lat": 32.496898, "lng": -115.17736
+},{
+"label": "El Ranchito (Rancho Nuevo)", "lat": 31.227716, "lng": -115.403387
+},{
+"label": "Familia Gutiérrez Pérez (Ejido Guanajuato)", "lat": 32.534512, "lng": -115.356588
+},{
+"label": "Las Palmas", "lat": 32.456009, "lng": -115.15428
+},{
+"label": "San Silvestre", "lat": 32.400305, "lng": -115.078948
+},{
+"label": "Familia García (Veracruz Marítimo)", "lat": 32.366639, "lng": -115.090751
+},{
+"label": "Hermanos Álvarez (Ejido San Luis Potosí)", "lat": 32.484949, "lng": -115.107251
+},{
+"label": "Familia Segura (Ejido Jalapa)", "lat": 32.483382, "lng": -115.194248
+},{
+"label": "Ninguno [Familia Esparza]", "lat": 32.471789, "lng": -115.414961
+},{
+"label": "Rancho Siribuchi (Colonia Hindú)", "lat": 32.371951, "lng": -115.005132
+},{
+"label": "Los Landeros (Ejido Chiapas)", "lat": 32.477966, "lng": -114.952544
+},{
+"label": "Hermanos Rubio (Colonia Cerro Prieto)", "lat": 32.550702, "lng": -115.47415
+},{
+"label": "Rancho Balbaneda (Colonia Colorado Número Uno)", "lat": 32.549706, "lng": -115.430769
+},{
+"label": "Familia Hernández (Colonia Tecolotes)", "lat": 32.51961, "lng": -115.073979
+},{
+"label": "Estación Pescaderos (Kilómetro Treinta y Nueve)", "lat": 32.310477, "lng": -115.140771
+},{
+"label": "Familia Sánchez (Colonia José María Rodríguez)", "lat": 32.632302, "lng": -115.040582
+},{
+"label": "Familia Gallardo (Colonia Baja California)", "lat": 32.260648, "lng": -115.079322
+},{
+"label": "Familia Cortez (Ejido Donato Guerra)", "lat": 32.173926, "lng": -115.241541
+},{
+"label": "Familia Cruz (Colonia la Puerta)", "lat": 32.311445, "lng": -115.325971
+},{
+"label": "Familia Meza (Colonia Progreso)", "lat": 32.58038, "lng": -115.612733
+},{
+"label": "Familia Siordia Martínez (Ejido Nayarit)", "lat": 32.325838, "lng": -115.300396
+},{
+"label": "Morelia 2", "lat": 32.441658, "lng": -115.201808
+},{
+"label": "Colonia Guadalupe", "lat": 32.672358, "lng": -114.788501
+},{
+"label": "Del Rancho (Colonia Progreso) [Empacadora]", "lat": 32.559517, "lng": -115.542648
+},{
+"label": "Familia Rodríguez (Ejido Colima)", "lat": 32.478313, "lng": -114.94558
+},{
+"label": "Rancho Guillén (Colonia Silva)", "lat": 32.400099, "lng": -115.023012
+},{
+"label": "Familia Ocampo (Colonia Orive de Alba)", "lat": 32.64993, "lng": -114.855575
+},{
+"label": "San Felipe", "lat": 31.02292, "lng": -114.838901
+},{
+"label": "Familia Galván (Colonia Zaragoza)", "lat": 32.588489, "lng": -115.548223
+},{
+"label": "Compuertas Ocho del Tule Check (Sección Dos)", "lat": 32.512033, "lng": -115.455206
+},{
+"label": "Los Guerra (Veracruz Dos)", "lat": 32.383985, "lng": -115.077448
+},{
+"label": "Familia Castro (Colonia Bórquez Parcela Uno)", "lat": 32.626614, "lng": -115.032195
+},{
+"label": "Familia Maldonado (Ejido Tabasco)", "lat": 32.535666, "lng": -114.954453
+},{
+"label": "Arroyo Grande (Ejido 16 de Septiembre)", "lat": 31.44769, "lng": -115.454184
+},{
+"label": "Familia Ruiz Castro (Colonia Rodríguez)", "lat": 32.442603, "lng": -115.039368
+},{
+"label": "Rancho Vargas (Veracruz Dos)", "lat": 32.38891, "lng": -115.080956
+},{
+"label": "Familia Díaz (Ejido Campeche)", "lat": 32.532865, "lng": -114.977664
+},{
+"label": "Familia Olivas (Colonia Tecolote Batáquez)", "lat": 32.593362, "lng": -114.992632
+},{
+"label": "Familia González", "lat": 32.573611, "lng": -115.115556
+},{
+"label": "Familia Sandoval Ponce (Colonia Mariana)", "lat": 32.252513, "lng": -115.320922
+},{
+"label": "Familia Estrada (Colonia Pólvora)", "lat": 32.525304, "lng": -115.208403
+},{
+"label": "Rancho de Don Rubén (Ejido Coahuila)", "lat": 32.645892, "lng": -115.559073
+},{
+"label": "La Flor (Colonia Nueva Paredones)", "lat": 32.613448, "lng": -114.935224
+},{
+"label": "Familia Gaona Torres", "lat": 32.558234, "lng": -115.310404
+},{
+"label": "Ejido Chiapas Dos (Las Cachoras)", "lat": 32.469245, "lng": -114.969385
+},{
+"label": "Familia Corrales Urías (Ejido Hermosillo)", "lat": 32.549245, "lng": -114.88117
+},{
+"label": "Familia Félix (Ejido Janitzio)", "lat": 32.516225, "lng": -114.8836
+},{
+"label": "Familia Mendoza (Ejido Tabasco)", "lat": 32.554989, "lng": -114.886159
+},{
+"label": "Familia León (Ejido Morelos)", "lat": 32.607131, "lng": -114.881088
+},{
+"label": "Familia Quiles (Ejido Hermosillo)", "lat": 32.522892, "lng": -114.882842
+},{
+"label": "Alana [Productos Agrícolas Orgánicos]", "lat": 32.485489, "lng": -115.323911
+},{
+"label": "Familia Rodríguez (Grupo Río Colorado)", "lat": 32.597975, "lng": -115.53625
+},{
+"label": "La Casa de las Curvas (Colonia el Mayor)", "lat": 32.135298, "lng": -115.284388
+},{
+"label": "Poblado Paredones", "lat": 32.606097, "lng": -114.932209
+},{
+"label": "Familia Moreno Rubio (Ejido Tabasco)", "lat": 32.575173, "lng": -114.919716
+},{
+"label": "Familia Torres (Ejido Tula)", "lat": 32.600894, "lng": -115.189222
+},{
+"label": "Familia Regla (Ejido Tula)", "lat": 32.570173, "lng": -115.155017
+},{
+"label": "Colonia la Puerta", "lat": 32.326796, "lng": -115.328964
+},{
+"label": "Ejido República Mexicana", "lat": 32.646129, "lng": -114.798986
+},{
+"label": "Colonia Progreso", "lat": 32.552173, "lng": -115.513016
+},{
+"label": "Familia Arce Aguilar (Ejido San Luis Potosí)", "lat": 32.492045, "lng": -115.132639
+},{
+"label": "Familia Medel (Ejido Cucapah Mestizo)", "lat": 32.256086, "lng": -115.29046
+},{
+"label": "Ejido Sonora 2 (Campos Nuevos)", "lat": 32.284908, "lng": -115.190251
+},{
+"label": "Los Aguilar (Veracruz Marítimo)", "lat": 32.363043, "lng": -115.11275
+},{
+"label": "Familia García Cervantes (Colonia Venustiano Carranza)", "lat": 32.230556, "lng": -115.201389
+},{
+"label": "Familia Vargas (Colonia Madero)", "lat": 32.334906, "lng": -115.051895
+},{
+"label": "Ocotillo [Rancho]", "lat": 31.006655, "lng": -114.847396
+},{
+"label": "Colonia Progreso Segunda Sección", "lat": 32.588333, "lng": -115.520833
+},{
+"label": "Oasis Campestre (Ejido Islas Agrarias A)", "lat": 32.60864, "lng": -115.313567
+},{
+"label": "La Caída (Colonia Hindú)", "lat": 32.397247, "lng": -114.995626
+},{
+"label": "Tres Ramas Verdes (Colonia Colorado 1)", "lat": 32.554538, "lng": -115.457557
+},{
+"label": "Jalisco [Campo]", "lat": 31.159569, "lng": -114.891513
+},{
+"label": "Familia Medrano (Colonia Rentería)", "lat": 32.360556, "lng": -115.284167
+},{
+"label": "Campo Parra (Guajardo)", "lat": 32.092727, "lng": -115.235718
+},{
+"label": "Familia Gómez (Ejido Tula)", "lat": 32.609951, "lng": -115.235583
+},{
+"label": "Quinta Ana Luisa (Colonia Independencia)", "lat": 32.222356, "lng": -115.317683
+},{
+"label": "Familia Muñoz (Ejido Lázaro Cárdenas)", "lat": 32.597016, "lng": -115.046577
+},{
+"label": "La Ladrillera (Colonia Centinela)", "lat": 32.657735, "lng": -115.591161
+},{
+"label": "Colonia Herradura", "lat": 32.664069, "lng": -115.308298
+},{
+"label": "Familia Vallejo (Ejido Colima)", "lat": 32.434568, "lng": -114.986811
+},{
+"label": "La Ladrillera (Ejido Durango)", "lat": 32.264604, "lng": -115.246771
+},{
+"label": "Familia García (Colonia Baja California)", "lat": 32.221576, "lng": -115.097888
+},{
+"label": "Rancho Méndez", "lat": 32.59257, "lng": -115.540102
+},{
+"label": "Playa Grande", "lat": 31.170383, "lng": -114.89104
+},{
+"label": "Cerro Prieto 4", "lat": 32.528016, "lng": -115.378889
+},{
+"label": "Familia Vargas Contreras (Colonia Elías)", "lat": 32.346805, "lng": -115.045392
+},{
+"label": "Familia Pérez (Colonia San Isidro)", "lat": 32.660781, "lng": -115.365521
+},{
+"label": "Familia Silva (Colonia San Pedro Mártir)", "lat": 31.080648, "lng": -115.242482
+},{
+"label": "Colonia Mariana", "lat": 32.254228, "lng": -115.320054
+},{
+"label": "Parcela Ochenta y Tres (Ejido Cuernavaca)", "lat": 32.575679, "lng": -115.32867
+},{
+"label": "Sesvania", "lat": 32.567208, "lng": -115.301247
+},{
+"label": "Janitzio 2 (Ejido Janitzio)", "lat": 32.547659, "lng": -114.836307
+},{
+"label": "Quirino", "lat": 32.408815, "lng": -115.180387
+},{
+"label": "Familia García (Ejido Sonora 2)", "lat": 32.29195, "lng": -115.187673
+},{
+"label": "Familia Gerardo Ponce (Colonia Ahumadita)", "lat": 32.543349, "lng": -115.48663
+},{
+"label": "Familia Aguilar (Colonia Baja California)", "lat": 32.229339, "lng": -115.074145
+},{
+"label": "El Faro", "lat": 32.288368, "lng": -115.323395
+},{
+"label": "Colonia Colorado Número Cuatro", "lat": 32.512265, "lng": -115.341384
+},{
+"label": "Cerro Prieto 2", "lat": 32.490978, "lng": -115.424625
+},{
+"label": "Ejido Saltillo", "lat": 32.424518, "lng": -115.125571
+},{
+"label": "Rodríguez [Colonia]", "lat": 32.448883, "lng": -115.069494
+},{
+"label": "Familia Martínez (Colonia el Triángulo)", "lat": 32.245193, "lng": -115.109368
+},{
+"label": "Familia Ponce (Colonia Progreso Parcela Cinco)", "lat": 32.559228, "lng": -115.508013
+},{
+"label": "Los Pinos (Ejido Tamaulipas)", "lat": 32.553391, "lng": -115.230798
+},{
+"label": "Familia Arreola (Ejido Morelos)", "lat": 32.610331, "lng": -114.895579
+},{
+"label": "Colonia el Milagro", "lat": 32.195064, "lng": -115.007832
+},{
+"label": "Poblado Candelario Vela (Ejido Colima)", "lat": 32.449993, "lng": -114.993344
+},{
+"label": "Familia Aguilar Gámez (Ejido Jalapa)", "lat": 32.455727, "lng": -115.161679
+},{
+"label": "Ninguno [Familia Bernal]", "lat": 32.373618, "lng": -115.079342
+},{
+"label": "San Carlos (Colonia Villarreal)", "lat": 32.472222, "lng": -115.03
+},{
+"label": "Familia Ceseña Valadez", "lat": 32.58126, "lng": -115.339157
+},{
+"label": "Ejido San Luis Potosí", "lat": 32.509859, "lng": -115.127316
+},{
+"label": "Campo las Tres B (Colonia Ruano Valdez)", "lat": 32.109714, "lng": -115.246438
+},{
+"label": "Los Garavito (Veracruz Marítimo)", "lat": 32.374091, "lng": -115.08745
+},{
+"label": "Campo Mozqueda (Colonia Terrenos Indios)", "lat": 32.156653, "lng": -115.275616
+},{
+"label": "Rancho Flores (Ejido Jalapa)", "lat": 32.473565, "lng": -115.201846
+},{
+"label": "Familia Aguilera (Grupo Río Colorado)", "lat": 32.593936, "lng": -115.531998
+},{
+"label": "Familia Meza (Colonia Mariana)", "lat": 32.235301, "lng": -115.318413
+},{
+"label": "Las Palmitas", "lat": 32.243291, "lng": -115.714184
+},{
+"label": "Familia Estavillo (Ejido Islas Agrarias B)", "lat": 32.586667, "lng": -115.273333
+},{
+"label": "Familia Córdova (Ejido Mezquital)", "lat": 32.497338, "lng": -114.921701
+},{
+"label": "Don Manuel", "lat": 32.489609, "lng": -115.358039
+},{
+"label": "Los Quinteros (Ejido Tehuantepec)", "lat": 32.51302, "lng": -115.032428
+},{
+"label": "Los Reyes (Colonia Merino)", "lat": 32.286153, "lng": -115.081371
+},{
+"label": "Familia García Montoya (Sombrerete Uno)", "lat": 32.147772, "lng": -115.002902
+},{
+"label": "Familia López (Veracruz Marítimo)", "lat": 32.367471, "lng": -115.084173
+},{
+"label": "Familia Rodríguez (Colonia Zaragoza)", "lat": 32.596866, "lng": -115.546375
+},{
+"label": "Familia Ramírez García", "lat": 32.455893, "lng": -115.22261
+},{
+"label": "Familia Higuera", "lat": 32.303361, "lng": -115.267194
+},{
+"label": "Familia Corona Sánchez (Colonia Triángulo)", "lat": 32.272254, "lng": -115.095078
+},{
+"label": "Familia López (Colonia Abasolo)", "lat": 32.644903, "lng": -115.338466
+},{
+"label": "Revel [Pétreos]", "lat": 32.558733, "lng": -115.726806
+},{
+"label": "Familia García (Colonia Cerro Prieto)", "lat": 32.445, "lng": -115.256111
+},{
+"label": "Familia Venegas (Colonia Progreso)", "lat": 32.569662, "lng": -115.521046
+},{
+"label": "Familia Solorio (Ejido Villa Hermosa)", "lat": 32.619991, "lng": -114.971944
+},{
+"label": "Familia Delgado (Colonia Progreso)", "lat": 32.567042, "lng": -115.525069
+},{
+"label": "Colonia Astorga", "lat": 32.464848, "lng": -115.149406
+},{
+"label": "Familia Morales Llamas (Ejido Monterrey)", "lat": 32.563385, "lng": -115.066988
+},{
+"label": "El Póker", "lat": 31.996944, "lng": -114.996389
+},{
+"label": "Rancho del Desierto (Ejido Lázaro Cárdenas)", "lat": 32.612998, "lng": -115.035213
+},{
+"label": "Compuerta la 21 (Colonia Silva)", "lat": 32.411146, "lng": -115.021655
+},{
+"label": "Familia Cervantes (Colonia Primavera)", "lat": 32.312599, "lng": -115.083292
+},{
+"label": "Familia Anaya (Ejido Tabasco)", "lat": 32.521368, "lng": -114.949043
+},{
+"label": "Rancho Magaña (Colonia Grupo Reforma)", "lat": 32.637084, "lng": -114.781736
+},{
+"label": "Rancho Verduzco (Ejido Nuevo León)", "lat": 32.33822, "lng": -115.203464
+},{
+"label": "Familia Gómez (Colonia los Médanos)", "lat": 32.641859, "lng": -114.931853
+},{
+"label": "Familia Zapien (Ejido Nayarit)", "lat": 32.331995, "lng": -115.21555
+},{
+"label": "El Ensueño", "lat": 32.448302, "lng": -115.375571
+},{
+"label": "Familia Moreno (Ejido Tabasco)", "lat": 32.584394, "lng": -114.914796
+},{
+"label": "Familia Guerra (Ejido Campeche)", "lat": 32.579998, "lng": -114.977562
+},{
+"label": "Familia González Apodaca (Colonia Elías)", "lat": 32.360611, "lng": -115.044199
+},{
+"label": "Familia Álvarez (Ejido Tula)", "lat": 32.575056, "lng": -115.160781
+},{
+"label": "Familia Zazueta (Colonia Orive de Alba)", "lat": 32.649136, "lng": -114.885504
+},{
+"label": "Asociación Agrícola Paredones (Colonia Nueva Paredones)", "lat": 32.620124, "lng": -114.946896
+},{
+"label": "Familia Arriaga (Ejido San Luis Potosí)", "lat": 32.514186, "lng": -115.104949
+},{
+"label": "Zaragoza Primera Sección", "lat": 32.614222, "lng": -115.533998
+},{
+"label": "Familia Muñiz", "lat": 32.654492, "lng": -115.306106
+},{
+"label": "Familia Hurtado (Colonia Progreso)", "lat": 32.589986, "lng": -115.640106
+},{
+"label": "Familia Torres", "lat": 32.280278, "lng": -115.0925
+},{
+"label": "Familia Rangel Ramírez (Colonia Chaussé)", "lat": 32.285307, "lng": -115.042554
+},{
+"label": "Tlaxcala 2", "lat": 32.463193, "lng": -115.143909
+},{
+"label": "Familia Ibarra (Ejido Aguascalientes)", "lat": 32.265649, "lng": -115.161141
+},{
+"label": "Familia Araiza (Parcela Sesenta y Nueve Ejido Campeche)", "lat": 32.5475, "lng": -114.976944
+},{
+"label": "Jardines de Loreto", "lat": 32.640027, "lng": -115.367924
+},{
+"label": "Familia Solís (Colonia Zaragoza)", "lat": 32.601851, "lng": -115.560934
+},{
+"label": "Los Faisanes", "lat": 31.165979, "lng": -114.892228
+},{
+"label": "Familia Galván (Colonia Castro)", "lat": 32.640524, "lng": -115.307052
+},{
+"label": "Familia Chávez Ochoa (Colonia Baja California)", "lat": 32.229236, "lng": -115.089922
+},{
+"label": "Playa Blanca", "lat": 31.084054, "lng": -114.86825
+},{
+"label": "Parcela Número Treinta y Seis (Ejido Cuernavaca)", "lat": 32.566485, "lng": -115.273047
+},{
+"label": "Familia Barrera (Colonia Elías)", "lat": 32.361004, "lng": -114.998414
+},{
+"label": "Familia González (Colonia Zacatecas)", "lat": 32.14635, "lng": -115.003702
+},{
+"label": "La Loma (Ejido Guerrero)", "lat": 32.379289, "lng": -115.154791
+},{
+"label": "Rancho Méndez (Colonia Silva)", "lat": 32.435057, "lng": -114.968428
+},{
+"label": "Familia Negrete (Colonia Hidalgo)", "lat": 32.267381, "lng": -115.080045
+},{
+"label": "Familia Romero Pacheco (Colonia Colorado 7)", "lat": 32.507832, "lng": -115.437993
+},{
+"label": "Familia Osuna (Colonia Progreso)", "lat": 32.543571, "lng": -115.51247
+},{
+"label": "Las Lomas", "lat": 32.666159, "lng": -114.874279
+},{
+"label": "Los Pinos", "lat": 32.453604, "lng": -115.155902
+},{
+"label": "Rancho Yáñez (Ejido Chiapas)", "lat": 32.467123, "lng": -114.949203
+},{
+"label": "San Jorge", "lat": 32.220174, "lng": -115.166173
+},{
+"label": "Hijos Verdín (Ejido Camacho)", "lat": 32.17494, "lng": -115.11043
+},{
+"label": "Familia Villalba (Ejido Tula)", "lat": 32.610652, "lng": -115.225115
+},{
+"label": "Carmelita [Rancho]", "lat": 32.667115, "lng": -115.043269
+},{
+"label": "Familia Rodríguez Gutiérrez (Ejido Colima)", "lat": 32.443803, "lng": -115.000696
+},{
+"label": "Familia García Montoya (Ejido Sonora 2)", "lat": 32.288228, "lng": -115.189253
+},{
+"label": "Familia Rivera", "lat": 32.61331, "lng": -115.164259
+},{
+"label": "Crucero Valle de la Trinidad (El Oasis)", "lat": 31.424936, "lng": -115.046475
+},{
+"label": "Familia Lamas Fregozo", "lat": 32.657333, "lng": -114.860851
+},{
+"label": "Familia Corona", "lat": 32.442001, "lng": -115.108743
+},{
+"label": "Familia Vallejo (Ejido Hermosillo)", "lat": 32.506865, "lng": -114.875478
+},{
+"label": "Familia Cervantes (Ejido Sinaloa Parcela Cuarenta y Cinco)", "lat": 32.502173, "lng": -115.297154
+},{
+"label": "Rancho de Sixto Andrade (Colonia Colorado 1)", "lat": 32.545438, "lng": -115.434576
+},{
+"label": "Ejido Distrito Federal", "lat": 32.495404, "lng": -115.039286
+},{
+"label": "Ejido Pátzcuaro", "lat": 32.34925, "lng": -115.070039
+},{
+"label": "Colonia Francisco Villa", "lat": 31.008297, "lng": -114.856093
+},{
+"label": "Carranza (Colonia Zacatecas)", "lat": 32.123879, "lng": -114.992166
+},{
+"label": "San Miguel (Colonia Silva)", "lat": 32.394029, "lng": -115.064028
+},{
+"label": "Cerro Prieto Cuatro", "lat": 32.460005, "lng": -115.394883
+},{
+"label": "Familia Bravo (Veracruz Marítimo)", "lat": 32.367378, "lng": -115.098398
+},{
+"label": "Don José (Colonia José María Rodríguez)", "lat": 32.620166, "lng": -115.187188
+},{
+"label": "Familia Bañuelos (Ejido Tula)", "lat": 32.591273, "lng": -115.225945
+},{
+"label": "Familia Meza Ruiz (Colonia Independencia)", "lat": 32.209238, "lng": -115.312456
+},{
+"label": "Ejido Mérida", "lat": 32.659135, "lng": -114.919733
+},{
+"label": "Familia Sarabia (Ejido San Luis Potosí)", "lat": 32.482279, "lng": -115.149985
+},{
+"label": "Colonia Pacífico", "lat": 32.457243, "lng": -115.369182
+},{
+"label": "Lote 11 (Colonia Leona Vicario)", "lat": 32.148152, "lng": -115.151447
+},{
+"label": "Familia Herrera Arias", "lat": 32.136584, "lng": -114.989415
+},{
+"label": "Familia Noriega (Ejido Culiacán)", "lat": 32.696406, "lng": -114.747713
+},{
+"label": "Familia García (Colonia Colorado Número Siete)", "lat": 32.513223, "lng": -115.405251
+},{
+"label": "La Veinticuatro (Colonia Silva)", "lat": 32.395049, "lng": -115.033435
+},{
+"label": "Familia Rodríguez (Colonia Elías)", "lat": 32.352233, "lng": -115.037254
+},{
+"label": "Familia Bermúdez (Ejido Tabasco)", "lat": 32.564253, "lng": -114.948875
+},{
+"label": "La Morita (Ejido Tribu Kiliwas)", "lat": 31.331735, "lng": -115.436084
+},{
+"label": "Familia Higuera Cervantes (Ejido Nayarit)", "lat": 32.350293, "lng": -115.222963
+},{
+"label": "Rancho Marentez (Colonia San Pedro Mártir)", "lat": 31.053849, "lng": -115.207014
+},{
+"label": "El Malo (Ejido Tabasco)", "lat": 32.540988, "lng": -114.911158
+},{
+"label": "Ventana del Mar", "lat": 31.136747, "lng": -114.899323
+},{
+"label": "Familia Morales (Ejido Tula)", "lat": 32.609259, "lng": -115.210273
+},{
+"label": "Los Girasoles", "lat": 32.532128, "lng": -115.402611
+},{
+"label": "Familia Espinoza (Colonia Colorado 3)", "lat": 32.529357, "lng": -115.387893
+},{
+"label": "El Chorizo (Colonia Colorado 1 Campo León Uno)", "lat": 32.534768, "lng": -115.416253
+},{
+"label": "Familia Pérez Villanueva (Ejido Cucapah)", "lat": 32.273979, "lng": -115.304351
+},{
+"label": "Familia Flores (Ejido Campeche Parcela Cincuenta y Uno)", "lat": 32.552511, "lng": -114.988004
+},{
+"label": "Familia Verulo (Ejido Plan de Ayala)", "lat": 32.214052, "lng": -115.035547
+},{
+"label": "Cerro Prieto 3 (Familia Valenzuela)", "lat": 32.549373, "lng": -115.411344
+},{
+"label": "Familia Arizaga (Colonia Progreso)", "lat": 32.554639, "lng": -115.577154
+},{
+"label": "Los Joseses [Rancho]", "lat": 32.681631, "lng": -115.045249
+},{
+"label": "Rancho Beltrán (Colonia Camacho)", "lat": 32.17011, "lng": -115.13373
+},{
+"label": "Familia Meza Cervantes (Colonia Mariana)", "lat": 32.240647, "lng": -115.318163
+},{
+"label": "El Torito (Colonia Zaragoza)", "lat": 32.594259, "lng": -115.56425
+},{
+"label": "Familia Covarrubias (Colonia Cuervitos)", "lat": 32.662496, "lng": -114.809647
+},{
+"label": "Las Palmas [Rancho]", "lat": 32.527138, "lng": -115.431254
+},{
+"label": "Colonia Hindú", "lat": 32.39952, "lng": -114.97223
+},{
+"label": "Rancho Velázquez (Sombrerete Número Uno)", "lat": 32.112673, "lng": -115.107666
+},{
+"label": "Familia Ursúa (Colonia Cerro Prieto)", "lat": 32.511685, "lng": -115.458123
+},{
+"label": "Pérez [Rancho]", "lat": 32.508916, "lng": -114.934811
+},{
+"label": "Rancho Valeriano", "lat": 32.623058, "lng": -114.981986
+},{
+"label": "Familia Cárdenas (Colonia Alvarado)", "lat": 32.205269, "lng": -115.318583
+},{
+"label": "Familia González (Ejido Tula)", "lat": 32.61084, "lng": -115.205345
+},{
+"label": "Compuerta Seis (Ejido Nuevo León)", "lat": 32.355648, "lng": -115.212758
+},{
+"label": "Familia Rosas (Colonia Bórquez)", "lat": 32.6575, "lng": -114.971944
+},{
+"label": "Familia Álvarez (Ejido Aguascalientes)", "lat": 32.267506, "lng": -115.110661
+},{
+"label": "Rancho Licón (Colonia Colorado Número Cinco)", "lat": 32.489531, "lng": -115.359166
+},{
+"label": "Familia Llamas (Ejido Campeche)", "lat": 32.546961, "lng": -114.996774
+},{
+"label": "Familia Gasca (Ejido Guanajuato)", "lat": 32.492944, "lng": -115.286018
+},{
+"label": "Rancho Huaracha (Colonia Robertson)", "lat": 32.220742, "lng": -115.296966
+},{
+"label": "Familia Romo (Ejido San Luis Potosí)", "lat": 32.49299, "lng": -115.130227
+},{
+"label": "Familia Malta (Colonia Zacatecas)", "lat": 32.04837, "lng": -115.015848
+},{
+"label": "Familia López (Colonia San Pedro Mártir)", "lat": 31.084005, "lng": -115.240093
+},{
+"label": "Familia Carrasco (Colonia Grupo Dos Tubos)", "lat": 32.479314, "lng": -115.086429
+},{
+"label": "Familia Valenzuela", "lat": 32.641775, "lng": -114.96827
+},{
+"label": "Familia Guillén (Ejido Colima)", "lat": 32.462981, "lng": -114.991687
+},{
+"label": "Granjas Valle Bonito", "lat": 32.564795, "lng": -115.532745
+},{
+"label": "Familia Cárdenas", "lat": 31.033645, "lng": -114.865188
+},{
+"label": "Ejido Toluca", "lat": 32.430141, "lng": -115.084413
+},{
+"label": "Familia Verdugo (Ejido Cucapah Mestizo)", "lat": 32.271556, "lng": -115.301319
+},{
+"label": "Familia Regalado (Campos Nuevos Ejido Sonora 2)", "lat": 32.292446, "lng": -115.169371
+},{
+"label": "Rancho Magaña (Ejido Mezquital)", "lat": 32.500957, "lng": -114.905498
+},{
+"label": "Familia Orozco (Colonia Miguel Alemán)", "lat": 32.500723, "lng": -114.825749
+},{
+"label": "Familia Rivera Mendiola", "lat": 32.566802, "lng": -115.564985
+},{
+"label": "Villa del Sol", "lat": 31.198282, "lng": -115.358308
+},{
+"label": "El Grafade", "lat": 32.624472, "lng": -115.321451
+},{
+"label": "Familia Solorio Ayala", "lat": 32.256389, "lng": -115.051389
+},{
+"label": "Familia Álvarez Sánchez (Colonia Madero)", "lat": 32.325837, "lng": -115.017303
+},{
+"label": "Parcela Sesenta y Cinco (Ejido Guanajuato)", "lat": 32.492061, "lng": -115.29295
+},{
+"label": "Rancho Buenrostro (Colonia Cerro Prieto)", "lat": 32.439722, "lng": -115.2675
+},{
+"label": "Rancho Makima (Colonia Progreso)", "lat": 32.566958, "lng": -115.588712
+},{
+"label": "Familia Quintero (Colonia Ocampo)", "lat": 32.614624, "lng": -115.179971
+},{
+"label": "Familia Palominos", "lat": 32.238771, "lng": -115.066999
+},{
+"label": "General Rodolfo Sánchez Taboada [Aeropuerto Internacional de Mexicali]", "lat": 32.6286, "lng": -115.248081
+},{
+"label": "Las Palmas (Ejido Culiacán)", "lat": 32.695593, "lng": -114.759376
+},{
+"label": "Reacomodo Río Colorado", "lat": 32.602538, "lng": -115.526119
+},{
+"label": "Rancho Zazueta (Colonia Silva)", "lat": 32.382766, "lng": -115.026798
+},{
+"label": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)", "lat": 32.025472, "lng": -114.982994
+},{
+"label": "Rancho Granados (Colonia Centinela)", "lat": 32.62287, "lng": -115.593116
+},{
+"label": "Familia Alvarado (Veracruz Marítimo)", "lat": 32.370655, "lng": -115.08483
+},{
+"label": "Familia Reséndiz (Colonia Colorado Número Uno)", "lat": 32.575304, "lng": -115.456069
+},{
+"label": "El Cincuenta y Dos (Colonia San Pedro Mártir)", "lat": 31.054458, "lng": -115.281341
+},{
+"label": "Los García (Ejido Tlaxcala)", "lat": 32.456727, "lng": -115.110871
+},{
+"label": "Familia Roque Contreras (Colonia Silva)", "lat": 32.400091, "lng": -115.009576
+},{
+"label": "Ninguno [Familia Garcia]", "lat": 32.424403, "lng": -115.110903
+},{
+"label": "Los Pinos (Colonia Silva)", "lat": 32.376637, "lng": -115.056004
+},{
+"label": "Ejido Tehuantepec (Santa Rosa)", "lat": 32.550352, "lng": -115.029828
+},{
+"label": "Familia Montes (Ejido Islas Agrarias B)", "lat": 32.587376, "lng": -115.278511
+},{
+"label": "Los Mezquites (Familia Gómez)", "lat": 32.530995, "lng": -115.357386
+},{
+"label": "Hacienda Beach", "lat": 31.155813, "lng": -114.894978
+},{
+"label": "Colonia Colorado Uno", "lat": 32.5353, "lng": -115.446591
+},{
+"label": "Ninguno [Familia de León Gonzales]", "lat": 32.337769, "lng": -115.185522
+},{
+"label": "Familia Aldana (Colonia Orive de Alba)", "lat": 32.665953, "lng": -114.896527
+},{
+"label": "Familia Tapia (Ejido Tabasco)", "lat": 32.570122, "lng": -114.879663
+},{
+"label": "Familia Aldama Rodríguez (Colonia Venustiano Carranza)", "lat": 32.266222, "lng": -115.177941
+},{
+"label": "Familia Reyes (Colonia Benito Juárez)", "lat": 32.300287, "lng": -115.018321
+},{
+"label": "Familia Contreras (Colonia Ocampo)", "lat": 32.615218, "lng": -115.197333
+},{
+"label": "Familia Dávila Mora (Colonia Ahumada)", "lat": 32.586365, "lng": -115.50308
+},{
+"label": "Familia Reyes (Ejido Aguascalientes)", "lat": 32.264751, "lng": -115.129323
+},{
+"label": "Familia Córdova", "lat": 32.650483, "lng": -115.306296
+},{
+"label": "Reforma Número Uno (Colonia Centinela)", "lat": 32.619476, "lng": -115.588483
+},{
+"label": "Los Delgadillo (Veracruz Marítimo)", "lat": 32.369479, "lng": -115.118364
+},{
+"label": "Lomas de Mexicali", "lat": 32.558769, "lng": -115.557853
+},{
+"label": "Familia Ávalos (Colonia Orive de Alba)", "lat": 32.650226, "lng": -114.858671
+},{
+"label": "Familia Martínez (Ejido Hermosillo)", "lat": 32.517486, "lng": -114.893754
+},{
+"label": "Poblado Francisco Santana Peralta", "lat": 32.466842, "lng": -115.069608
+},{
+"label": "Familia Sánchez (Colonia Colorado Número Uno)", "lat": 32.569019, "lng": -115.429094
+},{
+"label": "Vicente Guerrero (Algodones)", "lat": 32.716188, "lng": -114.731952
+},{
+"label": "Familia Sánchez Yepes (Ejido Nayarit)", "lat": 32.337336, "lng": -115.209258
+},{
+"label": "Familia Sánchez García (Colonia Madero)", "lat": 32.334826, "lng": -115.004026
+},{
+"label": "Familia Parada (Ejido Hermosillo)", "lat": 32.516988, "lng": -114.934701
+},{
+"label": "Familia López (Ejido Cucapah Mestizo)", "lat": 32.267704, "lng": -115.295449
+},{
+"label": "Familia Flores Barraza (Colonia Miguel Alemán)", "lat": 32.492029, "lng": -114.860042
+},{
+"label": "Familia Martínez Morales (Colonia Silva)", "lat": 32.385725, "lng": -115.065457
+},{
+"label": "Familia Bedolla (Ejido Toluca)", "lat": 32.422964, "lng": -115.072219
+},{
+"label": "Familia Martínez (Ejido Irapuato)", "lat": 32.580458, "lng": -115.127754
+},{
+"label": "Familia Martínez Lote Uno (Colonia Ahumadita)", "lat": 32.558578, "lng": -115.50371
+},{
+"label": "Rancho Ramiro Camacho (Ejido Nuevo León)", "lat": 32.399937, "lng": -115.17105
+},{
+"label": "Familia Bravo (Colonia Progreso)", "lat": 32.604693, "lng": -115.587201
+},{
+"label": "Los Canchola (Veracruz Marítimo)", "lat": 32.364274, "lng": -115.102132
+},{
+"label": "Las Palmas (Colonia Cerro Prieto)", "lat": 32.44621, "lng": -115.344962
+},{
+"label": "Bordo Okerson (Represa Galeana)", "lat": 32.606018, "lng": -114.829674
+},{
+"label": "Colonia Calles", "lat": 32.641393, "lng": -115.376935
+},{
+"label": "Colonia Baja California", "lat": 32.222167, "lng": -115.10158
+},{
+"label": "Familia Crespo (Ejido Tula)", "lat": 32.590427, "lng": -115.156701
+},{
+"label": "Familia León (Colonia Abasolo)", "lat": 32.64535, "lng": -115.317816
+},{
+"label": "Familia Saldaña (Colonia Bórquez)", "lat": 32.655682, "lng": -114.976807
+},{
+"label": "Chek Dos (Sombrerete Número Uno)", "lat": 32.113848, "lng": -115.006814
+},{
+"label": "Familia Hernández (Colonia Pescaderos)", "lat": 32.441087, "lng": -114.967441
+},{
+"label": "La Casa del Zanjero (Ejido Guerrero)", "lat": 32.405627, "lng": -115.138336
+},{
+"label": "Colonia Ocampo", "lat": 32.618142, "lng": -115.143264
+},{
+"label": "Ejido Licenciado Adolfo López Mateos", "lat": 32.255556, "lng": -115.334444
+},{
+"label": "Las Magdalenas", "lat": 31.161164, "lng": -114.906527
+},{
+"label": "El Centenario (Colonia Silva)", "lat": 32.385384, "lng": -115.03155
+},{
+"label": "Familia Melgoza (Colonia Chapultepec)", "lat": 32.335687, "lng": -115.1217
+},{
+"label": "Gerardo [Rancho]", "lat": 32.542472, "lng": -115.468014
+},{
+"label": "Colonia Pacífico (Kilómetro Dieciocho)", "lat": 32.447222, "lng": -115.378876
+},{
+"label": "Familia Gómez (Ejido Torreón Parcela Cuarenta)", "lat": 32.593519, "lng": -114.971991
+},{
+"label": "Familia Castro Espinoza (Colonia Silva)", "lat": 32.425751, "lng": -114.977595
+},{
+"label": "Los Pichones (Colonia Colorado 1)", "lat": 32.558506, "lng": -115.435887
+},{
+"label": "Familia Arias (Colonia Hidalgo)", "lat": 32.238566, "lng": -115.049356
+},{
+"label": "Familia Guerrero Rivera (Veracruz Dos)", "lat": 32.397208, "lng": -115.090476
+},{
+"label": "Familia Vargas (Ejido Tabasco)", "lat": 32.558831, "lng": -114.884033
+},{
+"label": "Rancho Hurtado (Ejido Chiapas)", "lat": 32.46247, "lng": -114.954587
+},{
+"label": "Familia López Camarena (Colonia Ahumadita)", "lat": 32.535954, "lng": -115.489632
+},{
+"label": "Hermanas de la Caridad [Convento]", "lat": 32.557456, "lng": -115.485183
+},{
+"label": "La Curva", "lat": 31.043639, "lng": -114.865542
+},{
+"label": "Familia Liera Ruiz (Ejido Morelia)", "lat": 32.451136, "lng": -115.198497
+},{
+"label": "Familia Chávez Banda (Ejido Chiapas)", "lat": 32.456962, "lng": -114.983591
+},{
+"label": "Familia Díaz (Colonia Baja California)", "lat": 32.220018, "lng": -115.101764
+},{
+"label": "Familia Villarreal (Ejido Campeche Parcela Sesenta y Cinco)", "lat": 32.54437, "lng": -114.987278
+},{
+"label": "La Zacatecas", "lat": 32.176339, "lng": -115.032558
+},{
+"label": "Familia León (Colonia Colorado Número Tres)", "lat": 32.531154, "lng": -115.404478
+},{
+"label": "Saar [Tarimas]", "lat": 32.3012, "lng": -115.128644
+},{
+"label": "Campo Cuatro (Ejido Hechicera)", "lat": 32.555403, "lng": -115.121751
+},{
+"label": "Familia Quezada Cejada (Colonia Colorado Número Cuatro)", "lat": 32.518357, "lng": -115.37329
+},{
+"label": "Playa Caracol", "lat": 31.108551, "lng": -114.896906
+},{
+"label": "Familia Camacho Medina (Ejido Nayarit)", "lat": 32.326101, "lng": -115.303454
+},{
+"label": "Mezquite Ranch", "lat": 32.203719, "lng": -115.221497
+},{
+"label": "Cantú Cove (Colonia Francisco Villa)", "lat": 31.052978, "lng": -114.823716
+},{
+"label": "Mora Bravo (Ejido Morelia)", "lat": 32.443889, "lng": -115.189444
+},{
+"label": "Ejido Luchadores del Desierto", "lat": 32.570994, "lng": -115.788336
+},{
+"label": "Familia Rea (Ejido Tula)", "lat": 32.609539, "lng": -115.200618
+},{
+"label": "Ninguno [Familia Ayala Vaca]", "lat": 32.599083, "lng": -115.153302
+},{
+"label": "Familia Tamayo Ayala (Ejido Plan de Ayala)", "lat": 32.188895, "lng": -115.083262
+},{
+"label": "Rancho Cota (Ejido Ciudad Victoria)", "lat": 32.578, "lng": -114.951953
+},{
+"label": "Familia Andrade", "lat": 31.214956, "lng": -115.360791
+},{
+"label": "Familia Núñez (Colonia Progreso)", "lat": 32.585076, "lng": -115.597137
+},{
+"label": "Familia de León", "lat": 32.345032, "lng": -115.183459
+},{
+"label": "Los Manantiales", "lat": 32.61678, "lng": -115.271331
+},{
+"label": "La División (Colonia Venustiano Carranza)", "lat": 32.239356, "lng": -115.124358
+},{
+"label": "La Ladrillera (Colonia Colorado Número Tres)", "lat": 32.546798, "lng": -115.454743
+},{
+"label": "Familia Quintero (Colonia Baja California)", "lat": 32.262862, "lng": -115.08343
+},{
+"label": "Familia Sandoval (Ejido Aguascalientes)", "lat": 32.283833, "lng": -115.146388
+},{
+"label": "Ejido Cucapah Indígena", "lat": 32.296016, "lng": -115.294621
+},{
+"label": "Familia Castro Ruvalcaba (Ejido Zacatecas)", "lat": 32.499408, "lng": -115.362761
+},{
+"label": "Los Cates (Ejido Mérida)", "lat": 32.664596, "lng": -114.930925
+},{
+"label": "Salina del Noroeste (Salina de Baja California)", "lat": 31.42247, "lng": -115.002419
+},{
+"label": "Familia Alaniz Méndez (Colonia Madero)", "lat": 32.324722, "lng": -114.9925
+},{
+"label": "Familia Saldívar (Tlaxcala Dos)", "lat": 32.468611, "lng": -115.115556
+},{
+"label": "El Tábano", "lat": 32.382439, "lng": -115.192974
+},{
+"label": "Ejido Guanajuato Sección Dos", "lat": 32.492913, "lng": -115.299815
+},{
+"label": "Ninguno [Familia Andrade Raya]", "lat": 32.460924, "lng": -115.210703
+},{
+"label": "Arboleda Residencial", "lat": 32.558205, "lng": -115.434609
+},{
+"label": "González", "lat": 32.041489, "lng": -114.9908
+},{
+"label": "Familia Hernández (Colonia Robertson)", "lat": 32.220759, "lng": -115.290987
+},{
+"label": "Ejido Vicente Guerrero", "lat": 32.394345, "lng": -115.140591
+},{
+"label": "Familia Anaya (Colonia Independencia Número Uno)", "lat": 32.186111, "lng": -115.2675
+},{
+"label": "Los Romo (Colonia Olachea)", "lat": 32.294667, "lng": -115.162687
+},{
+"label": "Familia Salazar Payán (Ejido Jalapa)", "lat": 32.468595, "lng": -115.162427
+},{
+"label": "Familia Lino (Parcela Ochenta y Seis Ejido Tula)", "lat": 32.587625, "lng": -115.148509
+},{
+"label": "Familia Avilés (Ejido Tabasco)", "lat": 32.576996, "lng": -114.913422
+},{
+"label": "El Cuadrado", "lat": 32.598385, "lng": -115.542718
+},{
+"label": "Poblado Sombrerete", "lat": 32.16567, "lng": -115.057035
+},{
+"label": "Familia López (Ejido Tabasco)", "lat": 32.52457, "lng": -114.945277
+},{
+"label": "Rancho Camarillo (Veracruz Dos)", "lat": 32.398173, "lng": -115.089113
+},{
+"label": "Familia Díaz (Colonia Centinela)", "lat": 32.611101, "lng": -115.594331
+},{
+"label": "Familia Ceceña (Colonia Silva)", "lat": 32.418351, "lng": -115.042258
+},{
+"label": "Familia Pantoja (Colonia Bórquez)", "lat": 32.638128, "lng": -115.005314
+},{
+"label": "Familia Quintero", "lat": 32.238095, "lng": -115.301891
+},{
+"label": "Parcela Cincuenta y Ocho (Ejido Jalapa)", "lat": 32.475848, "lng": -115.166712
+},{
+"label": "Familia Jiménez Zavala (Colonia Silva)", "lat": 32.399546, "lng": -115.065926
+},{
+"label": "Familia Morales (Colonia Leona Vicario)", "lat": 32.144364, "lng": -115.151599
+},{
+"label": "Familia Martínez (Colonia Independencia)", "lat": 32.206382, "lng": -115.303308
+},{
+"label": "Familia Soto (Colonia Mariana)", "lat": 32.268081, "lng": -115.320648
+},{
+"label": "Familia Cordero (Ejido Villa Hermosa)", "lat": 32.635243, "lng": -114.994192
+},{
+"label": "Familia Ibarra (Ejido Tula)", "lat": 32.576594, "lng": -115.159438
+},{
+"label": "Familia Murillo (Ejido Morelos)", "lat": 32.604811, "lng": -114.864607
+},{
+"label": "Familia Bernal Ordóñez (Colonia Madero)", "lat": 32.325374, "lng": -115.029171
+},{
+"label": "Familia Villa (Ejido San Luis Potosí)", "lat": 32.49447, "lng": -115.127553
+},{
+"label": "Familia Escarpita (Colonia Colorado Número Cinco)", "lat": 32.494442, "lng": -115.359319
+},{
+"label": "Rancho de los Ángulo (Colonia Zacatecas)", "lat": 32.041454, "lng": -114.98942
+},{
+"label": "Vildósola (Colonia Abasolo)", "lat": 32.626847, "lng": -115.306802
+},{
+"label": "Familia Figueroa (Colonia Ahumada)", "lat": 32.557374, "lng": -115.487292
+},{
+"label": "Familia Fierro (Ejido Mezquital)", "lat": 32.491591, "lng": -114.902411
+},{
+"label": "Cuatro Milpas (Colonia Venustiano Carranza)", "lat": 32.2301, "lng": -115.210396
+},{
+"label": "Rancho Orozco (Colonia Abasolo)", "lat": 32.646644, "lng": -115.363496
+},{
+"label": "Familia Meza (Ejido Villa Hermosa)", "lat": 32.650799, "lng": -114.987872
+},{
+"label": "Familia Ahumada (Ejido Guerrero)", "lat": 32.365149, "lng": -115.135633
+},{
+"label": "Rancho Carmelita", "lat": 32.333243, "lng": -115.210239
+},{
+"label": "Emiliano Zapata (Colonia Progreso)", "lat": 32.592534, "lng": -115.618403
+},{
+"label": "Familia Barbosa García (Ejido Tula Parcela Dos)", "lat": 32.607359, "lng": -115.255618
+},{
+"label": "Rodríguez y Pérez", "lat": 32.664716, "lng": -114.899603
+},{
+"label": "Baja Palmas", "lat": 31.118894, "lng": -114.889772
+},{
+"label": "Rancho Valdivia (Ejido Tula)", "lat": 32.610732, "lng": -115.228191
+},{
+"label": "El Mirador (Colonia Independencia Económica)", "lat": 32.224384, "lng": -115.318176
+},{
+"label": "Familia Solorio Sandoval (Colonia Hidalgo)", "lat": 32.259487, "lng": -115.065135
+},{
+"label": "La Esperanza [Rancho]", "lat": 32.035417, "lng": -115.698892
+},{
+"label": "Familia Solís (Colonia Triángulo)", "lat": 32.263428, "lng": -115.084264
+},{
+"label": "La Colorado (Colonia Colorado)", "lat": 32.477441, "lng": -115.387763
+},{
+"label": "Familia Tovar (Colonia Zaragoza)", "lat": 32.595212, "lng": -115.552421
+},{
+"label": "Familia Álvarez (Parcela Noventa y Cuatro Ejido Campeche)", "lat": 32.537885, "lng": -114.968984
+},{
+"label": "Familia Lamarque (Colonia Chapultepec)", "lat": 32.326603, "lng": -115.071443
+},{
+"label": "Familia Nila (Colonia Centinela)", "lat": 32.623065, "lng": -115.634741
+},{
+"label": "Familia Valle (Ejido Tula)", "lat": 32.610896, "lng": -115.230733
+},{
+"label": "Familia López (Colonia Progreso)", "lat": 32.542391, "lng": -115.592875
+},{
+"label": "Ejido Cucapah Mestizo", "lat": 32.245663, "lng": -115.283003
+},{
+"label": "Familia Lizalde (Ejido Benito Juárez)", "lat": 32.496426, "lng": -115.447904
+},{
+"label": "Familia Cano", "lat": 32.582896, "lng": -115.343819
+},{
+"label": "Familia Godínez (Colonia Miguel Alemán)", "lat": 32.532246, "lng": -114.828531
+},{
+"label": "Ejido Colima 1", "lat": 32.487291, "lng": -115.007652
+},{
+"label": "Campo el Dieciocho (Ejido Morelos)", "lat": 32.58675, "lng": -114.892175
+},{
+"label": "Familia Bogarín Félix (Ejido Chiapas)", "lat": 32.486099, "lng": -114.951245
+},{
+"label": "Colonia Dieguinos", "lat": 32.655072, "lng": -114.783065
+},{
+"label": "Cerro Prieto (Colonia Cerro Prieto)", "lat": 32.43108, "lng": -115.313929
+},{
+"label": "Familia González (Ejido Tabasco)", "lat": 32.553866, "lng": -114.876423
+},{
+"label": "Colonia Camacho (Familia García)", "lat": 32.18108, "lng": -115.092489
+},{
+"label": "Palos Verdes Norte y Sur", "lat": 31.106784, "lng": -114.907946
+},{
+"label": "Familia Covarrubias (Colonia Venustiano Carranza)", "lat": 32.210064, "lng": -115.254576
+},{
+"label": "Familia Herrera Herrera", "lat": 32.092199, "lng": -115.002648
+},{
+"label": "Artemio Bravo (Veracruz Marítimo)", "lat": 32.37261, "lng": -115.112554
+},{
+"label": "Doctor Pérez", "lat": 32.493042, "lng": -115.308842
+},{
+"label": "Familia Pérez (Ejido Villa Hermosa)", "lat": 32.662658, "lng": -114.953008
+},{
+"label": "El Faro Beach", "lat": 30.933, "lng": -114.719015
+},{
+"label": "Rancho Fierro", "lat": 32.646861, "lng": -114.807633
+},{
+"label": "Colonia Castro", "lat": 32.663489, "lng": -115.347968
+},{
+"label": "Familia Macías (Ejido Mezquital)", "lat": 32.497343, "lng": -114.934065
+},{
+"label": "Familia Mejía (Ejido Cucapah Mestizo)", "lat": 32.258858, "lng": -115.296197
+},{
+"label": "Familia Sánchez Albarrán (Colonia Camacho)", "lat": 32.160288, "lng": -115.131667
+},{
+"label": "Rancho de los Ayala (Veracruz Dos)", "lat": 32.386621, "lng": -115.101231
+},{
+"label": "Nuevo Milenium", "lat": 32.612058, "lng": -115.294087
+},{
+"label": "Familia Tello (Ejido Tula)", "lat": 32.612026, "lng": -115.217101
+},{
+"label": "Familia Aguilera (Campos Nuevos Ejido Sonora 2)", "lat": 32.279889, "lng": -115.190708
+},{
+"label": "Familia Castro", "lat": 32.653293, "lng": -114.858092
+},{
+"label": "Rancho Mireles (Colonia Venustiano Carranza)", "lat": 32.241418, "lng": -115.198885
+},{
+"label": "Rancho Arregín [Ejido Aguascalientes]", "lat": 32.282412, "lng": -115.124476
+},{
+"label": "Familia Aguilar Castro (Ejido Jalapa)", "lat": 32.460395, "lng": -115.159556
+},{
+"label": "Ejido José Saldaña Número 2", "lat": 31.802145, "lng": -115.35615
+},{
+"label": "Campo Muñoz (Ejido el Choropo)", "lat": 32.095798, "lng": -115.23576
+},{
+"label": "El Chavalo (Colonia San Pedro Mártir)", "lat": 31.055, "lng": -115.242778
+},{
+"label": "Familia Guillén (Ejido Benito Juárez)", "lat": 32.481111, "lng": -115.433056
+},{
+"label": "Familia Tafoya (Colonia Colorado Número Tres)", "lat": 32.553514, "lng": -115.385815
+},{
+"label": "Familia González (Ejido Jalapa)", "lat": 32.468578, "lng": -115.160067
+},{
+"label": "Campo Pops", "lat": 31.105264, "lng": -114.877835
+},{
+"label": "Colonia Zacatecas", "lat": 32.0475, "lng": -114.995833
+},{
+"label": "Familia Medina (Ejido Michoacán de Ocampo)", "lat": 32.448795, "lng": -115.29181
+},{
+"label": "Rancho Godoy (Veracruz Dos)", "lat": 32.406849, "lng": -115.077223
+},{
+"label": "Ejido Tamaulipas (Estación Cucapah)", "lat": 32.551177, "lng": -115.234664
+},{
+"label": "Francisco Murguía (Kilómetro Cuarenta y Nueve)", "lat": 32.242712, "lng": -115.065816
+},{
+"label": "Familia Arroyo (Ejido Morelos)", "lat": 32.611267, "lng": -114.874682
+},{
+"label": "Familia García (Ejido Jalapa)", "lat": 32.457041, "lng": -115.193928
+},{
+"label": "Familia Escoto (Colonia Madero)", "lat": 32.334683, "lng": -115.018261
+},{
+"label": "Familia Ibarra (Colonia del Norte)", "lat": 32.616656, "lng": -115.020523
+},{
+"label": "Familia Llanes (Colonia Benito Juárez)", "lat": 32.30051, "lng": -115.016573
+},{
+"label": "Rancho Castillo", "lat": 32.619402, "lng": -115.172476
+},{
+"label": "Familia Moraz (Ejido Tula Parcela Cinco)", "lat": 32.60349, "lng": -115.250802
+},{
+"label": "San Felipe (Ejido Plan Nacional Agrario) [Compañía]", "lat": 31.584002, "lng": -115.112138
+},{
+"label": "Familia Maya (Ejido Villa Hermosa)", "lat": 32.654103, "lng": -114.972514
+},{
+"label": "Familia Bonilla (Veracruz Marítimo)", "lat": 32.377168, "lng": -115.11161
+},{
+"label": "Familia Gómez (Colonia Cerro Prieto)", "lat": 32.513503, "lng": -115.422051
+},{
+"label": "Familia Calderón (Ejido México)", "lat": 32.520878, "lng": -114.996476
+},{
+"label": "Familia Machado (Ejido Tamaulipas)", "lat": 32.559504, "lng": -115.237588
+},{
+"label": "Familia Montoya (Ejido Tabasco)", "lat": 32.558759, "lng": -114.872001
+},{
+"label": "Familia Mendoza (Veracruz Marítimo)", "lat": 32.370185, "lng": -115.072936
+},{
+"label": "Familia Galván Palomino (Colonia Progreso)", "lat": 32.551877, "lng": -115.59128
+},{
+"label": "La Lomita", "lat": 32.654099, "lng": -115.631594
+},{
+"label": "La Primavera (Colonia Zacatecas)", "lat": 32.171195, "lng": -115.055674
+},{
+"label": "Familia Rodríguez (Colonia Abasolo)", "lat": 32.632046, "lng": -115.293634
+},{
+"label": "Familia Vallejo (Ejido Sonora 2 Parcela Ciento Treinta y Seis)", "lat": 32.284064, "lng": -115.175378
+},{
+"label": "Familia Vega (Ejido Tehuantepec)", "lat": 32.527781, "lng": -115.025244
+},{
+"label": "Los Hernández (Veracruz Dos)", "lat": 32.406594, "lng": -115.07266
+},{
+"label": "Familia Botello (Colonia San Isidro)", "lat": 32.67481, "lng": -115.348966
+},{
+"label": "Familia López (Sombrerete Número Uno)", "lat": 32.14155, "lng": -115.029905
+},{
+"label": "Valle del Puebla [Parque Industrial]", "lat": 32.535153, "lng": -115.34965
+},{
+"label": "Familia Valadez (Colonia Benito Juárez)", "lat": 32.307841, "lng": -115.007361
+},{
+"label": "Los Alonso (Veracruz Marítimo)", "lat": 32.358171, "lng": -115.116606
+},{
+"label": "Ejido Durango", "lat": 32.248473, "lng": -115.252193
+},{
+"label": "Miguel Hidalgo y Costilla (Colonia Cinco Cerro Prieto)", "lat": 32.504205, "lng": -115.339055
+},{
+"label": "Familia Muñoz (Colonia Progreso)", "lat": 32.542999, "lng": -115.578873
+},{
+"label": "San Pedro (Colonia Progreso)", "lat": 32.587132, "lng": -115.600847
+},{
+"label": "Familia Ibarra Jáuregui (Colonia Elías)", "lat": 32.360625, "lng": -114.981139
+},{
+"label": "Diamante", "lat": 30.946564, "lng": -114.741371
+},{
+"label": "El Crucero (Ejido Campeche)", "lat": 32.54695, "lng": -114.992404
+},{
+"label": "Benito Juárez (Ejido Tecolotes)", "lat": 32.570283, "lng": -115.00039
+},{
+"label": "Familia Meza (Colonia Zaragoza)", "lat": 32.597703, "lng": -115.545072
+},{
+"label": "Familia Arizaga (Colonia Pescadores)", "lat": 32.443259, "lng": -114.94762
+},{
+"label": "Rancho Rodríguez", "lat": 32.129726, "lng": -115.099499
+},{
+"label": "Familia Méndez (Colonia Abasolo)", "lat": 32.650104, "lng": -115.375522
+},{
+"label": "Familia Padilla (Colonia Cerro Prieto)", "lat": 32.499452, "lng": -115.431205
+},{
+"label": "Perlas [Campo]", "lat": 31.1452, "lng": -114.89174
+},{
+"label": "Familia Rodríguez (Colonia Benito Juárez)", "lat": 32.309515, "lng": -115.028849
+},{
+"label": "Colonia Elías", "lat": 32.351878, "lng": -114.993913
+},{
+"label": "Familia Salas Tamayo (Colonia Progreso)", "lat": 32.559299, "lng": -115.505789
+},{
+"label": "Familia Lizárraga (Ejido Tula)", "lat": 32.595745, "lng": -115.235323
+},{
+"label": "La Vinata", "lat": 31.662778, "lng": -115.596389
+},{
+"label": "Ninguno [Unión de Fabricantes Exportadores para la Producción]", "lat": 32.551824, "lng": -115.580647
+},{
+"label": "La Curva (Colonia Zacatecas)", "lat": 32.182171, "lng": -115.024931
+},{
+"label": "Familia Rubio García (Colonia Colorado Número Siete)", "lat": 32.516995, "lng": -115.404392
+},{
+"label": "Parcela Cuarenta y Dos (Ejido Sinaloa)", "lat": 32.503482, "lng": -115.311658
+},{
+"label": "Familia López (Colonia Orive de Alba)", "lat": 32.659381, "lng": -114.842744
+},{
+"label": "Castro (Colonia Silva) [Agrícola]", "lat": 32.41973, "lng": -115.009878
+},{
+"label": "Los Cisneros (Veracruz 2)", "lat": 32.377208, "lng": -115.091521
+},{
+"label": "Campo la Curva (Colonia Silva)", "lat": 32.410585, "lng": -114.992513
+},{
+"label": "Familia Zárate (Ejido Nuevo León)", "lat": 32.424115, "lng": -115.192151
+},{
+"label": "Familia Platt (Colonia Colorado Número Tres)", "lat": 32.557489, "lng": -115.412788
+},{
+"label": "Rancho Sedeño (Ejido San Luis Potosí)", "lat": 32.505321, "lng": -115.141123
+},{
+"label": "Familia Velázquez (Colonia Pescaderos)", "lat": 32.443593, "lng": -114.955872
+},{
+"label": "Rancho Everardo", "lat": 32.421295, "lng": -115.36106
+},{
+"label": "Familia Mendoza (Colonia Progreso)", "lat": 32.563428, "lng": -115.590724
+},{
+"label": "Rancho García (Colonia Colorado Número Siete)", "lat": 32.520414, "lng": -115.418356
+},{
+"label": "Familia Torres (Ejido Tabasco)", "lat": 32.581673, "lng": -114.926252
+},{
+"label": "Familia Martínez (Ejido Mérida)", "lat": 32.6525, "lng": -114.901111
+},{
+"label": "Rancho Salas (Ejido Saltillo)", "lat": 32.420914, "lng": -115.151281
+},{
+"label": "Rancho Ferracín (Colonia Colorado Número Uno)", "lat": 32.531001, "lng": -115.430563
+},{
+"label": "Los Bernal (Veracruz Dos)", "lat": 32.378279, "lng": -115.083419
+},{
+"label": "Familia León Bernal (Ejido Campeche)", "lat": 32.559834, "lng": -114.968324
+},{
+"label": "Nuevo León", "lat": 32.409974, "lng": -115.190669
+},{
+"label": "Familia Quintana (Ejido Tabasco)", "lat": 32.531972, "lng": -114.942563
+},{
+"label": "Othón Aguilar", "lat": 32.649905, "lng": -115.608211
+},{
+"label": "Rancho Esperanza", "lat": 32.622886, "lng": -115.273962
+},{
+"label": "Familia Reyes (Ejido Mezquital)", "lat": 32.50104, "lng": -114.902479
+},{
+"label": "Familia Moreno (Colonia Grupo Reforma)", "lat": 32.65909, "lng": -114.758491
+},{
+"label": "Pobladito de los Ponce", "lat": 32.54382, "lng": -115.591003
+},{
+"label": "Familia López Campos (Colonia Colorado Número Cinco)", "lat": 32.492686, "lng": -115.359785
+},{
+"label": "Santa Dolores (Colonia Zaragoza)", "lat": 32.598887, "lng": -115.534619
+},{
+"label": "Puente Calabazas (Represa Galeana)", "lat": 32.603118, "lng": -114.830955
+},{
+"label": "Familia Cota (Colonia Orive de Alba)", "lat": 32.650576, "lng": -114.870104
+},{
+"label": "Familia Muñoz (Ejido Saltillo)", "lat": 32.431486, "lng": -115.109428
+},{
+"label": "Rancho López (Colonia Venustiano Carranza)", "lat": 32.23674, "lng": -115.204266
+},{
+"label": "El Yin (Colonia Venustiano Carranza)", "lat": 32.244759, "lng": -115.113443
+},{
+"label": "Quiroz [Datilera]", "lat": 32.615567, "lng": -115.259356
+},{
+"label": "Familia Villegas Gaytán (Ejido San Luis Potosí)", "lat": 32.513229, "lng": -115.113117
+},{
+"label": "Alianza para la Producción (La Choyera)", "lat": 31.301508, "lng": -115.416461
+},{
+"label": "Don Teo (Colonia Castro)", "lat": 32.655278, "lng": -115.315278
+},{
+"label": "Familia González (Colonia Colorado) [Ladrillera]", "lat": 32.481948, "lng": -115.369674
+},{
+"label": "Familia Zúñiga (Colonia Francisco Villa)", "lat": 30.973265, "lng": -114.842443
+},{
+"label": "La Angustia", "lat": 32.669024, "lng": -115.033926
+},{
+"label": "Familia Venegas Jacobo", "lat": 32.573341, "lng": -115.522124
+},{
+"label": "Familia Meza (Ejido Campeche Parcela Ciento Seis)", "lat": 32.539733, "lng": -114.968943
+},{
+"label": "Familia Redona (Colonia Abasolo)", "lat": 32.643918, "lng": -115.325431
+},{
+"label": "Rancho Matea", "lat": 32.564228, "lng": -115.541049
+},{
+"label": "Santa Fe", "lat": 32.606364, "lng": -115.572226
+},{
+"label": "Campo Pai-Pai", "lat": 31.101392, "lng": -114.876077
+},{
+"label": "Familia Carranco (Veracruz Marítimo)", "lat": 32.364142, "lng": -115.077789
+},{
+"label": "El Capricho", "lat": 32.466713, "lng": -115.33064
+},{
+"label": "Familia Cuevas Ledezma (Colonia Madero)", "lat": 32.32787, "lng": -115.040027
+},{
+"label": "Familia Jiménez (Colonia Progreso)", "lat": 32.555166, "lng": -115.581066
+},{
+"label": "Colonia Venustiano Carranza Margen Izquierdo (La Carrancita)", "lat": 32.167249, "lng": -115.158761
+},{
+"label": "Colonia Río Hardy", "lat": 32.552743, "lng": -115.431212
+},{
+"label": "Familia Rodríguez Hernández (Colonia Progreso)", "lat": 32.565406, "lng": -115.511481
+},{
+"label": "Calizas [Industrias]", "lat": 32.525502, "lng": -115.595925
+},{
+"label": "Rancho Alvarado (Colonia Alvarado)", "lat": 32.198152, "lng": -115.317963
+},{
+"label": "Cázares [Motores y Maderería]", "lat": 32.295836, "lng": -115.121053
+},{
+"label": "Familia Cota Cota (Colonia Silva)", "lat": 32.406427, "lng": -115.065263
+},{
+"label": "Eligio Esquivel Méndez (El Chorizo)", "lat": 32.659325, "lng": -115.561631
+},{
+"label": "Familia García (Sombrerete Número Uno)", "lat": 32.141222, "lng": -114.993139
+},{
+"label": "Familia Molina", "lat": 32.566994, "lng": -115.105083
+},{
+"label": "Familia Moreno (Colonia Tecolote Batáquez)", "lat": 32.587859, "lng": -114.981628
+},{
+"label": "Familia Mena (Colonia Colorado Número Tres)", "lat": 32.534796, "lng": -115.388764
+},{
+"label": "Familia Contreras Gómez (Ejido Nayarit)", "lat": 32.32656, "lng": -115.213146
+},{
+"label": "Familia García (Colonia Orive de Alba)", "lat": 32.650973, "lng": -114.87421
+},{
+"label": "Familia Nolasco Mendoza (Ejido Hermosillo)", "lat": 32.524379, "lng": -114.9162
+},{
+"label": "Percobac", "lat": 32.634525, "lng": -115.348806
+},{
+"label": "Ejido Guadalajara", "lat": 32.545296, "lng": -114.865825
+},{
+"label": "Rancho Refugio", "lat": 32.259495, "lng": -115.109543
+},{
+"label": "Familia Crespo (Ejido Benito Juárez)", "lat": 32.486548, "lng": -115.437258
+},{
+"label": "Familia Ramos Rodríguez (Ejido Sonora 2)", "lat": 32.294838, "lng": -115.188489
+},{
+"label": "Islas Agrarias Grupo B", "lat": 32.600677, "lng": -115.271686
+},{
+"label": "Familia Cebreros (Ejido Sonora 2)", "lat": 32.288077, "lng": -115.190558
+},{
+"label": "Islas Agrarias Grupo A", "lat": 32.611663, "lng": -115.332876
+},{
+"label": "Rivera de la Progreso", "lat": 32.5957, "lng": -115.582338
+},{
+"label": "Familia Trejo (Colonia Zacatecas) [Pista]", "lat": 32.171067, "lng": -115.002489
+},{
+"label": "Familia Flores Castillo (Ejido Tlaxcala)", "lat": 32.473106, "lng": -115.12781
+},{
+"label": "Familia León (Ejido Tabasco el Malo)", "lat": 32.530596, "lng": -114.912421
+},{
+"label": "Familia Mojardín (Colonia Abasolo)", "lat": 32.643406, "lng": -115.316786
+},{
+"label": "Familia Palmerín (Colonia Bomba Vieja)", "lat": 32.584343, "lng": -115.517091
+},{
+"label": "Méndez [Rancho]", "lat": 32.629809, "lng": -115.340315
+},{
+"label": "Familia Velarde (Ejido Piedras Negras)", "lat": 32.569358, "lng": -115.015325
+},{
+"label": "Familia Villarreal (Ejido Campeche)", "lat": 32.530396, "lng": -114.968411
+},{
+"label": "Familia Rosales Márquez (Colonia Zacatecas)", "lat": 32.184301, "lng": -115.017449
+},{
+"label": "Familia Verdugo López (Colonia Venustiano Carranza)", "lat": 32.240166, "lng": -115.179122
+},{
+"label": "Familia Madrid (Colonia Progreso)", "lat": 32.546335, "lng": -115.520965
+},{
+"label": "Familia García (Colonia Venustiano Carranza)", "lat": 32.201966, "lng": -115.185315
+},{
+"label": "San José Número Cuarenta y Ocho (Rancho Márquez)", "lat": 30.957653, "lng": -114.838394
+},{
+"label": "Campamento Campillo", "lat": 32.674176, "lng": -114.776423
+},{
+"label": "Familia Montaño Ríos", "lat": 32.573729, "lng": -114.978474
+},{
+"label": "La Golondrina", "lat": 32.629173, "lng": -115.636229
+},{
+"label": "Familia Sánchez (Colonia Centinela)", "lat": 32.620978, "lng": -115.589302
+},{
+"label": "La Ladrillera (Colonia Colorado Número Diez)", "lat": 32.6054, "lng": -115.352242
+},{
+"label": "El Medanito (Colonia Terrenos Indios)", "lat": 32.176102, "lng": -115.312466
+},{
+"label": "Familia Contreras (Ejido Irapuato)", "lat": 32.594392, "lng": -115.169501
+},{
+"label": "Familia Ramírez (Colonia Progreso)", "lat": 32.588619, "lng": -115.520988
+},{
+"label": "Familia Zavala (Colonia Leona Vicario)", "lat": 32.151924, "lng": -115.16372
+},{
+"label": "Familia Patiño (Colonia Miguel Alemán)", "lat": 32.549909, "lng": -114.817398
+},{
+"label": "Familia Zamora (Ejido Irapuato)", "lat": 32.593763, "lng": -115.134972
+},{
+"label": "Los Manantiales de Arena", "lat": 32.572375, "lng": -115.771061
+},{
+"label": "Los Viajeros (Ejido Plan Nacional Agrario)", "lat": 31.092041, "lng": -114.942225
+},{
+"label": "Ejido Hipólito Rentería", "lat": 32.427105, "lng": -115.369754
+},{
+"label": "Familia Contreras (Ejido San Luis Potosí)", "lat": 32.510278, "lng": -115.116451
+},{
+"label": "Familia Díaz (Colonia Chapultepec)", "lat": 32.326371, "lng": -115.100511
+},{
+"label": "Ejido Camacho", "lat": 32.202984, "lng": -115.095101
+},{
+"label": "Familia Jáuregui (Ejido Islas Agrarias B)", "lat": 32.576579, "lng": -115.29498
+},{
+"label": "Familia Peñuñuri (Ejido Mezquital)", "lat": 32.501012, "lng": -114.912687
+},{
+"label": "Familia López Cisneros (Colonia Silva)", "lat": 32.388373, "lng": -115.059847
+},{
+"label": "Familia García (Parcela Cincuenta y Ocho Veracruz Dos)", "lat": 32.397918, "lng": -115.106464
+},{
+"label": "Familia Agúndez (Ejido Morelos)", "lat": 32.610102, "lng": -114.863121
+},{
+"label": "Familia Fernández (Colonia progreso)", "lat": 32.555978, "lng": -115.568659
+},{
+"label": "Rancho Castro Guerrero", "lat": 32.586421, "lng": -115.537054
+},{
+"label": "Familia Arroyo Cervantes (Veracruz Dos)", "lat": 32.405961, "lng": -115.083474
+},{
+"label": "Playa Hermosa", "lat": 30.915102, "lng": -114.714906
+},{
+"label": "Familia Leyva (Colonia Progreso)", "lat": 32.59301, "lng": -115.625231
+},{
+"label": "Colonia Colorado 2", "lat": 32.538884, "lng": -115.412601
+},{
+"label": "Familia González (Colonia Mariana)", "lat": 32.261659, "lng": -115.318494
+},{
+"label": "Familia Mendoza", "lat": 32.586059, "lng": -115.509838
+},{
+"label": "Colonia la 21 (Colonia Silva)", "lat": 32.402455, "lng": -115.01236
+},{
+"label": "Sociedad de Productores Rural", "lat": 31.026554, "lng": -115.209958
+},{
+"label": "El Dorado (Ejido Plan Nacional Agrario)", "lat": 31.143875, "lng": -114.945087
+},{
+"label": "Familia Hurtado (Ejido Aguascalientes)", "lat": 32.254489, "lng": -115.110926
+},{
+"label": "Sonora Dos", "lat": 32.573034, "lng": -115.608928
+},{
+"label": "Familia Gastélum (Colonia Mariana)", "lat": 32.241461, "lng": -115.315934
+},{
+"label": "San Juan (Colonia Colorado Número Ocho) [Corrales]", "lat": 32.443038, "lng": -115.359545
+},{
+"label": "Familia Martínez (Ejido Morelos)", "lat": 32.614713, "lng": -114.900429
+},{
+"label": "Mexicali", "lat": 32.641176, "lng": -115.475579
+},{
+"label": "Zona del Canal (Veracruz Dos)", "lat": 32.387169, "lng": -115.066235
+},{
+"label": "Vistahermosa", "lat": 30.916586, "lng": -114.714684
+},{
+"label": "Carlos Valenzuela [Rancho]", "lat": 32.451353, "lng": -115.032847
+},{
+"label": "Familia Castro (Ejido Hermosillo)", "lat": 32.53296, "lng": -114.890873
+},{
+"label": "Rancho Esquer (Colonia Orive de Alba)", "lat": 32.665761, "lng": -114.849801
+},{
+"label": "Familia González (Veracruz Dos)", "lat": 32.383379, "lng": -115.097363
+},{
+"label": "Comunidad Indígena Cucapah el Mayor", "lat": 32.125502, "lng": -115.273383
+},{
+"label": "Rancho Barbosa Rivas", "lat": 32.659657, "lng": -114.812123
+},{
+"label": "Parcela Cuarenta y Tres (Ejido Morelia)", "lat": 32.442778, "lng": -115.229167
+},{
+"label": "Colonia Bomba Vieja", "lat": 32.583186, "lng": -115.516761
+},{
+"label": "Planta Número Dos (Colonia Silva)", "lat": 32.41313, "lng": -115.066414
+},{
+"label": "Familia Domínguez", "lat": 32.284813, "lng": -115.062618
+},{
+"label": "Familia Vázquez (Ejido Hermosillo)", "lat": 32.52383, "lng": -114.876409
+},{
+"label": "Familia Solorio (Ejido Cucapah Mestizo)", "lat": 32.266015, "lng": -115.288231
+},{
+"label": "Rancho Cachanilla (Colonia Mariana)", "lat": 32.237689, "lng": -115.318957
+},{
+"label": "Familia Castro Villa", "lat": 32.591254, "lng": -115.544206
+},{
+"label": "San Francisco", "lat": 32.562123, "lng": -115.449361
+},{
+"label": "Ejido Nuevo Michoacán de Baja California", "lat": 32.231099, "lng": -115.229406
+},{
+"label": "El Nacay Elías (Colonia Elías)", "lat": 32.361547, "lng": -114.99197
+},{
+"label": "Andrés Soberanes Gómez (Colonia Baja California)", "lat": 32.232622, "lng": -115.08364
+},{
+"label": "Familia Lozano Rodríguez (Ejido Chiapas)", "lat": 32.431501, "lng": -114.977211
+},{
+"label": "Rancho Trujillo", "lat": 32.566111, "lng": -115.533889
+},{
+"label": "Familia Figueroa (Lote Trece y Catorce Colonia Silva)", "lat": 32.377821, "lng": -115.051649
+},{
+"label": "Familia Garnica (Colonia José María Rodríguez)", "lat": 32.641086, "lng": -115.049731
+},{
+"label": "Familia González (Colonia Pescaderos)", "lat": 32.460956, "lng": -114.950163
+},{
+"label": "Bordo Rodríguez (Colonia Rodríguez)", "lat": 32.424946, "lng": -115.052829
+},{
+"label": "Familia Robles Licón (Colonia Ahumada)", "lat": 32.564606, "lng": -115.505606
+},{
+"label": "Familia Rocha (Ejido Tula Parcela Setenta y Tres)", "lat": 32.597301, "lng": -115.184379
+},{
+"label": "Rancho Medina (Ejido Aguascalientes)", "lat": 32.297393, "lng": -115.125917
+},{
+"label": "Familia Félix (Ejido Villa Hermosa)", "lat": 32.647406, "lng": -114.969454
+},{
+"label": "Ejido Veracruz Dos", "lat": 32.393944, "lng": -115.079508
+},{
+"label": "Las Casetas (Colonia Hidalgo)", "lat": 32.247077, "lng": -115.059405
+},{
+"label": "Familia Aguirre (Colonia Progreso)", "lat": 32.556048, "lng": -115.586824
+},{
+"label": "Familia Escañuela (Ejido Tehuantepec)", "lat": 32.551212, "lng": -115.038338
+},{
+"label": "Familia Salas González (Ejido San Luis Potosí)", "lat": 32.496242, "lng": -115.173982
+},{
+"label": "Lobo Colorado [Establo]", "lat": 32.519997, "lng": -115.352683
+},{
+"label": "Familia Lemus", "lat": 32.636727, "lng": -115.221143
+},{
+"label": "Familia Pérez Fuentes (Ejido Campeche)", "lat": 32.548071, "lng": -115.001294
+},{
+"label": "Familia Hernández (Ejido Campeche)", "lat": 32.545232, "lng": -114.978194
+},{
+"label": "Los Bonilla (Veracruz Marítimo)", "lat": 32.370417, "lng": -115.109392
+},{
+"label": "Familia Rivera (Colonia Ahumada)", "lat": 32.560386, "lng": -115.504609
+},{
+"label": "Colonia Lerma", "lat": 32.134948, "lng": -115.11581
+},{
+"label": "El Pescador", "lat": 31.071314, "lng": -114.846086
+},{
+"label": "Los Bravo (Veracruz Marítimo)", "lat": 32.358272, "lng": -115.109428
+},{
+"label": "Familia Castillo Bugarín (Tlaxcala Dos)", "lat": 32.472389, "lng": -115.118574
+},{
+"label": "Familia Garibay", "lat": 32.484233, "lng": -114.932846
+},{
+"label": "Familia Pérez (Colonia Centinela)", "lat": 32.620998, "lng": -115.616365
+},{
+"label": "Familia Durán (Ejido Mezquital)", "lat": 32.507824, "lng": -114.863546
+},{
+"label": "Familia Camacho Norsagaray (Ejido Nayarit)", "lat": 32.302679, "lng": -115.296492
+},{
+"label": "La Laguna (Ejido Distrito Federal)", "lat": 32.478785, "lng": -115.02981
+},{
+"label": "Familia Gutiérrez Romero (Ejido Plan de Ayala)", "lat": 32.183763, "lng": -115.068985
+},{
+"label": "Familia Rosales (Colonia Robertson)", "lat": 32.222693, "lng": -115.284552
+},{
+"label": "San Fernando (Colonia Colorado 7) [Corrales]", "lat": 32.520026, "lng": -115.42525
+},{
+"label": "Buen Rostro", "lat": 32.492882, "lng": -115.330631
+},{
+"label": "Hacienda de Guadalupe", "lat": 32.63341, "lng": -115.334217
+},{
+"label": "Familia Salazar Núñez (Colonia Chaussé)", "lat": 32.298679, "lng": -115.019341
+},{
+"label": "Familia Floreano (Colonia Osiris)", "lat": 32.560424, "lng": -115.197982
+},{
+"label": "Familia Bernal (Colonia Madero)", "lat": 32.312736, "lng": -115.040085
+},{
+"label": "Familia Verdugo (Colonia Venustiano Carranza)", "lat": 32.158834, "lng": -115.149104
+},{
+"label": "Baja Mar [Olivarera]", "lat": 32.681683, "lng": -115.054549
+},{
+"label": "Nayarit Llamada", "lat": 32.313951, "lng": -115.246051
+},{
+"label": "Familia Flores (Ejido Querétaro)", "lat": 32.535587, "lng": -115.137912
+},{
+"label": "Familia Rodríguez (Colonia Mariana)", "lat": 32.276053, "lng": -115.322791
+},{
+"label": "Familia Rentería (Colonia Miguel Alemán)", "lat": 32.545861, "lng": -114.812631
+},{
+"label": "Familia González (Colonia Madero)", "lat": 32.334947, "lng": -115.008763
+},{
+"label": "Familia Barajas (Ejido Morelos)", "lat": 32.583621, "lng": -114.871122
+},{
+"label": "Familia Echeverría (Colonia Cerro Prieto)", "lat": 32.509526, "lng": -115.456318
+},{
+"label": "Puebla", "lat": 32.567153, "lng": -115.354022
+},{
+"label": "Familia Martínez (Colonia Ahumadita)", "lat": 32.549263, "lng": -115.491532
+},{
+"label": "Segovia Residencial", "lat": 32.649688, "lng": -115.37269
+},{
+"label": "Colonia Canal Álamo", "lat": 32.631632, "lng": -114.876873
+},{
+"label": "Colonia Tecolote Batáquez", "lat": 32.601201, "lng": -114.987263
+},{
+"label": "El Misterioso (Colonia Venustiano Carranza)", "lat": 32.188088, "lng": -115.225766
+},{
+"label": "Familia Figueroa Núñez (Colonia Hidalgo Lote Veintiséis)", "lat": 32.249323, "lng": -115.061786
+},{
+"label": "Rancho Cobos (Colonia Progreso)", "lat": 32.572073, "lng": -115.567899
+},{
+"label": "Rancho Verde (Tlaxcala Dos)", "lat": 32.379781, "lng": -115.086503
+},{
+"label": "Rancho Mendoza (Colonia Abasolo)", "lat": 32.617053, "lng": -115.336063
+},{
+"label": "Misión San Carlos [Centro de Rehabilitación]", "lat": 32.560375, "lng": -115.451036
+},{
+"label": "Familia Padilla Piña", "lat": 32.564826, "lng": -115.097389
+},{
+"label": "Colonia Sonora", "lat": 32.604893, "lng": -115.650807
+},{
+"label": "Familia Martínez (Ejido Guadalajara)", "lat": 32.57379, "lng": -114.852716
+},{
+"label": "Ejido Guanajuato", "lat": 32.519078, "lng": -115.337667
+},{
+"label": "Colonia Ahumada", "lat": 32.589731, "lng": -115.500687
+},{
+"label": "Familia Covarrubias (Colonia Abasolo)", "lat": 32.629381, "lng": -115.353609
+},{
+"label": "Familia Cobián (Ejido Islas Agrarias B)", "lat": 32.613828, "lng": -115.285315
+},{
+"label": "Familia Aguilar Ruvalcaba (Ejido Jalapa)", "lat": 32.47811, "lng": -115.146271
+},{
+"label": "Familia Rizzo Lozano (Colonia Colorado Número Cuatro)", "lat": 32.515124, "lng": -115.371162
+},{
+"label": "Ejido Benito Juárez", "lat": 32.490949, "lng": -115.446181
+},{
+"label": "Rancho Dámaso (Colonia Silva)", "lat": 32.403522, "lng": -115.006205
+},{
+"label": "Granjas Santa Gabriela (Colonia Frontera)", "lat": 32.657879, "lng": -115.150592
+},{
+"label": "Rancho Agúndez (Ejido Tamaulipas)", "lat": 32.555473, "lng": -115.235075
+},{
+"label": "Familia Reatiga Maytorell", "lat": 32.607762, "lng": -115.520867
+},{
+"label": "Familia Terrazas", "lat": 32.625294, "lng": -114.941763
+},{
+"label": "Familia Ferrez (Sección Cerro Prieto)", "lat": 32.435418, "lng": -115.36463
+},{
+"label": "Familia Huerta (Ejido Irapuato)", "lat": 32.598944, "lng": -115.170574
+},{
+"label": "Las Rocas [Rancho]", "lat": 32.517753, "lng": -115.440117
+},{
+"label": "Familia Verdugo (Ejido Tamaulipas Parcela Veintiocho)", "lat": 32.551523, "lng": -115.216897
+},{
+"label": "Familia García Loza", "lat": 32.326084, "lng": -115.187078
+},{
+"label": "Familia Vázquez (Ejido Torreón Parcela Cincuenta y Tres)", "lat": 32.610842, "lng": -114.91734
+},{
+"label": "Sindicalistas", "lat": 32.633977, "lng": -115.528976
+},{
+"label": "Rancho Galván (Colonia Zaragoza)", "lat": 32.580446, "lng": -115.554215
+},{
+"label": "Rancho Machado (Ejido República Mexicana)", "lat": 32.661599, "lng": -114.777809
+},{
+"label": "Familia Corona Chávez (Colonia Bórquez)", "lat": 32.61857, "lng": -115.040122
+},{
+"label": "Ejido Sinaloa (Estación Kasey)", "lat": 32.545578, "lng": -115.271554
+},{
+"label": "Familia Franco (Colonia Villarreal)", "lat": 32.43658, "lng": -115.017077
+},{
+"label": "Familia Talamantes (Colonia Camacho)", "lat": 32.163784, "lng": -115.138127
+},{
+"label": "Familia Cassio (Colonia Venustiano Carranza)", "lat": 32.226749, "lng": -115.216943
+},{
+"label": "Familia Santana (Colonia Miguel Alemán)", "lat": 32.517647, "lng": -114.835216
+},{
+"label": "Rancho Cárdenas", "lat": 32.652383, "lng": -114.842563
+},{
+"label": "Familia Ureta (Colonia Orive de Alba)", "lat": 32.666461, "lng": -114.889266
+},{
+"label": "Rancho Ingenieros (Ejido Hermosillo)", "lat": 32.537038, "lng": -114.899145
+},{
+"label": "Familia Ponce (Colonia Elías)", "lat": 32.360592, "lng": -115.016426
+},{
+"label": "Kilómetro Siete más 500 (Colonia Colorado 1)", "lat": 32.538831, "lng": -115.410345
+},{
+"label": "Las Granjas (Colonia Madero)", "lat": 32.341694, "lng": -115.038944
+},{
+"label": "Los Valdivia", "lat": 32.255278, "lng": -115.711389
+},{
+"label": "Familia Andrade (Colonia Centinela)", "lat": 32.634144, "lng": -115.616009
+},{
+"label": "Familia Montes (Colonia Progreso)", "lat": 32.600991, "lng": -115.653746
+},{
+"label": "Paralelo 32 (Colonia Terrenos Indios)", "lat": 32.172841, "lng": -115.284619
+},{
+"label": "Bugambilias Jardines (Colonia Abasolo)", "lat": 32.644356, "lng": -115.368368
+},{
+"label": "Familia Rodríguez Lara (Ejido Sonora Dos)", "lat": 32.283532, "lng": -115.191603
+},{
+"label": "Finca los Jazmines", "lat": 32.605388, "lng": -115.569304
+},{
+"label": "Mexicana Logistics [Compañia de Transporte]", "lat": 32.550631, "lng": -115.417353
+},{
+"label": "Familia Ruiz Licón (Colonia Mariana)", "lat": 32.241474, "lng": -115.318409
+},{
+"label": "Puerto de Topolobampo (Colonia la Puerta)", "lat": 32.298754, "lng": -115.323282
+},{
+"label": "Familia Rubio (Ejido Hechicera)", "lat": 32.564168, "lng": -115.101167
+},{
+"label": "Represa Aurelio Benansini (Carehey)", "lat": 32.567193, "lng": -115.098904
+},{
+"label": "Familia González (Colonia Progreso)", "lat": 32.549611, "lng": -115.588364
+},{
+"label": "Tierras Nuevas (Ejido Colima)", "lat": 32.426373, "lng": -115.000719
+},{
+"label": "Pelayo [Pedrera]", "lat": 32.268276, "lng": -115.330331
+},{
+"label": "Familia Serrano (Ejido Tabasco)", "lat": 32.575411, "lng": -114.925501
+},{
+"label": "Familia García Bonesi (Colonia Abasolo)", "lat": 32.637021, "lng": -115.355416
+},{
+"label": "Familia Ochoa (Colonia Hidalgo)", "lat": 32.276389, "lng": -115.051667
+},{
+"label": "Familia Núñez (Colonia Grupo Dos Tubos)", "lat": 32.478014, "lng": -115.091934
+},{
+"label": "Familia Martínez Albarrán (Colonia Silva)", "lat": 32.411189, "lng": -115.044028
+},{
+"label": "Rancho Cedros", "lat": 32.117398, "lng": -115.853471
+},{
+"label": "Santa Isabel", "lat": 32.628886, "lng": -115.576076
+},{
+"label": "Familia Martínez Delgado", "lat": 32.551035, "lng": -115.520943
+},{
+"label": "Emaús (Colonia Abasolo)", "lat": 32.630048, "lng": -115.356723
+},{
+"label": "Burcia (Ejido Jalapa)", "lat": 32.478122, "lng": -115.143022
+},{
+"label": "Familia Pacheco Magdaleno (Ejido Morelia)", "lat": 32.454256, "lng": -115.203413
+},{
+"label": "Familia Godínez (Ejido Oaxaca)", "lat": 32.3625, "lng": -115.158889
+},{
+"label": "San Ramón (Colonia Osiris)", "lat": 32.556101, "lng": -115.200495
+},{
+"label": "Familia Ortega Valenzuela (Colonia Madero)", "lat": 32.312563, "lng": -115.024613
+},{
+"label": "El Perico [Rancho]", "lat": 32.528264, "lng": -114.90013
+},{
+"label": "Familia López Tenorio (Ejido Sonora)", "lat": 32.277453, "lng": -115.239148
+},{
+"label": "Familia García (Colonia Bomba Vieja)", "lat": 32.589138, "lng": -115.519118
+},{
+"label": "Familia Velasco (Ejido Aguascalientes)", "lat": 32.295517, "lng": -115.133794
+},{
+"label": "Los Orejel (Colonia Venustiano Carranza)", "lat": 32.166677, "lng": -115.168728
+},{
+"label": "Rancho Viveros (Colonia Colorado Número Cuatro)", "lat": 32.503176, "lng": -115.377765
+},{
+"label": "Los Delfines", "lat": 31.089595, "lng": -114.868514
+},{
+"label": "Familia Zavala (Ejido Tabasco)", "lat": 32.556476, "lng": -114.873163
+},{
+"label": "Familia Caro (Colonia Sonora)", "lat": 32.612683, "lng": -115.650796
+},{
+"label": "Rancho Nachita (Colonia Cerro Prieto)", "lat": 32.489951, "lng": -115.436518
+},{
+"label": "Familia Rodríguez (Colonia Progreso)", "lat": 32.555097, "lng": -115.589254
+},{
+"label": "Familia Félix Torres (Ejido Campeche)", "lat": 32.541185, "lng": -114.988401
+},{
+"label": "Colonia Colorado Cinco", "lat": 32.496254, "lng": -115.333502
+},{
+"label": "Familia Fierro (Ejido Chiapas)", "lat": 32.433741, "lng": -114.986158
+},{
+"label": "Las Palmeras (Ejido Orizaba)", "lat": 32.636295, "lng": -115.538683
+},{
+"label": "Familia López Arredondo (Ejido Plan de Ayala)", "lat": 32.220677, "lng": -115.040892
+},{
+"label": "Familia León (Ejido Donato Guerra)", "lat": 32.185556, "lng": -115.233333
+},{
+"label": "Familia Ceballos (Ejido Hidalgo)", "lat": 32.422188, "lng": -115.210427
+},{
+"label": "Rancho Prieto", "lat": 32.452602, "lng": -115.063676
+},{
+"label": "Familia Covarrubias (Ejido Nayarit)", "lat": 32.323752, "lng": -115.222599
+},{
+"label": "Campo Balderaz (Colonia Terrenos Indios)", "lat": 32.181926, "lng": -115.275268
+},{
+"label": "Rancho Terrazas (Colonia Progreso)", "lat": 32.559249, "lng": -115.510139
+},{
+"label": "Ejido Otilio Montaño", "lat": 32.436681, "lng": -115.27489
+},{
+"label": "Petes Camp El Paraíso", "lat": 31.131724, "lng": -114.891314
+},{
+"label": "Familia Hernández", "lat": 32.643979, "lng": -115.315255
+},{
+"label": "Familia Palomino (Colonia Progreso)", "lat": 32.579086, "lng": -115.535514
+},{
+"label": "Familia Salgado (Colonia Orive de Alba)", "lat": 32.668573, "lng": -114.884222
+},{
+"label": "Ninguno [Familia Guzmán]", "lat": 32.560927, "lng": -114.840044
+},{
+"label": "Familia Figueroa (Colonia Astorga)", "lat": 32.472547, "lng": -115.14712
+},{
+"label": "Campo Ocotillos", "lat": 31.095278, "lng": -114.872778
+},{
+"label": "Familia Cabrera Ortega (Ejido Sonora)", "lat": 32.277016, "lng": -115.194954
+},{
+"label": "Familia Ríos (Ejido Guadalajara)", "lat": 32.546959, "lng": -114.870297
+},{
+"label": "Rancho Norzagaray (Colonia Silva)", "lat": 32.394404, "lng": -115.04666
+},{
+"label": "Familia Sánchez Hernández (Ejido Nayarit)", "lat": 32.338708, "lng": -115.207536
+},{
+"label": "Rancho Martínez", "lat": 32.613049, "lng": -115.529173
+},{
+"label": "Familia González (Ejido Querétaro)", "lat": 32.499487, "lng": -115.170483
+},{
+"label": "Familia Gutiérrez Lote Cuarenta y Siete (Colonia Ahumadita)", "lat": 32.544555, "lng": -115.484517
+},{
+"label": "Colonia 5 de Mayo", "lat": 32.619677, "lng": -114.822166
+},{
+"label": "Colonia Seis [Granjas Lázaro Cárdenas]", "lat": 32.49038, "lng": -115.397148
+},{
+"label": "Rancho Hurtado (Colonia Alvarado)", "lat": 32.210651, "lng": -115.318378
+},{
+"label": "Colonia Madero", "lat": 32.344248, "lng": -115.04215
+},{
+"label": "El Minuto (Colonia Colorado Número Cuatro)", "lat": 32.509229, "lng": -115.388916
+},{
+"label": "Rancho Flores (Colonia Venustiano Carranza)", "lat": 32.238427, "lng": -115.190478
+},{
+"label": "Rancho Barragán (Colonia Miguel Alemán)", "lat": 32.509918, "lng": -114.835911
+},{
+"label": "La Joya del Mar", "lat": 30.897011, "lng": -114.724294
+},{
+"label": "Familia Espinoza Lote Siete (Colonia Cerro Prieto)", "lat": 32.504859, "lng": -115.419843
+},{
+"label": "Puente Quemado (Ejido Adolfo López Mateos)", "lat": 32.262605, "lng": -115.190298
+},{
+"label": "Familia Barrón (Ejido Cucapah Mestizo)", "lat": 32.264627, "lng": -115.286788
+},{
+"label": "Rancho de Rojo (Colonia Progreso)", "lat": 32.583937, "lng": -115.589166
+},{
+"label": "Familia Coronel (Colonia Tecolote Batáquez)", "lat": 32.523967, "lng": -115.062162
+},{
+"label": "El Solitario (Ejido Chihuahua)", "lat": 32.489126, "lng": -115.22465
+},{
+"label": "Familia Gamboa (Ejido Piedras Negras Parcela Uno)", "lat": 32.569897, "lng": -115.022875
+},{
+"label": "Familia Quintero (Colonia Progreso)", "lat": 32.597681, "lng": -115.642489
+},{
+"label": "Sonora Primera Sección (La Rosita)", "lat": 32.579949, "lng": -115.622239
+},{
+"label": "Al Pie del Viejo", "lat": 32.631628, "lng": -115.666323
+},{
+"label": "Delta (Estación Delta)", "lat": 32.355971, "lng": -115.19639
+},{
+"label": "Silva Norte (Colonia Silva)", "lat": 32.412628, "lng": -115.020247
+},{
+"label": "Familia Gámez (Ejido Islas Agrarias B)", "lat": 32.58128, "lng": -115.294498
+},{
+"label": "Familia de la Cruz (Ejido Sonora Dos Parcela Ochenta y Ocho)", "lat": 32.292098, "lng": -115.181175
+},{
+"label": "Familia Aguilar", "lat": 32.502388, "lng": -115.149303
+},{
+"label": "Los Armenta (Ejido Tepic)", "lat": 32.594701, "lng": -114.839839
+},{
+"label": "Lote Siete (Colonia Colorado Número Tres)", "lat": 32.535146, "lng": -115.394312
+},{
+"label": "Familia Espinoza (Ejido Morelos)", "lat": 32.609543, "lng": -114.862854
+},{
+"label": "Familia Ibarra (Colonia Baja California)", "lat": 32.238615, "lng": -115.11086
+},{
+"label": "Campo Flores", "lat": 32.108135, "lng": -115.245159
+},{
+"label": "La Choza", "lat": 32.237639, "lng": -115.146582
+},{
+"label": "Familia Navarrete (Ejido Colima)", "lat": 32.426749, "lng": -115.012134
+},{
+"label": "Parcela Número Doce (Ejido Morelia)", "lat": 32.436617, "lng": -115.254182
+},{
+"label": "Familia Núñez Robles (Colonia Hidalgo)", "lat": 32.265746, "lng": -115.081718
+},{
+"label": "Rancho de Ramón Leyva", "lat": 32.635833, "lng": -115.608056
+},{
+"label": "Familia Cabada (Colonia Zacatecas)", "lat": 32.161548, "lng": -114.984675
+},{
+"label": "Granjas Señoriales (Colonia Abasolo)", "lat": 32.636663, "lng": -115.347293
+},{
+"label": "Campo Diecinueve (Ejido Morelos Colonia el Suspiro)", "lat": 32.590718, "lng": -114.857386
+},{
+"label": "Ejido Lázaro Cárdenas (La Mosca)", "lat": 32.603378, "lng": -115.019153
+},{
+"label": "El Moreno", "lat": 31.222363, "lng": -114.949522
+},{
+"label": "Ejido México", "lat": 32.517285, "lng": -114.976461
+},{
+"label": "La Ventana", "lat": 31.740684, "lng": -115.069375
+},{
+"label": "Familia Nila (Colonia Hidalgo)", "lat": 32.273131, "lng": -115.067291
+},{
+"label": "Saturno (Colonia Abasolo)", "lat": 32.617735, "lng": -115.365422
+},{
+"label": "Dos R (Colonia Centinela) [Ganadera]", "lat": 32.623896, "lng": -115.589623
+},{
+"label": "Familia Castro (Ejido Morelos)", "lat": 32.616778, "lng": -114.907834
+},{
+"label": "Familia Sáinz Domínguez (Colonia el Mayor)", "lat": 32.142838, "lng": -115.283054
+},{
+"label": "Federico Martínez Manatou", "lat": 32.180777, "lng": -115.671471
+},{
+"label": "Familia García (Independencia Número Uno)", "lat": 32.167474, "lng": -115.251982
+},{
+"label": "Barrancas (Colonia Venustiano Carranza)", "lat": 32.25859, "lng": -115.145695
+},{
+"label": "Familia de León (Colonia Miguel Alemán)", "lat": 32.554978, "lng": -114.816671
+},{
+"label": "Familia Quiroz", "lat": 32.622376, "lng": -114.854479
+},{
+"label": "Familia Cortez (Colonia Miguel Alemán)", "lat": 32.568738, "lng": -114.831328
+},{
+"label": "Zaragoza [Hotel]", "lat": 32.609281, "lng": -115.524472
+},{
+"label": "Parcela Setenta y Seis (Ejido Guanajuato)", "lat": 32.488301, "lng": -115.278044
+},{
+"label": "El Caracol (Andrade Ejido Nuevo León)", "lat": 32.379721, "lng": -115.217827
+},{
+"label": "Familia Cortez", "lat": 32.386944, "lng": -114.984167
+},{
+"label": "Mar de Cortez [Industrial]", "lat": 31.047355, "lng": -114.841606
+},{
+"label": "Uno del Chen de Cerro Prieto", "lat": 32.489277, "lng": -115.387963
+},{
+"label": "Rancho Torres", "lat": 31.064918, "lng": -114.876514
+},{
+"label": "Las Muchas", "lat": 32.646834, "lng": -115.326696
+},{
+"label": "Los Tovar (Peralta Veracruz Marítimo)", "lat": 32.362251, "lng": -115.084019
+},{
+"label": "Tierras Nuevas", "lat": 32.433944, "lng": -115.001424
+},{
+"label": "Campo Lobos", "lat": 30.914526, "lng": -114.714809
+},{
+"label": "Colonia Sonora 2", "lat": 32.60659, "lng": -115.651773
+},{
+"label": "Los Ángulos (Colonia Venustiano Carranza)", "lat": 32.208893, "lng": -115.145722
+},{
+"label": "Las Palmas (Colonia Abasolo)", "lat": 32.636782, "lng": -115.341642
+},{
+"label": "Familia Robles Virgen", "lat": 32.629878, "lng": -115.607111
+},{
+"label": "Parcela Veintidós (Ejido Cuernavaca)", "lat": 32.570945, "lng": -115.328715
+},{
+"label": "Familia Villegas (Colonia Progreso)", "lat": 32.594095, "lng": -115.629354
+},{
+"label": "Familia Ochoa (Ejido Pachuca)", "lat": 32.58982, "lng": -114.810427
+},{
+"label": "Parcela Setenta y Cuatro (Ejido Guanajuato)", "lat": 32.487719, "lng": -115.287271
+},{
+"label": "Familia García (Colonia Abasolo)", "lat": 32.623842, "lng": -115.275748
+},{
+"label": "Familia Segura Olvera", "lat": 32.166069, "lng": -115.116165
+},{
+"label": "Rancho Santo (Ejido Chiapas)", "lat": 32.441271, "lng": -114.976099
+},{
+"label": "Familia Ruiz", "lat": 32.234926, "lng": -115.191228
+},{
+"label": "Familia Escobedo (Ejido Mezquital)", "lat": 32.499273, "lng": -114.908686
+},{
+"label": "Los Martínez (Colonia Silva)", "lat": 32.36499, "lng": -115.032198
+},{
+"label": "Ciudad Coahuila (Kilómetro Cincuenta y Siete)", "lat": 32.195002, "lng": -115.001188
+},{
+"label": "Familia Vázquez (Ejido Irapuato)", "lat": 32.577559, "lng": -115.121689
+},{
+"label": "Campo Sinaí (Colonia Francisco Villa) [Recreativo]", "lat": 31.031088, "lng": -114.8677
+},{
+"label": "San Francisco (Colonia Cerro Prieto)", "lat": 32.512296, "lng": -115.41618
+},{
+"label": "Familia Méndez (Colonia Francisco Villa)", "lat": 30.985193, "lng": -114.848737
+},{
+"label": "Familia Cendejas", "lat": 32.509119, "lng": -115.348125
+},{
+"label": "Kilómetro Siete (Colonia Colorado 1)", "lat": 32.542624, "lng": -115.412314
+},{
+"label": "Rancho Alvídrez (Colonia Rodríguez)", "lat": 32.426432, "lng": -115.039274
+},{
+"label": "Ejido Hechicera", "lat": 32.552094, "lng": -115.154308
+},{
+"label": "Parcela Sesenta y Nueve (Ejido Guanajuato)", "lat": 32.492268, "lng": -115.277736
+},{
+"label": "Familia Herrera Aguilar (Colonia Madero)", "lat": 32.325735, "lng": -115.050161
+},{
+"label": "Rancho de Perea (Ejido Campeche)", "lat": 32.556111, "lng": -114.968889
+},{
+"label": "El Campito (Colonia Miguel Alemán)", "lat": 32.519393, "lng": -114.836057
+},{
+"label": "Familia Domínguez (Colonia Hidalgo)", "lat": 32.273889, "lng": -115.081944
+},{
+"label": "Familia Gómez Camargo (Colonia Progreso Lote Catorce)", "lat": 32.56028, "lng": -115.520213
+},{
+"label": "Familia Chan (Colonia Silva)", "lat": 32.416918, "lng": -115.027178
+},{
+"label": "Rancho Jiménez (Colonia Colorado Número Tres)", "lat": 32.543765, "lng": -115.381095
+},{
+"label": "Familia Angúlo (Ejido Irapuato)", "lat": 32.591205, "lng": -115.199306
+},{
+"label": "El Pirihot (Familia Vargas)", "lat": 32.555064, "lng": -114.89363
+},{
+"label": "Familia Flores (Colonia Miguel Alemán)", "lat": 32.457276, "lng": -114.953706
+},{
+"label": "Familia Montenegro Hernández (Colonia Rodríguez)", "lat": 32.429468, "lng": -115.033823
+},{
+"label": "El Tres (Ejido Villa Hermosa)", "lat": 32.638954, "lng": -114.957815
+},{
+"label": "Familia Sánchez Carrasco (Colonia Elías)", "lat": 32.345228, "lng": -114.973644
+},{
+"label": "El Refugio (Colonia Silva el Ombligo)", "lat": 32.436063, "lng": -114.97117
+},{
+"label": "La Palmita", "lat": 31.707778, "lng": -115.5975
+},{
+"label": "Ejido Chiapas", "lat": 32.474444, "lng": -114.954444
+},{
+"label": "Familia Cisneros García (Ejido Campeche)", "lat": 32.578593, "lng": -114.977832
+},{
+"label": "Familia Landeros Gómez (Colonia Benito Juárez)", "lat": 32.297747, "lng": -115.017516
+},{
+"label": "FEVISA [Fábrica de Envases de Vidrio]", "lat": 32.527889, "lng": -115.408942
+},{
+"label": "San Ramón (Colonia Progreso)", "lat": 32.544667, "lng": -115.507718
+},{
+"label": "Colonia Bórquez Norte (La Canaleta)", "lat": 32.632119, "lng": -115.018302
+},{
+"label": "Familia Romero [Lote Cincuenta y Cuatro]", "lat": 32.512148, "lng": -115.43319
+},{
+"label": "Familia Muñoz Camacho (Colonia Progreso)", "lat": 32.555563, "lng": -115.595075
+},{
+"label": "Familia Vareño (Ejido Aguascalientes)", "lat": 32.298796, "lng": -115.143195
+},{
+"label": "Los Quintero", "lat": 32.644257, "lng": -115.630443
+},{
+"label": "Familia Angúlo Ayón", "lat": 32.667484, "lng": -114.7551
+},{
+"label": "Familia Ávila (Ejido Tabasco)", "lat": 32.565528, "lng": -114.921061
+},{
+"label": "Familia Mendoza (Colonia Orive de Alba)", "lat": 32.649488, "lng": -114.879749
+},{
+"label": "Familia Gómez (Veracruz Dos)", "lat": 32.40742, "lng": -115.087422
+},{
+"label": "Galván el Chorizo (Colonia Elías) [Empaque]", "lat": 32.353051, "lng": -115.046978
+},{
+"label": "Rancho Macías (Colonia Madero)", "lat": 32.334992, "lng": -114.981525
+},{
+"label": "Familia Raudel Luna (Colonia Triángulo)", "lat": 32.253992, "lng": -115.108509
+},{
+"label": "Pilar Santiago (Ejido Jiquilpan)", "lat": 32.487691, "lng": -115.062484
+},{
+"label": "El Sauzalito", "lat": 32.609935, "lng": -115.350226
+},{
+"label": "Familia Trigo (Ejido Tamaulipas)", "lat": 32.555567, "lng": -115.237234
+},{
+"label": "Récord (Colonia Venustiano Carranza)", "lat": 32.239683, "lng": -115.146963
+},{
+"label": "Los Gabrieles (Colonia Progreso)", "lat": 32.583466, "lng": -115.535286
+},{
+"label": "Familia Gómez Guillén (Colonia Silva)", "lat": 32.385086, "lng": -115.032982
+},{
+"label": "Colonia Leyes de Reforma", "lat": 32.631025, "lng": -114.806368
+},{
+"label": "Familia Castro Escalante (Ejido Jalapa)", "lat": 32.476239, "lng": -115.149177
+},{
+"label": "Familia Vázquez (Colonia Zacatecas)", "lat": 32.177179, "lng": -115.018252
+},{
+"label": "Familia Rayas Silva (Ejido Campeche)", "lat": 32.561212, "lng": -114.97797
+},{
+"label": "Familia Zamudio", "lat": 32.599331, "lng": -114.898682
+},{
+"label": "Colonia Héroes de la Patria", "lat": 32.189958, "lng": -115.006936
+},{
+"label": "El Minuto (Colonia Colorado Número Tres)", "lat": 32.560969, "lng": -115.392471
+},{
+"label": "Familia Camacho (Ejido Tabasco)", "lat": 32.554485, "lng": -114.880839
+},{
+"label": "Familia Razo (Ejido Plan de Ayala)", "lat": 32.192596, "lng": -115.078741
+},{
+"label": "Rancho Silva (Colonia Ocampo)", "lat": 32.619714, "lng": -115.122639
+},{
+"label": "Familia Sánchez", "lat": 32.636933, "lng": -114.873619
+},{
+"label": "Flores Valenzuela", "lat": 32.676926, "lng": -114.757617
+},{
+"label": "Familia Rolón (Ejido Tehuantepec)", "lat": 32.560915, "lng": -115.016948
+},{
+"label": "Santo Niño", "lat": 32.623469, "lng": -115.555005
+},{
+"label": "Familia Arroyo (Veracruz Dos)", "lat": 32.404084, "lng": -115.07075
+},{
+"label": "Familia Fuentes (Ejido Campeche)", "lat": 32.540857, "lng": -114.993866
+},{
+"label": "Los Saldaña (Colonia Pólvora)", "lat": 32.500484, "lng": -115.188387
+},{
+"label": "Familia Ruiz (Colonia Mariana)", "lat": 32.273065, "lng": -115.322458
+},{
+"label": "Familia Guerrero (Veracruz Dos)", "lat": 32.396986, "lng": -115.104942
+},{
+"label": "Casa Blanca (Colonia Miguel Alemán)", "lat": 32.499146, "lng": -114.849113
+},{
+"label": "Rancho Figueroa (Ejido Chiapas)", "lat": 32.445067, "lng": -114.974126
+},{
+"label": "Familia Lamarque (Colonia Primavera)", "lat": 32.32145, "lng": -115.080942
+},{
+"label": "Familia Armenta (Ejido Irapuato Parcela Veintitrés)", "lat": 32.59598, "lng": -115.177121
+},{
+"label": "Familia Ojaques Aguayo (Colonia Elías)", "lat": 32.360744, "lng": -115.025653
+},{
+"label": "Guzman [Rancho]", "lat": 32.557606, "lng": -115.461814
+},{
+"label": "Campo del Prado (Colonia el Mayor)", "lat": 32.145044, "lng": -115.284958
+},{
+"label": "El Álamo [Agroindustrias Químicas]", "lat": 32.593517, "lng": -114.952828
+},{
+"label": "Familia Garzón (Ejido Irapuato)", "lat": 32.60573, "lng": -115.108971
+},{
+"label": "Familia Márquez (Colonia Orive de Alba)", "lat": 32.664496, "lng": -114.828106
+},{
+"label": "Santa Clara (Colonia San Pedro Mártir)", "lat": 31.079188, "lng": -115.287184
+},{
+"label": "Kilómetro Diecisiete y Medio (Cerro Prieto Cuarta Sección)", "lat": 32.449757, "lng": -115.37733
+},{
+"label": "Rancho Amador (Ejido Sonora 2 Parcela Cincuenta y Cinco)", "lat": 32.295434, "lng": -115.177206
+},{
+"label": "Colonia Ahumadita", "lat": 32.547317, "lng": -115.496512
+},{
+"label": "Familia Fernández (Ejido Campeche)", "lat": 32.543049, "lng": -114.982477
+},{
+"label": "Luis Encinas Johnson", "lat": 32.060816, "lng": -114.965696
+},{
+"label": "Familia Chávez (Ejido Tabasco)", "lat": 32.536822, "lng": -114.958626
+},{
+"label": "Mazatlán (Colonia Mariana) [Restaurante]", "lat": 32.279726, "lng": -115.322675
+},{
+"label": "Familia Vaca (Ejido Tula)", "lat": 32.601463, "lng": -115.208436
+},{
+"label": "Familia Melendrez", "lat": 32.615297, "lng": -115.263686
+},{
+"label": "Familia Reyes Franco (Ejido Sonora 2)", "lat": 32.279082, "lng": -115.16881
+},{
+"label": "Rancho López (Colonia Dieciocho de Marzo)", "lat": 32.621714, "lng": -114.987924
+},{
+"label": "Familia Martínez García (Colonia Elías)", "lat": 32.360919, "lng": -115.037934
+},{
+"label": "Rancho Godínez (Colonia Colorado Número Uno)", "lat": 32.554069, "lng": -115.422819
+},{
+"label": "Rancho Ledesma (Veracruz Marítimo)", "lat": 32.362008, "lng": -115.081272
+},{
+"label": "Familia Lizárraga (Ejido Guadalajara)", "lat": 32.549419, "lng": -114.871901
+},{
+"label": "Familia Herrera (Veracruz Dos)", "lat": 32.399798, "lng": -115.102057
+},{
+"label": "Familia Martínez (Colonia Bórquez)", "lat": 32.658327, "lng": -114.96402
+},{
+"label": "Familia Pérez (Ejido Cucapah Mestizo)", "lat": 32.259844, "lng": -115.288318
+},{
+"label": "Los Morales", "lat": 32.660833, "lng": -115.326389
+},{
+"label": "Rancho Grande", "lat": 32.666497, "lng": -114.827843
+},{
+"label": "Familia Medina (Colonia Abasolo)", "lat": 32.642426, "lng": -115.311369
+},{
+"label": "Colonia Colorado Número 3", "lat": 32.541749, "lng": -115.403096
+},{
+"label": "Familia Rodríguez Lara (Ejido Sonora 2)", "lat": 32.28916, "lng": -115.17448
+},{
+"label": "Colonia Bórquez", "lat": 32.659092, "lng": -114.965098
+},{
+"label": "Familia López (Ejido Tula)", "lat": 32.602643, "lng": -115.198451
+},{
+"label": "Familia Ríos (Ejido Tabasco)", "lat": 32.552385, "lng": -114.878825
+},{
+"label": "Familia Lara Vargas (Ejido San Luis Potosí)", "lat": 32.492102, "lng": -115.162971
+},{
+"label": "Los Borregos", "lat": 32.269098, "lng": -115.079184
+},{
+"label": "Familia Quintero (Ejido Culiacán)", "lat": 32.701972, "lng": -114.743565
+},{
+"label": "Los Argueyes (Colonia Pólvora)", "lat": 32.495679, "lng": -115.194676
+},{
+"label": "Rancho más que Vencedores", "lat": 32.559218, "lng": -115.561017
+},{
+"label": "Ejido Islas Agrarias A", "lat": 32.599091, "lng": -115.336046
+},{
+"label": "Familia Barajas (Colonia Chapultepec)", "lat": 32.330804, "lng": -115.087384
+},{
+"label": "Familia Curiel (Ejido Chiapas)", "lat": 32.462794, "lng": -114.962654
+},{
+"label": "Familia Orduño Acevedo", "lat": 32.273363, "lng": -115.241959
+},{
+"label": "Familia González González (Ejido San Luis Potosí)", "lat": 32.492656, "lng": -115.175383
+},{
+"label": "Familia Becerril", "lat": 32.642837, "lng": -115.306036
+},{
+"label": "Familia Beltrán (Ejido San Luis Potosí)", "lat": 32.521086, "lng": -115.108506
+},{
+"label": "Familia Rangel (Colonia Osiris)", "lat": 32.55669, "lng": -115.190743
+},{
+"label": "Rancho Hidalgo (Colonia Castro)", "lat": 32.645802, "lng": -115.323524
+},{
+"label": "Familia Orejel (Colonia Venustiano Carranza)", "lat": 32.163544, "lng": -115.150403
+},{
+"label": "Agua Clara del Valle", "lat": 32.630213, "lng": -114.833488
+},{
+"label": "Familia Mireles (Ejido Tabasco)", "lat": 32.542378, "lng": -114.94013
+},{
+"label": "Familia Polina (Veracruz Dos)", "lat": 32.388749, "lng": -115.086606
+},{
+"label": "Familia Castillo (Colonia Ocampo)", "lat": 32.615029, "lng": -115.158261
+},{
+"label": "Familia Díaz (Veracruz Dos)", "lat": 32.383238, "lng": -115.082548
+},{
+"label": "Familia Saldaña (Ejido Tabasco)", "lat": 32.565376, "lng": -114.889668
+},{
+"label": "Familia Céliz (Colonia Mariana)", "lat": 32.252478, "lng": -115.319899
+},{
+"label": "Ejido Guardianes de la Patria", "lat": 32.127163, "lng": -115.623868
+},{
+"label": "Familia Briseño Morales (Ejido Hermosillo)", "lat": 32.508586, "lng": -114.961356
+},{
+"label": "Familia Jacobo (Colonia Zaragoza)", "lat": 32.587958, "lng": -115.553706
+},{
+"label": "Familia Pérez Núñez (Ejido Camacho)", "lat": 32.17316, "lng": -115.101173
+},{
+"label": "Hacienda Mexicali [Hotel]", "lat": 32.588611, "lng": -115.609444
+},{
+"label": "Familia Cruz (Ejido Campeche Parcela Sesenta y Seis)", "lat": 32.54417, "lng": -114.982254
+},{
+"label": "Familia Cárdenas (Campos Nuevos Ejido Sonora 2)", "lat": 32.29633, "lng": -115.177444
+},{
+"label": "El Chorizo", "lat": 32.570603, "lng": -114.886921
+},{
+"label": "Familia Villagrana (Ejido Chiapas)", "lat": 32.480084, "lng": -114.97491
+},{
+"label": "Familia Arsola Castro (Colonia Ahumadita)", "lat": 32.538645, "lng": -115.487708
+},{
+"label": "Familia Valenzuela (Colonia Colorado Número Tres)", "lat": 32.575173, "lng": -115.392731
+},{
+"label": "Familia Valenzuela (Ejido Nayarit)", "lat": 32.350981, "lng": -115.224497
+},{
+"label": "Familia Luna Ramírez (Ejido Sonora)", "lat": 32.307623, "lng": -115.191039
+},{
+"label": "Familia Valderino Solorio", "lat": 32.622715, "lng": -114.989045
+},{
+"label": "Familia Guerrero López (Colonia Venustiano Carranza)", "lat": 32.16889, "lng": -115.166532
+},{
+"label": "Punta Estrella [Campo]", "lat": 30.893765, "lng": -114.711633
+},{
+"label": "Crepúsculo de la Progreso", "lat": 32.564258, "lng": -115.597594
+},{
+"label": "Cervantes [Rancho]", "lat": 32.590833, "lng": -115.613825
+},{
+"label": "Colonia Agrícola Benito Juárez", "lat": 32.311602, "lng": -115.037515
+},{
+"label": "Familia Romero (Colonia Cerro Prieto)", "lat": 32.510356, "lng": -115.428311
+},{
+"label": "Escuela del Chek Tres (Colonia Zacatecas)", "lat": 32.074722, "lng": -115.005
+},{
+"label": "Familia Vélez (Ejido Camacho)", "lat": 32.153378, "lng": -115.109094
+},{
+"label": "Familia Tovar (Ejido Tamaulipas)", "lat": 32.562121, "lng": -115.215677
+},{
+"label": "Engordas la Casita [Engorda de Ganado]", "lat": 32.543217, "lng": -115.408794
+},{
+"label": "Colonia Ladrillera", "lat": 32.680004, "lng": -114.762233
+},{
+"label": "Campo Sonora (Colonia Terrenos Indios)", "lat": 32.157571, "lng": -115.301104
+},{
+"label": "Cañón de Guadalupe", "lat": 32.154973, "lng": -115.790353
+},{
+"label": "Familia Andrade (Colonia Chapultepec)", "lat": 32.343974, "lng": -115.117118
+},{
+"label": "Calderas", "lat": 32.623934, "lng": -115.368004
+},{
+"label": "Familia García Ponce (Colonia Progreso)", "lat": 32.56675, "lng": -115.516209
+},{
+"label": "Colonia Miguel Alemán", "lat": 32.531802, "lng": -114.833594
+},{
+"label": "Familia Solorio (Veracruz Marítimo)", "lat": 32.357732, "lng": -115.140611
+},{
+"label": "Familia Conrado Barajas (Colonia Baja California)", "lat": 32.240405, "lng": -115.058201
+},{
+"label": "Familia Torres (Colonia Hidalgo)", "lat": 32.260797, "lng": -115.077225
+},{
+"label": "Familia Garibay (Ejido Chiapas)", "lat": 32.472414, "lng": -114.950993
+},{
+"label": "Causes Federales", "lat": 32.120097, "lng": -115.003997
+},{
+"label": "Familia Navarro", "lat": 32.592829, "lng": -115.287159
+},{
+"label": "Diego González (Colonia Villareal)", "lat": 32.460585, "lng": -115.029662
+},{
+"label": "Río el Mayor Solano (La Carpa)", "lat": 32.131515, "lng": -115.280563
+},{
+"label": "Familia Carmona (Colonia Baja California)", "lat": 32.240186, "lng": -115.08937
+},{
+"label": "Familia Jiménez (Veracruz Dos)", "lat": 32.395311, "lng": -115.066819
+},{
+"label": "Familia Montoya (Colonia Bórquez)", "lat": 32.659277, "lng": -114.974005
+},{
+"label": "Los Machado (Veracruz Uno)", "lat": 32.362956, "lng": -115.094137
+},{
+"label": "Colonia la 27 (Campamento SARH Kilómetro Veintisiete)", "lat": 32.503492, "lng": -114.848338
+},{
+"label": "Rancho el Peligro (Colonia Pólvora)", "lat": 32.504404, "lng": -115.210068
+},{
+"label": "El Chimí (Ejido Nuevo León)", "lat": 32.371718, "lng": -115.18817
+},{
+"label": "Familia Moreno (Ejido Tula)", "lat": 32.609835, "lng": -115.225281
+},{
+"label": "Ejido Jalisco", "lat": 32.519037, "lng": -115.236919
+},{
+"label": "Familia Saavedra (El Veinte)", "lat": 32.565327, "lng": -114.908236
+},{
+"label": "Ninguno [Relleno Sanitario Municipal]", "lat": 32.463433, "lng": -115.419561
+},{
+"label": "La Ramona", "lat": 32.029957, "lng": -115.199881
+},{
+"label": "Familia Bardomiano (Colonia Cerro Prieto)", "lat": 32.509616, "lng": -115.446559
+},{
+"label": "Rancho Aguirre (Ejido San Luis Potosí)", "lat": 32.510271, "lng": -115.102865
+},{
+"label": "Familia Vargas López (Ejido Tabasco)", "lat": 32.542553, "lng": -114.893263
+},{
+"label": "Los Hurtado (Colonia Nueva Paredones)", "lat": 32.619656, "lng": -114.930054
+},{
+"label": "Compuerta la 24 (Colonia Silva)", "lat": 32.389619, "lng": -115.038004
+},{
+"label": "San Marino", "lat": 31.187047, "lng": -114.892959
+},{
+"label": "Rancho Vidal (Colonia Ocampo)", "lat": 32.616127, "lng": -115.136047
+},{
+"label": "Ninguno [Familia Ramos]", "lat": 32.524552, "lng": -114.862044
+},{
+"label": "Familia Manzo (Colonia Colorado Número Siete)", "lat": 32.513128, "lng": -115.402056
+},{
+"label": "Familia Figueroa (Ejido Tlaxcala)", "lat": 32.469777, "lng": -115.138419
+},{
+"label": "El Refugio Dos", "lat": 32.260321, "lng": -115.109872
+},{
+"label": "Familia Huajaquez (Colonia Elías)", "lat": 32.349501, "lng": -114.994324
+},{
+"label": "Familia Velasco (Colonia Chapultepec)", "lat": 32.344981, "lng": -115.130467
+},{
+"label": "Familia Morales Vega (Colonia Hindú)", "lat": 32.381069, "lng": -114.977076
+},{
+"label": "Familia Félix Torres (Colonia Venustiano Carranza)", "lat": 32.239448, "lng": -115.197666
+},{
+"label": "Familia Ledesma (Veracruz Dos)", "lat": 32.405879, "lng": -115.101321
+},{
+"label": "Familia Inzunza (Colonia Orive de Alba)", "lat": 32.651374, "lng": -114.850871
+},{
+"label": "Familia Moreno", "lat": 32.582444, "lng": -114.980061
+},{
+"label": "Rancho Muro (Colonia Hindú)", "lat": 32.397516, "lng": -114.975464
+},{
+"label": "Columbina (Colonia Silva la Huaracha)", "lat": 32.425464, "lng": -114.992406
+},{
+"label": "Familia Meza (Ejido Hermosillo)", "lat": 32.540029, "lng": -114.884113
+},{
+"label": "Familia Cervantes (Colonia Centinela)", "lat": 32.630962, "lng": -115.60841
+},{
+"label": "Familia Cano (Ejido Islas Agrarias A)", "lat": 32.588541, "lng": -115.339914
+},{
+"label": "Familia Sandez (Ejido Morelos)", "lat": 32.622089, "lng": -114.897092
+},{
+"label": "Familia Pelayo (Ejido Tula)", "lat": 32.609783, "lng": -115.242362
+},{
+"label": "Aquamarina [Hotel]", "lat": 30.947599, "lng": -114.744209
+},{
+"label": "El Copal", "lat": 31.156258, "lng": -115.391278
+},{
+"label": "Familia Barbosa", "lat": 32.668503, "lng": -114.803837
+},{
+"label": "Poblado las Minitas", "lat": 30.976341, "lng": -114.838165
+},{
+"label": "Las Palmas (Ejido Jalapa)", "lat": 32.459547, "lng": -115.191667
+},{
+"label": "Familia Gámez (Colonia Abasolo)", "lat": 32.638543, "lng": -115.308639
+},{
+"label": "José López Portillo (Colonia Venustiano Carranza)", "lat": 32.227832, "lng": -115.113179
+},{
+"label": "Familia Fernández", "lat": 32.503205, "lng": -115.146354
+},{
+"label": "Familia Torres Davis (Ejido Sinaloa)", "lat": 32.552304, "lng": -115.249554
+},{
+"label": "Familia Ramos (Colonia Centinela)", "lat": 32.642096, "lng": -115.606524
+},{
+"label": "Don Abel", "lat": 31.18604, "lng": -114.88919
+},{
+"label": "Familia Coronel (Ejido Campeche Parcela Ochenta y Nueve)", "lat": 32.538523, "lng": -114.96473
+},{
+"label": "Familia Flores López (Tlaxcala Dos)", "lat": 32.475799, "lng": -115.130625
+},{
+"label": "Ejido Jalapa", "lat": 32.466172, "lng": -115.19612
+},{
+"label": "Familia Carmona (Ejido Tabasco)", "lat": 32.586136, "lng": -114.925562
+},{
+"label": "Los Llamas (Colonia Venustiano Carranza)", "lat": 32.163056, "lng": -115.171111
+},{
+"label": "Los Faisanes (Colonia Mariana)", "lat": 32.229181, "lng": -115.319598
+},{
+"label": "Rancho Badilla (Ejido Nuevo León)", "lat": 32.366809, "lng": -115.197019
+},{
+"label": "Familia Fernández Ponce (Colonia Progreso)", "lat": 32.555389, "lng": -115.570648
+},{
+"label": "La Quince (Ejido Tepic)", "lat": 32.57529, "lng": -114.854682
+},{
+"label": "Campos Verdes", "lat": 32.614722, "lng": -114.930556
+},{
+"label": "Rancho Duarte", "lat": 32.031083, "lng": -115.029793
+},{
+"label": "Colonia José María Rodríguez Mérida (La Panga)", "lat": 32.640832, "lng": -114.853833
+},{
+"label": "Los Villegas (Colonia Francisco Villa)", "lat": 30.987416, "lng": -114.855851
+},{
+"label": "Familia Arámbula (Colonia la Herradura)", "lat": 32.654228, "lng": -115.304899
+},{
+"label": "Familia González Viramontes (Ejido Saltillo)", "lat": 32.430673, "lng": -115.12845
+},{
+"label": "Familia Mosqueda (Veracruz Marítimo)", "lat": 32.36743, "lng": -115.109956
+},{
+"label": "Puente Quemado (Colonia Venustiano Carranza)", "lat": 32.258851, "lng": -115.180725
+},{
+"label": "Familia Chávez González (Colonia Hindú)", "lat": 32.360615, "lng": -114.970733
+},{
+"label": "Familia Contreras (Colonia Miguel Alemán)", "lat": 32.505034, "lng": -114.826233
+},{
+"label": "Familia Gamiño (Ejido Villa Hermosa Ampliación)", "lat": 32.630175, "lng": -114.956038
+},{
+"label": "Familia Mandujano (Ejido Sonora 2)", "lat": 32.274468, "lng": -115.172992
+},{
+"label": "Familia Gaspar (Colonia Orive de Alba)", "lat": 32.653627, "lng": -114.827936
+},{
+"label": "Familia Ramírez", "lat": 32.661757, "lng": -114.853751
+},{
+"label": "Familia Cifuentes (Ejido Islas Agrarias B)", "lat": 32.584454, "lng": -115.289391
+},{
+"label": "Familia Macías (Colonia Bórquez)", "lat": 32.662778, "lng": -114.955157
+},{
+"label": "Familia Aguilar Mendoza (Colonia Olachea)", "lat": 32.291297, "lng": -115.159705
+},{
+"label": "Familia Curiel (Ejido Nuevo León)", "lat": 32.332882, "lng": -115.196043
+},{
+"label": "Familia Chávez León (Colonia Hindú)", "lat": 32.360455, "lng": -114.963706
+},{
+"label": "Independencia Económica", "lat": 32.206837, "lng": -115.314334
+},{
+"label": "Colonia Terrenos Indios", "lat": 32.149251, "lng": -115.284648
+},{
+"label": "Familia Díaz (Colonia Zaragoza)", "lat": 32.590737, "lng": -115.547773
+},{
+"label": "Ejido el Marítimo", "lat": 32.236917, "lng": -115.154922
+},{
+"label": "Compuerta 24 (La Veintiuno Colonia Silva)", "lat": 32.402723, "lng": -115.027674
+},{
+"label": "El Chamizal", "lat": 30.962978, "lng": -114.838699
+},{
+"label": "Colonia Camacho", "lat": 32.158364, "lng": -115.131694
+},{
+"label": "Punta Estrella [Rancho]", "lat": 30.899889, "lng": -114.710989
+},{
+"label": "Familia Castillo (Ejido Monterrey)", "lat": 32.551632, "lng": -115.086482
+},{
+"label": "Familia Guillén (Colonia Silva)", "lat": 32.387368, "lng": -115.032948
+},{
+"label": "Victoria", "lat": 32.41535, "lng": -115.160608
+},{
+"label": "Familia Fernández Mendoza (Colonia Abasolo)", "lat": 32.627454, "lng": -115.301707
+},{
+"label": "Familia Vareño Perculi (Ejido Aguascalientes)", "lat": 32.302205, "lng": -115.141048
+},{
+"label": "Familia Cervantes (Parcela Dieciséis)", "lat": 32.567117, "lng": -115.008907
+},{
+"label": "El Cinco", "lat": 32.657404, "lng": -114.871722
+},{
+"label": "Familia Galván (Ejido Sinaloa)", "lat": 32.548905, "lng": -115.244198
+},{
+"label": "Familia Martínez (Colonia Pólvora)", "lat": 32.506183, "lng": -115.203741
+},{
+"label": "Familia Agúndez (Ejido Tamaulipas)", "lat": 32.554638, "lng": -115.236002
+},{
+"label": "Familia García (Ejido Tula)", "lat": 32.579191, "lng": -115.201281
+},{
+"label": "Poblado Puente Treviño", "lat": 32.594905, "lng": -114.985074
+},{
+"label": "Familia Tapiz Maldonado (Ejido Sinaloa)", "lat": 32.523056, "lng": -115.306667
+},{
+"label": "Familia Acevedo (Colonia Grupo Dos Tubos)", "lat": 32.48137, "lng": -115.064367
+},{
+"label": "Familia Verdín (Ejido Piedras Negras)", "lat": 32.565082, "lng": -115.008894
+},{
+"label": "Colonia Granados (Recursos Hidráulicos)", "lat": 32.612861, "lng": -114.831126
+},{
+"label": "Familia Castro Espinoza (Ejido Hermosillo)", "lat": 32.541667, "lng": -114.881667
+},{
+"label": "Familia Mascareño (Ejido Irapuato Parcela Doce)", "lat": 32.609282, "lng": -115.190309
+},{
+"label": "Familia Aldrete (El Bordo)", "lat": 32.492299, "lng": -114.890414
+},{
+"label": "Familia Cruz (Colonia Benito Juárez)", "lat": 32.307218, "lng": -115.007979
+},{
+"label": "Familia García (Parcela Sesenta y Uno Ejido Puebla)", "lat": 32.554959, "lng": -115.336331
+},{
+"label": "Familia Gutiérrez (Ejido Tabasco)", "lat": 32.55322, "lng": -114.920057
+},{
+"label": "Familia Sauceda (Ejido Tehuantepec)", "lat": 32.536847, "lng": -115.022782
+},{
+"label": "Jesús Sansón Flores", "lat": 32.440733, "lng": -115.374043
+},{
+"label": "Familia Torres Espinoza (Ejido Jalapa)", "lat": 32.48158, "lng": -115.154321
+},{
+"label": "Rancho Trejo (Colonia Zacatecas)", "lat": 32.174494, "lng": -114.999236
+},{
+"label": "Los Olivos", "lat": 32.491377, "lng": -114.81958
+},{
+"label": "Rancho de Rodolfo Vega (Colonia Colorado Número Cuatro)", "lat": 32.520781, "lng": -115.382812
+},{
+"label": "Los Soto (Colonia Mariana)", "lat": 32.274137, "lng": -115.314514
+},{
+"label": "Familia Lozano (Ejido Villa Hermosa)", "lat": 32.639975, "lng": -114.986545
+},{
+"label": "San Diego Beach", "lat": 31.09634, "lng": -114.874703
+},{
+"label": "Familia Garzón (Colonia Zacatecas)", "lat": 32.159507, "lng": -115.099993
+},{
+"label": "El Rodríguez (Ejido Nuevo León)", "lat": 32.375122, "lng": -115.18721
+},{
+"label": "Familia González (Colonia Bórquez)", "lat": 32.65215, "lng": -114.988361
+},{
+"label": "Familia Leyva (Ejido San Luis Potosí)", "lat": 32.484761, "lng": -115.144407
+},{
+"label": "Rancho Montoya (Colonia Venustiano Carranza)", "lat": 32.251667, "lng": -115.114722
+},{
+"label": "Familia Negrete (Colonia Ahumada)", "lat": 32.578363, "lng": -115.499602
+},{
+"label": "Parcela Setenta y Cinco (Ejido Guanajuato)", "lat": 32.488167, "lng": -115.281286
+},{
+"label": "Rancho Mendívil", "lat": 32.697746, "lng": -114.746598
+},{
+"label": "Familia Martínez", "lat": 32.614138, "lng": -115.20927
+},{
+"label": "Familia Estrada (Ejido Hermosillo)", "lat": 32.537456, "lng": -114.886849
+},{
+"label": "Familia Rivera García (Colonia Colorado 3)", "lat": 32.548268, "lng": -115.379817
+},{
+"label": "Los Granados", "lat": 32.422116, "lng": -115.362739
+},{
+"label": "Familia Fajardo C. (Ejido Sonora 2 Parcela Sesenta y Tres)", "lat": 32.283641, "lng": -115.182211
+},{
+"label": "Familia Cortez (Colonia Mariana)", "lat": 32.226337, "lng": -115.314233
+},{
+"label": "Familia Angúlo (Ejido Tula)", "lat": 32.608111, "lng": -115.190752
+},{
+"label": "Los García (Veracruz Marítimo)", "lat": 32.362325, "lng": -115.133159
+},{
+"label": "Rancho de Carranco (Veracruz Marítimo)", "lat": 32.358073, "lng": -115.128035
+},{
+"label": "Valle de los Sahuaros", "lat": 30.878827, "lng": -114.741995
+},{
+"label": "Parcela Quince (Ejido Guanajuato)", "lat": 32.525937, "lng": -115.351033
+},{
+"label": "Campo Mayor Solano Dos Río Colorado", "lat": 32.088685, "lng": -115.234671
+},{
+"label": "Pozos Saldaña (Ejido Plan Nacional Agrario)", "lat": 31.702734, "lng": -115.255397
+},{
+"label": "Familia Navarrete Navarrete (Ejido Colima)", "lat": 32.426661, "lng": -115.006314
+},{
+"label": "Familia Ramos (Colonia Bórquez)", "lat": 32.64208, "lng": -115.016384
+},{
+"label": "Los Macías (Veracruz Dos)", "lat": 32.378681, "lng": -115.091483
+},{
+"label": "Familia de Lucas (Colonia Zacatecas)", "lat": 32.157046, "lng": -115.050886
+},{
+"label": "El Remolino", "lat": 32.635833, "lng": -114.840556
+},{
+"label": "Familia Blanco Yáñez (Colonia Colorado Número Tres)", "lat": 32.531268, "lng": -115.382456
+},{
+"label": "Familia Núñez (Colonia Bravo)", "lat": 32.317543, "lng": -115.113953
+},{
+"label": "Familia Ochoa (Colonia Triángulo)", "lat": 32.250518, "lng": -115.106393
+},{
+"label": "El Pozo [Rancho]", "lat": 32.025225, "lng": -115.682272
+},{
+"label": "Centinela Tercera Sección", "lat": 32.643429, "lng": -115.623093
+},{
+"label": "Familia González (Ejido Tamaulipas)", "lat": 32.553323, "lng": -115.216345
+},{
+"label": "Colonia Silva Noroeste", "lat": 32.400905, "lng": -115.050176
+},{
+"label": "Familia Moreno (Colonia Progreso)", "lat": 32.563063, "lng": -115.586813
+},{
+"label": "Colonia Rentería", "lat": 32.34989, "lng": -115.298065
+},{
+"label": "Los Coronado", "lat": 32.007992, "lng": -114.965005
+},{
+"label": "Familia Carrillo (Colonia Elías)", "lat": 32.360671, "lng": -114.985017
+},{
+"label": "Familia Hernández (Colonia Bórquez)", "lat": 32.632728, "lng": -115.011854
+},{
+"label": "Familia de la Riva (Colonia Madero)", "lat": 32.334603, "lng": -115.001421
+},{
+"label": "Familia Soto (Colonia Chapultepec)", "lat": 32.34088, "lng": -115.094298
+},{
+"label": "Ejido Chiapas 2", "lat": 32.436847, "lng": -114.978124
+},{
+"label": "Las Pirámides", "lat": 32.578961, "lng": -115.569861
+},{
+"label": "Ejido Chiapas 3", "lat": 32.473959, "lng": -114.943254
+},{
+"label": "Ejido Chiapas 1", "lat": 32.498576, "lng": -114.964112
+},{
+"label": "Familia González (Colonia Sonora)", "lat": 32.597188, "lng": -115.649201
+},{
+"label": "Familia Gutiérrez", "lat": 32.349319, "lng": -115.1375
+},{
+"label": "Herradura", "lat": 32.637959, "lng": -115.291398
+},{
+"label": "Rancho Carrera (Ejido Yucatán)", "lat": 32.585346, "lng": -115.058878
+},{
+"label": "Familia Padilla Lugo (Lote Diecisiete Colonia Madero)", "lat": 32.330869, "lng": -115.040263
+},{
+"label": "Familia Sánchez (Ejido Islas Agrarias A)", "lat": 32.590372, "lng": -115.338884
+},{
+"label": "El Ciento catorce (Rancho de Hermanos Sánchez)", "lat": 32.173044, "lng": -115.148369
+},{
+"label": "Ejido Quintana Roo", "lat": 32.468236, "lng": -115.087258
+},{
+"label": "Familia Hernández (Colonia José María Rodríguez)", "lat": 32.627717, "lng": -115.041637
+},{
+"label": "Colonia Chapultepec", "lat": 32.348434, "lng": -115.098884
+},{
+"label": "Familia Maldonado", "lat": 32.629582, "lng": -115.28295
+},{
+"label": "Familia Cabanillas (Ejido Morelos)", "lat": 32.586678, "lng": -114.900643
+},{
+"label": "Familia Mendoza (Colonia Grupo Dos Tubos)", "lat": 32.48002, "lng": -115.06566
+},{
+"label": "Familia Reynoso", "lat": 31.212793, "lng": -115.360737
+},{
+"label": "Familia Campos (Colonia Nueva Paredones)", "lat": 32.641944, "lng": -114.940556
+},{
+"label": "Familia Grijalva (Ejido Chiapas)", "lat": 32.465169, "lng": -114.96799
+},{
+"label": "Campo León Número Uno (Escuadrón Doscientos Uno)", "lat": 32.534137, "lng": -115.407665
+},{
+"label": "Playa del Sol", "lat": 31.089779, "lng": -114.869408
+},{
+"label": "Familia Negrete Rodríguez (Colonia Ahumada)", "lat": 32.574639, "lng": -115.506732
+},{
+"label": "San José (Colonia Ahumadita)", "lat": 32.548704, "lng": -115.486737
+},{
+"label": "San Jose [Rancho]", "lat": 32.551878, "lng": -115.288636
+},{
+"label": "Ejido Plan de Ayala", "lat": 32.219388, "lng": -115.031287
+},{
+"label": "Ninguno [Familia Pérez]", "lat": 32.623187, "lng": -115.250151
+},{
+"label": "Familia Aguilar (Ejido San Luis Potosí)", "lat": 32.505876, "lng": -115.151619
+},{
+"label": "Familia López (Colonia Grupo Reforma)", "lat": 32.651468, "lng": -114.766888
+},{
+"label": "Rancho de Dios", "lat": 32.311258, "lng": -115.699488
+},{
+"label": "Familia Castillo (Ejido Hermosillo)", "lat": 32.538152, "lng": -114.880934
+},{
+"label": "El Quince (Colonia Colorado Número Cuatro)", "lat": 32.520738, "lng": -115.373985
+},{
+"label": "Familia Gutiérrez (Colonia Osiris)", "lat": 32.565634, "lng": -115.205714
+},{
+"label": "Familia Rodríguez Morales (Colonia Colorado 3)", "lat": 32.538428, "lng": -115.377762
+},{
+"label": "Asociación Rural de Interes Colectivo B.C. [Rastro TIF 54]", "lat": 32.522878, "lng": -115.404528
+},{
+"label": "Rancho Castañeda (Ejido Tabasco)", "lat": 32.565976, "lng": -114.868708
+},{
+"label": "Real San Felipe [Fraccionamiento]", "lat": 31.002914, "lng": -114.863484
+},{
+"label": "Familia Molina (Ejido Tlaxcala)", "lat": 32.465322, "lng": -115.110485
+},{
+"label": "Familia Chacón (Colonia Tecolote Batáquez)", "lat": 32.589385, "lng": -114.995487
+},{
+"label": "Lote Dieciocho", "lat": 32.665228, "lng": -114.847562
+},{
+"label": "La Esperanza (Colonia Francisco Villa)", "lat": 30.976836, "lng": -114.855777
+},{
+"label": "Real de San Felipe [Fraccionamiento]", "lat": 30.998295, "lng": -114.849065
+},{
+"label": "Familia García (Ejido Sombrerete Número Uno)", "lat": 32.166054, "lng": -115.035873
+},{
+"label": "Los García (Colonia Miguel Alemán)", "lat": 32.536988, "lng": -114.833349
+},{
+"label": "Cuatro Potrillos", "lat": 32.537475, "lng": -115.559658
+},{
+"label": "Félix", "lat": 32.287102, "lng": -115.261558
+},{
+"label": "Familia Chacón (Colonia Mariana)", "lat": 32.245231, "lng": -115.31931
+},{
+"label": "Rancho Pérez (Ejido Distrito Federal)", "lat": 32.486399, "lng": -115.031304
+},{
+"label": "Janitzio 2", "lat": 32.534743, "lng": -114.83563
+},{
+"label": "Familia Solano (Colonia Triángulo)", "lat": 32.251162, "lng": -115.110586
+},{
+"label": "Familia Cota Orozco (Colonia Silva)", "lat": 32.406057, "lng": -115.053783
+},{
+"label": "Las Campiñas", "lat": 32.622611, "lng": -115.1852
+},{
+"label": "Campo Otta [Colonia Elías]", "lat": 32.360563, "lng": -115.008484
+},{
+"label": "Ejido Netzahualcóyotl", "lat": 32.624265, "lng": -115.064263
+},{
+"label": "Familia Zamudio (Ejido Villa Hermosa)", "lat": 32.649222, "lng": -114.980662
+},{
+"label": "Familia Sánchez (Colonia Elías)", "lat": 32.359494, "lng": -114.963766
+},{
+"label": "Los Medina", "lat": 32.596473, "lng": -115.547343
+},{
+"label": "Familia Pérez Chávez (Colonia Venustiano Carranza)", "lat": 32.152197, "lng": -115.15658
+},{
+"label": "Familia Martínez Morales (Ejido Tlaxcala)", "lat": 32.449923, "lng": -115.132013
+},{
+"label": "Familia Fernández (Colonia Cerro prieto)", "lat": 32.502719, "lng": -115.42104
+},{
+"label": "Familia Gutiérrez (Colonia Miguel Alemán)", "lat": 32.527687, "lng": -114.831417
+},{
+"label": "Familia Marín (Colonia Ahumada Parcela Tres)", "lat": 32.558412, "lng": -115.489788
+},{
+"label": "Familia Romo (Colonia Olachea)", "lat": 32.295043, "lng": -115.157803
+},{
+"label": "Familia Pantoja (Colonia el Triángulo Lote Veintiuno)", "lat": 32.252573, "lng": -115.110194
+},{
+"label": "Familia Covarrubias (Colonia Benito Juárez)", "lat": 32.305636, "lng": -115.047104
+},{
+"label": "Familia Sandoval Prado (Colonia Batáquez)", "lat": 32.580112, "lng": -115.026356
+},{
+"label": "Rancho Grijalva (Colonia Abasolo)", "lat": 32.62063, "lng": -115.301998
+},{
+"label": "Ejido Palo Verde", "lat": 32.552414, "lng": -115.458633
+},{
+"label": "Rancho Rodríguez (Colonia Camacho)", "lat": 32.18136, "lng": -115.124408
+},{
+"label": "Familia Silva (Colonia Camacho)", "lat": 32.143251, "lng": -115.132153
+},{
+"label": "Campo Acapulco", "lat": 32.085212, "lng": -115.232081
+},{
+"label": "Familia Martínez (Ejido Campeche Parcela Ochenta y Cuatro)", "lat": 32.537743, "lng": -114.991193
+},{
+"label": "Los Coyotes (Colonia Colorado Número Uno)", "lat": 32.537667, "lng": -115.430137
+},{
+"label": "Nuevo de Valdivia", "lat": 32.438332, "lng": -115.105437
+},{
+"label": "Familia Madrigal (Ejido Morelia)", "lat": 32.440016, "lng": -115.207233
+},{
+"label": "Familia Peña (Ejido San Luis Potosí)", "lat": 32.481344, "lng": -115.142425
+},{
+"label": "Los Limones (Colonia Zacatecas)", "lat": 32.17894, "lng": -115.025303
+},{
+"label": "Familia Cordero", "lat": 32.676023, "lng": -114.905623
+},{
+"label": "Familia Nila (Colonia Venustiano Carranza)", "lat": 32.220934, "lng": -115.159255
+},{
+"label": "Colonia Cuervitos", "lat": 32.665245, "lng": -114.835241
+},{
+"label": "Quinta de las Rosas", "lat": 31.092114, "lng": -114.87084
+},{
+"label": "Familia Cortez (Colonia Independencia Económica)", "lat": 32.220278, "lng": -115.310833
+},{
+"label": "Familia Figueroa (Colonia Bórquez)", "lat": 32.621389, "lng": -115.041944
+},{
+"label": "Ejido Monterrey (Colonia Batáquez)", "lat": 32.552968, "lng": -115.065026
+},{
+"label": "Familia Govea Ruiz (Ejido Jiquilpan)", "lat": 32.491236, "lng": -115.062916
+},{
+"label": "San Julián (Colonia Chaussé)", "lat": 32.28023, "lng": -115.047799
+},{
+"label": "Colonia Mariano Abasolo", "lat": 32.645085, "lng": -115.349565
+},{
+"label": "Progreso Primera Sección", "lat": 32.566466, "lng": -115.529305
+},{
+"label": "El Doctor (Ejido Coahuila)", "lat": 32.658279, "lng": -115.562561
+},{
+"label": "Familia Pasillas (Ejido Tula)", "lat": 32.607661, "lng": -115.228152
+},{
+"label": "Tres Palmas", "lat": 32.403365, "lng": -115.108435
+},{
+"label": "Colonia Gómez (Colonia Colorado Número Tres)", "lat": 32.534264, "lng": -115.360373
+},{
+"label": "Progreso", "lat": 32.58204, "lng": -115.584467
+},{
+"label": "Familia Vaca (Colonia Osiris)", "lat": 32.562357, "lng": -115.181551
+},{
+"label": "Rancho Jiménez", "lat": 32.231981, "lng": -115.148333
+},{
+"label": "Familia Camargo H. (Ejido Michoacán de Ocampo)", "lat": 32.471683, "lng": -115.307134
+},{
+"label": "Familia Romero (Colonia Pólvora)", "lat": 32.492441, "lng": -115.205157
+},{
+"label": "Familia Campas (Ejido Tehuantepec)", "lat": 32.508535, "lng": -115.004504
+},{
+"label": "La Mesa", "lat": 32.650093, "lng": -115.037735
+},{
+"label": "Ejido Yucatán", "lat": 32.605212, "lng": -115.092794
+},{
+"label": "Familia Fierro (Ejido Tabasco)", "lat": 32.542134, "lng": -114.939702
+},{
+"label": "Familia Guerrero (Colonia Progreso)", "lat": 32.595379, "lng": -115.634063
+},{
+"label": "Familia Burciaga (Colonia Zaragoza)", "lat": 32.597466, "lng": -115.548184
+},{
+"label": "Rancho Tayjón (Ejido Yucatán)", "lat": 32.581426, "lng": -115.079887
+},{
+"label": "Colonia el Triángulo", "lat": 32.264424, "lng": -115.110644
+},{
+"label": "Familia Maciel (Ejido Campeche Parcela Ochenta y Seis)", "lat": 32.533202, "lng": -114.97949
+},{
+"label": "Familia Salazar (Ejido Tabasco)", "lat": 32.523152, "lng": -114.95087
+},{
+"label": "Rancho Chata", "lat": 32.645809, "lng": -115.306558
+},{
+"label": "Campo Escondido", "lat": 32.054761, "lng": -115.207053
+},{
+"label": "Familia Fierro (Colonia Progreso)", "lat": 32.58822, "lng": -115.565615
+},{
+"label": "Familia Camilo (Ejido Islas Agrarias B)", "lat": 32.572621, "lng": -115.287607
+},{
+"label": "Los Melgoza", "lat": 32.29787, "lng": -115.030203
+},{
+"label": "El Salitral de Martín Andrade", "lat": 32.611219, "lng": -114.987891
+},{
+"label": "Campo Villa Marina", "lat": 30.915448, "lng": -114.719585
+},{
+"label": "Vulcano", "lat": 32.550748, "lng": -115.100759
+},{
+"label": "Rancho Ramos (El Pujido)", "lat": 32.52813, "lng": -114.932241
+},{
+"label": "Ejido Tepic", "lat": 32.581674, "lng": -114.842421
+},{
+"label": "Familia Fragoso (Colonia Grupo Dos Tubos)", "lat": 32.474743, "lng": -115.105958
+},{
+"label": "Familia Guzmán (Colonia Pólvora)", "lat": 32.502407, "lng": -115.205742
+},{
+"label": "Familia Ledezma (Ejido Morelos)", "lat": 32.578541, "lng": -114.880694
+},{
+"label": "Parcelas Número Treinta y Dos y Treinta y Tres (Ejido Guanajuato)", "lat": 32.512862, "lng": -115.327702
+},{
+"label": "Familia Miranda (Ejido Nayarit Parcela Número Dos)", "lat": 32.335774, "lng": -115.302085
+},{
+"label": "Familia Barbosa (Ejido Tula)", "lat": 32.609927, "lng": -115.24614
+},{
+"label": "Parcela Cuarenta (Colonia Ahumada)", "lat": 32.559004, "lng": -115.502809
+},{
+"label": "Rancho Núñez (Colonia Tecolote Batáquez)", "lat": 32.574643, "lng": -115.010778
+},{
+"label": "Ejido Chihuahua", "lat": 32.487964, "lng": -115.240111
+},{
+"label": "Familia Lerma (Ejido Villa Hermosa)", "lat": 32.643582, "lng": -114.963486
+},{
+"label": "La Pérgola", "lat": 32.561314, "lng": -115.804824
+},{
+"label": "Magaña (Ejido Morelia) [Establo]", "lat": 32.448876, "lng": -115.192365
+},{
+"label": "Familia Barrios (Ejido Islas Agrarias B)", "lat": 32.608571, "lng": -115.263679
+},{
+"label": "Familia Huaracha (Colonia Independencia)", "lat": 32.219533, "lng": -115.315756
+},{
+"label": "Francisco Villa Dos [Ejido]", "lat": 32.302191, "lng": -115.722575
+},{
+"label": "Familia Vaca Meza (Colonia Osiris)", "lat": 32.56119, "lng": -115.183319
+},{
+"label": "Familia Bueno (Ejido Camacho)", "lat": 32.186908, "lng": -115.092052
+},{
+"label": "Familia Orduño (Ejido Tabasco)", "lat": 32.549518, "lng": -114.924881
+},{
+"label": "Vista del Mar", "lat": 31.10559, "lng": -114.878032
+},{
+"label": "Colonia Bravo", "lat": 32.322675, "lng": -115.133969
+},{
+"label": "Ninguno [Familia Macedo]", "lat": 32.503619, "lng": -114.844541
+},{
+"label": "Sol (Colonia Progreso) [Constructora]", "lat": 32.546611, "lng": -115.519345
+},{
+"label": "Ciudad Guadalupe Victoria (Kilómetro Cuarenta y Tres)", "lat": 32.288498, "lng": -115.103066
+},{
+"label": "Familia Núñez (Ejido Tamaulipas)", "lat": 32.565566, "lng": -115.2164
+},{
+"label": "Unión de Granjas Familiares", "lat": 32.56919, "lng": -115.579026
+},{
+"label": "Familia Huerta", "lat": 32.588474, "lng": -115.223671
+},{
+"label": "Viñas del Sol", "lat": 32.626393, "lng": -115.546066
+},{
+"label": "Familia Ledezma (Colonia Grupo Reforma)", "lat": 32.646111, "lng": -114.770556
+},{
+"label": "Familia Muñoz (Ejido Tabasco)", "lat": 32.579444, "lng": -114.926944
+},{
+"label": "Los Orozco (Ejido Plan de Ayala)", "lat": 32.210626, "lng": -115.034379
+},{
+"label": "El Mayor Cucapah [Unidad Socioeconómica]", "lat": 32.550569, "lng": -115.681191
+},{
+"label": "Rancho Victoria", "lat": 32.484899, "lng": -115.328001
+},{
+"label": "Los Compadres", "lat": 31.111814, "lng": -114.881839
+},{
+"label": "Familia Anguiano (Colonia Mariana)", "lat": 32.246606, "lng": -115.319157
+},{
+"label": "Ejido Alfonso Garzón Santibáñez", "lat": 32.160986, "lng": -115.055865
+},{
+"label": "Las Palmas (Colonia Colorado Número Tres)", "lat": 32.571771, "lng": -115.380483
+},{
+"label": "Misión los Sahuaros", "lat": 30.910034, "lng": -114.716341
+},{
+"label": "Parcela Ochenta y Siete (Ejido Cuernavaca)", "lat": 32.565129, "lng": -115.290308
+},{
+"label": "Veracruz Uno", "lat": 32.42443, "lng": -115.101818
+},{
+"label": "Familia Chávez (Ejido Guanajuato)", "lat": 32.530515, "lng": -115.347239
+},{
+"label": "Carmelita (Colonia Silva) [Empaque]", "lat": 32.425426, "lng": -114.997004
+},{
+"label": "Tres Valles (Ejido Morelos) [Aerofumigaciones]", "lat": 32.625858, "lng": -114.882206
+},{
+"label": "Colonia Cerro Prieto Siete", "lat": 32.438383, "lng": -115.276656
+},{
+"label": "Tomaziro", "lat": 32.300859, "lng": -115.246362
+},{
+"label": "Familia Aguayo (Colonia Elías)", "lat": 32.36074, "lng": -114.978328
+},{
+"label": "Viejo de Magaña (Ejido Morelia)", "lat": 32.433333, "lng": -115.201389
+},{
+"label": "Ejido Mezquital", "lat": 32.498857, "lng": -114.889431
+},{
+"label": "El Chaparral", "lat": 32.477198, "lng": -115.419368
+},{
+"label": "Familia Bogarín (Ejido Tabasco)", "lat": 32.559167, "lng": -114.879722
+},{
+"label": "Familia Torres (Parcela Treinta)", "lat": 32.573217, "lng": -114.925707
+},{
+"label": "Familia Fernández (Ejido San Luis Potosí)", "lat": 32.503189, "lng": -115.112147
+},{
+"label": "Familia Chávez (Ejido Aguascalientes)", "lat": 32.28813, "lng": -115.132391
+},{
+"label": "Ejido Laguna Salada", "lat": 32.17848, "lng": -115.661069
+},{
+"label": "Familia Arias (Ejido Colima)", "lat": 32.446848, "lng": -115.001596
+},{
+"label": "Familia Pérez Cervantes (Colonia Batáquez)", "lat": 32.611845, "lng": -114.977373
+},{
+"label": "Rancho Escondido (Colonia Colorado Número Tres)", "lat": 32.535099, "lng": -115.400977
+},{
+"label": "Sterling (Colonia Francisco Villa) [Granja]", "lat": 31.029496, "lng": -114.872985
+},{
+"label": "Progreso Segunda Sección", "lat": 32.565997, "lng": -115.588556
+},{
+"label": "NCPE Industrial Pesquero Moreno", "lat": 31.250833, "lng": -114.9625
+},{
+"label": "Familia Ferrales (Colonia Silva Sur)", "lat": 32.361467, "lng": -115.038017
+},{
+"label": "Familia Quintero (Ejido Oaxaca)", "lat": 32.308376, "lng": -115.149363
+},{
+"label": "San José (Colonia Silva)", "lat": 32.428084, "lng": -115.027171
+},{
+"label": "Familia Valenzuela (Ejido Monterrey)", "lat": 32.551604, "lng": -115.079644
+},{
+"label": "Familia Nieto (Colonia Pescadores)", "lat": 32.444573, "lng": -114.964422
+},{
+"label": "Familia Castro (Ejido Tabasco)", "lat": 32.571826, "lng": -114.948729
+},{
+"label": "Colonia Silva Sur (Las Playitas)", "lat": 32.368006, "lng": -115.040128
+},{
+"label": "Familia Martínez (Colonia Progreso)", "lat": 32.585059, "lng": -115.596691
+},{
+"label": "Familia Bernal", "lat": 32.230985, "lng": -115.216535
+},{
+"label": "Familia Granados", "lat": 32.425916, "lng": -115.368535
+},{
+"label": "Ninguno [Familia Fernández]", "lat": 32.485658, "lng": -115.4273
+},{
+"label": "Maquinaria Frontera [Venta de Maquinaria y Refacciones]", "lat": 32.555975, "lng": -115.213986
+},{
+"label": "Ninguno [Familia Martínez]", "lat": 32.507908, "lng": -115.21563
+},{
+"label": "Santo Toya (Colonia la Herradura)", "lat": 32.634081, "lng": -115.27545
+},{
+"label": "Alán Chávez (Colonia Venustiano Carranza)", "lat": 32.209923, "lng": -115.183766
+},{
+"label": "Santa Catalina [Fraccionamiento]", "lat": 30.971314, "lng": -114.799206
+},{
+"label": "Colonia Orive de Alba (Sume)", "lat": 32.656425, "lng": -114.854949
+},{
+"label": "Los Silva (Veracruz Dos)", "lat": 32.380614, "lng": -115.072912
+},{
+"label": "Compañía Siderúrgica de California", "lat": 32.512542, "lng": -115.348278
+},{
+"label": "General Heriberto Jara", "lat": 32.537815, "lng": -115.583832
+},{
+"label": "Ejido Felipe Ángeles", "lat": 31.812466, "lng": -115.356392
+},{
+"label": "Villas de Cortez", "lat": 31.18841, "lng": -114.888819
+},{
+"label": "Los Amigos", "lat": 31.175161, "lng": -114.89013
+},{
+"label": "Familia Rivera (Colonia Orive de Alba)", "lat": 32.664991, "lng": -114.865955
+},{
+"label": "Familia Balderrama (Colonia Mariana)", "lat": 32.271965, "lng": -115.324982
+},{
+"label": "Familia Corrales (Colonia Benito Juárez)", "lat": 32.311726, "lng": -115.053602
+},{
+"label": "Familia García Cruz (Ejido Plan de Ayala)", "lat": 32.17612, "lng": -115.095406
+},{
+"label": "Familia Talamantes (Colonia Progreso)", "lat": 32.552351, "lng": -115.563983
+},{
+"label": "Familia Castañeda (Ejido Tabasco)", "lat": 32.55002, "lng": -114.913656
+},{
+"label": "Lázaro Cárdenas [Ejido Colectivo]", "lat": 32.67836, "lng": -114.816299
+},{
+"label": "Familia Peña (Ejido Morelos)", "lat": 32.582265, "lng": -114.866667
+},{
+"label": "Familia Bañuelos (Ejido Tabasco)", "lat": 32.573406, "lng": -114.9106
+},{
+"label": "Familia González (Ejido Colima)", "lat": 32.446233, "lng": -114.991479
+},{
+"label": "El Alamo Mocho [Rancho]", "lat": 32.571551, "lng": -115.287247
+},{
+"label": "Familia García Mendoza", "lat": 32.460143, "lng": -115.217703
+},{
+"label": "Colonia Colorado Número Cinco", "lat": 32.511717, "lng": -115.340208
+},{
+"label": "Familia Aguirre (Ejido San Luis Potosí)", "lat": 32.511368, "lng": -115.109093
+},{
+"label": "Familia Núñez García (Colonia Chaussé)", "lat": 32.282866, "lng": -115.042413
+},{
+"label": "Familia Luna (Colonia Cerro Prieto)", "lat": 32.512563, "lng": -115.424279
+},{
+"label": "Familia Álvarez (Lote Cuatro Colonia Triángulo)", "lat": 32.274064, "lng": -115.095492
+},{
+"label": "El Palomar", "lat": 31.929188, "lng": -115.732367
+},{
+"label": "Rancho Pérez (Ejido Yucatán)", "lat": 32.572306, "lng": -115.080708
+},{
+"label": "Familia Ortiz (Ejido Toluca)", "lat": 32.416421, "lng": -115.085813
+},{
+"label": "Familia Mata (Ejido Tabasco)", "lat": 32.569415, "lng": -114.926424
+},{
+"label": "Ejido Plan Nacional Agrario", "lat": 31.082209, "lng": -114.885721
+},{
+"label": "Familia Lutz Muro (Colonia Madero)", "lat": 32.326119, "lng": -115.028149
+},{
+"label": "Familia Muñoz (Colonia Castro)", "lat": 32.670636, "lng": -115.314085
+},{
+"label": "Rancho Benavides (Colonia Abasolo)", "lat": 32.618934, "lng": -115.285585
+},{
+"label": "Dos Potrillos [Rancho]", "lat": 30.936249, "lng": -114.836018
+},{
+"label": "Familia Pérez y González", "lat": 32.646222, "lng": -114.972592
+},{
+"label": "Los Arellano (Ejido Oaxaca)", "lat": 32.304056, "lng": -115.152268
+},{
+"label": "Familia Chávez Ramírez (Ejido Campeche)", "lat": 32.550553, "lng": -114.968293
+},{
+"label": "Nicoya [Parque Industrial]", "lat": 32.635028, "lng": -115.275417
+},{
+"label": "Familia Merín (Colonia Zacatecas)", "lat": 32.052489, "lng": -115.012107
+},{
+"label": "Familia López", "lat": 31.051761, "lng": -114.872742
+},{
+"label": "Familia Aguilar Martínez", "lat": 32.626558, "lng": -115.362021
+},{
+"label": "Ricardo Mazón Guerrero (Colonia Baja California el Polvorín)", "lat": 32.240629, "lng": -115.104525
+},{
+"label": "Las Malvinas [Rancho]", "lat": 31.070186, "lng": -114.878667
+},{
+"label": "Las Truchas", "lat": 32.542611, "lng": -115.488552
+},{
+"label": "Vie Verte [Busines Center]", "lat": 32.613078, "lng": -115.3433
+},{
+"label": "Familia Ávila (Colonia Abasolo)", "lat": 32.640486, "lng": -115.360986
+},{
+"label": "Familia Leyva (Colonia Francisco Villa)", "lat": 31.052803, "lng": -114.872117
+},{
+"label": "Familia Félix (Veracruz Dos)", "lat": 32.389566, "lng": -115.075342
+},{
+"label": "Familia Landeros (Ejido Tabasco)", "lat": 32.534925, "lng": -114.902279
+},{
+"label": "El Sacrifico", "lat": 31.978122, "lng": -115.83828
+},{
+"label": "Emiliano Zapata", "lat": 32.57708, "lng": -115.624269
+},{
+"label": "Familia García Franco (Ejido México)", "lat": 32.513679, "lng": -114.969541
+},{
+"label": "Familia Pulido (Ejido Tabasco)", "lat": 32.589139, "lng": -114.908073
+},{
+"label": "La Rosita", "lat": 32.602959, "lng": -115.65822
+},{
+"label": "Familia Chávez (Ejido Lázaro Cárdenas)", "lat": 32.613179, "lng": -115.042259
+},{
+"label": "Rancho Dozal (Colonia Castro)", "lat": 32.660904, "lng": -115.313936
+},{
+"label": "Valle de San Joaquín", "lat": 32.561355, "lng": -115.439345
+},{
+"label": "Familia Barrera (Colonia Villarreal)", "lat": 32.429517, "lng": -115.012722
+},{
+"label": "Familia Vega (Ejido Morelia)", "lat": 32.438891, "lng": -115.20071
+},{
+"label": "El Chorizo (Veracruz Dos)", "lat": 32.410746, "lng": -115.06746
+},{
+"label": "Familia Flores", "lat": 32.625781, "lng": -114.913886
+},{
+"label": "El Bordo (Ejido Chiapas)", "lat": 32.444603, "lng": -114.965402
+},{
+"label": "Familia Ulloa (Ejido Tabasco)", "lat": 32.595679, "lng": -114.907076
+},{
+"label": "El Doown (Ejido Hermosillo)", "lat": 32.527778, "lng": -114.879444
+},{
+"label": "Rancho Sánchez", "lat": 32.325676, "lng": -115.179931
+},{
+"label": "Familia Galván Díaz", "lat": 32.597908, "lng": -115.520825
+},{
+"label": "Familia Vindiola (Colonia Venustiano Carranza)", "lat": 32.198644, "lng": -115.182366
+},{
+"label": "Familia Espinoza (Ejido Tabasco)", "lat": 32.545213, "lng": -114.904759
+},{
+"label": "Familia Rocha (Ejido Tula)", "lat": 32.59829, "lng": -115.191362
+},{
+"label": "Colonia 7", "lat": 32.513135, "lng": -115.408912
+},{
+"label": "Longoria (Colonia Silva) [Empresas]", "lat": 32.393252, "lng": -115.03288
+},{
+"label": "Rancho Fonseca (Ejido Hermosillo)", "lat": 32.523871, "lng": -114.91086
+},{
+"label": "Colonia 1", "lat": 32.542781, "lng": -115.414575
+},{
+"label": "Familia Muñoz (Colonia Chapultepec)", "lat": 32.336667, "lng": -115.097778
+},{
+"label": "Familia Rodríguez (Colonia Castro)", "lat": 32.656667, "lng": -115.314167
+},{
+"label": "Familia Martínez (Ejido Guanajuato)", "lat": 32.492869, "lng": -115.295389
+},{
+"label": "Michoacán de Ocampo", "lat": 32.465939, "lng": -115.309322
+},{
+"label": "Carrancita (Colonia Venustiano Carranza)", "lat": 32.167432, "lng": -115.14082
+},{
+"label": "Familia Morales (Colonia Madero)", "lat": 32.312567, "lng": -115.01769
+},{
+"label": "Familia Maldonado (Sombrerete Número Uno)", "lat": 32.114227, "lng": -115.017597
+},{
+"label": "Familia Neri (Ejido Sonora)", "lat": 32.288238, "lng": -115.261379
+},{
+"label": "El Rillito (Ejido México)", "lat": 32.523332, "lng": -114.992136
+},{
+"label": "Familia García Zavala (Ejido Colima)", "lat": 32.464766, "lng": -114.982618
+},{
+"label": "Familia Hernández (Ejido Tabasco)", "lat": 32.568452, "lng": -114.925321
+},{
+"label": "Familia Zúñiga (Ejido Tabasco)", "lat": 32.527041, "lng": -114.963999
+},{
+"label": "Parcela Cincuenta y Seis (Ejido Guanajuato)", "lat": 32.496698, "lng": -115.297393
+},{
+"label": "Rancho Casimiro (Colonia Ocampo)", "lat": 32.614982, "lng": -115.10915
+},{
+"label": "Familia Duarte (Colonia Orive de Alba)", "lat": 32.665169, "lng": -114.853839
+},{
+"label": "Familia Ruiz (Ejido Tabasco)", "lat": 32.573441, "lng": -114.913808
+},{
+"label": "Familia Beltrán", "lat": 32.488498, "lng": -115.249522
+},{
+"label": "Familia Santiago", "lat": 32.641533, "lng": -115.3124
+},{
+"label": "Palato Ramírez", "lat": 32.351083, "lng": -115.198134
+},{
+"label": "Familia Rizo (Colonia Centinela)", "lat": 32.605226, "lng": -115.648891
+},{
+"label": "Familia Mosqueda (Ejido Camacho)", "lat": 32.166009, "lng": -115.099762
+},{
+"label": "Familia Madueña González (Ejido México)", "lat": 32.50856, "lng": -114.981967
+},{
+"label": "Los Hernández (Colonia Venustiano Carranza)", "lat": 32.167504, "lng": -115.149104
+},{
+"label": "Familia Canseco (Ejido Tula)", "lat": 32.597735, "lng": -115.20096
+},{
+"label": "Familia Soto Arriola (Colonia Tecolote Batáquez)", "lat": 32.521023, "lng": -115.073211
+},{
+"label": "Familia Chico (Ejido Tlaxcala)", "lat": 32.452792, "lng": -115.131257
+},{
+"label": "Reacomodo el Mezquital", "lat": 32.495181, "lng": -114.870033
+},{
+"label": "Familia Bilbao (Ejido Islas Agrarias B)", "lat": 32.590725, "lng": -115.274301
+},{
+"label": "Familia Vaca (Ejido Morelos)", "lat": 32.592336, "lng": -114.850062
+},{
+"label": "Familia Prado (Ejido Campeche)", "lat": 32.56018, "lng": -114.956742
+},{
+"label": "Los Babys (Colonia Abasolo)", "lat": 32.632941, "lng": -115.300056
+},{
+"label": "Familia Arciga (Colonia Miguel Alemán)", "lat": 32.546082, "lng": -114.831888
+}]

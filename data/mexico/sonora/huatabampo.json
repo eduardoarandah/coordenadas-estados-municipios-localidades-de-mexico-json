@@ -1,0 +1,519 @@
+[{
+"label": "Buiyarumo", "lat": 26.836709, "lng": -109.696828
+},{
+"label": "Aquichopo", "lat": 26.799594, "lng": -109.748366
+},{
+"label": "Lucía", "lat": 26.584239, "lng": -109.115372
+},{
+"label": "Santa Julia", "lat": 26.837763, "lng": -109.614444
+},{
+"label": "Área Comercial los Toltecas", "lat": 26.568769, "lng": -109.150854
+},{
+"label": "Mayo Fuerte", "lat": 26.407148, "lng": -109.025074
+},{
+"label": "La Curva", "lat": 26.782991, "lng": -109.464182
+},{
+"label": "Camajoa", "lat": 26.787605, "lng": -109.770195
+},{
+"label": "Los Toltecas", "lat": 26.567365, "lng": -109.151194
+},{
+"label": "Ramírez", "lat": 26.840306, "lng": -109.652612
+},{
+"label": "Héctor Urrea", "lat": 26.770376, "lng": -109.601851
+},{
+"label": "Masobampo", "lat": 26.469254, "lng": -109.105659
+},{
+"label": "Acuícola Clej", "lat": 26.419082, "lng": -109.235923
+},{
+"label": "30 de Abril", "lat": 26.795798, "lng": -109.701001
+},{
+"label": "La Línea", "lat": 26.866429, "lng": -109.638706
+},{
+"label": "María Emma", "lat": 26.806815, "lng": -109.688107
+},{
+"label": "El Alto San Cristóbal", "lat": 26.843533, "lng": -109.579046
+},{
+"label": "Mochibampo", "lat": 26.753004, "lng": -109.609058
+},{
+"label": "El Juparito (Huepaco)", "lat": 26.799078, "lng": -109.692227
+},{
+"label": "El Triunfo", "lat": 26.856201, "lng": -109.789828
+},{
+"label": "La Unión (Cuadro Once)", "lat": 26.823998, "lng": -109.592167
+},{
+"label": "El Sufragio", "lat": 26.863084, "lng": -109.687075
+},{
+"label": "Manuel Caudillo", "lat": 26.492567, "lng": -109.087388
+},{
+"label": "Armenta", "lat": 26.81216, "lng": -109.614818
+},{
+"label": "Palo Verde", "lat": 26.863486, "lng": -109.662843
+},{
+"label": "Plutarco Elías Calles", "lat": 26.534384, "lng": -109.219384
+},{
+"label": "Adolfo López Mateos", "lat": 26.796102, "lng": -109.388637
+},{
+"label": "Campo de Arturo Martínez", "lat": 26.815411, "lng": -109.495519
+},{
+"label": "Chichibojoro (Coteco)", "lat": 26.664999, "lng": -109.315674
+},{
+"label": "Benjamín Hill (Bachomocobe)", "lat": 26.899929, "lng": -109.813799
+},{
+"label": "Tojahui", "lat": 26.657698, "lng": -109.380044
+},{
+"label": "El Dátil", "lat": 26.832859, "lng": -109.73666
+},{
+"label": "Urrea", "lat": 26.818228, "lng": -109.617784
+},{
+"label": "La Galera", "lat": 26.803381, "lng": -109.741015
+},{
+"label": "La Choya", "lat": 26.823309, "lng": -109.466106
+},{
+"label": "El Ranchito (Yujumary)", "lat": 26.577801, "lng": -109.145597
+},{
+"label": "Las Parras", "lat": 26.839794, "lng": -109.716369
+},{
+"label": "Los Pinos (Elías Karam)", "lat": 26.815986, "lng": -109.508894
+},{
+"label": "Guadalupe Estrella (Kilómetro Ciento Siete)", "lat": 26.678146, "lng": -109.245965
+},{
+"label": "Las Parritas (El Changuito)", "lat": 26.849229, "lng": -109.729139
+},{
+"label": "San Ignacio (La Bomba)", "lat": 26.831151, "lng": -109.478255
+},{
+"label": "El Mazaray", "lat": 26.742529, "lng": -109.647353
+},{
+"label": "Yocupicio", "lat": 26.837888, "lng": -109.526683
+},{
+"label": "Los Angelitos Reubicación", "lat": 26.689997, "lng": -109.261562
+},{
+"label": "Janitzio", "lat": 26.909341, "lng": -109.748317
+},{
+"label": "Rancho Estrella", "lat": 26.772835, "lng": -109.636451
+},{
+"label": "Los Buitbores", "lat": 26.760699, "lng": -109.713461
+},{
+"label": "La China", "lat": 26.81108, "lng": -109.748139
+},{
+"label": "Tepahui Uno", "lat": 26.82554, "lng": -109.392518
+},{
+"label": "Aquisahuali", "lat": 26.779004, "lng": -109.720725
+},{
+"label": "Agiabampo Número Dos (El Campito)", "lat": 26.324197, "lng": -109.097033
+},{
+"label": "Emiliano Zapata Uno", "lat": 26.427856, "lng": -109.033931
+},{
+"label": "Sepobampo", "lat": 26.754381, "lng": -109.737069
+},{
+"label": "Cerrillos", "lat": 26.464579, "lng": -109.120256
+},{
+"label": "Baburo", "lat": 26.850983, "lng": -109.696898
+},{
+"label": "Totoliboqui", "lat": 26.462526, "lng": -109.13334
+},{
+"label": "La Cuchilla del Etchoropo", "lat": 26.775876, "lng": -109.6675
+},{
+"label": "Agropecuaría Jupateco", "lat": 26.825905, "lng": -109.770785
+},{
+"label": "Juliantabampo", "lat": 26.77336, "lng": -109.701464
+},{
+"label": "Torocobampo", "lat": 26.431859, "lng": -109.055534
+},{
+"label": "Santa Rosa (La Piocha)", "lat": 26.835694, "lng": -109.685021
+},{
+"label": "Familia Otero", "lat": 26.8867, "lng": -109.761817
+},{
+"label": "Estero Santa Bárbara", "lat": 26.695161, "lng": -109.649847
+},{
+"label": "El Gato", "lat": 26.81681, "lng": -109.759452
+},{
+"label": "24 de Febrero", "lat": 26.505523, "lng": -109.099213
+},{
+"label": "Jupagojori", "lat": 26.834253, "lng": -109.795057
+},{
+"label": "Predio Mumuncuera", "lat": 26.825325, "lng": -109.434031
+},{
+"label": "Insurgentes de Pueblo Yaqui", "lat": 26.389351, "lng": -109.116352
+},{
+"label": "Rancho de Anguis", "lat": 26.881258, "lng": -109.774216
+},{
+"label": "El Tábare", "lat": 26.801289, "lng": -109.758391
+},{
+"label": "Agroinsumos Urrea", "lat": 26.763878, "lng": -109.632164
+},{
+"label": "Campo Trini Rosas", "lat": 26.826034, "lng": -109.416978
+},{
+"label": "El Gallo", "lat": 26.824909, "lng": -109.56203
+},{
+"label": "El Riíto de Mazaray (Riíto Muerto)", "lat": 26.749156, "lng": -109.646563
+},{
+"label": "El Embarcadero", "lat": 26.820137, "lng": -109.703072
+},{
+"label": "Rosita [Restaurante]", "lat": 26.648769, "lng": -109.220139
+},{
+"label": "Morelos", "lat": 26.851253, "lng": -109.748488
+},{
+"label": "Cerco de Huico", "lat": 26.597654, "lng": -109.309201
+},{
+"label": "La Arenita", "lat": 26.797823, "lng": -109.774986
+},{
+"label": "Juan Escutia", "lat": 26.559364, "lng": -109.145093
+},{
+"label": "Playa Huatabampito", "lat": 26.69249, "lng": -109.578931
+},{
+"label": "Jubarebampo", "lat": 26.585556, "lng": -109.111524
+},{
+"label": "El Crucero", "lat": 26.751611, "lng": -109.31058
+},{
+"label": "El Marro", "lat": 26.817232, "lng": -109.662348
+},{
+"label": "Estación Luis", "lat": 26.580479, "lng": -109.160555
+},{
+"label": "Macías", "lat": 26.838517, "lng": -109.508528
+},{
+"label": "Emiliano Zapata Dos", "lat": 26.471661, "lng": -109.070336
+},{
+"label": "Jambiolabampo Uno", "lat": 26.742641, "lng": -109.358024
+},{
+"label": "Campo San Francisco", "lat": 26.836292, "lng": -109.545853
+},{
+"label": "Mario Yocupicio", "lat": 26.717804, "lng": -109.283239
+},{
+"label": "Martínez", "lat": 26.795641, "lng": -109.480306
+},{
+"label": "Las Ánimas", "lat": 26.603717, "lng": -109.330618
+},{
+"label": "Cicivari", "lat": 26.802566, "lng": -109.711625
+},{
+"label": "Cautebe", "lat": 26.75278, "lng": -109.743938
+},{
+"label": "Los Noventa", "lat": 26.778616, "lng": -109.43466
+},{
+"label": "El Chapote", "lat": 26.8351, "lng": -109.711104
+},{
+"label": "El Caro", "lat": 26.867601, "lng": -109.714879
+},{
+"label": "El Santo (Bachomojaqui)", "lat": 26.578135, "lng": -109.299977
+},{
+"label": "Melchor Ocampo", "lat": 26.532261, "lng": -109.175717
+},{
+"label": "Pueblo Viejo", "lat": 26.79222, "lng": -109.710995
+},{
+"label": "Tepahui Dos", "lat": 26.825856, "lng": -109.400043
+},{
+"label": "Míriam [Restaurante]", "lat": 26.700107, "lng": -109.264784
+},{
+"label": "Las Flores", "lat": 26.816963, "lng": -109.701205
+},{
+"label": "Alto de Silverio", "lat": 26.802878, "lng": -109.577545
+},{
+"label": "Huepaco", "lat": 26.803457, "lng": -109.684894
+},{
+"label": "Rosas", "lat": 26.860203, "lng": -109.638805
+},{
+"label": "Santini", "lat": 26.836944, "lng": -109.658989
+},{
+"label": "La Escalera", "lat": 26.777091, "lng": -109.650892
+},{
+"label": "Navobaxia", "lat": 26.835201, "lng": -109.672166
+},{
+"label": "La Paila", "lat": 26.78676, "lng": -109.471371
+},{
+"label": "Roberto Romo", "lat": 26.824813, "lng": -109.546783
+},{
+"label": "Estación Fitopecuaria", "lat": 26.405531, "lng": -109.014898
+},{
+"label": "Chapultepec", "lat": 26.74363, "lng": -109.613612
+},{
+"label": "Urrea (El Caballito)", "lat": 26.819732, "lng": -109.545782
+},{
+"label": "Tepahui Tres", "lat": 26.825684, "lng": -109.408292
+},{
+"label": "Porcina Soles", "lat": 26.479303, "lng": -109.074784
+},{
+"label": "Francisco Sarabia", "lat": 26.511957, "lng": -109.105125
+},{
+"label": "Campo de Eduardo Santini", "lat": 26.81421, "lng": -109.432945
+},{
+"label": "Agiabampo Dos (El Cuadrado)", "lat": 26.308549, "lng": -109.137374
+},{
+"label": "Buiyagojo", "lat": 26.694169, "lng": -109.279221
+},{
+"label": "Cerco de Inés", "lat": 26.598056, "lng": -109.305833
+},{
+"label": "10 de Abril", "lat": 26.579438, "lng": -109.163063
+},{
+"label": "Sirebampo", "lat": 26.638669, "lng": -109.236616
+},{
+"label": "Las Mamias", "lat": 26.823299, "lng": -109.762686
+},{
+"label": "Venustiano Carranza", "lat": 26.426112, "lng": -109.031327
+},{
+"label": "La Esquina", "lat": 26.801271, "lng": -109.71613
+},{
+"label": "Camahuiroa", "lat": 26.543712, "lng": -109.284207
+},{
+"label": "Sahuaral de Otero (Sahuaral de Abajo)", "lat": 26.884703, "lng": -109.731501
+},{
+"label": "La Cochera", "lat": 26.865301, "lng": -109.703601
+},{
+"label": "Bacusi (Luis Otero Borbón)", "lat": 26.732701, "lng": -109.661739
+},{
+"label": "Larriñiga", "lat": 26.84766, "lng": -109.626253
+},{
+"label": "Loma de Moroncárit", "lat": 26.751558, "lng": -109.67223
+},{
+"label": "Bachoco", "lat": 26.727008, "lng": -109.417429
+},{
+"label": "La Bomba", "lat": 26.714627, "lng": -109.277772
+},{
+"label": "La Primavera", "lat": 26.800579, "lng": -109.670908
+},{
+"label": "Lonchería Carolina", "lat": 26.69773, "lng": -109.262656
+},{
+"label": "Campo Urrea Mumuncuera", "lat": 26.805287, "lng": -109.392456
+},{
+"label": "San Isidro", "lat": 26.614849, "lng": -109.310819
+},{
+"label": "Los Patos", "lat": 26.802246, "lng": -109.614847
+},{
+"label": "El Palomo", "lat": 26.447305, "lng": -109.193488
+},{
+"label": "La Alameda", "lat": 26.869085, "lng": -109.71038
+},{
+"label": "Serbel", "lat": 26.808784, "lng": -109.466266
+},{
+"label": "Santa Filomena (La Capilla)", "lat": 26.603333, "lng": -109.358333
+},{
+"label": "Unificación Campesina (Cola Seca)", "lat": 26.776111, "lng": -109.522561
+},{
+"label": "Serna", "lat": 26.859852, "lng": -109.637267
+},{
+"label": "El Vigía", "lat": 26.858321, "lng": -109.719036
+},{
+"label": "Campo Gutiérrez", "lat": 26.826033, "lng": -109.418341
+},{
+"label": "6 de Enero", "lat": 26.757361, "lng": -109.680722
+},{
+"label": "Playa la Ballena", "lat": 26.638429, "lng": -109.386071
+},{
+"label": "Jambiolabampo Dos (Los Pollos)", "lat": 26.800823, "lng": -109.34855
+},{
+"label": "Bachimojaqui", "lat": 26.566009, "lng": -109.297382
+},{
+"label": "Huatabampo", "lat": 26.826897, "lng": -109.644153
+},{
+"label": "Citaváro", "lat": 26.878717, "lng": -109.708717
+},{
+"label": "La Sábila", "lat": 26.765921, "lng": -109.629793
+},{
+"label": "La Regla (Los Rodríguez)", "lat": 26.811068, "lng": -109.51628
+},{
+"label": "Torocoba", "lat": 26.752027, "lng": -109.708911
+},{
+"label": "El Paraiso [Rancho]", "lat": 26.772305, "lng": -109.635393
+},{
+"label": "Huacaporo", "lat": 26.741876, "lng": -109.669756
+},{
+"label": "Playa Bachomojaqui", "lat": 26.553884, "lng": -109.299608
+},{
+"label": "Huirojara", "lat": 26.874489, "lng": -109.760364
+},{
+"label": "Guadalupe Victoria", "lat": 26.553194, "lng": -109.114785
+},{
+"label": "Pitahaya (Arturo Martínez)", "lat": 26.838266, "lng": -109.540805
+},{
+"label": "El Martillo", "lat": 26.824705, "lng": -109.55187
+},{
+"label": "Loma de los Angelitos", "lat": 26.675223, "lng": -109.286518
+},{
+"label": "Playa Tojahui", "lat": 26.646762, "lng": -109.394451
+},{
+"label": "El Ranchito", "lat": 26.826816, "lng": -109.662155
+},{
+"label": "17 de Octubre", "lat": 26.798271, "lng": -109.702512
+},{
+"label": "Jinamaqui", "lat": 26.913156, "lng": -109.798709
+},{
+"label": "Los Boquivos", "lat": 26.765939, "lng": -109.670791
+},{
+"label": "Bracamontes", "lat": 26.83194, "lng": -109.671301
+},{
+"label": "Las Milpas", "lat": 26.796547, "lng": -109.769914
+},{
+"label": "Mumuncuera (Campo los Verdugo)", "lat": 26.797738, "lng": -109.43328
+},{
+"label": "Bacapaco", "lat": 26.767304, "lng": -109.65407
+},{
+"label": "El Trailero [Restaurante]", "lat": 26.684654, "lng": -109.251653
+},{
+"label": "San Antonio", "lat": 26.758355, "lng": -109.604631
+},{
+"label": "La Cuchilla de San Antonio", "lat": 26.763372, "lng": -109.601936
+},{
+"label": "La Trinidad", "lat": 26.850807, "lng": -109.715391
+},{
+"label": "Luis Echeverría Zuno", "lat": 26.78073, "lng": -109.518567
+},{
+"label": "Porcina Carranza", "lat": 26.41307, "lng": -109.021771
+},{
+"label": "Benito Juárez", "lat": 26.602988, "lng": -109.175566
+},{
+"label": "Las Águilas", "lat": 26.449379, "lng": -109.19712
+},{
+"label": "El Porvenir", "lat": 26.84532, "lng": -109.649483
+},{
+"label": "Juan de la Barrera", "lat": 26.407811, "lng": -109.094164
+},{
+"label": "Pascual Orozco", "lat": 26.838218, "lng": -109.525826
+},{
+"label": "Adrián Anguamea", "lat": 26.766279, "lng": -109.67846
+},{
+"label": "Moroncárit", "lat": 26.734337, "lng": -109.615933
+},{
+"label": "El Nacapul", "lat": 26.542245, "lng": -109.166068
+},{
+"label": "San José", "lat": 26.729253, "lng": -109.655135
+},{
+"label": "La Laguna", "lat": 26.813482, "lng": -109.664308
+},{
+"label": "La Colonita", "lat": 26.807576, "lng": -109.66467
+},{
+"label": "Lucio Blanco", "lat": 26.547045, "lng": -109.134087
+},{
+"label": "La Mielera", "lat": 26.861518, "lng": -109.63744
+},{
+"label": "La Panchita [Restaurante]", "lat": 26.436452, "lng": -109.036678
+},{
+"label": "Campo Diecinueve", "lat": 26.783932, "lng": -109.580997
+},{
+"label": "Zamicarit", "lat": 26.849252, "lng": -109.708401
+},{
+"label": "Agiabampo Uno", "lat": 26.366168, "lng": -109.146521
+},{
+"label": "Bahiquillo", "lat": 26.675278, "lng": -109.264722
+},{
+"label": "Café Lupita (Luchy)", "lat": 26.604275, "lng": -109.181673
+},{
+"label": "Emiliano Zapata", "lat": 26.429569, "lng": -109.06949
+},{
+"label": "Yavaros (Isla las Viejas)", "lat": 26.704953, "lng": -109.520106
+},{
+"label": "El Apache", "lat": 26.612983, "lng": -109.367368
+},{
+"label": "Las Guayabitas", "lat": 26.805125, "lng": -109.630757
+},{
+"label": "La Rosita", "lat": 26.865603, "lng": -109.649533
+},{
+"label": "Pozo Dulce", "lat": 26.845584, "lng": -109.752296
+},{
+"label": "Campo Romo", "lat": 26.838251, "lng": -109.478352
+},{
+"label": "Los Juris", "lat": 26.812916, "lng": -109.632019
+},{
+"label": "Las Bocas", "lat": 26.589609, "lng": -109.332095
+},{
+"label": "Navopatía", "lat": 26.401845, "lng": -109.237652
+},{
+"label": "El Naranjo", "lat": 26.8238, "lng": -109.721566
+},{
+"label": "Tierra y Libertad", "lat": 26.563421, "lng": -109.195735
+},{
+"label": "Playa Camahuiroa", "lat": 26.525909, "lng": -109.279441
+},{
+"label": "Faustino Félix Serna", "lat": 26.792355, "lng": -109.390219
+},{
+"label": "Estero Aquiropo", "lat": 26.805163, "lng": -109.840498
+},{
+"label": "Bajerobeta (Playa Bachoco)", "lat": 26.660252, "lng": -109.411948
+},{
+"label": "Mumuncuera", "lat": 26.825842, "lng": -109.392074
+},{
+"label": "La Quinta Chía", "lat": 26.840489, "lng": -109.681386
+},{
+"label": "Fuerte Mayo [Acuícola]", "lat": 26.372304, "lng": -109.202884
+},{
+"label": "Etchoropo", "lat": 26.771667, "lng": -109.683333
+},{
+"label": "Loma de Etchoropo", "lat": 26.765659, "lng": -109.681809
+},{
+"label": "Agropecuaria Faromo", "lat": 26.786791, "lng": -109.665643
+},{
+"label": "La Pitahaya", "lat": 26.823219, "lng": -109.545906
+},{
+"label": "Chichibojoro", "lat": 26.64674, "lng": -109.296541
+},{
+"label": "Jupateco", "lat": 26.886729, "lng": -109.702979
+},{
+"label": "Agiabampo Dos", "lat": 26.405317, "lng": -109.027815
+},{
+"label": "San Javier", "lat": 26.783386, "lng": -109.463669
+},{
+"label": "El Chinalito", "lat": 26.858333, "lng": -109.706389
+},{
+"label": "Los Ortega", "lat": 26.619425, "lng": -109.303974
+},{
+"label": "La Reforma", "lat": 26.829581, "lng": -109.736314
+},{
+"label": "Los Elizondos", "lat": 26.801508, "lng": -109.478277
+},{
+"label": "La Loma de Estación Luis (Las Vías)", "lat": 26.573647, "lng": -109.155224
+},{
+"label": "Rancho Bamocha", "lat": 26.461752, "lng": -109.221858
+},{
+"label": "Campo Epifanio Zazueta", "lat": 26.816456, "lng": -109.441336
+},{
+"label": "Zenaida (Los Angelitos) [Restaurante]", "lat": 26.692202, "lng": -109.257953
+},{
+"label": "Playa los Baños", "lat": 26.381932, "lng": -109.167389
+},{
+"label": "Sonora Sinaloa (Bamocha)", "lat": 26.465576, "lng": -109.12845
+},{
+"label": "El Abrileño [Restaurante]", "lat": 26.608339, "lng": -109.185223
+},{
+"label": "Bachantahui", "lat": 26.77284, "lng": -109.632966
+},{
+"label": "Agropecuaria Adalí", "lat": 26.837073, "lng": -109.53516
+},{
+"label": "Estación Don", "lat": 26.427473, "lng": -109.028736
+},{
+"label": "Álvaro Obregón", "lat": 26.504056, "lng": -109.153439
+},{
+"label": "La Técnica [Colonia]", "lat": 26.721844, "lng": -109.560184
+},{
+"label": "Júpare", "lat": 26.802295, "lng": -109.702668
+},{
+"label": "La Rueda (Morelos)", "lat": 26.863708, "lng": -109.742213
+},{
+"label": "La Esperanza", "lat": 26.752805, "lng": -109.698451
+},{
+"label": "Jitosiáric", "lat": 26.701906, "lng": -109.297014
+},{
+"label": "Kilómetro Ciento Uno", "lat": 26.637135, "lng": -109.210193
+},{
+"label": "Chijubampo", "lat": 26.787406, "lng": -109.66181
+},{
+"label": "La Unión", "lat": 26.820186, "lng": -109.608561
+},{
+"label": "Capazeta (Buelna)", "lat": 26.811628, "lng": -109.715427
+},{
+"label": "Oraba", "lat": 26.79167, "lng": -109.729104
+},{
+"label": "Yavaritos", "lat": 26.7779, "lng": -109.370769
+},{
+"label": "Campo Miguel Alatorre", "lat": 26.797979, "lng": -109.441841
+},{
+"label": "Los Cuates", "lat": 26.824378, "lng": -109.601594
+},{
+"label": "Pablo Gómez Cota (La Primavera)", "lat": 26.800285, "lng": -109.663179
+},{
+"label": "Huerta Linda", "lat": 26.815681, "lng": -109.697799
+},{
+"label": "El Riíto", "lat": 26.810526, "lng": -109.526346
+},{
+"label": "Agropecuaria Villa Hermosa", "lat": 26.501978, "lng": -109.089515
+},{
+"label": "La Hacienda de los Vey (Los Chinos)", "lat": 26.800518, "lng": -109.664587
+},{
+"label": "Don Gerardo Alamea", "lat": 26.771039, "lng": -109.680406
+}]

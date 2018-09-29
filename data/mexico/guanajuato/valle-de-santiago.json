@@ -1,0 +1,573 @@
+[{
+"label": "Pegueros", "lat": 20.314153, "lng": -101.377208
+},{
+"label": "Consejo [Granja]", "lat": 20.428688, "lng": -101.376109
+},{
+"label": "Colonia de Guadalupe (Guadalupe de Copales)", "lat": 20.359293, "lng": -101.319232
+},{
+"label": "Las Cañas", "lat": 20.295085, "lng": -101.418434
+},{
+"label": "Razo [Granja]", "lat": 20.401742, "lng": -101.257225
+},{
+"label": "Aguilar [Granja]", "lat": 20.457661, "lng": -101.160011
+},{
+"label": "Sauz de Purísima", "lat": 20.532251, "lng": -101.299771
+},{
+"label": "Martínez [Granja]", "lat": 20.426317, "lng": -101.123589
+},{
+"label": "Don Nicolás Vargas", "lat": 20.392266, "lng": -101.286194
+},{
+"label": "Jahuiques (Rancho Nuevo de Guadalupe)", "lat": 20.262602, "lng": -101.199007
+},{
+"label": "Crucero de Mogotes", "lat": 20.401249, "lng": -101.294819
+},{
+"label": "Oñate [Granja]", "lat": 20.514037, "lng": -101.304801
+},{
+"label": "San Carlos [Rancho]", "lat": 20.51819, "lng": -101.349227
+},{
+"label": "La Reserva el Tambor", "lat": 20.505783, "lng": -101.304501
+},{
+"label": "Ninguno [Rastro Municipal]", "lat": 20.401646, "lng": -101.177394
+},{
+"label": "San Cristóbal", "lat": 20.390657, "lng": -101.396686
+},{
+"label": "Puente del Carrizo", "lat": 20.444463, "lng": -101.16273
+},{
+"label": "Manuel Arredondo", "lat": 20.412954, "lng": -101.260325
+},{
+"label": "Mogotes de San José Parangueo", "lat": 20.415788, "lng": -101.30251
+},{
+"label": "Gervasio Mendoza", "lat": 20.287639, "lng": -101.145042
+},{
+"label": "Paso Blanco", "lat": 20.518278, "lng": -101.365272
+},{
+"label": "El Timbinal", "lat": 20.296527, "lng": -101.331548
+},{
+"label": "Pozo de Aróstegui (Las Correas)", "lat": 20.354401, "lng": -101.142733
+},{
+"label": "Rojas", "lat": 20.362128, "lng": -101.127225
+},{
+"label": "Rancho Viejo de Torres", "lat": 20.265615, "lng": -101.175774
+},{
+"label": "Quiriceo", "lat": 20.438163, "lng": -101.312331
+},{
+"label": "Colonia el Calvario", "lat": 20.368071, "lng": -101.173146
+},{
+"label": "La Isla", "lat": 20.448442, "lng": -101.108395
+},{
+"label": "Bellavista [Rancho]", "lat": 20.462779, "lng": -101.154454
+},{
+"label": "Ramírez [Granja]", "lat": 20.474151, "lng": -101.378519
+},{
+"label": "Loma Linda de Copales", "lat": 20.346769, "lng": -101.328112
+},{
+"label": "El Jagüey", "lat": 20.378058, "lng": -101.2457
+},{
+"label": "Mesa de San Agustín", "lat": 20.337749, "lng": -101.289736
+},{
+"label": "La Isla (Fracción de Copales)", "lat": 20.350168, "lng": -101.327831
+},{
+"label": "San Agustín", "lat": 20.534546, "lng": -101.324815
+},{
+"label": "Puerto del Águila", "lat": 20.269555, "lng": -101.325292
+},{
+"label": "El Pozo de Ojo de Agua", "lat": 20.424275, "lng": -101.264054
+},{
+"label": "Rancho Seco de Guantes", "lat": 20.451578, "lng": -101.205177
+},{
+"label": "Miraflores (La Gachupina)", "lat": 20.426998, "lng": -101.171133
+},{
+"label": "Robledo Arroyo [Granja]", "lat": 20.528274, "lng": -101.360454
+},{
+"label": "Rancho de Guadalupe (La Nalga de Ventura)", "lat": 20.444931, "lng": -101.372736
+},{
+"label": "San Juanito de San Guillermo (San Martín)", "lat": 20.480558, "lng": -101.356556
+},{
+"label": "San Ramón de los Patios", "lat": 20.477358, "lng": -101.306718
+},{
+"label": "San Isidro (Fracción Sur)", "lat": 20.423946, "lng": -101.146559
+},{
+"label": "Ampliación Colonia Loma del Chorrito", "lat": 20.370521, "lng": -101.201298
+},{
+"label": "Santa Clara", "lat": 20.474413, "lng": -101.152833
+},{
+"label": "La Manga", "lat": 20.342475, "lng": -101.335082
+},{
+"label": "La Escondida [Granja]", "lat": 20.401306, "lng": -101.173633
+},{
+"label": "Cerritos", "lat": 20.343569, "lng": -101.273715
+},{
+"label": "Fracción Armida de San José del Brazo", "lat": 20.446348, "lng": -101.156158
+},{
+"label": "Valle Esmeralda [Residencial]", "lat": 20.364575, "lng": -101.186338
+},{
+"label": "Sabinito del Brazo", "lat": 20.456724, "lng": -101.149042
+},{
+"label": "Arredondo [Granja]", "lat": 20.521194, "lng": -101.354991
+},{
+"label": "Fracción Dos de Quiriceo", "lat": 20.470235, "lng": -101.331801
+},{
+"label": "El Jabonero", "lat": 20.415448, "lng": -101.147387
+},{
+"label": "Hoya de Cintora (La Hoya de Abajo)", "lat": 20.361632, "lng": -101.212371
+},{
+"label": "Santa María [Granja]", "lat": 20.363462, "lng": -101.124448
+},{
+"label": "San Antonio de Pantoja", "lat": 20.413418, "lng": -101.37784
+},{
+"label": "San Martín de Guillermo [Granja]", "lat": 20.5231, "lng": -101.346436
+},{
+"label": "La Barquilla", "lat": 20.336698, "lng": -101.439779
+},{
+"label": "San Diego Quiriceo", "lat": 20.453122, "lng": -101.29324
+},{
+"label": "María Isabel [Granja]", "lat": 20.406106, "lng": -101.173276
+},{
+"label": "Rocha [Granja]", "lat": 20.402143, "lng": -101.233974
+},{
+"label": "Huérfanos", "lat": 20.41776, "lng": -101.101029
+},{
+"label": "Sabino Copudo", "lat": 20.479126, "lng": -101.387289
+},{
+"label": "Guadalupe de San Guillermo", "lat": 20.487755, "lng": -101.335115
+},{
+"label": "La Palizada", "lat": 20.47313, "lng": -101.144895
+},{
+"label": "Mercado Vera", "lat": 20.469449, "lng": -101.210723
+},{
+"label": "Potrero de en Medio", "lat": 20.374585, "lng": -101.17735
+},{
+"label": "San Francisco Chihuindo", "lat": 20.387443, "lng": -101.396776
+},{
+"label": "San Isidro de Pitahayo", "lat": 20.474542, "lng": -101.135141
+},{
+"label": "Miramar", "lat": 20.454759, "lng": -101.3874
+},{
+"label": "Duranes de Abajo", "lat": 20.531664, "lng": -101.352111
+},{
+"label": "Magdalena de Araceo", "lat": 20.310329, "lng": -101.184599
+},{
+"label": "Refugio de San Guillermo (El Infiernillo)", "lat": 20.485066, "lng": -101.349273
+},{
+"label": "El Romance", "lat": 20.399925, "lng": -101.268726
+},{
+"label": "Colonia el Triángulo", "lat": 20.471302, "lng": -101.3242
+},{
+"label": "Guadalupe [Granja]", "lat": 20.483708, "lng": -101.259346
+},{
+"label": "Tamayo [Granja]", "lat": 20.355778, "lng": -101.129375
+},{
+"label": "Carmelitas Chico", "lat": 20.434083, "lng": -101.142449
+},{
+"label": "Valle Hermoso", "lat": 20.521113, "lng": -101.303102
+},{
+"label": "San Joaquín", "lat": 20.373136, "lng": -101.145284
+},{
+"label": "El Olvido [Granja]", "lat": 20.471782, "lng": -101.175889
+},{
+"label": "Puerto de Araceo", "lat": 20.335432, "lng": -101.192078
+},{
+"label": "Camino Real", "lat": 20.4671, "lng": -101.377472
+},{
+"label": "Santo Tomás [Granja]", "lat": 20.409192, "lng": -101.171233
+},{
+"label": "Loma la Ciénega", "lat": 20.478372, "lng": -101.279031
+},{
+"label": "San Rafael de Sauz", "lat": 20.52087, "lng": -101.328732
+},{
+"label": "Cahuageo", "lat": 20.275186, "lng": -101.129902
+},{
+"label": "El Jacalito", "lat": 20.412709, "lng": -101.141402
+},{
+"label": "Dotación Hoya de Álvarez (La Tortuga)", "lat": 20.351741, "lng": -101.191973
+},{
+"label": "Sendai [Parque Industrial]", "lat": 20.434144, "lng": -101.199597
+},{
+"label": "El Tambor", "lat": 20.499018, "lng": -101.300766
+},{
+"label": "Cerro Colorado", "lat": 20.401775, "lng": -101.326443
+},{
+"label": "Rancho de Guantes", "lat": 20.440169, "lng": -101.207185
+},{
+"label": "Las Jícamas", "lat": 20.27617, "lng": -101.357374
+},{
+"label": "Las Mulas", "lat": 20.443689, "lng": -101.383792
+},{
+"label": "Botija", "lat": 20.364069, "lng": -101.365315
+},{
+"label": "El Gavilán [Granja]", "lat": 20.385915, "lng": -101.247099
+},{
+"label": "Ampliación las Estacas (Fuerte Apache)", "lat": 20.439204, "lng": -101.359073
+},{
+"label": "Zambranos", "lat": 20.315346, "lng": -101.402877
+},{
+"label": "Sotero [Granja]", "lat": 20.474198, "lng": -101.172171
+},{
+"label": "Santa María", "lat": 20.372778, "lng": -101.126111
+},{
+"label": "Crucitas", "lat": 20.356895, "lng": -101.205598
+},{
+"label": "Los Pinos", "lat": 20.448371, "lng": -101.165359
+},{
+"label": "Los Martínez", "lat": 20.303413, "lng": -101.390541
+},{
+"label": "Santa Rosa (Santa Rosa de Parangueo)", "lat": 20.41205, "lng": -101.242296
+},{
+"label": "Mi Capricho", "lat": 20.346144, "lng": -101.183816
+},{
+"label": "El Altito", "lat": 20.439656, "lng": -101.151611
+},{
+"label": "Rodríguez [Granja]", "lat": 20.429599, "lng": -101.378409
+},{
+"label": "Lagunilla de Mogotes", "lat": 20.29631, "lng": -101.258843
+},{
+"label": "El Crucero de la Presa", "lat": 20.401287, "lng": -101.279365
+},{
+"label": "El Motivo (El Carrizal)", "lat": 20.292794, "lng": -101.324265
+},{
+"label": "Nieto [Granja]", "lat": 20.430666, "lng": -101.131591
+},{
+"label": "Coalanda", "lat": 20.350638, "lng": -101.32271
+},{
+"label": "Santa Engracia [Granja]", "lat": 20.402011, "lng": -101.384449
+},{
+"label": "Noria de Mosqueda", "lat": 20.475496, "lng": -101.349163
+},{
+"label": "Carmen Romero Solís", "lat": 20.394602, "lng": -101.284634
+},{
+"label": "Pedro Martínez [Hacienda]", "lat": 20.431222, "lng": -101.108653
+},{
+"label": "La Esperanza [Rancho]", "lat": 20.390891, "lng": -101.363107
+},{
+"label": "Cerro Prieto del Carmen", "lat": 20.518433, "lng": -101.314825
+},{
+"label": "La Gloria [Granja]", "lat": 20.404523, "lng": -101.379052
+},{
+"label": "San Antonio de Terán", "lat": 20.448842, "lng": -101.134698
+},{
+"label": "La Tejonera", "lat": 20.425577, "lng": -101.131939
+},{
+"label": "Cerro Blanco", "lat": 20.308554, "lng": -101.302235
+},{
+"label": "Presa de Santa Gertrudis (Hernández)", "lat": 20.380201, "lng": -101.321922
+},{
+"label": "Las Flores", "lat": 20.316736, "lng": -101.323743
+},{
+"label": "Casas Blancas", "lat": 20.433766, "lng": -101.108904
+},{
+"label": "Santo Niño [Granja]", "lat": 20.389601, "lng": -101.371548
+},{
+"label": "El Armadillo", "lat": 20.284881, "lng": -101.226136
+},{
+"label": "Llano de Fernández (Cuba)", "lat": 20.278468, "lng": -101.456144
+},{
+"label": "La Arena", "lat": 20.420268, "lng": -101.263836
+},{
+"label": "San José de Propios", "lat": 20.440747, "lng": -101.117485
+},{
+"label": "Santa María de Sanabria", "lat": 20.392594, "lng": -101.37021
+},{
+"label": "San Miguelito", "lat": 20.348054, "lng": -101.202284
+},{
+"label": "San Manuel Quiriceo", "lat": 20.477441, "lng": -101.256739
+},{
+"label": "Villadiego", "lat": 20.399192, "lng": -101.12053
+},{
+"label": "Perla [Granja]", "lat": 20.485782, "lng": -101.257794
+},{
+"label": "Francisco Jaramillo [Granja]", "lat": 20.520299, "lng": -101.356736
+},{
+"label": "Los Sarabia", "lat": 20.496544, "lng": -101.273345
+},{
+"label": "Hoya de Álvarez", "lat": 20.322078, "lng": -101.210299
+},{
+"label": "San Guillermo", "lat": 20.502707, "lng": -101.365358
+},{
+"label": "Rancho Nuevo de la Isla", "lat": 20.448169, "lng": -101.117453
+},{
+"label": "Hacienda de San Javier", "lat": 20.384731, "lng": -101.164344
+},{
+"label": "Los Sauces [Granja]", "lat": 20.403956, "lng": -101.169187
+},{
+"label": "Ninguno [Gasera]", "lat": 20.346423, "lng": -101.185398
+},{
+"label": "Los Ángeles de José Uribe [Granja]", "lat": 20.386841, "lng": -101.368276
+},{
+"label": "Zapotillo de Mogotes", "lat": 20.375971, "lng": -101.248236
+},{
+"label": "San Antonio de Mogotes", "lat": 20.418378, "lng": -101.299223
+},{
+"label": "San Francisco Javier (Rancho Grande)", "lat": 20.436623, "lng": -101.38165
+},{
+"label": "Carmelita Grande (La Macarena)", "lat": 20.420556, "lng": -101.135547
+},{
+"label": "El Brazo", "lat": 20.442611, "lng": -101.151068
+},{
+"label": "Guarapo", "lat": 20.383067, "lng": -101.411392
+},{
+"label": "Santa María de Sanabria (Audelia Robles)", "lat": 20.386083, "lng": -101.362967
+},{
+"label": "Casa Nueva", "lat": 20.435375, "lng": -101.197058
+},{
+"label": "Purísima de San Guillermo", "lat": 20.490872, "lng": -101.365221
+},{
+"label": "San José la Grande", "lat": 20.376967, "lng": -101.131201
+},{
+"label": "Zapote de San Vicente", "lat": 20.439205, "lng": -101.234901
+},{
+"label": "La Ponderosa [Granja]", "lat": 20.395241, "lng": -101.346872
+},{
+"label": "San Ignacio de San José Parangueo", "lat": 20.414121, "lng": -101.295888
+},{
+"label": "El Tecolote (Cisneros Guerrero)", "lat": 20.344889, "lng": -101.342028
+},{
+"label": "Ranchos Unidos", "lat": 20.339946, "lng": -101.209804
+},{
+"label": "Las Liebres", "lat": 20.467983, "lng": -101.144129
+},{
+"label": "Solís (El Paraíso) [Granja]", "lat": 20.399168, "lng": -101.299011
+},{
+"label": "Martín Ordaz [Granja]", "lat": 20.523383, "lng": -101.357934
+},{
+"label": "La Jaulilla (Manuel Pérez)", "lat": 20.461754, "lng": -101.172806
+},{
+"label": "Santa Catarina", "lat": 20.381591, "lng": -101.411801
+},{
+"label": "Curva de la Labor [Taller Mecánico]", "lat": 20.483427, "lng": -101.257083
+},{
+"label": "La Purísima (Sosa Balderas)", "lat": 20.476641, "lng": -101.167006
+},{
+"label": "El Salitre de Aguilares", "lat": 20.318137, "lng": -101.443315
+},{
+"label": "La Herradura [Granja]", "lat": 20.478668, "lng": -101.380542
+},{
+"label": "Santiago Apóstol", "lat": 20.366506, "lng": -101.151916
+},{
+"label": "San Nicolás Parangueo", "lat": 20.395287, "lng": -101.254572
+},{
+"label": "Hoya de Cintora (La Hoya de Arriba)", "lat": 20.365415, "lng": -101.208446
+},{
+"label": "El Borrego", "lat": 20.287033, "lng": -101.302622
+},{
+"label": "Colonia Hoya de Álvarez", "lat": 20.355274, "lng": -101.188187
+},{
+"label": "Rancho Cuatro de Altamira", "lat": 20.477518, "lng": -101.180998
+},{
+"label": "San José de Pantoja", "lat": 20.406138, "lng": -101.400978
+},{
+"label": "El Pitahayo", "lat": 20.474189, "lng": -101.136976
+},{
+"label": "Colonia Benito Juárez", "lat": 20.362329, "lng": -101.277509
+},{
+"label": "Plaza Vieja", "lat": 20.372187, "lng": -101.388429
+},{
+"label": "El Circuito", "lat": 20.326514, "lng": -101.299197
+},{
+"label": "Cuadrilla de Andaracua", "lat": 20.27302, "lng": -101.171357
+},{
+"label": "La Hoyuela", "lat": 20.399468, "lng": -101.232752
+},{
+"label": "Bella Vista de Santa María", "lat": 20.364109, "lng": -101.12165
+},{
+"label": "Puerta de San Roque", "lat": 20.478728, "lng": -101.326793
+},{
+"label": "Los Fresnos [Granja]", "lat": 20.414943, "lng": -101.162464
+},{
+"label": "González Cárdenas [Granja]", "lat": 20.399243, "lng": -101.353608
+},{
+"label": "Valle de Santiago", "lat": 20.391322, "lng": -101.18143
+},{
+"label": "La Jaulilla", "lat": 20.331268, "lng": -101.340078
+},{
+"label": "García Cortés (Los Beda)", "lat": 20.422984, "lng": -101.226453
+},{
+"label": "Vázquez [Granja]", "lat": 20.523415, "lng": -101.355128
+},{
+"label": "El Mosco", "lat": 20.409416, "lng": -101.126717
+},{
+"label": "Colonia Nueva de San Antonio de Mogotes", "lat": 20.420241, "lng": -101.285397
+},{
+"label": "Colonia Primavera (San Ignacio)", "lat": 20.410623, "lng": -101.290204
+},{
+"label": "La Gallega", "lat": 20.396133, "lng": -101.171954
+},{
+"label": "Potrerillo de Torres", "lat": 20.262114, "lng": -101.178706
+},{
+"label": "Rincón de Alonso Sánchez", "lat": 20.477213, "lng": -101.390159
+},{
+"label": "Rancho Nuevo de San Andrés", "lat": 20.377796, "lng": -101.282958
+},{
+"label": "Hoya de Estrada", "lat": 20.392793, "lng": -101.228719
+},{
+"label": "Villanueva [Granja]", "lat": 20.52322, "lng": -101.366266
+},{
+"label": "Duranes de en Medio", "lat": 20.531291, "lng": -101.345275
+},{
+"label": "Martín Contreras Rivera (La Gallega)", "lat": 20.369828, "lng": -101.206001
+},{
+"label": "San Vicente de Garma (Garma)", "lat": 20.426687, "lng": -101.210089
+},{
+"label": "El Perico", "lat": 20.357596, "lng": -101.136037
+},{
+"label": "Colonia Solidaridad", "lat": 20.368214, "lng": -101.208225
+},{
+"label": "Duranes de Arriba", "lat": 20.535166, "lng": -101.338709
+},{
+"label": "San José de la Montaña (Los Gatos)", "lat": 20.348481, "lng": -101.429367
+},{
+"label": "Copales", "lat": 20.347034, "lng": -101.326314
+},{
+"label": "CERESO 1000", "lat": 20.469918, "lng": -101.335039
+},{
+"label": "El Chiqueo", "lat": 20.32173, "lng": -101.34762
+},{
+"label": "Manga de Buenavista", "lat": 20.285472, "lng": -101.169971
+},{
+"label": "Santa Bárbara", "lat": 20.475638, "lng": -101.34964
+},{
+"label": "Ex-Hacienda Aróstegui", "lat": 20.378527, "lng": -101.140102
+},{
+"label": "El Cenegal", "lat": 20.457905, "lng": -101.387399
+},{
+"label": "Santa Ana", "lat": 20.372683, "lng": -101.112484
+},{
+"label": "Martín Andrade Palma", "lat": 20.384578, "lng": -101.381988
+},{
+"label": "Altamira (Rancho de José Granados)", "lat": 20.470348, "lng": -101.159189
+},{
+"label": "El Zapote [Haciendita]", "lat": 20.361768, "lng": -101.222748
+},{
+"label": "José Hernández [Granja]", "lat": 20.405341, "lng": -101.230654
+},{
+"label": "Pozo de Parangueo", "lat": 20.388701, "lng": -101.251803
+},{
+"label": "Rincón de Parangueo", "lat": 20.421016, "lng": -101.253806
+},{
+"label": "Las Delicias", "lat": 20.294617, "lng": -101.092983
+},{
+"label": "San Felipe Quiriceo", "lat": 20.444369, "lng": -101.287829
+},{
+"label": "El Nacimiento", "lat": 20.363536, "lng": -101.117891
+},{
+"label": "La Crinolina", "lat": 20.473577, "lng": -101.321586
+},{
+"label": "Los Molina [Rancho]", "lat": 20.404268, "lng": -101.207005
+},{
+"label": "San José de Araceo", "lat": 20.378255, "lng": -101.163133
+},{
+"label": "La Purísima", "lat": 20.419407, "lng": -101.150092
+},{
+"label": "Santa Rosa de Vallejo", "lat": 20.423206, "lng": -101.103166
+},{
+"label": "Bancini [Granja]", "lat": 20.449469, "lng": -101.144148
+},{
+"label": "Estancia de San Diego", "lat": 20.436283, "lng": -101.317834
+},{
+"label": "Sabino de Santa Rosa", "lat": 20.418434, "lng": -101.119086
+},{
+"label": "Terán", "lat": 20.463121, "lng": -101.116685
+},{
+"label": "San Joaquín de Abajo", "lat": 20.378508, "lng": -101.143379
+},{
+"label": "Soledad de Altamira", "lat": 20.483834, "lng": -101.163603
+},{
+"label": "San Fernando [Granja]", "lat": 20.440048, "lng": -101.153525
+},{
+"label": "Alto de Altamira", "lat": 20.468393, "lng": -101.16365
+},{
+"label": "Partida Caballero (La Casa del Campo)", "lat": 20.406165, "lng": -101.392702
+},{
+"label": "Magisterio [Residencial]", "lat": 20.373254, "lng": -101.179306
+},{
+"label": "Las Raíces", "lat": 20.355221, "lng": -101.432837
+},{
+"label": "Colonia Santiago UCOC", "lat": 20.375136, "lng": -101.174601
+},{
+"label": "Changueo", "lat": 20.332388, "lng": -101.217219
+},{
+"label": "Fracción San Jerónimo", "lat": 20.373154, "lng": -101.180745
+},{
+"label": "Chicamito", "lat": 20.317398, "lng": -101.214543
+},{
+"label": "Colonia Nueva de Guantes", "lat": 20.470872, "lng": -101.201383
+},{
+"label": "Vaca [Granja]", "lat": 20.406239, "lng": -101.254766
+},{
+"label": "Charco de Pantoja", "lat": 20.390571, "lng": -101.352691
+},{
+"label": "Adolfo Cortez (El Cenegal)", "lat": 20.464448, "lng": -101.387755
+},{
+"label": "Hermanos Razo [Granja]", "lat": 20.52451, "lng": -101.304273
+},{
+"label": "Ranchito de Paredones", "lat": 20.399907, "lng": -101.228691
+},{
+"label": "Rancho Nuevo de las Torres (Presa de Dueñas)", "lat": 20.332731, "lng": -101.387227
+},{
+"label": "Santa Elena", "lat": 20.415777, "lng": -101.102383
+},{
+"label": "San Nicolás Quiriceo", "lat": 20.454672, "lng": -101.287167
+},{
+"label": "Fracción los Molina", "lat": 20.405608, "lng": -101.206675
+},{
+"label": "La Grulla", "lat": 20.483886, "lng": -101.379791
+},{
+"label": "González [Granja]", "lat": 20.401561, "lng": -101.24269
+},{
+"label": "El Cerrito Colorado", "lat": 20.407782, "lng": -101.189052
+},{
+"label": "José Luis Martínez [Pensión y Yonke]", "lat": 20.356757, "lng": -101.187566
+},{
+"label": "Los Laureles", "lat": 20.469572, "lng": -101.124463
+},{
+"label": "San José del Brazo (La Correa)", "lat": 20.450879, "lng": -101.155813
+},{
+"label": "Mozqueda [Granja]", "lat": 20.400841, "lng": -101.286471
+},{
+"label": "San Jerónimo de Araceo", "lat": 20.323401, "lng": -101.183663
+},{
+"label": "El Paraíso [Rancho]", "lat": 20.399381, "lng": -101.375117
+},{
+"label": "Tinaja de García", "lat": 20.339299, "lng": -101.358057
+},{
+"label": "Los Patios", "lat": 20.487833, "lng": -101.298618
+},{
+"label": "Paredones", "lat": 20.407867, "lng": -101.228466
+},{
+"label": "San Juan de Guadalupe (Don Javier)", "lat": 20.464527, "lng": -101.144491
+},{
+"label": "Pozo del Ejido Carmelitas Chico", "lat": 20.441019, "lng": -101.145204
+},{
+"label": "Rancho de los Sosas", "lat": 20.454696, "lng": -101.129394
+},{
+"label": "Huerfanitos [Granja]", "lat": 20.421176, "lng": -101.097809
+},{
+"label": "San Isidro de la Palizada", "lat": 20.477705, "lng": -101.159319
+},{
+"label": "Puerta de Andaracua", "lat": 20.25833, "lng": -101.187958
+},{
+"label": "La Esperanza", "lat": 20.437254, "lng": -101.158035
+},{
+"label": "El Molinito", "lat": 20.464996, "lng": -101.113266
+},{
+"label": "La Enmarañada", "lat": 20.415415, "lng": -101.110828
+},{
+"label": "Buenavista de Parangueo", "lat": 20.350925, "lng": -101.246694
+},{
+"label": "Sanabria", "lat": 20.370697, "lng": -101.373381
+},{
+"label": "Presa de San Andrés", "lat": 20.379695, "lng": -101.275584
+},{
+"label": "Monte Valerio [Rancho]", "lat": 20.413618, "lng": -101.365413
+},{
+"label": "Loma Tendida", "lat": 20.375946, "lng": -101.31
+},{
+"label": "El Cañón", "lat": 20.472183, "lng": -101.284644
+},{
+"label": "Charco de Parangueo", "lat": 20.389075, "lng": -101.348348
+},{
+"label": "Colonia Emiliano Zapata (La Nopalera)", "lat": 20.479204, "lng": -101.335367
+},{
+"label": "La Compañía", "lat": 20.37683, "lng": -101.159716
+},{
+"label": "San Isidro de Mogotes", "lat": 20.424443, "lng": -101.276317
+}]

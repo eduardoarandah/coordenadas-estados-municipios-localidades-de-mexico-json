@@ -1,0 +1,137 @@
+[{
+"label": "Santa Ana Norte", "lat": 20.359194, "lng": -98.693189
+},{
+"label": "Apipilhuasco", "lat": 20.309055, "lng": -98.630943
+},{
+"label": "Santa Ana", "lat": 20.284879, "lng": -98.721808
+},{
+"label": "La Nogalera", "lat": 20.386718, "lng": -98.656004
+},{
+"label": "El Novillero", "lat": 20.429621, "lng": -98.698732
+},{
+"label": "San Lucas Allende", "lat": 20.411344, "lng": -98.666095
+},{
+"label": "El Tecolote", "lat": 20.371415, "lng": -98.642538
+},{
+"label": "Agua Limpia", "lat": 20.241714, "lng": -98.63962
+},{
+"label": "Barrio Coyula", "lat": 20.403267, "lng": -98.731352
+},{
+"label": "La Loma del Zapote", "lat": 20.334025, "lng": -98.569345
+},{
+"label": "La Estancia", "lat": 20.299332, "lng": -98.689959
+},{
+"label": "San Miguel", "lat": 20.276016, "lng": -98.674229
+},{
+"label": "Paraje de los Sauces", "lat": 20.367916, "lng": -98.587913
+},{
+"label": "Tezahuapa", "lat": 20.259264, "lng": -98.657463
+},{
+"label": "Barrio de Metlapa", "lat": 20.419628, "lng": -98.72364
+},{
+"label": "Cumbre de Potrero de los Reyes", "lat": 20.316058, "lng": -98.61899
+},{
+"label": "Barrio el Atorón", "lat": 20.396453, "lng": -98.719739
+},{
+"label": "Pueblo Nuevo", "lat": 20.400982, "lng": -98.609466
+},{
+"label": "Rincón de Xathé", "lat": 20.418992, "lng": -98.763494
+},{
+"label": "San Felipe y Anexas", "lat": 20.383215, "lng": -98.554061
+},{
+"label": "Sauz Sabino", "lat": 20.353766, "lng": -98.772332
+},{
+"label": "San José Zoquital", "lat": 20.346954, "lng": -98.697722
+},{
+"label": "El Pedregal de San Juan", "lat": 20.39609, "lng": -98.6273
+},{
+"label": "Santa Catarina", "lat": 20.339175, "lng": -98.639599
+},{
+"label": "Paso de Amajac", "lat": 20.302885, "lng": -98.729203
+},{
+"label": "El Naranjo", "lat": 20.425071, "lng": -98.6623
+},{
+"label": "Cerro Colorado", "lat": 20.408171, "lng": -98.71718
+},{
+"label": "El Xithe (Santa Rita el Xithe)", "lat": 20.418821, "lng": -98.559799
+},{
+"label": "El Zoquital", "lat": 20.370734, "lng": -98.729338
+},{
+"label": "Rancho del Salto", "lat": 20.28693, "lng": -98.679368
+},{
+"label": "La Cumbre de San Lucas", "lat": 20.407791, "lng": -98.705753
+},{
+"label": "Atotonilco el Grande", "lat": 20.286878, "lng": -98.669024
+},{
+"label": "El Troje", "lat": 20.39612, "lng": -98.612131
+},{
+"label": "Montecillos", "lat": 20.286809, "lng": -98.608384
+},{
+"label": "El Contadero", "lat": 20.367694, "lng": -98.693918
+},{
+"label": "Tiltepec", "lat": 20.313989, "lng": -98.683572
+},{
+"label": "San Martín", "lat": 20.368187, "lng": -98.656715
+},{
+"label": "El Ocote (Ocote Potrero de Reyes)", "lat": 20.32827, "lng": -98.609764
+},{
+"label": "Cieneguillas", "lat": 20.303969, "lng": -98.642951
+},{
+"label": "Santa Cruz de Montecillos", "lat": 20.317273, "lng": -98.565457
+},{
+"label": "Cerro Blanco", "lat": 20.304643, "lng": -98.753998
+},{
+"label": "Los Tepetates", "lat": 20.306346, "lng": -98.722702
+},{
+"label": "Padre Nuestro San Bartolo", "lat": 20.311101, "lng": -98.589978
+},{
+"label": "Sanctórum", "lat": 20.299215, "lng": -98.776214
+},{
+"label": "La Nopalera (Jagüey Prieto)", "lat": 20.349878, "lng": -98.714192
+},{
+"label": "La Cruz (Barrio de la Cruz)", "lat": 20.274073, "lng": -98.638569
+},{
+"label": "Cumbre de Santa Catarina", "lat": 20.335172, "lng": -98.649128
+},{
+"label": "San Pedro Vaquerías", "lat": 20.379078, "lng": -98.571383
+},{
+"label": "Paredones", "lat": 20.41331, "lng": -98.573837
+},{
+"label": "Potrero de los Reyes", "lat": 20.314232, "lng": -98.607854
+},{
+"label": "Los Reyes", "lat": 20.332619, "lng": -98.617594
+},{
+"label": "Santiaguito", "lat": 20.243919, "lng": -98.712247
+},{
+"label": "Uña de Gato", "lat": 20.346292, "lng": -98.571039
+},{
+"label": "La Puebla", "lat": 20.272669, "lng": -98.665515
+},{
+"label": "Ramal de San Nicolás", "lat": 20.377589, "lng": -98.753535
+},{
+"label": "Los Sabinos", "lat": 20.328897, "lng": -98.663899
+},{
+"label": "El Sabino", "lat": 20.387943, "lng": -98.65909
+},{
+"label": "La Estancia (Aguacatitlán)", "lat": 20.277261, "lng": -98.697722
+},{
+"label": "Los Baños de Santa María Amajac", "lat": 20.306542, "lng": -98.714133
+},{
+"label": "El Aguacate", "lat": 20.378238, "lng": -98.672219
+},{
+"label": "Pedregal de San Nicolás", "lat": 20.389116, "lng": -98.754254
+},{
+"label": "El Sabino [Colonia]", "lat": 20.378626, "lng": -98.77481
+},{
+"label": "Barrio de Cabrera", "lat": 20.411227, "lng": -98.749348
+},{
+"label": "Doñana", "lat": 20.325077, "lng": -98.799584
+},{
+"label": "Mesa de San Lucas", "lat": 20.376078, "lng": -98.698343
+},{
+"label": "San Nicolás Xathé", "lat": 20.389505, "lng": -98.741289
+},{
+"label": "Santa María Amajac", "lat": 20.324161, "lng": -98.741509
+},{
+"label": "Sauz Xathé", "lat": 20.363271, "lng": -98.759372
+}]
