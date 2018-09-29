@@ -5,7 +5,7 @@ var app = new Vue({
         loader: true,
         point: {
             "label": "México",
-            "info": "Estados, Municipios y Localidades De Mexico",
+            "info": "Estados, Municipios y Localidades De Mexico<br><br> Repositorio: <br><a href='https://localidades-de-mexico.netlify.com/'>https://localidades-de-mexico.netlify.com/</a>",
             "lat": 0,
             "lng": 0,
             "children": "/data/mexico.json",

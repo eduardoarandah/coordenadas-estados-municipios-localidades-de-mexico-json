@@ -1,11 +1,11 @@
 [{
-"label": "Tijuana", "lat": 32.446259554945016, "lng": -116.88863537545794,"info": "total: 546","children": "data/mexico/baja-california/tijuana.json"
+"label": "Tijuana", "lat": 32.446259554945016, "lng": -116.88863537545794,"info": "Total: 546 <br><a target='_blank' href=\"/data/mexico/baja-california/tijuana.json\">Descargar JSON</a>","children": "data/mexico/baja-california/tijuana.json"
 },{
-"label": "Tecate", "lat": 32.47758615789471, "lng": -116.46373431578955,"info": "total: 722","children": "data/mexico/baja-california/tecate.json"
+"label": "Tecate", "lat": 32.47758615789471, "lng": -116.46373431578955,"info": "Total: 722 <br><a target='_blank' href=\"/data/mexico/baja-california/tecate.json\">Descargar JSON</a>","children": "data/mexico/baja-california/tecate.json"
 },{
-"label": "Ensenada", "lat": 31.233509098320347, "lng": -116.03413335231521,"info": "total: 2441","children": "data/mexico/baja-california/ensenada.json"
+"label": "Ensenada", "lat": 31.233509098320347, "lng": -116.03413335231521,"info": "Total: 2441 <br><a target='_blank' href=\"/data/mexico/baja-california/ensenada.json\">Descargar JSON</a>","children": "data/mexico/baja-california/ensenada.json"
 },{
-"label": "Playas de Rosarito", "lat": 32.28104508362371, "lng": -116.96552050522652,"info": "total: 287","children": "data/mexico/baja-california/playas-de-rosarito.json"
+"label": "Playas de Rosarito", "lat": 32.28104508362371, "lng": -116.96552050522652,"info": "Total: 287 <br><a target='_blank' href=\"/data/mexico/baja-california/playas-de-rosarito.json\">Descargar JSON</a>","children": "data/mexico/baja-california/playas-de-rosarito.json"
 },{
-"label": "Mexicali", "lat": 32.379658583889224, "lng": -115.16369487429462,"info": "total: 1949","children": "data/mexico/baja-california/mexicali.json"
+"label": "Mexicali", "lat": 32.379658583889224, "lng": -115.16369487429462,"info": "Total: 1949 <br><a target='_blank' href=\"/data/mexico/baja-california/mexicali.json\">Descargar JSON</a>","children": "data/mexico/baja-california/mexicali.json"
 }]

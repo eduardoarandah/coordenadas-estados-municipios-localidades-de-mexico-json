@@ -1,65 +1,65 @@
 [{
-"label": "Michoacán de Ocampo", "lat": 19.592093662002934, "lng": -101.72894682760807,"info": "total: 113","children": "data/mexico/michoacan-de-ocampo.json"
+"label": "Michoacán de Ocampo", "lat": 19.592093662002934, "lng": -101.72894682760807,"info": "Total: 113 <br><a target='_blank' href=\"/data/mexico/michoacan-de-ocampo.json\">Descargar JSON</a>","children": "data/mexico/michoacan-de-ocampo.json"
 },{
-"label": "Coahuila de Zaragoza", "lat": 27.171975924532884, "lng": -101.55443024813405,"info": "total: 38","children": "data/mexico/coahuila-de-zaragoza.json"
+"label": "Coahuila de Zaragoza", "lat": 27.171975924532884, "lng": -101.55443024813405,"info": "Total: 38 <br><a target='_blank' href=\"/data/mexico/coahuila-de-zaragoza.json\">Descargar JSON</a>","children": "data/mexico/coahuila-de-zaragoza.json"
 },{
-"label": "Chiapas", "lat": 16.497999555159172, "lng": -92.63970339423166,"info": "total: 123","children": "data/mexico/chiapas.json"
+"label": "Chiapas", "lat": 16.497999555159172, "lng": -92.63970339423166,"info": "Total: 123 <br><a target='_blank' href=\"/data/mexico/chiapas.json\">Descargar JSON</a>","children": "data/mexico/chiapas.json"
 },{
-"label": "Veracruz de Ignacio de la Llave", "lat": 19.346112382279962, "lng": -96.69711338579734,"info": "total: 212","children": "data/mexico/veracruz-de-ignacio-de-la-llave.json"
+"label": "Veracruz de Ignacio de la Llave", "lat": 19.346112382279962, "lng": -96.69711338579734,"info": "Total: 212 <br><a target='_blank' href=\"/data/mexico/veracruz-de-ignacio-de-la-llave.json\">Descargar JSON</a>","children": "data/mexico/veracruz-de-ignacio-de-la-llave.json"
 },{
-"label": "Baja California Sur", "lat": 25.144873396589055, "lng": -111.22626712355716,"info": "total: 5","children": "data/mexico/baja-california-sur.json"
+"label": "Baja California Sur", "lat": 25.144873396589055, "lng": -111.22626712355716,"info": "Total: 5 <br><a target='_blank' href=\"/data/mexico/baja-california-sur.json\">Descargar JSON</a>","children": "data/mexico/baja-california-sur.json"
 },{
-"label": "Puebla", "lat": 19.12076780693857, "lng": -97.90565393068613,"info": "total: 217","children": "data/mexico/puebla.json"
+"label": "Puebla", "lat": 19.12076780693857, "lng": -97.90565393068613,"info": "Total: 217 <br><a target='_blank' href=\"/data/mexico/puebla.json\">Descargar JSON</a>","children": "data/mexico/puebla.json"
 },{
-"label": "Yucatán", "lat": 20.81451524110606, "lng": -89.12400087086701,"info": "total: 106","children": "data/mexico/yucatan.json"
+"label": "Yucatán", "lat": 20.81451524110606, "lng": -89.12400087086701,"info": "Total: 106 <br><a target='_blank' href=\"/data/mexico/yucatan.json\">Descargar JSON</a>","children": "data/mexico/yucatan.json"
 },{
-"label": "Baja California", "lat": 32.16361169573461, "lng": -116.30314368461677,"info": "total: 5","children": "data/mexico/baja-california.json"
+"label": "Baja California", "lat": 32.16361169573461, "lng": -116.30314368461677,"info": "Total: 5 <br><a target='_blank' href=\"/data/mexico/baja-california.json\">Descargar JSON</a>","children": "data/mexico/baja-california.json"
 },{
-"label": "Guanajuato", "lat": 20.70872388079389, "lng": -100.97822117196797,"info": "total: 46","children": "data/mexico/guanajuato.json"
+"label": "Guanajuato", "lat": 20.70872388079389, "lng": -100.97822117196797,"info": "Total: 46 <br><a target='_blank' href=\"/data/mexico/guanajuato.json\">Descargar JSON</a>","children": "data/mexico/guanajuato.json"
 },{
-"label": "Sonora", "lat": 29.620420823768377, "lng": -110.28374094228859,"info": "total: 72","children": "data/mexico/sonora.json"
+"label": "Sonora", "lat": 29.620420823768377, "lng": -110.28374094228859,"info": "Total: 72 <br><a target='_blank' href=\"/data/mexico/sonora.json\">Descargar JSON</a>","children": "data/mexico/sonora.json"
 },{
-"label": "Nayarit", "lat": 21.612047793914265, "lng": -104.9045736885445,"info": "total: 20","children": "data/mexico/nayarit.json"
+"label": "Nayarit", "lat": 21.612047793914265, "lng": -104.9045736885445,"info": "Total: 20 <br><a target='_blank' href=\"/data/mexico/nayarit.json\">Descargar JSON</a>","children": "data/mexico/nayarit.json"
 },{
-"label": "Morelos", "lat": 18.785273073272382, "lng": -99.06447562279382,"info": "total: 33","children": "data/mexico/morelos.json"
+"label": "Morelos", "lat": 18.785273073272382, "lng": -99.06447562279382,"info": "Total: 33 <br><a target='_blank' href=\"/data/mexico/morelos.json\">Descargar JSON</a>","children": "data/mexico/morelos.json"
 },{
-"label": "Oaxaca", "lat": 17.09480291837741, "lng": -96.85371514883823,"info": "total: 568","children": "data/mexico/oaxaca.json"
+"label": "Oaxaca", "lat": 17.09480291837741, "lng": -96.85371514883823,"info": "Total: 568 <br><a target='_blank' href=\"/data/mexico/oaxaca.json\">Descargar JSON</a>","children": "data/mexico/oaxaca.json"
 },{
-"label": "Ciudad de México", "lat": 19.34508941956005, "lng": -99.15325161549731,"info": "total: 16","children": "data/mexico/ciudad-de-mexico.json"
+"label": "Ciudad de México", "lat": 19.34508941956005, "lng": -99.15325161549731,"info": "Total: 16 <br><a target='_blank' href=\"/data/mexico/ciudad-de-mexico.json\">Descargar JSON</a>","children": "data/mexico/ciudad-de-mexico.json"
 },{
-"label": "México", "lat": 19.399781139496284, "lng": -99.41811914832161,"info": "total: 125","children": "data/mexico/mexico.json"
+"label": "México", "lat": 19.399781139496284, "lng": -99.41811914832161,"info": "Total: 125 <br><a target='_blank' href=\"/data/mexico/mexico.json\">Descargar JSON</a>","children": "data/mexico/mexico.json"
 },{
-"label": "Aguascalientes", "lat": 22.072424679550963, "lng": -102.3076925037383,"info": "total: 11","children": "data/mexico/aguascalientes.json"
+"label": "Aguascalientes", "lat": 22.072424679550963, "lng": -102.3076925037383,"info": "Total: 11 <br><a target='_blank' href=\"/data/mexico/aguascalientes.json\">Descargar JSON</a>","children": "data/mexico/aguascalientes.json"
 },{
-"label": "Guerrero", "lat": 17.603072672198287, "lng": -99.4330865332077,"info": "total: 81","children": "data/mexico/guerrero.json"
+"label": "Guerrero", "lat": 17.603072672198287, "lng": -99.4330865332077,"info": "Total: 81 <br><a target='_blank' href=\"/data/mexico/guerrero.json\">Descargar JSON</a>","children": "data/mexico/guerrero.json"
 },{
-"label": "Hidalgo", "lat": 20.414745699235, "lng": -98.82853802594867,"info": "total: 84","children": "data/mexico/hidalgo.json"
+"label": "Hidalgo", "lat": 20.414745699235, "lng": -98.82853802594867,"info": "Total: 84 <br><a target='_blank' href=\"/data/mexico/hidalgo.json\">Descargar JSON</a>","children": "data/mexico/hidalgo.json"
 },{
-"label": "Chihuahua", "lat": 28.351050318487175, "lng": -106.6160957446624,"info": "total: 67","children": "data/mexico/chihuahua.json"
+"label": "Chihuahua", "lat": 28.351050318487175, "lng": -106.6160957446624,"info": "Total: 67 <br><a target='_blank' href=\"/data/mexico/chihuahua.json\">Descargar JSON</a>","children": "data/mexico/chihuahua.json"
 },{
-"label": "Tlaxcala", "lat": 19.342950737026232, "lng": -98.17709507379548,"info": "total: 60","children": "data/mexico/tlaxcala.json"
+"label": "Tlaxcala", "lat": 19.342950737026232, "lng": -98.17709507379548,"info": "Total: 60 <br><a target='_blank' href=\"/data/mexico/tlaxcala.json\">Descargar JSON</a>","children": "data/mexico/tlaxcala.json"
 },{
-"label": "Nuevo León", "lat": 25.677848987480008, "lng": -99.97854959979908,"info": "total: 51","children": "data/mexico/nuevo-leon.json"
+"label": "Nuevo León", "lat": 25.677848987480008, "lng": -99.97854959979908,"info": "Total: 51 <br><a target='_blank' href=\"/data/mexico/nuevo-leon.json\">Descargar JSON</a>","children": "data/mexico/nuevo-leon.json"
 },{
-"label": "Durango", "lat": 24.936135381568878, "lng": -104.71183325398005,"info": "total: 39","children": "data/mexico/durango.json"
+"label": "Durango", "lat": 24.936135381568878, "lng": -104.71183325398005,"info": "Total: 39 <br><a target='_blank' href=\"/data/mexico/durango.json\">Descargar JSON</a>","children": "data/mexico/durango.json"
 },{
-"label": "Tabasco", "lat": 17.95144645624265, "lng": -92.70923853415773,"info": "total: 17","children": "data/mexico/tabasco.json"
+"label": "Tabasco", "lat": 17.95144645624265, "lng": -92.70923853415773,"info": "Total: 17 <br><a target='_blank' href=\"/data/mexico/tabasco.json\">Descargar JSON</a>","children": "data/mexico/tabasco.json"
 },{
-"label": "Sinaloa", "lat": 24.79677259561704, "lng": -107.39045390406226,"info": "total: 18","children": "data/mexico/sinaloa.json"
+"label": "Sinaloa", "lat": 24.79677259561704, "lng": -107.39045390406226,"info": "Total: 18 <br><a target='_blank' href=\"/data/mexico/sinaloa.json\">Descargar JSON</a>","children": "data/mexico/sinaloa.json"
 },{
-"label": "Campeche", "lat": 19.157825375285878, "lng": -90.49217258430184,"info": "total: 11","children": "data/mexico/campeche.json"
+"label": "Campeche", "lat": 19.157825375285878, "lng": -90.49217258430184,"info": "Total: 11 <br><a target='_blank' href=\"/data/mexico/campeche.json\">Descargar JSON</a>","children": "data/mexico/campeche.json"
 },{
-"label": "Quintana Roo", "lat": 20.227380499287243, "lng": -87.61694630944338,"info": "total: 11","children": "data/mexico/quintana-roo.json"
+"label": "Quintana Roo", "lat": 20.227380499287243, "lng": -87.61694630944338,"info": "Total: 11 <br><a target='_blank' href=\"/data/mexico/quintana-roo.json\">Descargar JSON</a>","children": "data/mexico/quintana-roo.json"
 },{
-"label": "Querétaro", "lat": 20.78795977100644, "lng": -99.91410127758904,"info": "total: 18","children": "data/mexico/queretaro.json"
+"label": "Querétaro", "lat": 20.78795977100644, "lng": -99.91410127758904,"info": "Total: 18 <br><a target='_blank' href=\"/data/mexico/queretaro.json\">Descargar JSON</a>","children": "data/mexico/queretaro.json"
 },{
-"label": "San Luis Potosí", "lat": 22.21180832515034, "lng": -100.01777980432487,"info": "total: 58","children": "data/mexico/san-luis-potosi.json"
+"label": "San Luis Potosí", "lat": 22.21180832515034, "lng": -100.01777980432487,"info": "Total: 58 <br><a target='_blank' href=\"/data/mexico/san-luis-potosi.json\">Descargar JSON</a>","children": "data/mexico/san-luis-potosi.json"
 },{
-"label": "Jalisco", "lat": 20.503974427252164, "lng": -103.47801129744668,"info": "total: 125","children": "data/mexico/jalisco.json"
+"label": "Jalisco", "lat": 20.503974427252164, "lng": -103.47801129744668,"info": "Total: 125 <br><a target='_blank' href=\"/data/mexico/jalisco.json\">Descargar JSON</a>","children": "data/mexico/jalisco.json"
 },{
-"label": "Zacatecas", "lat": 22.615264943276273, "lng": -102.77211444149302,"info": "total: 58","children": "data/mexico/zacatecas.json"
+"label": "Zacatecas", "lat": 22.615264943276273, "lng": -102.77211444149302,"info": "Total: 58 <br><a target='_blank' href=\"/data/mexico/zacatecas.json\">Descargar JSON</a>","children": "data/mexico/zacatecas.json"
 },{
-"label": "Colima", "lat": 19.17199958520997, "lng": -103.85965601988944,"info": "total: 10","children": "data/mexico/colima.json"
+"label": "Colima", "lat": 19.17199958520997, "lng": -103.85965601988944,"info": "Total: 10 <br><a target='_blank' href=\"/data/mexico/colima.json\">Descargar JSON</a>","children": "data/mexico/colima.json"
 },{
-"label": "Tamaulipas", "lat": 24.21991134477258, "lng": -98.82317373720538,"info": "total: 43","children": "data/mexico/tamaulipas.json"
+"label": "Tamaulipas", "lat": 24.21991134477258, "lng": -98.82317373720538,"info": "Total: 43 <br><a target='_blank' href=\"/data/mexico/tamaulipas.json\">Descargar JSON</a>","children": "data/mexico/tamaulipas.json"
 }]

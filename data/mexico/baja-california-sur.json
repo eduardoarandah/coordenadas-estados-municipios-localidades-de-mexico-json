@@ -1,11 +1,11 @@
 [{
-"label": "Los Cabos", "lat": 23.211403911111134, "lng": -109.76053740296295,"info": "total: 675","children": "data/mexico/baja-california-sur/los-cabos.json"
+"label": "Los Cabos", "lat": 23.211403911111134, "lng": -109.76053740296295,"info": "Total: 675 <br><a target='_blank' href=\"/data/mexico/baja-california-sur/los-cabos.json\">Descargar JSON</a>","children": "data/mexico/baja-california-sur/los-cabos.json"
 },{
-"label": "Loreto", "lat": 25.97036768663593, "lng": -111.46637312442394,"info": "total: 217","children": "data/mexico/baja-california-sur/loreto.json"
+"label": "Loreto", "lat": 25.97036768663593, "lng": -111.46637312442394,"info": "Total: 217 <br><a target='_blank' href=\"/data/mexico/baja-california-sur/loreto.json\">Descargar JSON</a>","children": "data/mexico/baja-california-sur/loreto.json"
 },{
-"label": "La Paz", "lat": 23.977641956945533, "lng": -110.38753671567827,"info": "total: 1231","children": "data/mexico/baja-california-sur/la-paz.json"
+"label": "La Paz", "lat": 23.977641956945533, "lng": -110.38753671567827,"info": "Total: 1231 <br><a target='_blank' href=\"/data/mexico/baja-california-sur/la-paz.json\">Descargar JSON</a>","children": "data/mexico/baja-california-sur/la-paz.json"
 },{
-"label": "Comondú", "lat": 25.419321876135395, "lng": -111.7407907151115,"info": "total: 1211","children": "data/mexico/baja-california-sur/comondu.json"
+"label": "Comondú", "lat": 25.419321876135395, "lng": -111.7407907151115,"info": "Total: 1211 <br><a target='_blank' href=\"/data/mexico/baja-california-sur/comondu.json\">Descargar JSON</a>","children": "data/mexico/baja-california-sur/comondu.json"
 },{
-"label": "Mulegé", "lat": 27.145631552117266, "lng": -112.77609765960915,"info": "total: 614","children": "data/mexico/baja-california-sur/mulege.json"
+"label": "Mulegé", "lat": 27.145631552117266, "lng": -112.77609765960915,"info": "Total: 614 <br><a target='_blank' href=\"/data/mexico/baja-california-sur/mulege.json\">Descargar JSON</a>","children": "data/mexico/baja-california-sur/mulege.json"
 }]

@@ -39,15 +39,15 @@
 
             <div class="card my-3" v-if="point.info">
               <div class="card-body">
-                {{point.info}}
+                <div v-html="point.info"></div>
               </div>
             </div>            
 
             <div class="card my-3" v-if="selectedPoint">
               <div class="card-body">
                 <h5 class="card-title">{{selectedPoint.label}}</h5>
-                <p v-if="selectedPoint.info" class="card-text">                  
-                  {{selectedPoint.info}}
+                <p v-if="selectedPoint.info" class="card-text">                                    
+                  <div v-html="selectedPoint.info"></div>
                 </p>
                 <button v-if="selectedPoint.children" @click="loadPoint(selectedPoint)" class="btn btn-success btn-sm btn-block">
                   Ir al mapa
