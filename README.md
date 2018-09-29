@@ -2,6 +2,12 @@
 
 ![mapa](https://user-images.githubusercontent.com/4065733/46239202-d0104400-c35a-11e8-9565-e8255cc37778.png)
 
+**Visualizador:** 
+
+Véalo en acción: [https://localidades-de-mexico.netlify.com/](https://localidades-de-mexico.netlify.com/) 
+
+**Descripción**
+
 Estados, municipios y localidades de México, con coordenadas, extraídas del INEGI y organizadas jerárquicamente
 
 El objetivo es tomar los más de **300mil registros** de localidades del inegi y transformarlos en un árbol jerárquico de coordenadas en formato JSON
@@ -40,6 +46,12 @@ Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y L
 Usando estos parámetros: 
 
 ![parametros](https://user-images.githubusercontent.com/4065733/46239085-3bf1ad00-c359-11e8-961f-21ff442e1624.jpg)
+
+# Pendientes
+
+- Agregar vue-router para que la URL sea más amigable
+- Agregar enlaces de descarga de archivos json
+
 
 # Contáctame
 
