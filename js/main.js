@@ -5,7 +5,7 @@ var app = new Vue({
         loader: true,
         point: {
             "label": "México",
-            "info": "Estados, Municipios y Localidades De Mexico.<br><br> Se organizan las <strong>304,221</strong> localidades de México en:<br><br> Estado->Municipio->Localidad<br><br> Click para ver, Doble click para abrir.<br><br> Repositorio: <br><a href='https://github.com/eduardoarandah/coordenadas-estados-municipios-localidades-de-mexico-json'>https://github.com/eduardoarandah/coordenadas-estados-municipios-localidades-de-mexico-json</a>",
+            "info": "Estados, Municipios y Localidades De Mexico.<br>(<strong>304,221</strong> localidades)<br> Repositorio: <br><a href='https://github.com/eduardoarandah/coordenadas-estados-municipios-localidades-de-mexico-json'>https://github.com/eduardoarandah/coordenadas-estados-municipios-localidades-de-mexico-json</a>",
             "lat": 0,
             "lng": 0,
             "children": "/data/mexico.json",

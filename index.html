@@ -16,6 +16,20 @@
       }
       /*vue*/
       [v-cloak] {display: none}
+      @media(max-width: 575px){
+        #map{
+          height: 350px!important;
+        }
+        .main-title{
+          font-size: 2rem;
+          font-weight: normal;
+        }
+      }
+      @media(min-width: 576px){
+        #map{
+          height: 100%!important;
+        }
+      }
     </style>
   </head>
   <body>
@@ -27,7 +41,7 @@
         <!-- row -->
         <div class="row h-100">
           <div class="col-sm-3" style="overflow-y: scroll;">
-            <h1 class="text-center my-3" v-if="point">{{point.label}}</h1>
+            <h1 class="text-center my-3 display-4 main-title" v-if="point">{{point.label}}</h1>
 
             <button class="btn btn-primary btn-block my-3" 
             v-if="point.parent"
@@ -61,7 +75,7 @@
             <!-- <pre><small>{{$data}}</small></pre> -->
           </div>
           <div class="col-sm-9">
-              <div id="map" class="h-100"></div>          
+              <div id="map" class=""></div>          
           </div>
         </div> 
         <!-- row -->
