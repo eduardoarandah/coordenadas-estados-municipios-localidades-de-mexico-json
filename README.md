@@ -47,10 +47,15 @@ Usando estos parámetros:
 
 ![parametros](https://user-images.githubusercontent.com/4065733/46239085-3bf1ad00-c359-11e8-961f-21ff442e1624.jpg)
 
+# Cómo volver a generar los datos
+
+El programa con el que convertí los datos a JSON lo puedes encontrar aquí: 
+
+[https://github.com/eduardoarandah/localidades-inegi-a-json](https://github.com/eduardoarandah/localidades-inegi-a-json) 
+
 # Pendientes
 
 - Agregar vue-router para que la URL sea más amigable
-- Agregar enlaces de descarga de archivos json
 
 
 # Contáctame
